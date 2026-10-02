@@ -1,0 +1,2316 @@
+solution_word,guess_list,is_solved,n_guesses
+aback,"['tales', 'among', 'acrid', 'aback']",True,4
+abase,"['tales', 'space', 'usage', 'erase', 'abase']",True,5
+abate,"['tales', 'extra', 'heath', 'abate']",True,4
+abbey,"['tales', 'anger', 'abbey']",True,3
+abbot,"['tales', 'about', 'abbot']",True,3
+abhor,"['tales', 'angry', 'abhor']",True,3
+abide,"['tales', 'above', 'abide']",True,3
+abled,"['tales', 'abled']",True,2
+abode,"['tales', 'media', 'grade', 'anode', 'abode']",True,5
+abort,"['tales', 'grant', 'abort']",True,3
+about,"['tales', 'audit', 'about']",True,3
+above,"['tales', 'ready', 'cheap', 'anime', 'above']",True,5
+abuse,"['tales', 'abuse']",True,2
+abyss,"['tales', 'abyss']",True,2
+acorn,"['tales', 'angry', 'adorn', 'acorn']",True,4
+acrid,"['tales', 'diary', 'acrid']",True,3
+actor,"['tales', 'amity', 'adapt', 'actor']",True,4
+acute,"['tales', 'heart', 'acute']",True,3
+adage,"['tales', 'reach', 'inane', 'evade', 'adage']",True,5
+adapt,"['tales', 'about', 'admit', 'adapt']",True,4
+adept,"['tales', 'crate', 'begat', 'adept']",True,4
+admin,"['tales', 'board', 'admin']",True,3
+admit,"['tales', 'about', 'apart', 'admit']",True,4
+adobe,"['tales', 'media', 'anode', 'adobe']",True,4
+adopt,"['tales', 'about', 'adopt']",True,3
+adore,"['tales', 'break', 'afire', 'azure', 'adore']",True,5
+adorn,"['tales', 'audio', 'adorn']",True,3
+adult,"['tales', 'ultra', 'adult']",True,3
+affix,"['tales', 'grand', 'cocoa', 'affix']",True,4
+afire,"['tales', 'grade', 'azure', 'afire']",True,4
+afoot,"['tales', 'about', 'afoot']",True,3
+afoul,"['tales', 'royal', 'afoul']",True,3
+after,"['tales', 'after']",True,2
+again,"['tales', 'board', 'again']",True,3
+agape,"['tales', 'break', 'media', 'agape']",True,4
+agate,"['tales', 'agent', 'agate']",True,3
+agent,"['tales', 'extra', 'death', 'agent']",True,4
+agile,"['tales', 'leave', 'alike', 'agile']",True,4
+aging,"['tales', 'audio', 'aping', 'aging']",True,4
+aglow,"['tales', 'allow', 'aglow']",True,3
+agony,"['tales', 'audio', 'annoy', 'agony']",True,4
+agora,"['tales', 'china', 'guava', 'agora']",True,4
+agree,"['tales', 'anger', 'agree']",True,3
+ahead,"['tales', 'cheap', 'ahead']",True,3
+aider,"['tales', 'aider']",True,2
+aisle,"['tales', 'scale', 'aisle']",True,3
+alarm,"['tales', 'black', 'llama', 'alarm']",True,4
+album,"['tales', 'quail', 'album']",True,3
+alert,"['tales', 'metal', 'elate', 'alert']",True,4
+algae,"['tales', 'learn', 'alive', 'algae']",True,4
+alibi,"['tales', 'voila', 'alibi']",True,3
+alien,"['tales', 'angel', 'alien']",True,3
+align,"['tales', 'apply', 'along', 'align']",True,4
+alike,"['tales', 'email', 'agile', 'alike']",True,4
+alive,"['tales', 'leave', 'alive']",True,3
+allay,"['tales', 'lilac', 'allay']",True,3
+alley,"['tales', 'abled', 'alley']",True,3
+allot,"['tales', 'allot']",True,2
+allow,"['tales', 'allow']",True,2
+alloy,"['tales', 'alloy']",True,2
+aloft,"['tales', 'atoll', 'aloft']",True,3
+alone,"['tales', 'email', 'glean', 'alone']",True,4
+along,"['tales', 'voila', 'offal', 'aloud', 'along']",True,5
+aloof,"['tales', 'final', 'aloof']",True,3
+aloud,"['tales', 'quail', 'aloud']",True,3
+alpha,"['tales', 'local', 'gland', 'alpha']",True,4
+altar,"['tales', 'gloat', 'altar']",True,3
+alter,"['tales', 'alter']",True,2
+amass,"['tales', 'brass', 'amass']",True,3
+amaze,"['tales', 'beach', 'awake', 'amaze']",True,4
+amber,"['tales', 'agree', 'aider', 'amber']",True,4
+amble,"['tales', 'email', 'amble']",True,3
+amend,"['tales', 'image', 'amend']",True,3
+amiss,"['tales', 'crass', 'abyss', 'amiss']",True,4
+amity,"['tales', 'quart', 'attic', 'amity']",True,4
+among,"['tales', 'china', 'among']",True,3
+ample,"['tales', 'place', 'ample']",True,3
+amply,"['tales', 'viola', 'chalk', 'amply']",True,4
+amuse,"['tales', 'speak', 'amuse']",True,3
+angel,"['tales', 'alien', 'angel']",True,3
+anger,"['tales', 'anger']",True,2
+angle,"['tales', 'alone', 'angle']",True,3
+angry,"['tales', 'diary', 'angry']",True,3
+angst,"['tales', 'stand', 'angst']",True,3
+anime,"['tales', 'above', 'adage', 'afire', 'anime']",True,5
+ankle,"['tales', 'equal', 'angle', 'ankle']",True,4
+annex,"['tales', 'annex']",True,2
+annoy,"['tales', 'angry', 'annoy']",True,3
+annul,"['tales', 'final', 'annul']",True,3
+anode,"['tales', 'break', 'heady', 'anode']",True,4
+antic,"['tales', 'giant', 'antic']",True,3
+anvil,"['tales', 'royal', 'avail', 'anvil']",True,4
+aorta,"['tales', 'amity', 'aorta']",True,3
+apart,"['tales', 'amity', 'about', 'apart']",True,4
+aphid,"['tales', 'brand', 'aphid']",True,3
+aping,"['tales', 'angry', 'again', 'aping']",True,4
+apnea,"['tales', 'anger', 'apnea']",True,3
+apple,"['tales', 'mealy', 'angle', 'apple']",True,4
+apply,"['tales', 'final', 'black', 'apply']",True,4
+apron,"['tales', 'board', 'arrow', 'apron']",True,4
+aptly,"['tales', 'ultra', 'octal', 'aptly']",True,4
+arbor,"['tales', 'audio', 'among', 'arrow', 'arbor']",True,5
+ardor,"['tales', 'human', 'crazy', 'arbor', 'ardor']",True,5
+arena,"['tales', 'grade', 'arena']",True,3
+argue,"['tales', 'ready', 'afire', 'argue']",True,4
+arise,"['tales', 'shade', 'arose', 'arise']",True,4
+armor,"['tales', 'brand', 'array', 'armor']",True,4
+aroma,"['tales', 'grand', 'briar', 'aroma']",True,4
+arose,"['tales', 'usage', 'arose']",True,3
+array,"['tales', 'angry', 'array']",True,3
+arrow,"['tales', 'again', 'abhor', 'arrow']",True,4
+arson,"['tales', 'shady', 'arson']",True,3
+artsy,"['tales', 'stain', 'ascot', 'artsy']",True,4
+ascot,"['tales', 'stray', 'coast', 'ascot']",True,4
+ashen,"['tales', 'ashen']",True,2
+aside,"['tales', 'shape', 'abuse', 'aside']",True,4
+askew,"['tales', 'askew']",True,2
+assay,"['tales', 'scary', 'assay']",True,3
+asset,"['tales', 'asset']",True,2
+atoll,"['tales', 'gloat', 'atoll']",True,3
+atone,"['tales', 'cheat', 'meaty', 'atone']",True,4
+attic,"['tales', 'aunty', 'apart', 'attic']",True,4
+audio,"['tales', 'board', 'audio']",True,3
+audit,"['tales', 'chart', 'about', 'audit']",True,4
+augur,"['tales', 'china', 'gravy', 'augur']",True,4
+aunty,"['tales', 'about', 'aunty']",True,3
+avail,"['tales', 'final', 'quail', 'avail']",True,4
+avert,"['tales', 'heart', 'avert']",True,3
+avian,"['tales', 'audio', 'avian']",True,3
+avoid,"['tales', 'board', 'avoid']",True,3
+await,"['tales', 'quart', 'giant', 'await']",True,4
+awake,"['tales', 'media', 'grace', 'awake']",True,4
+award,"['tales', 'board', 'chard', 'award']",True,4
+aware,"['tales', 'beach', 'image', 'drape', 'aware']",True,5
+awash,"['tales', 'scary', 'quasi', 'awash']",True,4
+awful,"['tales', 'black', 'voila', 'lunar', 'awful']",True,5
+awoke,"['tales', 'above', 'anode', 'awoke']",True,4
+axial,"['tales', 'local', 'rural', 'final', 'axial']",True,5
+axiom,"['tales', 'angry', 'audio', 'axiom']",True,4
+axion,"['tales', 'board', 'axiom', 'axion']",True,4
+azure,"['tales', 'beach', 'azure']",True,3
+bacon,"['tales', 'march', 'cacao', 'bacon']",True,4
+badge,"['tales', 'mauve', 'badge']",True,3
+badly,"['tales', 'manly', 'badly']",True,3
+bagel,"['tales', 'camel', 'panel', 'label', 'bagel']",True,5
+baggy,"['tales', 'randy', 'mammy', 'cabby', 'baggy']",True,5
+baker,"['tales', 'cameo', 'wager', 'baker']",True,4
+baler,"['tales', 'baler']",True,2
+balmy,"['tales', 'valor', 'dally', 'balmy']",True,4
+banal,"['tales', 'laugh', 'daily', 'carol', 'naval', 'banal']",True,6
+banjo,"['tales', 'randy', 'banjo']",True,3
+barge,"['tales', 'range', 'barge']",True,3
+baron,"['tales', 'handy', 'bacon', 'baron']",True,4
+basal,"['tales', 'sadly', 'nasal', 'basal']",True,4
+basic,"['tales', 'raspy', 'basin', 'basic']",True,4
+basil,"['tales', 'lasso', 'nasal', 'basil']",True,4
+basin,"['tales', 'basic', 'basin']",True,3
+basis,"['tales', 'basis']",True,2
+baste,"['tales', 'haste', 'baste']",True,3
+batch,"['tales', 'party', 'haunt', 'match', 'batch']",True,5
+bathe,"['tales', 'bathe']",True,2
+baton,"['tales', 'party', 'vaunt', 'baton']",True,4
+batty,"['tales', 'party', 'fatty', 'catty', 'batty']",True,5
+bawdy,"['tales', 'hairy', 'canny', 'bawdy']",True,4
+bayou,"['tales', 'radio', 'bayou']",True,3
+beach,"['tales', 'beach']",True,2
+beady,"['tales', 'image', 'heady', 'ready', 'beady']",True,5
+beard,"['tales', 'break', 'beard']",True,3
+beast,"['tales', 'yeast', 'feast', 'beast']",True,4
+beech,"['tales', 'guide', 'check', 'beech']",True,4
+beefy,"['tales', 'query', 'enemy', 'weedy', 'beefy']",True,5
+befit,"['tales', 'entry', 'debit', 'befit']",True,4
+began,"['tales', 'image', 'began']",True,3
+begat,"['tales', 'extra', 'agent', 'begat']",True,4
+beget,"['tales', 'often', 'beret', 'beget']",True,4
+begin,"['tales', 'check', 'guide', 'begin']",True,4
+begun,"['tales', 'being', 'begun']",True,3
+being,"['tales', 'voice', 'weird', 'being']",True,4
+belch,"['tales', 'hello', 'welch', 'belch']",True,4
+belie,"['tales', 'belle', 'belie']",True,3
+belle,"['tales', 'belie', 'belle']",True,3
+belly,"['tales', 'belle', 'belly']",True,3
+below,"['tales', 'belle', 'below']",True,3
+bench,"['tales', 'being', 'bench']",True,3
+beret,"['tales', 'quiet', 'beget', 'beret']",True,4
+berry,"['tales', 'guide', 'check', 'epoxy', 'ferry', 'berry']",True,6
+berth,"['tales', 'entry', 'merit', 'berth']",True,4
+beset,"['tales', 'ester', 'sheet', 'beset']",True,4
+betel,"['tales', 'betel']",True,2
+bevel,"['tales', 'wheel', 'bevel']",True,3
+bezel,"['tales', 'novel', 'gruel', 'libel', 'bezel']",True,5
+bible,"['tales', 'guile', 'rifle', 'bible']",True,4
+bicep,"['tales', 'poker', 'bicep']",True,3
+biddy,"['tales', 'forum', 'dying', 'biddy']",True,4
+bigot,"['tales', 'youth', 'intro', 'pivot', 'bigot']",True,5
+bilge,"['tales', 'belle', 'bulge', 'bilge']",True,4
+billy,"['tales', 'fully', 'billy']",True,3
+binge,"['tales', 'price', 'biome', 'binge']",True,4
+bingo,"['tales', 'group', 'dodgy', 'bingo']",True,4
+biome,"['tales', 'every', 'hinge', 'pixie', 'biome']",True,5
+birch,"['tales', 'young', 'crimp', 'birch']",True,4
+birth,"['tales', 'court', 'girth', 'birth']",True,4
+bison,"['tales', 'sound', 'bison']",True,3
+bitty,"['tales', 'court', 'fifth', 'kitty', 'witty', 'ditty']",False,6
+black,"['tales', 'local', 'black']",True,3
+blade,"['tales', 'learn', 'glade', 'blade']",True,4
+blame,"['tales', 'learn', 'glaze', 'blame']",True,4
+bland,"['tales', 'quail', 'gland', 'bland']",True,4
+blank,"['tales', 'local', 'album', 'blank']",True,4
+blare,"['tales', 'equal', 'learn', 'flare', 'glare', 'blare']",True,6
+blast,"['tales', 'slant', 'blast']",True,3
+blaze,"['tales', 'email', 'leafy', 'glare', 'blaze']",True,5
+bleak,"['tales', 'leave', 'clean', 'gleam', 'bleak']",True,5
+bleat,"['tales', 'metal', 'pleat', 'cleat', 'bleat']",True,5
+bleed,"['tales', 'wheel', 'bleed']",True,3
+bleep,"['tales', 'cruel', 'linen', 'bleep']",True,4
+blend,"['tales', 'while', 'lemur', 'fleck', 'elegy', 'blend']",True,6
+bless,"['tales', 'bless']",True,2
+blimp,"['tales', 'login', 'build', 'blimp']",True,4
+blind,"['tales', 'login', 'blink', 'blind']",True,4
+blink,"['tales', 'lying', 'blink']",True,3
+bliss,"['tales', 'locus', 'bliss']",True,3
+blitz,"['tales', 'hotly', 'blunt', 'blitz']",True,4
+bloat,"['tales', 'ultra', 'plant', 'bloat']",True,4
+block,"['tales', 'lying', 'world', 'clock', 'block']",True,5
+bloke,"['tales', 'whole', 'elope', 'glove', 'clone', 'bloke']",True,6
+blond,"['tales', 'lingo', 'blond']",True,3
+blood,"['tales', 'child', 'blond', 'blood']",True,4
+bloom,"['tales', 'would', 'lingo', 'block', 'bloom']",True,5
+blown,"['tales', 'could', 'broil', 'blown']",True,4
+bluer,"['tales', 'cruel', 'bluer']",True,3
+bluff,"['tales', 'lying', 'block', 'blurb', 'bluff']",True,5
+blunt,"['tales', 'limit', 'clout', 'blunt']",True,4
+blurb,"['tales', 'could', 'flung', 'plump', 'blurb']",True,5
+blurt,"['tales', 'built', 'blunt', 'blurt']",True,4
+blush,"['tales', 'skill', 'blush']",True,3
+board,"['tales', 'grand', 'award', 'hoard', 'board']",True,5
+boast,"['tales', 'start', 'coast', 'boast']",True,4
+bobby,"['tales', 'going', 'pooch', 'rowdy', 'bobby']",True,5
+boney,"['tales', 'video', 'poker', 'money', 'honey', 'boney']",True,6
+bongo,"['tales', 'round', 'conic', 'bongo']",True,4
+bonus,"['tales', 'mucus', 'bonus']",True,3
+booby,"['tales', 'group', 'woody', 'boozy', 'booby']",True,5
+boost,"['tales', 'sport', 'boost']",True,3
+booth,"['tales', 'worth', 'booth']",True,3
+booty,"['tales', 'photo', 'booty']",True,3
+booze,"['tales', 'phone', 'froze', 'booze']",True,4
+boozy,"['tales', 'bring', 'buddy', 'booby', 'boozy']",True,5
+borax,"['tales', 'again', 'umbra', 'broad', 'borax']",True,5
+borne,"['tales', 'every', 'crude', 'borne']",True,4
+bosom,"['tales', 'music', 'bosom']",True,3
+bossy,"['tales', 'using', 'shock', 'bosom', 'bossy']",True,5
+botch,"['tales', 'print', 'dutch', 'botch']",True,4
+bough,"['tales', 'doing', 'forgo', 'cough', 'bough']",True,5
+boule,"['tales', 'reply', 'boule']",True,3
+bound,"['tales', 'bring', 'bunny', 'bound']",True,4
+bowel,"['tales', 'gruel', 'wheel', 'bowel']",True,4
+boxer,"['tales', 'index', 'boxer']",True,3
+brace,"['tales', 'image', 'craze', 'brace']",True,4
+braid,"['tales', 'again', 'braid']",True,3
+brain,"['tales', 'angry', 'brain']",True,3
+brake,"['tales', 'grade', 'crane', 'frame', 'brave', 'brake']",True,6
+brand,"['tales', 'china', 'drank', 'brand']",True,4
+brash,"['tales', 'scrap', 'brash']",True,3
+brass,"['tales', 'chaos', 'brass']",True,3
+brave,"['tales', 'beach', 'brake', 'brave']",True,4
+bravo,"['tales', 'human', 'avoid', 'bravo']",True,4
+brawl,"['tales', 'royal', 'frail', 'drawl', 'crawl', 'brawl']",True,6
+brawn,"['tales', 'grand', 'brain', 'brawn']",True,4
+bread,"['tales', 'cheap', 'break', 'bread']",True,4
+break,"['tales', 'peace', 'amend', 'break']",True,4
+breed,"['tales', 'under', 'pried', 'creed', 'breed']",True,5
+briar,"['tales', 'brand', 'briar']",True,3
+bribe,"['tales', 'price', 'bride', 'bribe']",True,4
+brick,"['tales', 'group', 'crick', 'brick']",True,4
+bride,"['tales', 'price', 'bribe', 'bride']",True,4
+brief,"['tales', 'under', 'grief', 'brief']",True,4
+brine,"['tales', 'movie', 'bride', 'bribe', 'brine']",True,5
+bring,"['tales', 'group', 'wring', 'bring']",True,4
+brink,"['tales', 'forum', 'brick', 'brink']",True,4
+briny,"['tales', 'going', 'whiny', 'briny']",True,4
+brisk,"['tales', 'shiny', 'brisk']",True,3
+broad,"['tales', 'angry', 'broad']",True,3
+broil,"['tales', 'build', 'broil']",True,3
+broke,"['tales', 'where', 'drive', 'crone', 'froze', 'broke']",True,6
+brood,"['tales', 'bring', 'brood']",True,3
+brook,"['tales', 'doing', 'chock', 'brook']",True,4
+broom,"['tales', 'quick', 'bongo', 'brood', 'broom']",True,5
+broth,"['tales', 'print', 'froth', 'broth']",True,4
+brown,"['tales', 'going', 'drown', 'crown', 'brown']",True,5
+brunt,"['tales', 'print', 'brunt']",True,3
+brush,"['tales', 'brush']",True,2
+brute,"['tales', 'route', 'brute']",True,3
+buddy,"['tales', 'bring', 'boozy', 'buddy']",True,4
+budge,"['tales', 'movie', 'penne', 'fudge', 'budge']",True,5
+buggy,"['tales', 'quick', 'funny', 'jumpy', 'buddy', 'buggy']",True,6
+bugle,"['tales', 'whole', 'guile', 'bugle']",True,4
+build,"['tales', 'build']",True,2
+built,"['tales', 'built']",True,2
+bulge,"['tales', 'hello', 'bulge']",True,3
+bulky,"['tales', 'folly', 'bulky']",True,3
+bully,"['tales', 'color', 'gully', 'dully', 'fully', 'bully']",True,6
+bunch,"['tales', 'doing', 'munch', 'bunch']",True,4
+bunny,"['tales', 'forum', 'bunny']",True,3
+burly,"['tales', 'lingo', 'wryly', 'curly', 'burly']",True,5
+burnt,"['tales', 'dirty', 'burnt']",True,3
+burst,"['tales', 'story', 'first', 'burst']",True,4
+bused,"['tales', 'screw', 'nosey', 'bused']",True,4
+bushy,"['tales', 'brush', 'bushy']",True,3
+butch,"['tales', 'dirty', 'ought', 'butch']",True,4
+butte,"['tales', 'untie', 'butte']",True,3
+buxom,"['tales', 'found', 'rumor', 'buxom']",True,4
+buyer,"['tales', 'video', 'queen', 'purer', 'buyer']",True,5
+bylaw,"['tales', 'allow', 'bylaw']",True,3
+cabal,"['tales', 'manly', 'laugh', 'cabal']",True,4
+cabby,"['tales', 'radio', 'manga', 'cabby']",True,4
+cabin,"['tales', 'major', 'dandy', 'cabin']",True,4
+cable,"['tales', 'large', 'cable']",True,3
+cacao,"['tales', 'candy', 'cacao']",True,3
+cache,"['tales', 'range', 'maize', 'cache']",True,4
+cacti,"['tales', 'faith', 'cacti']",True,3
+caddy,"['tales', 'randy', 'paddy', 'daddy', 'caddy']",True,5
+cadet,"['tales', 'eaten', 'cadet']",True,3
+cagey,"['tales', 'eager', 'cagey']",True,3
+cairn,"['tales', 'handy', 'wagon', 'cabin', 'cairn']",True,5
+camel,"['tales', 'layer', 'camel']",True,3
+cameo,"['tales', 'gayer', 'waxen', 'cameo']",True,4
+canal,"['tales', 'gayly', 'labor', 'naval', 'canal']",True,5
+candy,"['tales', 'dairy', 'candy']",True,3
+canny,"['tales', 'hairy', 'dandy', 'nanny', 'fanny', 'canny']",True,6
+canoe,"['tales', 'maybe', 'canoe']",True,3
+canon,"['tales', 'handy', 'manor', 'canon']",True,4
+caper,"['tales', 'cagey', 'cameo', 'caper']",True,4
+caput,"['tales', 'warty', 'gaunt', 'caput']",True,4
+carat,"['tales', 'party', 'carat']",True,3
+cargo,"['tales', 'fairy', 'karma', 'cargo']",True,4
+carol,"['tales', 'carol']",True,2
+carry,"['tales', 'randy', 'parry', 'harry', 'carry']",True,5
+carve,"['tales', 'maybe', 'vague', 'naive', 'carve']",True,5
+caste,"['tales', 'paste', 'caste']",True,3
+catch,"['tales', 'paint', 'batch', 'match', 'hatch', 'catch']",True,6
+cater,"['tales', 'cater']",True,2
+catty,"['tales', 'party', 'batty', 'fatty', 'catty']",True,5
+caulk,"['tales', 'badly', 'caulk']",True,3
+cause,"['tales', 'masse', 'parse', 'cause']",True,4
+cavil,"['tales', 'gayly', 'carol', 'cabal', 'cavil']",True,5
+cease,"['tales', 'essay', 'space', 'cease']",True,4
+cedar,"['tales', 'beach', 'recap', 'cedar']",True,4
+cello,"['tales', 'below', 'hello', 'cello']",True,4
+chafe,"['tales', 'peace', 'craze', 'chafe']",True,4
+chaff,"['tales', 'audio', 'charm', 'chaff']",True,4
+chain,"['tales', 'audio', 'chain']",True,3
+chair,"['tales', 'again', 'chair']",True,3
+chalk,"['tales', 'viola', 'qualm', 'chalk']",True,4
+champ,"['tales', 'diary', 'quack', 'champ']",True,4
+chant,"['tales', 'quota', 'apart', 'giant', 'chant']",True,5
+chaos,"['tales', 'chaos']",True,2
+chard,"['tales', 'audio', 'drama', 'chard']",True,4
+charm,"['tales', 'brand', 'charm']",True,3
+chart,"['tales', 'quota', 'craft', 'chart']",True,4
+chase,"['tales', 'shape', 'chase']",True,3
+chasm,"['tales', 'scary', 'chasm']",True,3
+cheap,"['tales', 'grade', 'hyena', 'cheap']",True,4
+cheat,"['tales', 'meaty', 'cheat']",True,3
+check,"['tales', 'guide', 'error', 'penny', 'check']",True,5
+cheek,"['tales', 'money', 'river', 'cheek']",True,4
+cheer,"['tales', 'money', 'creek', 'cheer']",True,4
+chess,"['tales', 'press', 'guess', 'chess']",True,4
+chest,"['tales', 'spent', 'guest', 'wrest', 'chest']",True,5
+chick,"['tales', 'doing', 'crick', 'chick']",True,4
+chide,"['tales', 'every', 'guide', 'oxide', 'chide']",True,5
+chief,"['tales', 'poker', 'index', 'chief']",True,4
+child,"['tales', 'could', 'child']",True,3
+chili,"['tales', 'could', 'chill', 'chili']",True,4
+chill,"['tales', 'click', 'chill']",True,3
+chime,"['tales', 'being', 'oxide', 'chime']",True,4
+china,"['tales', 'again', 'china']",True,3
+chirp,"['tales', 'bring', 'quirk', 'chirp']",True,4
+chock,"['tales', 'going', 'crock', 'chock']",True,4
+choir,"['tales', 'round', 'micro', 'choir']",True,4
+choke,"['tales', 'voice', 'chore', 'choke']",True,4
+chord,"['tales', 'bring', 'forum', 'chord']",True,4
+chore,"['tales', 'movie', 'crone', 'chore']",True,4
+chose,"['tales', 'house', 'whose', 'chose']",True,4
+chuck,"['tales', 'round', 'chuck']",True,3
+chump,"['tales', 'bring', 'mucky', 'chump']",True,4
+chunk,"['tales', 'quick', 'chunk']",True,3
+churn,"['tales', 'bring', 'mourn', 'churn']",True,4
+chute,"['tales', 'quote', 'chute']",True,3
+cider,"['tales', 'index', 'rider', 'wider', 'cider']",True,5
+cigar,"['tales', 'brand', 'cigar']",True,3
+cinch,"['tales', 'young', 'minim', 'winch', 'finch', 'cinch']",True,6
+circa,"['tales', 'diary', 'vicar', 'circa']",True,4
+civic,"['tales', 'group', 'whiny', 'vivid', 'civic']",True,5
+civil,"['tales', 'login', 'civil']",True,3
+clack,"['tales', 'viola', 'black', 'clack']",True,4
+claim,"['tales', 'black', 'claim']",True,3
+clamp,"['tales', 'local', 'flack', 'clang', 'claim', 'clamp']",True,6
+clang,"['tales', 'along', 'clang']",True,3
+clank,"['tales', 'royal', 'black', 'clank']",True,4
+clash,"['tales', 'scaly', 'clash']",True,3
+clasp,"['tales', 'scaly', 'clasp']",True,3
+class,"['tales', 'glass', 'class']",True,3
+clean,"['tales', 'equal', 'plead', 'clean']",True,4
+clear,"['tales', 'mealy', 'bleak', 'clean', 'clear']",True,5
+cleat,"['tales', 'dealt', 'alert', 'cleat']",True,4
+cleft,"['tales', 'lefty', 'cleft']",True,3
+clerk,"['tales', 'leery', 'clerk']",True,3
+click,"['tales', 'wooly', 'click']",True,3
+cliff,"['tales', 'lying', 'click', 'cliff']",True,4
+climb,"['tales', 'lying', 'frill', 'click', 'climb']",True,5
+cling,"['tales', 'click', 'cliff', 'climb', 'cling']",True,5
+clink,"['tales', 'wooly', 'lunch', 'clink']",True,4
+cloak,"['tales', 'along', 'flora', 'cloak']",True,4
+clock,"['tales', 'lucky', 'block', 'clock']",True,4
+clone,"['tales', 'guile', 'clone']",True,3
+close,"['tales', 'slide', 'close']",True,3
+cloth,"['tales', 'limit', 'cloth']",True,3
+cloud,"['tales', 'login', 'clock', 'cloud']",True,4
+clout,"['tales', 'until', 'moult', 'flout', 'clout']",True,5
+clove,"['tales', 'reply', 'liege', 'clone', 'clove']",True,5
+clown,"['tales', 'login', 'flown', 'blown', 'clown']",True,5
+cluck,"['tales', 'click', 'cluck']",True,3
+clued,"['tales', 'flyer', 'bleep', 'olden', 'clued']",True,5
+clump,"['tales', 'login', 'burly', 'cluck', 'clump']",True,5
+clung,"['tales', 'click', 'clung']",True,3
+coach,"['tales', 'grand', 'quack', 'coach']",True,4
+coast,"['tales', 'coast']",True,2
+cobra,"['tales', 'audio', 'cobra']",True,3
+cocoa,"['tales', 'angry', 'comma', 'cocoa']",True,4
+colon,"['tales', 'bully', 'igloo', 'colon']",True,4
+color,"['tales', 'gully', 'color']",True,3
+comet,"['tales', 'other', 'comet']",True,3
+comfy,"['tales', 'going', 'rocky', 'comfy']",True,4
+comic,"['tales', 'round', 'bobby', 'comic']",True,4
+comma,"['tales', 'china', 'cocoa', 'comma']",True,4
+conch,"['tales', 'young', 'ionic', 'condo', 'conch']",True,5
+condo,"['tales', 'forum', 'going', 'conch', 'condo']",True,5
+conic,"['tales', 'young', 'conic']",True,3
+copse,"['tales', 'mouse', 'poise', 'copse']",True,4
+coral,"['tales', 'grail', 'mural', 'coral']",True,4
+corer,"['tales', 'poker', 'boxer', 'corer']",True,4
+corny,"['tales', 'found', 'corny']",True,3
+couch,"['tales', 'group', 'union', 'jumbo', 'couch']",True,5
+cough,"['tales', 'round', 'couch', 'cough']",True,4
+could,"['tales', 'lying', 'could']",True,3
+count,"['tales', 'court', 'count']",True,3
+coupe,"['tales', 'being', 'force', 'coupe']",True,4
+court,"['tales', 'month', 'court']",True,3
+coven,"['tales', 'index', 'owner', 'coven']",True,4
+cover,"['tales', 'women', 'cover']",True,3
+covet,"['tales', 'enter', 'duvet', 'covet']",True,4
+covey,"['tales', 'video', 'rover', 'woven', 'covey']",True,5
+cower,"['tales', 'green', 'power', 'cower']",True,4
+coyly,"['tales', 'would', 'nobly', 'coyly']",True,4
+crack,"['tales', 'brand', 'graph', 'crack']",True,4
+craft,"['tales', 'quart', 'grant', 'draft', 'craft']",True,5
+cramp,"['tales', 'again', 'ovary', 'cramp']",True,4
+crane,"['tales', 'grade', 'crave', 'craze', 'crane']",True,5
+crank,"['tales', 'grand', 'prank', 'crank']",True,4
+crash,"['tales', 'grasp', 'brash', 'crash']",True,4
+crass,"['tales', 'amass', 'brass', 'crass']",True,4
+crate,"['tales', 'extra', 'grate', 'irate', 'crate']",True,5
+crave,"['tales', 'media', 'crane', 'craze', 'crave']",True,5
+crawl,"['tales', 'black', 'crawl']",True,3
+craze,"['tales', 'above', 'grade', 'craze']",True,4
+crazy,"['tales', 'angry', 'foray', 'crazy']",True,4
+creak,"['tales', 'ready', 'cream', 'creak']",True,4
+cream,"['tales', 'above', 'cream']",True,3
+credo,"['tales', 'voice', 'decoy', 'credo']",True,4
+creed,"['tales', 'index', 'embed', 'creed']",True,4
+creek,"['tales', 'money', 'chief', 'creed', 'creek']",True,5
+creep,"['tales', 'video', 'green', 'creep']",True,4
+creme,"['tales', 'price', 'crude', 'crone', 'creme']",True,5
+crepe,"['tales', 'guide', 'creme', 'crepe']",True,4
+crept,"['tales', 'white', 'entry', 'rebut', 'crept']",True,5
+cress,"['tales', 'chess', 'cress']",True,3
+crest,"['tales', 'stone', 'guest', 'crest']",True,4
+crick,"['tales', 'round', 'prick', 'crick']",True,4
+cried,"['tales', 'under', 'breed', 'dried', 'fried', 'cried']",True,6
+crier,"['tales', 'chief', 'crier']",True,3
+crime,"['tales', 'being', 'drive', 'crime']",True,4
+crimp,"['tales', 'which', 'crimp']",True,3
+crisp,"['tales', 'spiny', 'crisp']",True,3
+croak,"['tales', 'diary', 'croak']",True,3
+crock,"['tales', 'quick', 'frock', 'crock']",True,4
+crone,"['tales', 'where', 'crime', 'crude', 'crone']",True,5
+crony,"['tales', 'going', 'frond', 'crony']",True,4
+crook,"['tales', 'quick', 'crook']",True,3
+cross,"['tales', 'focus', 'cross']",True,3
+croup,"['tales', 'forum', 'group', 'croup']",True,4
+crowd,"['tales', 'round', 'chord', 'crowd']",True,4
+crown,"['tales', 'found', 'crown']",True,3
+crude,"['tales', 'every', 'crude']",True,3
+cruel,"['tales', 'lower', 'cruel']",True,3
+crumb,"['tales', 'found', 'crumb']",True,3
+crump,"['tales', 'round', 'crumb', 'crump']",True,4
+crush,"['tales', 'music', 'scrub', 'crush']",True,4
+crust,"['tales', 'short', 'crust']",True,3
+crypt,"['tales', 'point', 'crypt']",True,3
+cubic,"['tales', 'bring', 'pubic', 'cubic']",True,4
+cumin,"['tales', 'found', 'hunky', 'cumin']",True,4
+curio,"['tales', 'bring', 'micro', 'curio']",True,4
+curly,"['tales', 'lingo', 'pluck', 'curly']",True,4
+curry,"['tales', 'round', 'hurry', 'furry', 'curry']",True,5
+curse,"['tales', 'mouse', 'curse']",True,3
+curve,"['tales', 'where', 'rogue', 'prune', 'curve']",True,5
+curvy,"['tales', 'found', 'quick', 'curry', 'curvy']",True,5
+cutie,"['tales', 'white', 'untie', 'cutie']",True,4
+cyber,"['tales', 'money', 'dryer', 'hyper', 'cyber']",True,5
+cycle,"['tales', 'whole', 'bugle', 'rifle', 'cycle']",True,5
+cynic,"['tales', 'doing', 'winch', 'cynic']",True,4
+daddy,"['tales', 'candy', 'gaudy', 'paddy', 'daddy']",True,5
+daily,"['tales', 'madly', 'daily']",True,3
+dairy,"['tales', 'march', 'rainy', 'dairy']",True,4
+daisy,"['tales', 'gassy', 'pansy', 'daisy']",True,4
+dally,"['tales', 'ralph', 'valid', 'dally']",True,4
+dance,"['tales', 'naive', 'mange', 'canoe', 'dance']",True,5
+dandy,"['tales', 'radio', 'gaudy', 'dandy']",True,4
+datum,"['tales', 'paint', 'batch', 'fatty', 'datum']",True,5
+daunt,"['tales', 'faint', 'gaunt', 'jaunt', 'haunt', 'daunt']",True,6
+dealt,"['tales', 'metal', 'leant', 'dealt']",True,4
+death,"['tales', 'meaty', 'death']",True,3
+debar,"['tales', 'ready', 'cedar', 'debar']",True,4
+debit,"['tales', 'deity', 'debit']",True,3
+debug,"['tales', 'where', 'eking', 'debug']",True,4
+debut,"['tales', 'quote', 'recut', 'debut']",True,4
+decal,"['tales', 'place', 'decal']",True,3
+decay,"['tales', 'beach', 'recap', 'decay']",True,4
+decor,"['tales', 'price', 'decry', 'decor']",True,4
+decoy,"['tales', 'price', 'decoy']",True,3
+decry,"['tales', 'guide', 'decoy', 'decry']",True,4
+defer,"['tales', 'index', 'freed', 'defer']",True,4
+deign,"['tales', 'where', 'ebony', 'denim', 'deign']",True,5
+deity,"['tales', 'quote', 'deity']",True,3
+delay,"['tales', 'relay', 'delay']",True,3
+delta,"['tales', 'delta']",True,2
+delve,"['tales', 'helix', 'jelly', 'below', 'delve']",True,5
+demon,"['tales', 'guide', 'decoy', 'demon']",True,4
+demur,"['tales', 'being', 'perky', 'recur', 'femur', 'demur']",True,6
+denim,"['tales', 'guide', 'fiend', 'denim']",True,4
+dense,"['tales', 'issue', 'spoke', 'geese', 'dense']",True,5
+depot,"['tales', 'event', 'debut', 'depot']",True,4
+depth,"['tales', 'deity', 'depth']",True,3
+derby,"['tales', 'price', 'query', 'jerky', 'derby']",True,5
+deter,"['tales', 'often', 'utter', 'meter', 'deter']",True,5
+detox,"['tales', 'write', 'event', 'detox']",True,4
+deuce,"['tales', 'phone', 'grime', 'deuce']",True,4
+devil,"['tales', 'boule', 'peril', 'devil']",True,4
+diary,"['tales', 'china', 'audio', 'diary']",True,4
+dicey,"['tales', 'power', 'cheek', 'dicey']",True,4
+digit,"['tales', 'youth', 'print', 'digit']",True,4
+dilly,"['tales', 'folly', 'billy', 'dilly']",True,4
+dimly,"['tales', 'login', 'build', 'dimly']",True,4
+diner,"['tales', 'chief', 'index', 'diner']",True,4
+dingo,"['tales', 'going', 'bingo', 'dingo']",True,4
+dingy,"['tales', 'doing', 'dingy']",True,3
+diode,"['tales', 'voice', 'diode']",True,3
+dirge,"['tales', 'query', 'eerie', 'dirge']",True,4
+dirty,"['tales', 'month', 'bitty', 'fifty', 'dirty']",True,5
+disco,"['tales', 'using', 'visor', 'disco']",True,4
+ditch,"['tales', 'court', 'witch', 'pitch', 'hitch', 'ditch']",True,6
+ditto,"['tales', 'court', 'ditto']",True,3
+ditty,"['tales', 'youth', 'ditty']",True,3
+diver,"['tales', 'video', 'diver']",True,3
+dizzy,"['tales', 'forum', 'pinky', 'biddy', 'dizzy']",True,5
+dodge,"['tales', 'query', 'movie', 'booze', 'dodge']",True,5
+dodgy,"['tales', 'round', 'dowdy', 'dodgy']",True,4
+dogma,"['tales', 'audio', 'board', 'dogma']",True,4
+doing,"['tales', 'young', 'doing']",True,3
+dolly,"['tales', 'willy', 'jolly', 'holly', 'golly', 'dolly']",True,6
+donor,"['tales', 'quick', 'horny', 'donor']",True,4
+donut,"['tales', 'point', 'donut']",True,3
+dopey,"['tales', 'chief', 'never', 'gooey', 'dopey']",True,5
+doubt,"['tales', 'court', 'mount', 'doubt']",True,4
+dough,"['tales', 'group', 'young', 'bough', 'dough']",True,5
+dowdy,"['tales', 'doing', 'dowry', 'dowdy']",True,4
+dowel,"['tales', 'level', 'dowel']",True,3
+downy,"['tales', 'going', 'bound', 'downy']",True,4
+dowry,"['tales', 'forum', 'donor', 'dowry']",True,4
+dozen,"['tales', 'given', 'women', 'dozen']",True,4
+draft,"['tales', 'amity', 'quart', 'grant', 'craft', 'draft']",True,6
+drain,"['tales', 'among', 'chain', 'brain', 'drain']",True,5
+drake,"['tales', 'beach', 'awake', 'drake']",True,4
+drama,"['tales', 'among', 'rumba', 'drama']",True,4
+drank,"['tales', 'audio', 'grand', 'drank']",True,4
+drape,"['tales', 'grade', 'drake', 'drape']",True,4
+drawl,"['tales', 'quail', 'crawl', 'brawl', 'drawl']",True,5
+drawn,"['tales', 'audio', 'brand', 'drawn']",True,4
+dread,"['tales', 'grade', 'bread', 'dread']",True,4
+dream,"['tales', 'beach', 'omega', 'dream']",True,4
+dress,"['tales', 'chess', 'press', 'dress']",True,4
+dried,"['tales', 'poker', 'brief', 'dried']",True,4
+drier,"['tales', 'women', 'cheer', 'fixer', 'drier']",True,5
+drift,"['tales', 'count', 'right', 'drift']",True,4
+drill,"['tales', 'could', 'idyll', 'drill']",True,4
+drink,"['tales', 'young', 'brink', 'drink']",True,4
+drive,"['tales', 'guide', 'drive']",True,3
+droit,"['tales', 'print', 'droit']",True,3
+droll,"['tales', 'wooly', 'droll']",True,3
+drone,"['tales', 'movie', 'phone', 'drone']",True,4
+drool,"['tales', 'child', 'drool']",True,3
+droop,"['tales', 'doing', 'droop']",True,3
+dross,"['tales', 'minus', 'dross']",True,3
+drove,"['tales', 'check', 'eerie', 'grope', 'drove']",True,5
+drown,"['tales', 'forum', 'wrong', 'crown', 'drown']",True,5
+druid,"['tales', 'round', 'druid']",True,3
+drunk,"['tales', 'group', 'druid', 'drunk']",True,4
+dryer,"['tales', 'green', 'cried', 'order', 'dryer']",True,5
+dryly,"['tales', 'could', 'dimly', 'dryly']",True,4
+duchy,"['tales', 'young', 'buddy', 'duchy']",True,4
+dully,"['tales', 'bully', 'dully']",True,3
+dummy,"['tales', 'going', 'hurry', 'jumpy', 'dummy']",True,5
+dumpy,"['tales', 'young', 'mucky', 'dummy', 'dumpy']",True,5
+dunce,"['tales', 'query', 'ounce', 'dunce']",True,4
+dusky,"['tales', 'shiny', 'bossy', 'musky', 'dusky']",True,5
+dusty,"['tales', 'study', 'dusty']",True,3
+dutch,"['tales', 'month', 'dutch']",True,3
+duvet,"['tales', 'ether', 'covet', 'duvet']",True,4
+dwarf,"['tales', 'angry', 'board', 'dwarf']",True,4
+dwell,"['tales', 'olive', 'reply', 'quell', 'dwell']",True,5
+dwelt,"['tales', 'lefty', 'elect', 'dwelt']",True,4
+dying,"['tales', 'round', 'dying']",True,3
+eager,"['tales', 'baker', 'gamer', 'wager', 'eager']",True,5
+eagle,"['tales', 'ladle', 'cable', 'eagle']",True,4
+early,"['tales', 'early']",True,2
+earth,"['tales', 'bathe', 'earth']",True,3
+easel,"['tales', 'easel']",True,2
+eaten,"['tales', 'water', 'matey', 'eaten']",True,4
+eater,"['tales', 'cadet', 'water', 'eater']",True,4
+ebony,"['tales', 'movie', 'gecko', 'ebony']",True,4
+eclat,"['tales', 'delta', 'eclat']",True,3
+edict,"['tales', 'piety', 'edict']",True,3
+edify,"['tales', 'every', 'ebony', 'edify']",True,4
+eerie,"['tales', 'movie', 'eerie']",True,3
+egret,"['tales', 'ether', 'egret']",True,3
+eight,"['tales', 'untie', 'piety', 'eight']",True,4
+eject,"['tales', 'event', 'eject']",True,3
+eking,"['tales', 'movie', 'eking']",True,3
+elate,"['tales', 'petal', 'alert', 'elate']",True,4
+elbow,"['tales', 'olive', 'elbow']",True,3
+elder,"['tales', 'model', 'elder']",True,3
+elect,"['tales', 'lithe', 'elect']",True,3
+elegy,"['tales', 'lunge', 'elegy']",True,3
+elfin,"['tales', 'leery', 'clone', 'elfin']",True,4
+elide,"['tales', 'while', 'olive', 'elide']",True,4
+elite,"['tales', 'utile', 'elite']",True,3
+elope,"['tales', 'field', 'bloke', 'glove', 'elope']",True,5
+elude,"['tales', 'field', 'ledge', 'elude']",True,4
+email,"['tales', 'legal', 'email']",True,3
+embed,"['tales', 'money', 'embed']",True,3
+ember,"['tales', 'power', 'buyer', 'fiber', 'ember']",True,5
+emcee,"['tales', 'chief', 'emcee']",True,3
+empty,"['tales', 'quite', 'depth', 'empty']",True,4
+enact,"['tales', 'grate', 'enact']",True,3
+endow,"['tales', 'query', 'binge', 'endow']",True,4
+enema,"['tales', 'ready', 'awoke', 'enema']",True,4
+enemy,"['tales', 'every', 'enemy']",True,3
+enjoy,"['tales', 'query', 'penny', 'envoy', 'enjoy']",True,5
+ennui,"['tales', 'where', 'being', 'ennui']",True,4
+ensue,"['tales', 'issue', 'ensue']",True,3
+enter,"['tales', 'ether', 'enter']",True,3
+entry,"['tales', 'piety', 'retry', 'entry']",True,4
+envoy,"['tales', 'being', 'enemy', 'enjoy', 'envoy']",True,5
+epoch,"['tales', 'every', 'eking', 'epoch']",True,4
+epoxy,"['tales', 'voice', 'error', 'ebony', 'epoxy']",True,5
+equal,"['tales', 'learn', 'bleak', 'equal']",True,4
+equip,"['tales', 'check', 'eerie', 'equip']",True,4
+erase,"['tales', 'spare', 'erase']",True,3
+erect,"['tales', 'quite', 'detox', 'event', 'eject', 'erect']",True,6
+erode,"['tales', 'voice', 'phone', 'broke', 'froze', 'erode']",True,6
+error,"['tales', 'where', 'error']",True,3
+erupt,"['tales', 'piety', 'erupt']",True,3
+essay,"['tales', 'abuse', 'shear', 'essay']",True,4
+ester,"['tales', 'sweet', 'ester']",True,3
+ether,"['tales', 'other', 'ether']",True,3
+ethic,"['tales', 'piety', 'cutie', 'ethic']",True,4
+ethos,"['tales', 'ethos']",True,2
+etude,"['tales', 'quote', 'etude']",True,3
+evade,"['tales', 'media', 'drake', 'evade']",True,4
+event,"['tales', 'quote', 'ethic', 'event']",True,4
+every,"['tales', 'where', 'every']",True,3
+evict,"['tales', 'quite', 'evict']",True,3
+evoke,"['tales', 'guide', 'crepe', 'femme', 'evoke']",True,5
+exact,"['tales', 'agent', 'heart', 'exact']",True,4
+exalt,"['tales', 'elate', 'exalt']",True,3
+excel,"['tales', 'level', 'kneel', 'excel']",True,4
+exert,"['tales', 'entry', 'exert']",True,3
+exile,"['tales', 'reply', 'field', 'exile']",True,4
+exist,"['tales', 'zesty', 'quest', 'exist']",True,4
+expel,"['tales', 'lower', 'bleed', 'expel']",True,4
+extol,"['tales', 'utile', 'elect', 'extol']",True,4
+extra,"['tales', 'heart', 'extra']",True,3
+exult,"['tales', 'elect', 'exult']",True,3
+eying,"['tales', 'being', 'eying']",True,3
+fable,"['tales', 'large', 'fable']",True,3
+facet,"['tales', 'eaten', 'facet']",True,3
+faint,"['tales', 'paint', 'faint']",True,3
+fairy,"['tales', 'dairy', 'hairy', 'fairy']",True,4
+faith,"['tales', 'party', 'cacti', 'faith']",True,4
+false,"['tales', 'false']",True,2
+fancy,"['tales', 'march', 'fancy']",True,3
+fanny,"['tales', 'handy', 'nanny', 'fanny']",True,4
+farce,"['tales', 'mauve', 'dance', 'farce']",True,4
+fatal,"['tales', 'fault', 'fatal']",True,3
+fatty,"['tales', 'patio', 'match', 'ratty', 'batty', 'fatty']",True,6
+fault,"['tales', 'natal', 'fault']",True,3
+fauna,"['tales', 'march', 'daddy', 'wagon', 'fauna']",True,5
+favor,"['tales', 'fairy', 'favor']",True,3
+feast,"['tales', 'steak', 'yeast', 'beast', 'feast']",True,5
+fecal,"['tales', 'learn', 'fecal']",True,3
+feign,"['tales', 'being', 'reign', 'feign']",True,4
+fella,"['tales', 'fella']",True,2
+felon,"['tales', 'hello', 'felon']",True,3
+femme,"['tales', 'guide', 'crepe', 'evoke', 'femme']",True,5
+femur,"['tales', 'where', 'rerun', 'demur', 'femur']",True,5
+fence,"['tales', 'being', 'fence']",True,3
+feral,"['tales', 'learn', 'feral']",True,3
+ferry,"['tales', 'being', 'weedy', 'jerky', 'mercy', 'ferry']",True,6
+fetal,"['tales', 'metal', 'fetal']",True,3
+fetch,"['tales', 'deity', 'recut', 'fetch']",True,4
+fetid,"['tales', 'quote', 'retry', 'fetid']",True,4
+fetus,"['tales', 'ethos', 'fetus']",True,3
+fever,"['tales', 'women', 'chief', 'fever']",True,4
+fewer,"['tales', 'chief', 'fever', 'fewer']",True,4
+fiber,"['tales', 'money', 'rupee', 'giver', 'wider', 'fixer']",False,6
+fibre,"['tales', 'guide', 'niece', 'pixie', 'fibre']",True,5
+ficus,"['tales', 'minus', 'virus', 'ficus']",True,4
+field,"['tales', 'while', 'field']",True,3
+fiend,"['tales', 'voice', 'denim', 'fiend']",True,4
+fiery,"['tales', 'price', 'fiery']",True,3
+fifth,"['tales', 'count', 'birth', 'width', 'fifth']",True,5
+fifty,"['tales', 'print', 'kitty', 'fifty']",True,4
+fight,"['tales', 'point', 'fruit', 'fight']",True,4
+filer,"['tales', 'ruler', 'filer']",True,3
+filet,"['tales', 'inlet', 'filet']",True,3
+filly,"['tales', 'color', 'fully', 'filly']",True,4
+filmy,"['tales', 'bully', 'milky', 'filmy']",True,4
+filth,"['tales', 'unlit', 'filth']",True,3
+final,"['tales', 'viola', 'final']",True,3
+finch,"['tales', 'found', 'finch']",True,3
+finer,"['tales', 'money', 'inner', 'finer']",True,4
+first,"['tales', 'story', 'wrist', 'first']",True,4
+fishy,"['tales', 'music', 'risky', 'sissy', 'wispy', 'fishy']",True,6
+fixer,"['tales', 'green', 'foyer', 'fixer']",True,4
+fizzy,"['tales', 'which', 'groin', 'jiffy', 'fizzy']",True,5
+fjord,"['tales', 'doing', 'proud', 'fjord']",True,4
+flack,"['tales', 'quail', 'blank', 'flack']",True,4
+flail,"['tales', 'voila', 'claim', 'plain', 'flail']",True,5
+flair,"['tales', 'final', 'flair']",True,3
+flake,"['tales', 'legal', 'blame', 'flare', 'flake']",True,5
+flaky,"['tales', 'royal', 'flaky']",True,3
+flame,"['tales', 'email', 'mealy', 'flame']",True,4
+flank,"['tales', 'local', 'alibi', 'flank']",True,4
+flare,"['tales', 'email', 'leaky', 'blaze', 'plane', 'glade']",False,6
+flash,"['tales', 'usual', 'scald', 'flash']",True,4
+flask,"['tales', 'slack', 'flask']",True,3
+fleck,"['tales', 'guile', 'leech', 'fleck']",True,4
+fleet,"['tales', 'betel', 'fleet']",True,3
+flesh,"['tales', 'spell', 'flesh']",True,3
+flick,"['tales', 'build', 'click', 'flick']",True,4
+flier,"['tales', 'level', 'flier']",True,3
+fling,"['tales', 'would', 'flick', 'fling']",True,4
+flint,"['tales', 'quilt', 'glint', 'flint']",True,4
+flirt,"['tales', 'lofty', 'flirt']",True,3
+float,"['tales', 'plant', 'float']",True,3
+flock,"['tales', 'wooly', 'ghoul', 'clock', 'flock']",True,5
+flood,"['tales', 'lucky', 'broil', 'gloom', 'flood']",True,5
+floor,"['tales', 'build', 'lynch', 'growl', 'floor']",True,5
+flora,"['tales', 'local', 'aloud', 'flora']",True,4
+floss,"['tales', 'bliss', 'floss']",True,3
+flour,"['tales', 'could', 'flour']",True,3
+flout,"['tales', 'cloth', 'flout']",True,3
+flown,"['tales', 'click', 'glory', 'flood', 'flown']",True,5
+fluff,"['tales', 'click', 'blood', 'glyph', 'fluff']",True,5
+fluid,"['tales', 'lucky', 'would', 'fluid']",True,4
+fluke,"['tales', 'while', 'globe', 'flume', 'fluke']",True,5
+flume,"['tales', 'leery', 'olive', 'plume', 'flume']",True,5
+flung,"['tales', 'would', 'flung']",True,3
+flunk,"['tales', 'click', 'plunk', 'flunk']",True,4
+flush,"['tales', 'spoil', 'flush']",True,3
+flute,"['tales', 'lithe', 'flute']",True,3
+flyer,"['tales', 'model', 'ulcer', 'plier', 'flyer']",True,5
+foamy,"['tales', 'diary', 'foamy']",True,3
+focal,"['tales', 'quail', 'zonal', 'local', 'focal']",True,5
+focus,"['tales', 'gross', 'bonus', 'focus']",True,4
+foggy,"['tales', 'forum', 'foggy']",True,3
+foist,"['tales', 'study', 'hoist', 'moist', 'joist', 'foist']",True,6
+folio,"['tales', 'gully', 'color', 'folio']",True,4
+folly,"['tales', 'folly']",True,2
+foray,"['tales', 'board', 'foray']",True,3
+force,"['tales', 'price', 'force']",True,3
+forge,"['tales', 'guide', 'merge', 'forge']",True,4
+forgo,"['tales', 'quick', 'broom', 'forgo']",True,4
+forte,"['tales', 'entry', 'wrote', 'route', 'forte']",True,5
+forth,"['tales', 'month', 'forth']",True,3
+forty,"['tales', 'point', 'youth', 'forty']",True,4
+forum,"['tales', 'which', 'group', 'forum']",True,4
+found,"['tales', 'which', 'funny', 'found']",True,4
+foyer,"['tales', 'money', 'foyer']",True,3
+frail,"['tales', 'quail', 'grail', 'frail']",True,4
+frame,"['tales', 'reach', 'graze', 'drape', 'brave', 'frame']",True,6
+frank,"['tales', 'grand', 'frank']",True,3
+fraud,"['tales', 'china', 'board', 'fraud']",True,4
+freak,"['tales', 'break', 'freak']",True,3
+freed,"['tales', 'chief', 'foyer', 'freed']",True,4
+freer,"['tales', 'index', 'queer', 'freer']",True,4
+fresh,"['tales', 'noise', 'fresh']",True,3
+friar,"['tales', 'audio', 'khaki', 'vicar', 'briar', 'friar']",True,6
+fried,"['tales', 'video', 'pried', 'fried']",True,4
+frill,"['tales', 'lying', 'quill', 'frill']",True,4
+frisk,"['tales', 'shock', 'brisk', 'frisk']",True,4
+fritz,"['tales', 'point', 'fritz']",True,3
+frock,"['tales', 'young', 'idiom', 'chock', 'frock']",True,5
+frond,"['tales', 'group', 'crock', 'brown', 'frond']",True,5
+front,"['tales', 'north', 'front']",True,3
+frost,"['tales', 'story', 'roost', 'frost']",True,4
+froth,"['tales', 'court', 'broth', 'froth']",True,4
+frown,"['tales', 'group', 'brook', 'frond', 'frown']",True,5
+froze,"['tales', 'being', 'force', 'froze']",True,4
+fruit,"['tales', 'court', 'fruit']",True,3
+fudge,"['tales', 'being', 'grope', 'fugue', 'fudge']",True,5
+fugue,"['tales', 'phone', 'grime', 'fudge', 'fugue']",True,5
+fully,"['tales', 'dolly', 'gully', 'fully']",True,4
+fungi,"['tales', 'found', 'fungi']",True,3
+funky,"['tales', 'forum', 'funny', 'funky']",True,4
+funny,"['tales', 'found', 'funny']",True,3
+furor,"['tales', 'group', 'mourn', 'curio', 'furor']",True,5
+furry,"['tales', 'round', 'hurry', 'curry', 'furry']",True,5
+fussy,"['tales', 'shiny', 'mossy', 'fussy']",True,4
+fuzzy,"['tales', 'going', 'murky', 'puffy', 'fuzzy']",True,5
+gaffe,"['tales', 'canoe', 'badge', 'gauze', 'gaffe']",True,5
+gaily,"['tales', 'daily', 'gaily']",True,3
+gamer,"['tales', 'gayer', 'gamer']",True,3
+gamma,"['tales', 'handy', 'karma', 'magma', 'gamma']",True,5
+gamut,"['tales', 'haunt', 'caput', 'gamut']",True,4
+gassy,"['tales', 'sassy', 'gassy']",True,3
+gaudy,"['tales', 'handy', 'gaudy']",True,3
+gauge,"['tales', 'maize', 'canoe', 'gaffe', 'gauge']",True,5
+gaunt,"['tales', 'ratio', 'gamut', 'gaunt']",True,4
+gauze,"['tales', 'cache', 'vague', 'gauze']",True,4
+gavel,"['tales', 'label', 'hazel', 'panel', 'gavel']",True,5
+gawky,"['tales', 'handy', 'gawky']",True,3
+gayer,"['tales', 'baker', 'racer', 'gamer', 'gazer', 'gayer']",True,6
+gayly,"['tales', 'labor', 'gayly']",True,3
+gazer,"['tales', 'payee', 'harem', 'waver', 'racer', 'gazer']",True,6
+gecko,"['tales', 'being', 'wedge', 'gecko']",True,4
+geeky,"['tales', 'movie', 'reedy', 'geeky']",True,4
+geese,"['tales', 'score', 'issue', 'geese']",True,4
+genie,"['tales', 'movie', 'pixie', 'eerie', 'genie']",True,5
+genre,"['tales', 'query', 'weird', 'genre']",True,4
+ghost,"['tales', 'first', 'joust', 'ghost']",True,4
+ghoul,"['tales', 'click', 'loopy', 'ghoul']",True,4
+giant,"['tales', 'chart', 'await', 'giant']",True,4
+giddy,"['tales', 'quick', 'ivory', 'windy', 'giddy']",True,5
+gipsy,"['tales', 'using', 'gipsy']",True,3
+girly,"['tales', 'lying', 'girly']",True,3
+girth,"['tales', 'court', 'dirty', 'mirth', 'birth', 'girth']",True,6
+given,"['tales', 'money', 'widen', 'given']",True,4
+giver,"['tales', 'money', 'brief', 'viper', 'giver']",True,5
+glade,"['tales', 'clear', 'blame', 'glaze', 'glade']",True,5
+gland,"['tales', 'final', 'bland', 'gland']",True,4
+glare,"['tales', 'email', 'leach', 'glaze', 'glare']",True,5
+glass,"['tales', 'class', 'glass']",True,3
+glaze,"['tales', 'legal', 'agile', 'glaze']",True,4
+gleam,"['tales', 'mealy', 'gleam']",True,3
+glean,"['tales', 'mealy', 'algae', 'glean']",True,4
+glide,"['tales', 'while', 'elide', 'glide']",True,4
+glint,"['tales', 'built', 'flint', 'glint']",True,4
+gloat,"['tales', 'loath', 'aloft', 'bloat', 'gloat']",True,5
+globe,"['tales', 'guile', 'globe']",True,3
+gloom,"['tales', 'login', 'glory', 'gloom']",True,4
+glory,"['tales', 'login', 'ghoul', 'glory']",True,4
+gloss,"['tales', 'locus', 'gloss']",True,3
+glove,"['tales', 'while', 'globe', 'glove']",True,4
+glyph,"['tales', 'lucky', 'glyph']",True,3
+gnash,"['tales', 'shaky', 'quash', 'crash', 'gnash']",True,5
+gnome,"['tales', 'guide', 'grope', 'gnome']",True,4
+godly,"['tales', 'child', 'dryly', 'oddly', 'godly']",True,5
+going,"['tales', 'young', 'doing', 'going']",True,4
+golem,"['tales', 'golem']",True,2
+golly,"['tales', 'fully', 'golly']",True,3
+gonad,"['tales', 'china', 'organ', 'gonad']",True,4
+goner,"['tales', 'money', 'goner']",True,3
+goody,"['tales', 'forum', 'doing', 'goody']",True,4
+gooey,"['tales', 'index', 'cover', 'gooey']",True,4
+goofy,"['tales', 'going', 'goofy']",True,3
+goose,"['tales', 'scope', 'moose', 'goose']",True,4
+gorge,"['tales', 'where', 'price', 'rouge', 'forge', 'gorge']",True,6
+gouge,"['tales', 'movie', 'rouge', 'gouge']",True,4
+gourd,"['tales', 'which', 'group', 'gourd']",True,4
+grace,"['tales', 'beach', 'grace']",True,3
+grade,"['tales', 'reach', 'grave', 'grade']",True,4
+graft,"['tales', 'quart', 'grant', 'graft']",True,4
+grail,"['tales', 'along', 'grail']",True,3
+grain,"['tales', 'board', 'chair', 'grain']",True,4
+grand,"['tales', 'board', 'fraud', 'grand']",True,4
+grant,"['tales', 'about', 'giant', 'grant']",True,4
+grape,"['tales', 'ready', 'craze', 'brave', 'frame', 'grape']",True,6
+graph,"['tales', 'grand', 'graph']",True,3
+grasp,"['tales', 'scrap', 'grasp']",True,3
+grass,"['tales', 'brass', 'grass']",True,3
+grate,"['tales', 'death', 'abate', 'grate']",True,4
+grave,"['tales', 'break', 'argue', 'graze', 'grave']",True,5
+gravy,"['tales', 'china', 'array', 'gravy']",True,4
+graze,"['tales', 'grade', 'grape', 'grace', 'graze']",True,5
+great,"['tales', 'heart', 'great']",True,3
+greed,"['tales', 'video', 'greed']",True,3
+green,"['tales', 'video', 'creep', 'freer', 'green']",True,5
+greet,"['tales', 'meter', 'greet']",True,3
+grief,"['tales', 'women', 'brief', 'grief']",True,4
+grill,"['tales', 'would', 'chili', 'krill', 'frill', 'grill']",True,6
+grime,"['tales', 'every', 'rouge', 'gripe', 'grime']",True,5
+grimy,"['tales', 'young', 'piggy', 'grimy']",True,4
+grind,"['tales', 'doing', 'grind']",True,3
+gripe,"['tales', 'where', 'crime', 'bride', 'urine', 'prize']",False,6
+groan,"['tales', 'china', 'brawn', 'groan']",True,4
+groin,"['tales', 'young', 'grown', 'groin']",True,4
+groom,"['tales', 'going', 'group', 'groom']",True,4
+grope,"['tales', 'every', 'bride', 'grope']",True,4
+gross,"['tales', 'cross', 'gross']",True,3
+group,"['tales', 'young', 'gumbo', 'group']",True,4
+grout,"['tales', 'point', 'grout']",True,3
+grove,"['tales', 'guide', 'grope', 'grove']",True,4
+growl,"['tales', 'click', 'loopy', 'growl']",True,4
+grown,"['tales', 'forum', 'wrong', 'grown']",True,4
+gruel,"['tales', 'novel', 'gruel']",True,3
+gruff,"['tales', 'group', 'gruff']",True,3
+grunt,"['tales', 'point', 'grunt']",True,3
+guard,"['tales', 'human', 'augur', 'guard']",True,4
+guava,"['tales', 'among', 'guava']",True,3
+guess,"['tales', 'press', 'guess']",True,3
+guest,"['tales', 'zesty', 'chest', 'guest']",True,4
+guide,"['tales', 'check', 'undue', 'guide']",True,4
+guild,"['tales', 'would', 'build', 'guild']",True,4
+guile,"['tales', 'lunge', 'bugle', 'guile']",True,4
+guilt,"['tales', 'built', 'guilt']",True,3
+guise,"['tales', 'since', 'guise']",True,3
+gulch,"['tales', 'willy', 'mulch', 'gulch']",True,4
+gully,"['tales', 'fully', 'bully', 'dully', 'gully']",True,5
+gumbo,"['tales', 'young', 'group', 'gumbo']",True,4
+gummy,"['tales', 'quick', 'funny', 'hurry', 'pudgy', 'gummy']",True,6
+guppy,"['tales', 'forum', 'hunky', 'puppy', 'guppy']",True,5
+gusto,"['tales', 'short', 'gusto']",True,3
+gusty,"['tales', 'sport', 'dusty', 'musty', 'gusty']",True,5
+gypsy,"['tales', 'sound', 'fishy', 'gypsy']",True,4
+habit,"['tales', 'patio', 'habit']",True,3
+hairy,"['tales', 'hairy']",True,2
+halve,"['tales', 'value', 'halve']",True,3
+handy,"['tales', 'march', 'happy', 'handy']",True,4
+happy,"['tales', 'candy', 'hairy', 'happy']",True,4
+hardy,"['tales', 'randy', 'hardy']",True,3
+harem,"['tales', 'oaken', 'cagey', 'paper', 'harem']",True,5
+harpy,"['tales', 'fairy', 'hardy', 'harpy']",True,4
+harry,"['tales', 'rainy', 'harry']",True,3
+harsh,"['tales', 'sandy', 'marsh', 'harsh']",True,4
+haste,"['tales', 'haste']",True,2
+hasty,"['tales', 'nasty', 'pasty', 'hasty']",True,4
+hatch,"['tales', 'faith', 'hatch']",True,3
+hater,"['tales', 'matey', 'water', 'eater', 'cater', 'hater']",True,6
+haunt,"['tales', 'haunt']",True,2
+haute,"['tales', 'earth', 'haute']",True,3
+haven,"['tales', 'cameo', 'haven']",True,3
+havoc,"['tales', 'major', 'bayou', 'havoc']",True,4
+hazel,"['tales', 'layer', 'camel', 'bagel', 'panel', 'hazel']",True,6
+heady,"['tales', 'peace', 'yearn', 'heavy', 'heady']",True,5
+heard,"['tales', 'image', 'heard']",True,3
+heart,"['tales', 'meant', 'react', 'heart']",True,4
+heath,"['tales', 'extra', 'meant', 'death', 'heath']",True,5
+heave,"['tales', 'cheap', 'heavy', 'heave']",True,4
+heavy,"['tales', 'media', 'beach', 'heave', 'heavy']",True,5
+hedge,"['tales', 'guide', 'wedge', 'hedge']",True,4
+hefty,"['tales', 'quote', 'berth', 'hefty']",True,4
+heist,"['tales', 'chest', 'heist']",True,3
+helix,"['tales', 'belie', 'helix']",True,3
+hello,"['tales', 'jelly', 'hello']",True,3
+hence,"['tales', 'guide', 'phone', 'hence']",True,4
+heron,"['tales', 'being', 'venue', 'heron']",True,4
+hilly,"['tales', 'color', 'fully', 'hilly']",True,4
+hinge,"['tales', 'phone', 'niche', 'hinge']",True,4
+hippo,"['tales', 'young', 'choir', 'hippo']",True,4
+hippy,"['tales', 'going', 'picky', 'hippy']",True,4
+hitch,"['tales', 'month', 'hitch']",True,3
+hoard,"['tales', 'china', 'abhor', 'hoard']",True,4
+hobby,"['tales', 'group', 'widow', 'comfy', 'bobby', 'hobby']",True,6
+hoist,"['tales', 'shirt', 'hoist']",True,3
+holly,"['tales', 'jolly', 'dolly', 'golly', 'holly']",True,5
+homer,"['tales', 'index', 'poker', 'corer', 'foyer', 'homer']",True,6
+honey,"['tales', 'women', 'boney', 'honey']",True,4
+honor,"['tales', 'group', 'horny', 'honor']",True,4
+horde,"['tales', 'phone', 'horde']",True,3
+horny,"['tales', 'which', 'honor', 'horny']",True,4
+horse,"['tales', 'scene', 'moose', 'posse', 'rouse', 'worse']",False,6
+hotel,"['tales', 'betel', 'hotel']",True,3
+hotly,"['tales', 'flint', 'hotly']",True,3
+hound,"['tales', 'found', 'hound']",True,3
+house,"['tales', 'since', 'horse', 'house']",True,4
+hovel,"['tales', 'gruel', 'model', 'novel', 'hovel']",True,5
+hover,"['tales', 'given', 'rover', 'hover']",True,4
+howdy,"['tales', 'bring', 'pooch', 'howdy']",True,4
+human,"['tales', 'brand', 'annoy', 'human']",True,4
+humid,"['tales', 'young', 'cubic', 'humid']",True,4
+humor,"['tales', 'forum', 'rumor', 'humor']",True,4
+humph,"['tales', 'doing', 'hurry', 'humph']",True,4
+humus,"['tales', 'minus', 'humus']",True,3
+hunch,"['tales', 'group', 'quick', 'bunch', 'hunch']",True,5
+hunky,"['tales', 'quick', 'funky', 'hunky']",True,4
+hurry,"['tales', 'found', 'pubic', 'mummy', 'hurry']",True,5
+husky,"['tales', 'spiny', 'fussy', 'husky']",True,4
+hussy,"['tales', 'disco', 'pushy', 'husky', 'hussy']",True,5
+hutch,"['tales', 'dirty', 'outgo', 'butch', 'hutch']",True,5
+hydro,"['tales', 'young', 'hydro']",True,3
+hyena,"['tales', 'beach', 'hyena']",True,3
+hymen,"['tales', 'under', 'boney', 'hymen']",True,4
+hyper,"['tales', 'video', 'cheer', 'hyper']",True,4
+icily,"['tales', 'login', 'imply', 'icily']",True,4
+icing,"['tales', 'young', 'icing']",True,3
+ideal,"['tales', 'leave', 'clear', 'ideal']",True,4
+idiom,"['tales', 'group', 'howdy', 'idiom']",True,4
+idiot,"['tales', 'print', 'idiot']",True,3
+idler,"['tales', 'melee', 'filer', 'idler']",True,4
+idyll,"['tales', 'lingo', 'child', 'idyll']",True,4
+igloo,"['tales', 'billy', 'folio', 'igloo']",True,4
+iliac,"['tales', 'grail', 'viola', 'iliac']",True,4
+image,"['tales', 'beach', 'grave', 'adage', 'image']",True,5
+imbue,"['tales', 'guide', 'imbue']",True,3
+impel,"['tales', 'level', 'gruel', 'bowel', 'pixel', 'impel']",True,6
+imply,"['tales', 'could', 'frill', 'imply']",True,4
+inane,"['tales', 'media', 'inane']",True,3
+inbox,"['tales', 'quick', 'ivory', 'inbox']",True,4
+incur,"['tales', 'doing', 'pinky', 'incur']",True,4
+index,"['tales', 'poker', 'given', 'index']",True,4
+inept,"['tales', 'untie', 'inept']",True,3
+inert,"['tales', 'quite', 'refit', 'inert']",True,4
+infer,"['tales', 'green', 'miner', 'infer']",True,4
+ingot,"['tales', 'north', 'ingot']",True,3
+inlay,"['tales', 'alloy', 'inlay']",True,3
+inlet,"['tales', 'filet', 'inlet']",True,3
+inner,"['tales', 'power', 'under', 'infer', 'inner']",True,5
+input,"['tales', 'youth', 'input']",True,3
+inter,"['tales', 'greet', 'otter', 'inter']",True,4
+intro,"['tales', 'court', 'intro']",True,3
+ionic,"['tales', 'doing', 'robin', 'conic', 'ionic']",True,5
+irate,"['tales', 'extra', 'great', 'crate', 'irate']",True,5
+irony,"['tales', 'group', 'brown', 'frond', 'irony']",True,5
+islet,"['tales', 'islet']",True,2
+issue,"['tales', 'issue']",True,2
+itchy,"['tales', 'north', 'pithy', 'itchy']",True,4
+ivory,"['tales', 'forum', 'irony', 'ivory']",True,4
+jaunt,"['tales', 'patio', 'gamut', 'jaunt']",True,4
+jazzy,"['tales', 'march', 'fauna', 'daddy', 'jazzy']",True,5
+jelly,"['tales', 'helix', 'below', 'jelly']",True,4
+jerky,"['tales', 'check', 'perky', 'jerky']",True,4
+jetty,"['tales', 'route', 'empty', 'jetty']",True,4
+jewel,"['tales', 'novel', 'rebel', 'jewel']",True,4
+jiffy,"['tales', 'young', 'wimpy', 'dizzy', 'jiffy']",True,5
+joint,"['tales', 'youth', 'rotor', 'vomit', 'point', 'joint']",True,6
+joist,"['tales', 'stock', 'moist', 'foist', 'hoist', 'joist']",True,6
+joker,"['tales', 'poker', 'joker']",True,3
+jolly,"['tales', 'holly', 'folly', 'dolly', 'golly', 'jolly']",True,6
+joust,"['tales', 'rusty', 'shunt', 'joust']",True,4
+judge,"['tales', 'query', 'budge', 'fudge', 'nudge', 'judge']",True,6
+juice,"['tales', 'where', 'movie', 'guide', 'juice']",True,5
+juicy,"['tales', 'doing', 'quick', 'juicy']",True,4
+jumbo,"['tales', 'group', 'hound', 'buxom', 'jumbo']",True,5
+jumpy,"['tales', 'which', 'round', 'fuzzy', 'buggy', 'mummy']",False,6
+junta,"['tales', 'about', 'junta']",True,3
+junto,"['tales', 'worth', 'ditto', 'junto']",True,4
+juror,"['tales', 'forum', 'juror']",True,3
+kappa,"['tales', 'radio', 'manga', 'kappa']",True,4
+karma,"['tales', 'handy', 'macro', 'karma']",True,4
+kayak,"['tales', 'hairy', 'bayou', 'kayak']",True,4
+kebab,"['tales', 'grade', 'cheap', 'kebab']",True,4
+khaki,"['tales', 'among', 'quack', 'khaki']",True,4
+kinky,"['tales', 'quick', 'pinky', 'kinky']",True,4
+kiosk,"['tales', 'shiny', 'disco', 'kiosk']",True,4
+kitty,"['tales', 'north', 'bitty', 'kitty']",True,4
+knack,"['tales', 'human', 'piano', 'knack']",True,4
+knave,"['tales', 'cheap', 'weary', 'amaze', 'quake', 'knave']",True,6
+knead,"['tales', 'image', 'zebra', 'ahead', 'knead']",True,5
+kneed,"['tales', 'poker', 'cheek', 'kneed']",True,4
+kneel,"['tales', 'novel', 'kneel']",True,3
+knelt,"['tales', 'exult', 'knelt']",True,3
+knife,"['tales', 'movie', 'hinge', 'urine', 'knife']",True,5
+knock,"['tales', 'forum', 'dingo', 'known', 'knock']",True,5
+knoll,"['tales', 'lying', 'flown', 'knoll']",True,4
+known,"['tales', 'found', 'inbox', 'knock', 'known']",True,5
+koala,"['tales', 'along', 'focal', 'voila', 'koala']",True,5
+krill,"['tales', 'could', 'imply', 'krill']",True,4
+label,"['tales', 'camel', 'bagel', 'label']",True,4
+labor,"['tales', 'daily', 'banal', 'labor']",True,4
+laden,"['tales', 'layer', 'lapel', 'laden']",True,4
+ladle,"['tales', 'early', 'cable', 'maple', 'ladle']",True,5
+lager,"['tales', 'bagel', 'lager']",True,3
+lance,"['tales', 'eagle', 'lance']",True,3
+lanky,"['tales', 'laugh', 'lanky']",True,3
+lapel,"['tales', 'layer', 'laden', 'lapel']",True,4
+lapse,"['tales', 'lapse']",True,2
+large,"['tales', 'lance', 'ladle', 'large']",True,4
+larva,"['tales', 'lanky', 'labor', 'larva']",True,4
+lasso,"['tales', 'sadly', 'nasal', 'lasso']",True,4
+latch,"['tales', 'fault', 'latch']",True,3
+later,"['tales', 'later']",True,2
+lathe,"['tales', 'lathe']",True,2
+latte,"['tales', 'lathe', 'latte']",True,3
+laugh,"['tales', 'laugh']",True,2
+layer,"['tales', 'gavel', 'layer']",True,3
+leach,"['tales', 'legal', 'leafy', 'learn', 'leave', 'leach']",True,6
+leafy,"['tales', 'leaky', 'leafy']",True,3
+leaky,"['tales', 'email', 'leave', 'learn', 'leach', 'leaky']",True,6
+leant,"['tales', 'leant']",True,2
+leapt,"['tales', 'plate', 'leapt']",True,3
+learn,"['tales', 'email', 'place', 'leaky', 'learn']",True,5
+lease,"['tales', 'slave', 'lease']",True,3
+leash,"['tales', 'shale', 'leash']",True,3
+least,"['tales', 'slate', 'least']",True,3
+leave,"['tales', 'place', 'leave']",True,3
+ledge,"['tales', 'while', 'clone', 'ledge']",True,4
+leech,"['tales', 'field', 'elegy', 'leech']",True,4
+leery,"['tales', 'guile', 'leech', 'leery']",True,4
+lefty,"['tales', 'extol', 'flute', 'lefty']",True,4
+legal,"['tales', 'email', 'fecal', 'pedal', 'renal', 'legal']",True,6
+leggy,"['tales', 'olive', 'reply', 'leggy']",True,4
+lemon,"['tales', 'lunge', 'lemon']",True,3
+lemur,"['tales', 'while', 'leery', 'lemur']",True,4
+leper,"['tales', 'lower', 'liner', 'lever', 'leper']",True,5
+level,"['tales', 'cruel', 'bowel', 'kneel', 'level']",True,5
+lever,"['tales', 'liver', 'lover', 'lever']",True,4
+libel,"['tales', 'gruel', 'vowel', 'expel', 'libel']",True,5
+liege,"['tales', 'while', 'liege']",True,3
+light,"['tales', 'cloth', 'light']",True,3
+liken,"['tales', 'model', 'lever', 'linen', 'liken']",True,5
+lilac,"['tales', 'villa', 'lilac']",True,3
+limbo,"['tales', 'lying', 'lucid', 'limbo']",True,4
+limit,"['tales', 'guilt', 'limit']",True,3
+linen,"['tales', 'model', 'flyer', 'liken', 'linen']",True,5
+liner,"['tales', 'wheel', 'flier', 'liver', 'liner']",True,5
+lingo,"['tales', 'click', 'broil', 'lingo']",True,4
+lipid,"['tales', 'login', 'lipid']",True,3
+lithe,"['tales', 'dwelt', 'extol', 'lithe']",True,4
+liver,"['tales', 'flyer', 'lower', 'liver']",True,4
+livid,"['tales', 'lying', 'lipid', 'livid']",True,4
+llama,"['tales', 'local', 'llama']",True,3
+loamy,"['tales', 'final', 'amply', 'loamy']",True,4
+loath,"['tales', 'loath']",True,2
+lobby,"['tales', 'login', 'lowly', 'loopy', 'lorry', 'lobby']",True,6
+local,"['tales', 'voila', 'loyal', 'local']",True,4
+locus,"['tales', 'gloss', 'locus']",True,3
+lodge,"['tales', 'boule', 'lodge']",True,3
+lofty,"['tales', 'limit', 'lofty']",True,3
+logic,"['tales', 'lying', 'logic']",True,3
+login,"['tales', 'login']",True,2
+loopy,"['tales', 'lingo', 'lorry', 'lowly', 'loopy']",True,5
+loose,"['tales', 'flesh', 'loose']",True,3
+lorry,"['tales', 'lingo', 'lobby', 'loopy', 'lowly', 'lorry']",True,6
+loser,"['tales', 'spiel', 'loser']",True,3
+louse,"['tales', 'shelf', 'close', 'louse']",True,4
+lousy,"['tales', 'spool', 'lousy']",True,3
+lover,"['tales', 'gruel', 'leper', 'liner', 'lower', 'lover']",True,6
+lower,"['tales', 'flyer', 'liver', 'lower']",True,4
+lowly,"['tales', 'click', 'lowly']",True,3
+loyal,"['tales', 'viola', 'zonal', 'royal', 'loyal']",True,5
+lucid,"['tales', 'child', 'lucid']",True,3
+lucky,"['tales', 'would', 'lurch', 'lucky']",True,4
+lumen,"['tales', 'level', 'liken', 'lumen']",True,4
+lumpy,"['tales', 'child', 'lorry', 'lumpy']",True,4
+lunar,"['tales', 'voila', 'blank', 'annul', 'lunar']",True,5
+lunch,"['tales', 'would', 'pupil', 'lucky', 'lurch', 'lunch']",True,6
+lunge,"['tales', 'leery', 'lunge']",True,3
+lupus,"['tales', 'lupus']",True,2
+lurch,"['tales', 'child', 'lurch']",True,3
+lurid,"['tales', 'child', 'livid', 'lurid']",True,4
+lusty,"['tales', 'still', 'lusty']",True,3
+lying,"['tales', 'lucky', 'lymph', 'lying']",True,4
+lymph,"['tales', 'child', 'glyph', 'lymph']",True,4
+lynch,"['tales', 'click', 'lurch', 'lynch']",True,4
+lyric,"['tales', 'lying', 'lyric']",True,3
+macaw,"['tales', 'handy', 'gamma', 'macaw']",True,4
+macho,"['tales', 'candy', 'havoc', 'macho']",True,4
+macro,"['tales', 'dairy', 'macro']",True,3
+madam,"['tales', 'radio', 'paddy', 'madam']",True,4
+madly,"['tales', 'lanky', 'daily', 'badly', 'madly']",True,5
+mafia,"['tales', 'dairy', 'magic', 'mania', 'mafia']",True,5
+magic,"['tales', 'hairy', 'manic', 'magic']",True,4
+magma,"['tales', 'fairy', 'cacao', 'kappa', 'mamma', 'magma']",True,6
+maize,"['tales', 'waive', 'maize']",True,3
+major,"['tales', 'dairy', 'karma', 'major']",True,4
+maker,"['tales', 'paper', 'maker']",True,3
+mambo,"['tales', 'rainy', 'macaw', 'mambo']",True,4
+mamma,"['tales', 'radio', 'fanny', 'magma', 'mamma']",True,5
+mammy,"['tales', 'radio', 'wacky', 'mangy', 'mammy']",True,5
+manga,"['tales', 'rainy', 'wagon', 'manga']",True,4
+mange,"['tales', 'mauve', 'maybe', 'maize', 'mange']",True,5
+mango,"['tales', 'radio', 'cacao', 'mango']",True,4
+mangy,"['tales', 'hairy', 'mangy']",True,3
+mania,"['tales', 'march', 'maxim', 'mafia', 'mania']",True,5
+manic,"['tales', 'dairy', 'manic']",True,3
+manly,"['tales', 'daily', 'manly']",True,3
+manor,"['tales', 'candy', 'mania', 'mango', 'manor']",True,5
+maple,"['tales', 'early', 'cable', 'ladle', 'maple']",True,5
+march,"['tales', 'fairy', 'manor', 'march']",True,4
+marry,"['tales', 'candy', 'harry', 'marry']",True,4
+marsh,"['tales', 'savoy', 'basic', 'harsh', 'marsh']",True,5
+mason,"['tales', 'sandy', 'mason']",True,3
+masse,"['tales', 'pause', 'masse']",True,3
+match,"['tales', 'faith', 'hatch', 'patch', 'watch', 'match']",True,6
+matey,"['tales', 'matey']",True,2
+mauve,"['tales', 'canoe', 'gauge', 'mauve']",True,4
+maxim,"['tales', 'fairy', 'maxim']",True,3
+maybe,"['tales', 'vague', 'farce', 'maize', 'maybe']",True,5
+mayor,"['tales', 'radio', 'mayor']",True,3
+mealy,"['tales', 'place', 'email', 'mealy']",True,4
+meant,"['tales', 'grate', 'exact', 'meant']",True,4
+meaty,"['tales', 'meant', 'meaty']",True,3
+mecca,"['tales', 'image', 'cream', 'mecca']",True,4
+medal,"['tales', 'learn', 'fecal', 'pedal', 'medal']",True,5
+media,"['tales', 'media']",True,2
+medic,"['tales', 'movie', 'medic']",True,3
+melee,"['tales', 'filer', 'golem', 'melee']",True,4
+melon,"['tales', 'melon']",True,2
+mercy,"['tales', 'being', 'weedy', 'merry', 'mercy']",True,5
+merge,"['tales', 'query', 'broke', 'merge']",True,4
+merit,"['tales', 'quote', 'eight', 'debit', 'merit']",True,5
+merry,"['tales', 'every', 'berry', 'merry']",True,4
+metal,"['tales', 'cleat', 'metal']",True,3
+meter,"['tales', 'often', 'utter', 'meter']",True,4
+metro,"['tales', 'white', 'entry', 'retro', 'metro']",True,5
+micro,"['tales', 'found', 'prior', 'ivory', 'micro']",True,5
+midge,"['tales', 'phone', 'fibre', 'midge']",True,4
+midst,"['tales', 'rusty', 'sting', 'midst']",True,4
+might,"['tales', 'youth', 'right', 'night', 'fight', 'might']",True,6
+milky,"['tales', 'holly', 'milky']",True,3
+mimic,"['tales', 'found', 'crimp', 'mimic']",True,4
+mince,"['tales', 'query', 'hinge', 'mince']",True,4
+miner,"['tales', 'green', 'inner', 'finer', 'miner']",True,5
+minim,"['tales', 'bring', 'windy', 'finch', 'minim']",True,5
+minor,"['tales', 'doing', 'inbox', 'minor']",True,4
+minty,"['tales', 'north', 'unity', 'minty']",True,4
+minus,"['tales', 'focus', 'humus', 'minus']",True,4
+mirth,"['tales', 'point', 'birth', 'girth', 'mirth']",True,5
+miser,"['tales', 'usher', 'skier', 'miser']",True,4
+missy,"['tales', 'disco', 'wispy', 'risky', 'sissy', 'missy']",True,6
+mocha,"['tales', 'grand', 'mocha']",True,3
+modal,"['tales', 'apply', 'quail', 'local', 'moral', 'modal']",True,6
+model,"['tales', 'model']",True,2
+modem,"['tales', 'chief', 'buyer', 'modem']",True,4
+mogul,"['tales', 'login', 'mogul']",True,3
+moist,"['tales', 'study', 'moist']",True,3
+molar,"['tales', 'villa', 'molar']",True,3
+moldy,"['tales', 'jolly', 'moldy']",True,3
+money,"['tales', 'money']",True,2
+month,"['tales', 'count', 'month']",True,3
+moody,"['tales', 'forum', 'moody']",True,3
+moose,"['tales', 'house', 'worse', 'moose']",True,4
+moral,"['tales', 'viola', 'offal', 'moral']",True,4
+moron,"['tales', 'round', 'honor', 'moron']",True,4
+morph,"['tales', 'bring', 'dowry', 'forum', 'morph']",True,5
+mossy,"['tales', 'using', 'shook', 'bossy', 'mossy']",True,5
+motel,"['tales', 'hotel', 'motel']",True,3
+motif,"['tales', 'count', 'forth', 'motif']",True,4
+motor,"['tales', 'photo', 'motor']",True,3
+motto,"['tales', 'count', 'motor', 'motto']",True,4
+moult,"['tales', 'quilt', 'moult']",True,3
+mound,"['tales', 'going', 'found', 'bound', 'round', 'wound']",False,6
+mount,"['tales', 'north', 'point', 'count', 'mount']",True,5
+mourn,"['tales', 'going', 'donor', 'mourn']",True,4
+mouse,"['tales', 'issue', 'rouse', 'house', 'mouse']",True,5
+mouth,"['tales', 'dirty', 'motto', 'month', 'mouth']",True,5
+mover,"['tales', 'index', 'poker', 'rover', 'hover', 'cover']",False,6
+movie,"['tales', 'being', 'fiery', 'equip', 'movie']",True,5
+mower,"['tales', 'poker', 'rover', 'cower', 'mower']",True,5
+mucky,"['tales', 'found', 'murky', 'mucky']",True,4
+mucus,"['tales', 'mucus']",True,2
+muddy,"['tales', 'round', 'dummy', 'muddy']",True,4
+mulch,"['tales', 'jolly', 'gulch', 'mulch']",True,4
+mummy,"['tales', 'forum', 'mucky', 'mummy']",True,4
+munch,"['tales', 'bring', 'conch', 'munch']",True,4
+mural,"['tales', 'viola', 'rural', 'mural']",True,4
+murky,"['tales', 'found', 'quick', 'murky']",True,4
+mushy,"['tales', 'shock', 'bushy', 'mushy']",True,4
+music,"['tales', 'sunny', 'music']",True,3
+musky,"['tales', 'shock', 'dusky', 'musky']",True,4
+musty,"['tales', 'study', 'gusty', 'musty']",True,4
+myrrh,"['tales', 'found', 'prick', 'myrrh']",True,4
+nadir,"['tales', 'march', 'fairy', 'nadir']",True,4
+naive,"['tales', 'range', 'naive']",True,3
+nanny,"['tales', 'handy', 'nanny']",True,3
+nasal,"['tales', 'nasal']",True,2
+nasty,"['tales', 'pasta', 'nasty']",True,3
+natal,"['tales', 'latch', 'fatal', 'natal']",True,4
+naval,"['tales', 'labor', 'daily', 'papal', 'canal', 'naval']",True,6
+navel,"['tales', 'panel', 'navel']",True,3
+needy,"['tales', 'query', 'enemy', 'needy']",True,4
+neigh,"['tales', 'movie', 'eking', 'feign', 'neigh']",True,5
+nerdy,"['tales', 'movie', 'decry', 'nerdy']",True,4
+nerve,"['tales', 'movie', 'verve', 'nerve']",True,4
+never,"['tales', 'given', 'never']",True,3
+newer,"['tales', 'video', 'cheek', 'puree', 'newer']",True,5
+newly,"['tales', 'guile', 'newly']",True,3
+nicer,"['tales', 'given', 'nicer']",True,3
+niche,"['tales', 'movie', 'price', 'niche']",True,4
+niece,"['tales', 'check', 'piece', 'niece']",True,4
+night,"['tales', 'youth', 'might', 'right', 'night']",True,5
+ninja,"['tales', 'audio', 'china', 'ninja']",True,4
+ninny,"['tales', 'young', 'ninny']",True,3
+ninth,"['tales', 'north', 'ninth']",True,3
+noble,"['tales', 'reply', 'exile', 'boule', 'noble']",True,5
+nobly,"['tales', 'click', 'dryly', 'wooly', 'nobly']",True,5
+noise,"['tales', 'noise']",True,2
+noisy,"['tales', 'music', 'spiny', 'noisy']",True,4
+nomad,"['tales', 'again', 'nomad']",True,3
+noose,"['tales', 'since', 'ensue', 'noose']",True,4
+north,"['tales', 'point', 'month', 'north']",True,4
+nosey,"['tales', 'scree', 'bused', 'nosey']",True,4
+notch,"['tales', 'photo', 'notch']",True,3
+novel,"['tales', 'model', 'hovel', 'novel']",True,4
+nudge,"['tales', 'guide', 'budge', 'judge', 'fudge', 'nudge']",True,6
+nurse,"['tales', 'mouse', 'guise', 'curse', 'purse', 'nurse']",True,6
+nutty,"['tales', 'photo', 'minty', 'nutty']",True,4
+nylon,"['tales', 'color', 'nylon']",True,3
+nymph,"['tales', 'group', 'picky', 'nymph']",True,4
+oaken,"['tales', 'baker', 'oaken']",True,3
+obese,"['tales', 'score', 'house', 'obese']",True,4
+occur,"['tales', 'forum', 'proud', 'occur']",True,4
+ocean,"['tales', 'break', 'ahead', 'ocean']",True,4
+octal,"['tales', 'loath', 'float', 'octal']",True,4
+octet,"['tales', 'often', 'otter', 'octet']",True,4
+odder,"['tales', 'given', 'creed', 'rodeo', 'odder']",True,5
+oddly,"['tales', 'could', 'droll', 'oddly']",True,4
+offal,"['tales', 'black', 'royal', 'offal']",True,4
+offer,"['tales', 'green', 'power', 'offer']",True,4
+often,"['tales', 'meter', 'octet', 'often']",True,4
+olden,"['tales', 'flyer', 'plied', 'olden']",True,4
+older,"['tales', 'novel', 'older']",True,3
+olive,"['tales', 'reply', 'clone', 'olive']",True,4
+ombre,"['tales', 'movie', 'gnome', 'ombre']",True,4
+omega,"['tales', 'grade', 'began', 'omega']",True,4
+onion,"['tales', 'round', 'onion']",True,3
+onset,"['tales', 'upset', 'onset']",True,3
+opera,"['tales', 'above', 'omega', 'opera']",True,4
+opine,"['tales', 'where', 'coupe', 'opine']",True,4
+opium,"['tales', 'which', 'dying', 'quirk', 'opium']",True,5
+optic,"['tales', 'dirty', 'vomit', 'optic']",True,4
+orbit,"['tales', 'month', 'outdo', 'orbit']",True,4
+order,"['tales', 'chief', 'under', 'order']",True,4
+organ,"['tales', 'audio', 'ovary', 'organ']",True,4
+other,"['tales', 'outer', 'other']",True,3
+otter,"['tales', 'often', 'octet', 'otter']",True,4
+ought,"['tales', 'worth', 'ought']",True,3
+ounce,"['tales', 'voice', 'ounce']",True,3
+outdo,"['tales', 'court', 'outdo']",True,3
+outer,"['tales', 'egret', 'other', 'outer']",True,4
+outgo,"['tales', 'north', 'bigot', 'outgo']",True,4
+ovary,"['tales', 'audio', 'roach', 'ovary']",True,4
+ovate,"['tales', 'crate', 'ovate']",True,3
+overt,"['tales', 'quote', 'retro', 'overt']",True,4
+ovine,"['tales', 'guide', 'chime', 'opine', 'ovine']",True,5
+ovoid,"['tales', 'doing', 'widow', 'ovoid']",True,4
+owing,"['tales', 'doing', 'owing']",True,3
+owner,"['tales', 'under', 'miner', 'owner']",True,4
+oxide,"['tales', 'price', 'guide', 'oxide']",True,4
+ozone,"['tales', 'voice', 'prone', 'ozone']",True,4
+paddy,"['tales', 'radio', 'madam', 'daddy', 'paddy']",True,5
+pagan,"['tales', 'randy', 'fauna', 'pagan']",True,4
+paint,"['tales', 'gaunt', 'paint']",True,3
+paler,"['tales', 'baler', 'paler']",True,3
+palsy,"['tales', 'sally', 'palsy']",True,3
+panel,"['tales', 'hazel', 'navel', 'panel']",True,4
+panic,"['tales', 'candy', 'panic']",True,3
+pansy,"['tales', 'basin', 'sandy', 'pansy']",True,4
+papal,"['tales', 'gayly', 'carol', 'naval', 'papal']",True,5
+paper,"['tales', 'payer', 'parer', 'paper']",True,4
+parer,"['tales', 'cagey', 'harem', 'parer']",True,4
+parka,"['tales', 'handy', 'cacao', 'mafia', 'kappa', 'parka']",True,6
+parry,"['tales', 'handy', 'fairy', 'marry', 'carry', 'parry']",True,6
+parse,"['tales', 'sauce', 'masse', 'parse']",True,4
+party,"['tales', 'party']",True,2
+pasta,"['tales', 'hasty', 'pasta']",True,3
+paste,"['tales', 'caste', 'haste', 'baste', 'paste']",True,5
+pasty,"['tales', 'saint', 'pasta', 'pasty']",True,4
+patch,"['tales', 'haunt', 'batch', 'match', 'patch']",True,5
+patio,"['tales', 'faint', 'cacti', 'ratio', 'patio']",True,5
+patsy,"['tales', 'nasty', 'patsy']",True,3
+patty,"['tales', 'watch', 'patio', 'patty']",True,4
+pause,"['tales', 'raise', 'cause', 'pause']",True,4
+payee,"['tales', 'payee']",True,2
+payer,"['tales', 'eager', 'maker', 'wafer', 'paper', 'payer']",True,6
+peace,"['tales', 'beach', 'peace']",True,3
+peach,"['tales', 'break', 'weave', 'peach']",True,4
+pearl,"['tales', 'email', 'pearl']",True,3
+pecan,"['tales', 'beach', 'cedar', 'pecan']",True,4
+pedal,"['tales', 'clear', 'medal', 'pedal']",True,4
+penal,"['tales', 'place', 'pedal', 'penal']",True,4
+pence,"['tales', 'where', 'venue', 'penne', 'pence']",True,5
+penne,"['tales', 'guide', 'where', 'fence', 'penne']",True,5
+penny,"['tales', 'query', 'decoy', 'penny']",True,4
+perch,"['tales', 'check', 'perch']",True,3
+peril,"['tales', 'guile', 'peril']",True,3
+perky,"['tales', 'being', 'revue', 'ferry', 'jerky', 'perky']",True,6
+pesky,"['tales', 'score', 'pesky']",True,3
+pesto,"['tales', 'exist', 'store', 'pesto']",True,4
+petal,"['tales', 'dealt', 'metal', 'fetal', 'petal']",True,5
+petty,"['tales', 'event', 'quite', 'berth', 'jetty', 'petty']",True,6
+phase,"['tales', 'shape', 'phase']",True,3
+phone,"['tales', 'movie', 'choke', 'phone']",True,4
+phony,"['tales', 'round', 'phony']",True,3
+photo,"['tales', 'north', 'photo']",True,3
+piano,"['tales', 'human', 'annoy', 'piano']",True,4
+picky,"['tales', 'round', 'hippy', 'picky']",True,4
+piece,"['tales', 'price', 'piece']",True,3
+piety,"['tales', 'deity', 'piety']",True,3
+piggy,"['tales', 'going', 'piggy']",True,3
+pilot,"['tales', 'unlit', 'pilot']",True,3
+pinch,"['tales', 'round', 'finch', 'cinch', 'winch', 'pinch']",True,6
+piney,"['tales', 'money', 'piney']",True,3
+pinky,"['tales', 'quick', 'pinky']",True,3
+pinto,"['tales', 'month', 'junto', 'pinto']",True,4
+piper,"['tales', 'money', 'creek', 'upper', 'piper']",True,5
+pique,"['tales', 'price', 'pique']",True,3
+pitch,"['tales', 'worth', 'hitch', 'ditch', 'pitch']",True,5
+pithy,"['tales', 'print', 'pithy']",True,3
+pivot,"['tales', 'print', 'pivot']",True,3
+pixel,"['tales', 'liver', 'pixel']",True,3
+pixie,"['tales', 'movie', 'pixie']",True,3
+pizza,"['tales', 'china', 'pizza']",True,3
+place,"['tales', 'learn', 'flame', 'blade', 'place']",True,5
+plaid,"['tales', 'final', 'alibi', 'claim', 'plaid']",True,5
+plain,"['tales', 'local', 'blank', 'plain']",True,4
+plait,"['tales', 'gloat', 'plant', 'plait']",True,4
+plane,"['tales', 'leaky', 'whale', 'flame', 'blaze', 'plane']",True,6
+plank,"['tales', 'royal', 'claim', 'blank', 'flank', 'plank']",True,6
+plant,"['tales', 'adult', 'gloat', 'plant']",True,4
+plate,"['tales', 'petal', 'plate']",True,3
+plaza,"['tales', 'local', 'album', 'plain', 'plaza']",True,5
+plead,"['tales', 'leave', 'clear', 'plead']",True,4
+pleat,"['tales', 'cleat', 'pleat']",True,3
+plied,"['tales', 'older', 'plied']",True,3
+plier,"['tales', 'cruel', 'liver', 'flier', 'plier']",True,5
+pluck,"['tales', 'wooly', 'lunch', 'pluck']",True,4
+plumb,"['tales', 'lingo', 'dryly', 'pluck', 'plump', 'plumb']",True,6
+plume,"['tales', 'reply', 'elope', 'plume']",True,4
+plump,"['tales', 'could', 'plumb', 'plump']",True,4
+plunk,"['tales', 'would', 'flunk', 'plunk']",True,4
+plush,"['tales', 'shyly', 'flush', 'plush']",True,4
+poesy,"['tales', 'mouse', 'poesy']",True,3
+point,"['tales', 'month', 'point']",True,3
+poise,"['tales', 'issue', 'noise', 'poise']",True,4
+poker,"['tales', 'money', 'wooer', 'corer', 'hover', 'boxer']",False,6
+polar,"['tales', 'villa', 'bylaw', 'polar']",True,4
+polka,"['tales', 'molar', 'polka']",True,3
+polyp,"['tales', 'billy', 'nylon', 'polyp']",True,4
+pooch,"['tales', 'going', 'couch', 'pooch']",True,4
+poppy,"['tales', 'young', 'booby', 'worry', 'poppy']",True,5
+porch,"['tales', 'young', 'porch']",True,3
+poser,"['tales', 'sheer', 'riser', 'poser']",True,4
+posit,"['tales', 'visit', 'posit']",True,3
+posse,"['tales', 'spend', 'copse', 'poise', 'posse']",True,5
+pouch,"['tales', 'forum', 'bound', 'pouch']",True,4
+pound,"['tales', 'which', 'young', 'round', 'mound', 'pound']",True,6
+pouty,"['tales', 'dirty', 'booty', 'pouty']",True,4
+power,"['tales', 'given', 'breed', 'cower', 'power']",True,5
+prank,"['tales', 'again', 'crank', 'drank', 'frank', 'prank']",True,6
+prawn,"['tales', 'diary', 'wrack', 'brawn', 'prawn']",True,5
+preen,"['tales', 'under', 'green', 'preen']",True,4
+press,"['tales', 'chess', 'press']",True,3
+price,"['tales', 'check', 'juice', 'voice', 'price']",True,5
+prick,"['tales', 'young', 'chick', 'brick', 'prick']",True,5
+pride,"['tales', 'phone', 'purge', 'prize', 'pride']",True,5
+pried,"['tales', 'chief', 'drier', 'pried']",True,4
+prime,"['tales', 'phone', 'prime']",True,3
+primo,"['tales', 'going', 'prior', 'primo']",True,4
+print,"['tales', 'youth', 'print']",True,3
+prior,"['tales', 'forum', 'wrong', 'prior']",True,4
+prism,"['tales', 'sound', 'frisk', 'prism']",True,4
+privy,"['tales', 'found', 'which', 'grimy', 'privy']",True,5
+prize,"['tales', 'guide', 'ovine', 'chime', 'bribe', 'prize']",True,6
+probe,"['tales', 'every', 'rogue', 'drone', 'probe']",True,5
+prone,"['tales', 'phone', 'prone']",True,3
+prong,"['tales', 'doing', 'prong']",True,3
+proof,"['tales', 'bring', 'proxy', 'proof']",True,4
+prose,"['tales', 'shore', 'prose']",True,3
+proud,"['tales', 'found', 'proud']",True,3
+prove,"['tales', 'phone', 'prove']",True,3
+prowl,"['tales', 'lying', 'floor', 'droll', 'prowl']",True,5
+proxy,"['tales', 'found', 'prior', 'proxy']",True,4
+prude,"['tales', 'phone', 'piece', 'prude']",True,4
+prune,"['tales', 'price', 'prude', 'prune']",True,4
+psalm,"['tales', 'shoal', 'clasp', 'psalm']",True,4
+pubic,"['tales', 'group', 'pubic']",True,3
+pudgy,"['tales', 'bring', 'goody', 'pudgy']",True,4
+puffy,"['tales', 'round', 'pubic', 'puppy', 'puffy']",True,5
+pulpy,"['tales', 'dolly', 'filmy', 'pulpy']",True,4
+pulse,"['tales', 'welsh', 'pulse']",True,3
+punch,"['tales', 'doing', 'nymph', 'punch']",True,4
+pupal,"['tales', 'quail', 'rural', 'pupal']",True,4
+pupil,"['tales', 'would', 'lumpy', 'pupil']",True,4
+puppy,"['tales', 'which', 'round', 'buggy', 'mummy', 'puppy']",True,6
+puree,"['tales', 'money', 'chief', 'upper', 'puree']",True,5
+purer,"['tales', 'money', 'river', 'freer', 'purer']",True,5
+purge,"['tales', 'voice', 'queue', 'purge']",True,4
+purse,"['tales', 'mouse', 'nurse', 'curse', 'purse']",True,5
+pushy,"['tales', 'sound', 'husky', 'pushy']",True,4
+putty,"['tales', 'count', 'putty']",True,3
+pygmy,"['tales', 'forum', 'pygmy']",True,3
+quack,"['tales', 'board', 'champ', 'quack']",True,4
+quail,"['tales', 'grail', 'flail', 'avail', 'quail']",True,5
+quake,"['tales', 'reach', 'image', 'knave', 'awake', 'quake']",True,6
+qualm,"['tales', 'voila', 'qualm']",True,3
+quark,"['tales', 'china', 'ovary', 'award', 'quark']",True,5
+quart,"['tales', 'grant', 'quart']",True,3
+quash,"['tales', 'scrap', 'quash']",True,3
+quasi,"['tales', 'assay', 'shank', 'grasp', 'quasi']",True,5
+queen,"['tales', 'money', 'index', 'green', 'queen']",True,5
+queer,"['tales', 'under', 'purer', 'buyer', 'queer']",True,5
+quell,"['tales', 'leery', 'quell']",True,3
+query,"['tales', 'check', 'needy', 'fiery', 'query']",True,5
+quest,"['tales', 'chest', 'quest']",True,3
+queue,"['tales', 'guide', 'queue']",True,3
+quick,"['tales', 'found', 'quick']",True,3
+quiet,"['tales', 'often', 'rivet', 'quiet']",True,4
+quill,"['tales', 'child', 'frill', 'quill']",True,4
+quilt,"['tales', 'until', 'quilt']",True,3
+quirk,"['tales', 'young', 'humid', 'quick', 'quirk']",True,5
+quite,"['tales', 'quote', 'quite']",True,3
+quota,"['tales', 'giant', 'quota']",True,3
+quote,"['tales', 'route', 'quote']",True,3
+quoth,"['tales', 'court', 'quoth']",True,3
+rabbi,"['tales', 'handy', 'cargo', 'rabbi']",True,4
+rabid,"['tales', 'march', 'rainy', 'radio', 'rabid']",True,5
+racer,"['tales', 'eager', 'caper', 'racer']",True,4
+radar,"['tales', 'march', 'rainy', 'razor', 'radar']",True,5
+radii,"['tales', 'handy', 'radar', 'radii']",True,4
+radio,"['tales', 'randy', 'radii', 'radio']",True,4
+rainy,"['tales', 'dairy', 'rainy']",True,3
+raise,"['tales', 'masse', 'raise']",True,3
+rajah,"['tales', 'handy', 'march', 'rajah']",True,4
+rally,"['tales', 'ralph', 'rally']",True,3
+ralph,"['tales', 'rally', 'ralph']",True,3
+ramen,"['tales', 'cameo', 'gamer', 'ramen']",True,4
+ranch,"['tales', 'fairy', 'march', 'ranch']",True,4
+randy,"['tales', 'randy']",True,2
+range,"['tales', 'vague', 'badge', 'range']",True,4
+rapid,"['tales', 'candy', 'rapid']",True,3
+rarer,"['tales', 'gayer', 'racer', 'rarer']",True,4
+raspy,"['tales', 'raspy']",True,2
+ratio,"['tales', 'ratio']",True,2
+ratty,"['tales', 'warty', 'ratty']",True,3
+raven,"['tales', 'cagey', 'waver', 'raven']",True,4
+rayon,"['tales', 'major', 'rayon']",True,3
+razor,"['tales', 'dairy', 'karma', 'ranch', 'razor']",True,5
+reach,"['tales', 'reach']",True,2
+react,"['tales', 'agent', 'heart', 'react']",True,4
+ready,"['tales', 'reach', 'rearm', 'ready']",True,4
+realm,"['tales', 'leave', 'realm']",True,3
+rearm,"['tales', 'cheap', 'anime', 'rearm']",True,4
+rebar,"['tales', 'cheap', 'rebar']",True,3
+rebel,"['tales', 'flyer', 'gruel', 'rebel']",True,4
+rebus,"['tales', 'dress', 'rebus']",True,3
+rebut,"['tales', 'white', 'metro', 'rebut']",True,4
+recap,"['tales', 'beach', 'cedar', 'recap']",True,4
+recur,"['tales', 'check', 'medic', 'recur']",True,4
+recut,"['tales', 'quite', 'erupt', 'recut']",True,4
+reedy,"['tales', 'check', 'every', 'reedy']",True,4
+refer,"['tales', 'women', 'river', 'refer']",True,4
+refit,"['tales', 'piety', 'remit', 'refit']",True,4
+regal,"['tales', 'leave', 'medal', 'feral', 'renal', 'regal']",True,6
+rehab,"['tales', 'above', 'beard', 'rehab']",True,4
+reign,"['tales', 'guide', 'eking', 'reign']",True,4
+relax,"['tales', 'relay', 'relax']",True,3
+relay,"['tales', 'delay', 'relay']",True,3
+relic,"['tales', 'helix', 'relic']",True,3
+remit,"['tales', 'event', 'rebut', 'refit', 'remit']",True,5
+renal,"['tales', 'leave', 'feral', 'renal']",True,4
+renew,"['tales', 'women', 'newer', 'renew']",True,4
+repay,"['tales', 'above', 'heard', 'recap', 'repay']",True,5
+repel,"['tales', 'level', 'bezel', 'jewel', 'repel']",True,5
+reply,"['tales', 'guile', 'reply']",True,3
+rerun,"['tales', 'being', 'needy', 'venom', 'rerun']",True,5
+reset,"['tales', 'steed', 'ester', 'reset']",True,4
+resin,"['tales', 'score', 'resin']",True,3
+retch,"['tales', 'white', 'fetch', 'retch']",True,4
+retro,"['tales', 'deity', 'retch', 'retro']",True,4
+retry,"['tales', 'quote', 'eight', 'retry']",True,4
+reuse,"['tales', 'scope', 'dense', 'reuse']",True,4
+revel,"['tales', 'wheel', 'level', 'bevel', 'revel']",True,5
+revue,"['tales', 'being', 'ferry', 'demur', 'revue']",True,5
+rhino,"['tales', 'bring', 'rhino']",True,3
+rhyme,"['tales', 'movie', 'creme', 'rhyme']",True,4
+rider,"['tales', 'video', 'rider']",True,3
+ridge,"['tales', 'check', 'penny', 'rogue', 'ridge']",True,5
+rifle,"['tales', 'whole', 'bugle', 'cycle', 'exile', 'rifle']",True,6
+right,"['tales', 'youth', 'might', 'night', 'right']",True,5
+rigid,"['tales', 'doing', 'giddy', 'rigid']",True,4
+rigor,"['tales', 'found', 'micro', 'vigor', 'rigor']",True,5
+rinse,"['tales', 'scene', 'nurse', 'rinse']",True,4
+ripen,"['tales', 'money', 'given', 'ripen']",True,4
+riper,"['tales', 'chief', 'given', 'rider', 'riper']",True,5
+risen,"['tales', 'screw', 'usher', 'risen']",True,4
+riser,"['tales', 'sheep', 'miser', 'riser']",True,4
+risky,"['tales', 'spiny', 'risky']",True,3
+rival,"['tales', 'apply', 'black', 'rural', 'rival']",True,5
+river,"['tales', 'women', 'creek', 'fixer', 'piper', 'giver']",False,6
+rivet,"['tales', 'quiet', 'rivet']",True,3
+roach,"['tales', 'grand', 'ovary', 'roach']",True,4
+roast,"['tales', 'stand', 'boast', 'coast', 'roast']",True,5
+robin,"['tales', 'group', 'corny', 'donor', 'robin']",True,5
+robot,"['tales', 'print', 'court', 'robot']",True,4
+rocky,"['tales', 'young', 'rocky']",True,3
+rodeo,"['tales', 'video', 'rodeo']",True,3
+roger,"['tales', 'money', 'boxer', 'rover', 'rower', 'roger']",True,6
+rogue,"['tales', 'guide', 'vogue', 'rogue']",True,4
+roomy,"['tales', 'doing', 'couch', 'woozy', 'booby', 'roomy']",True,6
+roost,"['tales', 'south', 'boost', 'roost']",True,4
+rotor,"['tales', 'print', 'forty', 'rotor']",True,4
+rouge,"['tales', 'voice', 'borne', 'rouge']",True,4
+rough,"['tales', 'which', 'morph', 'rough']",True,4
+round,"['tales', 'found', 'round']",True,3
+rouse,"['tales', 'score', 'horse', 'rouse']",True,4
+route,"['tales', 'route']",True,2
+rover,"['tales', 'power', 'boxer', 'foyer', 'corer', 'rover']",True,6
+rowdy,"['tales', 'young', 'rowdy']",True,3
+rower,"['tales', 'poker', 'roger', 'rower']",True,4
+royal,"['tales', 'final', 'moral', 'royal']",True,4
+ruddy,"['tales', 'group', 'churn', 'ruddy']",True,4
+ruder,"['tales', 'poker', 'never', 'rider', 'ruder']",True,5
+rugby,"['tales', 'forum', 'quirk', 'rugby']",True,4
+ruler,"['tales', 'golem', 'filer', 'ruler']",True,4
+rumba,"['tales', 'among', 'cramp', 'rumba']",True,4
+rumor,"['tales', 'bring', 'worry', 'rumor']",True,4
+rupee,"['tales', 'power', 'rupee']",True,3
+rural,"['tales', 'voila', 'album', 'rural']",True,4
+rusty,"['tales', 'study', 'rusty']",True,3
+sadly,"['tales', 'basal', 'sadly']",True,3
+safer,"['tales', 'saner', 'safer']",True,3
+saint,"['tales', 'pasta', 'waist', 'saint']",True,4
+salad,"['tales', 'salon', 'salad']",True,3
+sally,"['tales', 'salsa', 'salon', 'sally']",True,4
+salon,"['tales', 'salvo', 'salon']",True,3
+salsa,"['tales', 'palsy', 'salsa']",True,3
+salty,"['tales', 'salty']",True,2
+salve,"['tales', 'false', 'salve']",True,3
+salvo,"['tales', 'salvo']",True,2
+sandy,"['tales', 'savoy', 'saucy', 'sandy']",True,4
+saner,"['tales', 'safer', 'saner']",True,3
+sappy,"['tales', 'basic', 'sappy']",True,3
+sassy,"['tales', 'basin', 'sassy']",True,3
+satin,"['tales', 'hasty', 'waist', 'satin']",True,4
+satyr,"['tales', 'pasta', 'satin', 'satyr']",True,4
+sauce,"['tales', 'masse', 'sauce']",True,3
+saucy,"['tales', 'gassy', 'sandy', 'savoy', 'sappy', 'saucy']",True,6
+sauna,"['tales', 'raspy', 'sauna']",True,3
+saute,"['tales', 'waste', 'saute']",True,3
+savor,"['tales', 'savoy', 'savor']",True,3
+savoy,"['tales', 'gassy', 'savoy']",True,3
+savvy,"['tales', 'gassy', 'savoy', 'savvy']",True,4
+scald,"['tales', 'slack', 'scaly', 'scalp', 'scald']",True,5
+scale,"['tales', 'leash', 'slave', 'scale']",True,4
+scalp,"['tales', 'scaly', 'scalp']",True,3
+scaly,"['tales', 'flash', 'scalp', 'scaly']",True,4
+scamp,"['tales', 'crash', 'smack', 'scamp']",True,4
+scant,"['tales', 'stand', 'scant']",True,3
+scare,"['tales', 'shape', 'suave', 'snare', 'scare']",True,5
+scarf,"['tales', 'grasp', 'swarm', 'scary', 'scarf']",True,5
+scary,"['tales', 'shady', 'snaky', 'scary']",True,4
+scene,"['tales', 'since', 'scone', 'scene']",True,4
+scent,"['tales', 'quest', 'spent', 'scent']",True,4
+scion,"['tales', 'disco', 'sonic', 'scion']",True,4
+scoff,"['tales', 'shock', 'scoff']",True,3
+scold,"['tales', 'spoil', 'slosh', 'scold']",True,4
+scone,"['tales', 'score', 'scone']",True,3
+scoop,"['tales', 'using', 'mossy', 'shock', 'scoop']",True,5
+scope,"['tales', 'since', 'score', 'scope']",True,4
+score,"['tales', 'scene', 'score']",True,3
+scorn,"['tales', 'using', 'scorn']",True,3
+scour,"['tales', 'music', 'crush', 'scrub', 'scour']",True,5
+scout,"['tales', 'south', 'scout']",True,3
+scowl,"['tales', 'spill', 'scowl']",True,3
+scram,"['tales', 'scuba', 'scary', 'scram']",True,4
+scrap,"['tales', 'scary', 'scrap']",True,3
+scree,"['tales', 'speed', 'scree']",True,3
+screw,"['tales', 'usher', 'scree', 'screw']",True,4
+scrub,"['tales', 'sound', 'sushi', 'scrub']",True,4
+scrum,"['tales', 'brush', 'scour', 'scrum']",True,4
+scuba,"['tales', 'scary', 'scuba']",True,3
+sedan,"['tales', 'abuse', 'shear', 'sedan']",True,4
+seedy,"['tales', 'noise', 'speck', 'seedy']",True,4
+segue,"['tales', 'house', 'issue', 'segue']",True,4
+seize,"['tales', 'score', 'swine', 'seize']",True,4
+semen,"['tales', 'shied', 'screw', 'seven', 'semen']",True,5
+sense,"['tales', 'scene', 'sense']",True,3
+sepia,"['tales', 'speak', 'shape', 'sepia']",True,4
+serif,"['tales', 'shore', 'serum', 'serif']",True,4
+serum,"['tales', 'scope', 'serum']",True,3
+serve,"['tales', 'issue', 'score', 'serve']",True,4
+setup,"['tales', 'exist', 'setup']",True,3
+seven,"['tales', 'sheep', 'seven']",True,3
+sever,"['tales', 'spied', 'seven', 'sever']",True,4
+sewer,"['tales', 'super', 'sneer', 'sewer']",True,4
+shack,"['tales', 'quasi', 'shaky', 'shark', 'shank', 'shack']",True,6
+shade,"['tales', 'essay', 'share', 'shade']",True,4
+shady,"['tales', 'shady']",True,2
+shaft,"['tales', 'stand', 'swath', 'shaft']",True,4
+shake,"['tales', 'space', 'snake', 'shake']",True,4
+shaky,"['tales', 'shaky']",True,2
+shale,"['tales', 'lease', 'shale']",True,3
+shall,"['tales', 'flash', 'shall']",True,3
+shalt,"['tales', 'slant', 'shalt']",True,3
+shame,"['tales', 'chase', 'shake', 'shape', 'share', 'shade']",False,6
+shank,"['tales', 'scrap', 'snaky', 'shank']",True,4
+shape,"['tales', 'space', 'shape']",True,3
+shard,"['tales', 'shaky', 'shard']",True,3
+share,"['tales', 'space', 'shade', 'share']",True,4
+shark,"['tales', 'crash', 'shark']",True,3
+sharp,"['tales', 'shady', 'shack', 'sharp']",True,4
+shave,"['tales', 'space', 'shake', 'shade', 'share', 'shame']",False,6
+shawl,"['tales', 'snail', 'small', 'shawl']",True,4
+shear,"['tales', 'share', 'shear']",True,3
+sheen,"['tales', 'speed', 'sheer', 'sheen']",True,4
+sheep,"['tales', 'spied', 'sweep', 'sheep']",True,4
+sheer,"['tales', 'scree', 'sheer']",True,3
+sheet,"['tales', 'sweet', 'sheet']",True,3
+sheik,"['tales', 'score', 'spend', 'sheik']",True,4
+shelf,"['tales', 'louse', 'smell', 'shelf']",True,4
+shell,"['tales', 'louse', 'spell', 'swell', 'smell', 'shell']",True,6
+shied,"['tales', 'shied']",True,2
+shift,"['tales', 'study', 'sport', 'shift']",True,4
+shine,"['tales', 'since', 'snipe', 'shine']",True,4
+shiny,"['tales', 'using', 'shiny']",True,3
+shire,"['tales', 'house', 'shine', 'shire']",True,4
+shirk,"['tales', 'disco', 'suing', 'smirk', 'shirk']",True,5
+shirt,"['tales', 'south', 'shirt']",True,3
+shoal,"['tales', 'slack', 'shoal']",True,3
+shock,"['tales', 'sound', 'showy', 'shook', 'shock']",True,5
+shone,"['tales', 'house', 'shone']",True,3
+shook,"['tales', 'shiny', 'shuck', 'shook']",True,4
+shoot,"['tales', 'short', 'shout', 'shoot']",True,4
+shore,"['tales', 'house', 'shore']",True,3
+shorn,"['tales', 'shiny', 'shown', 'shorn']",True,4
+short,"['tales', 'story', 'short']",True,3
+shout,"['tales', 'study', 'scout', 'spout', 'shout']",True,5
+shove,"['tales', 'issue', 'spoke', 'shore', 'shone', 'shove']",True,6
+shown,"['tales', 'shock', 'showy', 'shown']",True,4
+showy,"['tales', 'disco', 'spook', 'sworn', 'showy']",True,5
+shrew,"['tales', 'screw', 'shrew']",True,3
+shrub,"['tales', 'disco', 'usurp', 'shrug', 'shrub']",True,5
+shrug,"['tales', 'shock', 'shiny', 'shush', 'shrug']",True,5
+shuck,"['tales', 'using', 'scour', 'shuck']",True,4
+shunt,"['tales', 'stock', 'shift', 'shunt']",True,4
+shush,"['tales', 'music', 'shrug', 'shush']",True,4
+shyly,"['tales', 'spoil', 'slunk', 'shyly']",True,4
+siege,"['tales', 'spend', 'siege']",True,3
+sieve,"['tales', 'mouse', 'spine', 'sieve']",True,4
+sight,"['tales', 'story', 'smith', 'sight']",True,4
+sigma,"['tales', 'shady', 'scrap', 'sigma']",True,4
+silky,"['tales', 'silly', 'silky']",True,3
+silly,"['tales', 'silly']",True,2
+since,"['tales', 'spend', 'snore', 'since']",True,4
+sinew,"['tales', 'sheer', 'sinew']",True,3
+singe,"['tales', 'since', 'singe']",True,3
+siren,"['tales', 'screw', 'siren']",True,3
+sissy,"['tales', 'using', 'sissy']",True,3
+sixth,"['tales', 'short', 'smith', 'sixth']",True,4
+sixty,"['tales', 'stock', 'sixty']",True,3
+skate,"['tales', 'yeast', 'stare', 'skate']",True,4
+skier,"['tales', 'super', 'sower', 'skier']",True,4
+skiff,"['tales', 'spiny', 'swish', 'skiff']",True,4
+skill,"['tales', 'spool', 'skill']",True,3
+skimp,"['tales', 'using', 'shirk', 'spiky', 'skimp']",True,5
+skirt,"['tales', 'story', 'shirt', 'skirt']",True,4
+skulk,"['tales', 'spill', 'surly', 'skulk']",True,4
+skull,"['tales', 'spoil', 'skull']",True,3
+skunk,"['tales', 'shock', 'smirk', 'skunk']",True,4
+slack,"['tales', 'shall', 'slain', 'slack']",True,4
+slain,"['tales', 'shall', 'slain']",True,3
+slang,"['tales', 'flash', 'slain', 'slang']",True,4
+slant,"['tales', 'stalk', 'slant']",True,3
+slash,"['tales', 'usual', 'clash', 'flash', 'slash']",True,5
+slate,"['tales', 'least', 'stale', 'slate']",True,4
+slave,"['tales', 'scale', 'slave']",True,3
+sleek,"['tales', 'spiel', 'sleek']",True,3
+sleep,"['tales', 'spiel', 'sleep']",True,3
+sleet,"['tales', 'sleet']",True,2
+slept,"['tales', 'slept']",True,2
+slice,"['tales', 'loose', 'slice']",True,3
+slick,"['tales', 'lousy', 'spill', 'sling', 'slick']",True,5
+slide,"['tales', 'close', 'slide']",True,3
+slime,"['tales', 'spell', 'slime']",True,3
+slimy,"['tales', 'spoil', 'sling', 'slick', 'slimy']",True,5
+sling,"['tales', 'spill', 'slink', 'sling']",True,4
+slink,"['tales', 'plush', 'sling', 'slink']",True,4
+sloop,"['tales', 'skill', 'sloop']",True,3
+slope,"['tales', 'spell', 'slope']",True,3
+slosh,"['tales', 'slick', 'slush', 'slosh']",True,4
+sloth,"['tales', 'still', 'sloth']",True,3
+slump,"['tales', 'skill', 'slush', 'slump']",True,4
+slung,"['tales', 'lousy', 'slunk', 'slung']",True,4
+slunk,"['tales', 'slick', 'slunk']",True,3
+slurp,"['tales', 'spoil', 'slurp']",True,3
+slush,"['tales', 'skill', 'sloop', 'slush']",True,4
+slyly,"['tales', 'slick', 'slung', 'slyly']",True,4
+smack,"['tales', 'scuba', 'snack', 'shack', 'smack']",True,5
+small,"['tales', 'scaly', 'small']",True,3
+smart,"['tales', 'straw', 'smart']",True,3
+smash,"['tales', 'scrap', 'shady', 'smash']",True,4
+smear,"['tales', 'space', 'shear', 'smear']",True,4
+smell,"['tales', 'spell', 'swell', 'smell']",True,4
+smelt,"['tales', 'stole', 'spelt', 'smelt']",True,4
+smile,"['tales', 'shell', 'smile']",True,3
+smirk,"['tales', 'shiny', 'skiff', 'smirk']",True,4
+smite,"['tales', 'guest', 'smite']",True,3
+smith,"['tales', 'rusty', 'sooth', 'sixth', 'smith']",True,5
+smock,"['tales', 'music', 'smock']",True,3
+smoke,"['tales', 'house', 'spoke', 'smoke']",True,4
+smoky,"['tales', 'brush', 'smoky']",True,3
+smote,"['tales', 'guest', 'smote']",True,3
+snack,"['tales', 'crash', 'scamp', 'snack']",True,4
+snail,"['tales', 'shoal', 'snail']",True,3
+snake,"['tales', 'share', 'spade', 'suave', 'snake']",True,5
+snaky,"['tales', 'scuba', 'shank', 'snaky']",True,4
+snare,"['tales', 'shape', 'scare', 'snare']",True,4
+snarl,"['tales', 'usual', 'small', 'shawl', 'snail', 'snarl']",True,6
+sneak,"['tales', 'shape', 'sneak']",True,3
+sneer,"['tales', 'shied', 'scree', 'sever', 'sneer']",True,5
+snide,"['tales', 'house', 'since', 'spine', 'snide']",True,5
+sniff,"['tales', 'disco', 'spiky', 'suing', 'sniff']",True,5
+snipe,"['tales', 'spend', 'snipe']",True,3
+snoop,"['tales', 'sound', 'snowy', 'snoop']",True,4
+snore,"['tales', 'house', 'swore', 'score', 'snore']",True,5
+snort,"['tales', 'rusty', 'short', 'sport', 'snort']",True,5
+snout,"['tales', 'rusty', 'stuff', 'scout', 'snout']",True,5
+snowy,"['tales', 'shiny', 'snowy']",True,3
+snuck,"['tales', 'spiny', 'shown', 'snuff', 'snuck']",True,5
+snuff,"['tales', 'using', 'snuck', 'snuff']",True,4
+soapy,"['tales', 'scrap', 'spasm', 'soapy']",True,4
+sober,"['tales', 'super', 'sewer', 'sober']",True,4
+soggy,"['tales', 'using', 'soggy']",True,3
+solar,"['tales', 'solar']",True,2
+solid,"['tales', 'sully', 'solid']",True,3
+solve,"['tales', 'solve']",True,2
+sonar,"['tales', 'scrap', 'sugar', 'sonar']",True,4
+sonic,"['tales', 'music', 'sonic']",True,3
+sooth,"['tales', 'first', 'musty', 'sooth']",True,4
+sooty,"['tales', 'story', 'sooty']",True,3
+sorry,"['tales', 'using', 'showy', 'sorry']",True,4
+sound,"['tales', 'sound']",True,2
+south,"['tales', 'south']",True,2
+sower,"['tales', 'spree', 'sober', 'sower']",True,4
+space,"['tales', 'speak', 'spare', 'spade', 'space']",True,5
+spade,"['tales', 'speak', 'space', 'spade']",True,4
+spank,"['tales', 'scuba', 'spray', 'spawn', 'spank']",True,5
+spare,"['tales', 'share', 'spare']",True,3
+spark,"['tales', 'grasp', 'spark']",True,3
+spasm,"['tales', 'grasp', 'spasm']",True,3
+spawn,"['tales', 'scary', 'swamp', 'spawn']",True,4
+speak,"['tales', 'shape', 'speak']",True,3
+spear,"['tales', 'essay', 'shear', 'spear']",True,4
+speck,"['tales', 'noise', 'sperm', 'speck']",True,4
+speed,"['tales', 'spied', 'speed']",True,3
+spell,"['tales', 'flesh', 'spell']",True,3
+spelt,"['tales', 'style', 'spelt']",True,3
+spend,"['tales', 'noise', 'spend']",True,3
+spent,"['tales', 'zesty', 'guest', 'spent']",True,4
+sperm,"['tales', 'spend', 'sperm']",True,3
+spice,"['tales', 'since', 'spice']",True,3
+spicy,"['tales', 'brush', 'disco', 'spicy']",True,4
+spied,"['tales', 'sheer', 'sinew', 'spied']",True,4
+spiel,"['tales', 'sleek', 'spiel']",True,3
+spike,"['tales', 'score', 'singe', 'seize', 'spike']",True,5
+spiky,"['tales', 'disco', 'brisk', 'spiky']",True,4
+spill,"['tales', 'lousy', 'slick', 'swirl', 'spill']",True,5
+spilt,"['tales', 'lusty', 'stilt', 'spilt']",True,4
+spine,"['tales', 'house', 'scene', 'spine']",True,4
+spiny,"['tales', 'spiny']",True,2
+spire,"['tales', 'score', 'spire']",True,3
+spite,"['tales', 'quest', 'stone', 'spite']",True,4
+splat,"['tales', 'splat']",True,2
+split,"['tales', 'split']",True,2
+spoil,"['tales', 'skill', 'spoil']",True,3
+spoke,"['tales', 'mouse', 'snore', 'scope', 'spoke']",True,5
+spoof,"['tales', 'shiny', 'scrum', 'swoop', 'spook', 'spoof']",True,6
+spook,"['tales', 'using', 'scoop', 'spoof', 'spook']",True,5
+spool,"['tales', 'spool']",True,2
+spoon,"['tales', 'disco', 'shown', 'spoon']",True,4
+spore,"['tales', 'spend', 'spike', 'spore']",True,4
+sport,"['tales', 'visit', 'short', 'snort', 'sport']",True,5
+spout,"['tales', 'south', 'spout']",True,3
+spray,"['tales', 'scuba', 'spank', 'spray']",True,4
+spree,"['tales', 'scree', 'spree']",True,3
+sprig,"['tales', 'sound', 'spicy', 'sprig']",True,4
+spunk,"['tales', 'shiny', 'sound', 'swung', 'skunk', 'spunk']",True,6
+spurn,"['tales', 'disco', 'sunny', 'spurn']",True,4
+spurt,"['tales', 'story', 'spurt']",True,3
+squad,"['tales', 'scary', 'sigma', 'squad']",True,4
+squat,"['tales', 'stand', 'squat']",True,3
+squib,"['tales', 'sunny', 'scour', 'squib']",True,4
+stack,"['tales', 'stand', 'stamp', 'stash', 'staff', 'stack']",True,6
+staff,"['tales', 'stand', 'start', 'stamp', 'staff']",True,5
+stage,"['tales', 'state', 'stave', 'stage']",True,4
+staid,"['tales', 'vista', 'stain', 'staid']",True,4
+stain,"['tales', 'strap', 'stank', 'stain']",True,4
+stair,"['tales', 'staff', 'stain', 'stair']",True,4
+stake,"['tales', 'state', 'stage', 'stave', 'stare', 'stake']",True,6
+stale,"['tales', 'steal', 'stale']",True,3
+stalk,"['tales', 'stall', 'stalk']",True,3
+stall,"['tales', 'shalt', 'stall']",True,3
+stamp,"['tales', 'stand', 'stair', 'stack', 'staff', 'stamp']",True,6
+stand,"['tales', 'vista', 'boast', 'stack', 'staff', 'stamp']",False,6
+stank,"['tales', 'stain', 'stand', 'stank']",True,4
+stare,"['tales', 'steam', 'stave', 'state', 'stage', 'stake']",False,6
+stark,"['tales', 'vista', 'boast', 'staff', 'stamp', 'stank']",False,6
+start,"['tales', 'start']",True,2
+stash,"['tales', 'stray', 'stain', 'staff', 'stack', 'stash']",True,6
+state,"['tales', 'state']",True,2
+stave,"['tales', 'feast', 'stare', 'state', 'stage', 'stave']",True,6
+stead,"['tales', 'stake', 'stead']",True,3
+steak,"['tales', 'steam', 'steak']",True,3
+steal,"['tales', 'least', 'steal']",True,3
+steam,"['tales', 'stare', 'steam']",True,3
+steed,"['tales', 'steep', 'steed']",True,3
+steel,"['tales', 'sleet', 'steel']",True,3
+steep,"['tales', 'steep']",True,2
+steer,"['tales', 'ester', 'steer']",True,3
+stein,"['tales', 'chest', 'stern', 'stein']",True,4
+stern,"['tales', 'exist', 'stern']",True,3
+stick,"['tales', 'south', 'stiff', 'sting', 'stick']",True,5
+stiff,"['tales', 'sport', 'stink', 'stiff']",True,4
+still,"['tales', 'still']",True,2
+stilt,"['tales', 'still', 'stilt']",True,3
+sting,"['tales', 'first', 'smith', 'sting']",True,4
+stink,"['tales', 'story', 'stump', 'stick', 'stink']",True,5
+stint,"['tales', 'study', 'strip', 'sting', 'stink', 'stint']",True,6
+stock,"['tales', 'stock']",True,2
+stoic,"['tales', 'first', 'sting', 'stoic']",True,4
+stoke,"['tales', 'zesty', 'stove', 'store', 'stone', 'stoke']",True,6
+stole,"['tales', 'style', 'stole']",True,3
+stomp,"['tales', 'short', 'stony', 'stomp']",True,4
+stone,"['tales', 'exist', 'stern', 'stone']",True,4
+stony,"['tales', 'study', 'stony']",True,3
+stood,"['tales', 'stock', 'stood']",True,3
+stool,"['tales', 'still', 'stool']",True,3
+stoop,"['tales', 'study', 'stint', 'stock', 'storm', 'stoop']",True,6
+store,"['tales', 'chest', 'zesty', 'store']",True,4
+stork,"['tales', 'rusty', 'short', 'storm', 'stork']",True,5
+storm,"['tales', 'story', 'stork', 'storm']",True,4
+story,"['tales', 'rusty', 'story']",True,3
+stout,"['tales', 'short', 'spout', 'snout', 'scout', 'stout']",True,6
+stove,"['tales', 'guest', 'stove']",True,3
+strap,"['tales', 'stand', 'straw', 'strap']",True,4
+straw,"['tales', 'strap', 'straw']",True,3
+stray,"['tales', 'vista', 'coast', 'straw', 'stray']",True,5
+strip,"['tales', 'south', 'sting', 'strip']",True,4
+strut,"['tales', 'story', 'strip', 'strut']",True,4
+stuck,"['tales', 'visit', 'study', 'stump', 'stuff', 'stung']",False,6
+study,"['tales', 'study']",True,2
+stuff,"['tales', 'story', 'stump', 'stung', 'stuff']",True,5
+stump,"['tales', 'shirt', 'sooty', 'stuff', 'stunk', 'stump']",True,6
+stung,"['tales', 'story', 'stink', 'stung']",True,4
+stunk,"['tales', 'south', 'stuck', 'stunk']",True,4
+stunt,"['tales', 'story', 'stunk', 'stunt']",True,4
+style,"['tales', 'style']",True,2
+suave,"['tales', 'space', 'shake', 'snare', 'suave']",True,5
+sugar,"['tales', 'crash', 'spray', 'sonar', 'sugar']",True,5
+suing,"['tales', 'spiky', 'swish', 'scion', 'suing']",True,5
+suite,"['tales', 'spent', 'smote', 'suite']",True,4
+sulky,"['tales', 'silky', 'sulky']",True,3
+sully,"['tales', 'silly', 'sully']",True,3
+sumac,"['tales', 'scuba', 'sumac']",True,3
+sunny,"['tales', 'sound', 'suing', 'sunny']",True,4
+super,"['tales', 'spree', 'super']",True,3
+surer,"['tales', 'spree', 'siren', 'surer']",True,4
+surge,"['tales', 'score', 'serve', 'surge']",True,4
+surly,"['tales', 'spill', 'surly']",True,3
+sushi,"['tales', 'spiky', 'sonic', 'sushi']",True,4
+swami,"['tales', 'shady', 'scamp', 'swami']",True,4
+swamp,"['tales', 'shaky', 'swami', 'swamp']",True,4
+swarm,"['tales', 'scrap', 'shard', 'swarm']",True,4
+swash,"['tales', 'scuba', 'shady', 'smash', 'swash']",True,5
+swath,"['tales', 'stray', 'shaft', 'swath']",True,4
+swear,"['tales', 'shape', 'sedan', 'swear']",True,4
+sweat,"['tales', 'stare', 'sweat']",True,3
+sweep,"['tales', 'spied', 'sweep']",True,3
+sweet,"['tales', 'upset', 'sweet']",True,3
+swell,"['tales', 'louse', 'spell', 'shell', 'swell']",True,5
+swept,"['tales', 'quest', 'spent', 'swept']",True,4
+swift,"['tales', 'visit', 'moist', 'shirt', 'stint', 'swift']",True,6
+swill,"['tales', 'spool', 'swirl', 'swill']",True,4
+swine,"['tales', 'score', 'seize', 'shine', 'spine', 'swine']",True,6
+swing,"['tales', 'brush', 'spoof', 'swing']",True,4
+swirl,"['tales', 'spill', 'swirl']",True,3
+swish,"['tales', 'brush', 'swish']",True,3
+swoon,"['tales', 'music', 'swoop', 'swoon']",True,4
+swoop,"['tales', 'spiky', 'swoop']",True,3
+sword,"['tales', 'shiny', 'scrub', 'sword']",True,4
+swore,"['tales', 'scope', 'shore', 'snore', 'swore']",True,5
+sworn,"['tales', 'shock', 'snoop', 'sworn']",True,4
+swung,"['tales', 'shock', 'spiny', 'swung']",True,4
+synod,"['tales', 'shiny', 'synod']",True,3
+syrup,"['tales', 'sunny', 'syrup']",True,3
+tabby,"['tales', 'tawny', 'taffy', 'tabby']",True,4
+table,"['tales', 'table']",True,2
+taboo,"['tales', 'taboo']",True,2
+tacit,"['tales', 'tardy', 'tacit']",True,3
+tacky,"['tales', 'taboo', 'taunt', 'tacky']",True,4
+taffy,"['tales', 'taunt', 'tacky', 'tardy', 'tabby', 'taffy']",True,6
+taint,"['tales', 'tardy', 'tango', 'taunt', 'taint']",True,5
+taken,"['tales', 'taker', 'taken']",True,3
+taker,"['tales', 'tamer', 'taper', 'taker']",True,4
+tally,"['tales', 'tally']",True,2
+talon,"['tales', 'talon']",True,2
+tamer,"['tales', 'taper', 'tamer']",True,3
+tango,"['tales', 'tapir', 'tacky', 'taboo', 'tango']",True,5
+tangy,"['tales', 'taunt', 'tangy']",True,3
+taper,"['tales', 'taken', 'tamer', 'taper']",True,4
+tapir,"['tales', 'tawny', 'taboo', 'tacit', 'tapir']",True,5
+tardy,"['tales', 'tacky', 'taffy', 'tawny', 'tabby', 'tatty']",False,6
+tarot,"['tales', 'tango', 'tarot']",True,3
+taste,"['tales', 'taste']",True,2
+tasty,"['tales', 'tasty']",True,2
+tatty,"['tales', 'taunt', 'tatty']",True,3
+taunt,"['tales', 'taboo', 'taffy', 'taunt']",True,4
+tawny,"['tales', 'taunt', 'tawny']",True,3
+teach,"['tales', 'trace', 'teach']",True,3
+teary,"['tales', 'tread', 'teary']",True,3
+tease,"['tales', 'tease']",True,2
+teddy,"['tales', 'their', 'tempo', 'teddy']",True,4
+teeth,"['tales', 'their', 'teeth']",True,3
+tempo,"['tales', 'there', 'tempo']",True,3
+tenet,"['tales', 'thief', 'truer', 'token', 'tenet']",True,5
+tenor,"['tales', 'their', 'tenor']",True,3
+tense,"['tales', 'testy', 'terse', 'tense']",True,4
+tenth,"['tales', 'theme', 'tenth']",True,3
+tepee,"['tales', 'three', 'tepee']",True,3
+tepid,"['tales', 'trice', 'tepid']",True,3
+terra,"['tales', 'theta', 'terra']",True,3
+terse,"['tales', 'tense', 'terse']",True,3
+testy,"['tales', 'testy']",True,2
+thank,"['tales', 'train', 'thank']",True,3
+theft,"['tales', 'theme', 'their', 'theft']",True,4
+their,"['tales', 'truce', 'their']",True,3
+theme,"['tales', 'trice', 'thyme', 'theme']",True,4
+there,"['tales', 'tribe', 'there']",True,3
+these,"['tales', 'terse', 'these']",True,3
+theta,"['tales', 'trade', 'theta']",True,3
+thick,"['tales', 'thick']",True,2
+thief,"['tales', 'threw', 'thief']",True,3
+thigh,"['tales', 'thing', 'thigh']",True,3
+thing,"['tales', 'truck', 'thing']",True,3
+think,"['tales', 'thing', 'think']",True,3
+third,"['tales', 'third']",True,2
+thong,"['tales', 'truck', 'thing', 'thong']",True,4
+thorn,"['tales', 'third', 'thorn']",True,3
+those,"['tales', 'these', 'those']",True,3
+three,"['tales', 'token', 'timer', 'three']",True,4
+threw,"['tales', 'three', 'threw']",True,3
+throb,"['tales', 'touch', 'thorn', 'throw', 'throb']",True,5
+throw,"['tales', 'think', 'throw']",True,3
+thrum,"['tales', 'think', 'thump', 'thrum']",True,4
+thumb,"['tales', 'third', 'thong', 'thumb']",True,4
+thump,"['tales', 'thick', 'thorn', 'thumb', 'thump']",True,5
+thyme,"['tales', 'truce', 'thyme']",True,3
+tiara,"['tales', 'today', 'track', 'tiara']",True,4
+tibia,"['tales', 'tiara', 'tibia']",True,3
+tidal,"['tales', 'tonal', 'tidal']",True,3
+tiger,"['tales', 'tried', 'tiger']",True,3
+tight,"['tales', 'truth', 'tight']",True,3
+tilde,"['tales', 'tilde']",True,2
+timer,"['tales', 'timer']",True,2
+timid,"['tales', 'third', 'timid']",True,3
+tipsy,"['tales', 'trust', 'tipsy']",True,3
+titan,"['tales', 'trait', 'titan']",True,3
+tithe,"['tales', 'trend', 'twice', 'tithe']",True,4
+title,"['tales', 'title']",True,2
+toast,"['tales', 'trash', 'toast']",True,3
+today,"['tales', 'trait', 'tonga', 'today']",True,4
+toddy,"['tales', 'truck', 'tooth', 'toddy']",True,4
+token,"['tales', 'three', 'token']",True,3
+tonal,"['tales', 'trial', 'tonal']",True,3
+tonga,"['tales', 'thank', 'tonga']",True,3
+tonic,"['tales', 'thing', 'toxin', 'tonic']",True,4
+tooth,"['tales', 'third', 'tooth']",True,3
+topaz,"['tales', 'today', 'topaz']",True,3
+topic,"['tales', 'truck', 'topic']",True,3
+torch,"['tales', 'touch', 'torch']",True,3
+torso,"['tales', 'trust', 'torso']",True,3
+torus,"['tales', 'truss', 'torus']",True,3
+total,"['tales', 'trawl', 'tidal', 'tubal', 'total']",True,5
+totem,"['tales', 'tried', 'tepee', 'token', 'totem']",True,5
+touch,"['tales', 'touch']",True,2
+tough,"['tales', 'think', 'touch', 'tough']",True,4
+towel,"['tales', 'towel']",True,2
+tower,"['tales', 'tepee', 'tuber', 'timer', 'tower']",True,5
+toxic,"['tales', 'thick', 'toxic']",True,3
+toxin,"['tales', 'truck', 'tooth', 'toxin']",True,4
+trace,"['tales', 'treat', 'trade', 'trace']",True,4
+track,"['tales', 'thank', 'track']",True,3
+tract,"['tales', 'triad', 'track', 'tract']",True,4
+trade,"['tales', 'trace', 'trade']",True,3
+trail,"['tales', 'tonal', 'trail']",True,3
+train,"['tales', 'trait', 'train']",True,3
+trait,"['tales', 'track', 'tramp', 'train', 'trait']",True,5
+tramp,"['tales', 'today', 'tibia', 'twang', 'track', 'tramp']",True,6
+trash,"['tales', 'toast', 'trash']",True,3
+trawl,"['tales', 'trawl']",True,2
+tread,"['tales', 'terra', 'tread']",True,3
+treat,"['tales', 'terra', 'trace', 'tread', 'treat']",True,5
+trend,"['tales', 'tribe', 'trend']",True,3
+triad,"['tales', 'topaz', 'triad']",True,3
+trial,"['tales', 'trial']",True,2
+tribe,"['tales', 'there', 'tripe', 'tribe']",True,4
+trice,"['tales', 'trice']",True,2
+trick,"['tales', 'think', 'trick']",True,3
+tried,"['tales', 'tiger', 'tried']",True,3
+tripe,"['tales', 'trope', 'tripe']",True,3
+trite,"['tales', 'theme', 'tribe', 'trite']",True,4
+troll,"['tales', 'troll']",True,2
+troop,"['tales', 'touch', 'troop']",True,3
+trope,"['tales', 'tripe', 'trope']",True,3
+trout,"['tales', 'truck', 'trout']",True,3
+trove,"['tales', 'truce', 'tripe', 'trove']",True,4
+truce,"['tales', 'there', 'truce']",True,3
+truck,"['tales', 'think', 'truck']",True,3
+truer,"['tales', 'tower', 'timer', 'tuber', 'truer']",True,5
+truly,"['tales', 'truly']",True,2
+trump,"['tales', 'think', 'trout', 'trump']",True,4
+trunk,"['tales', 'trunk']",True,2
+truss,"['tales', 'truss']",True,2
+trust,"['tales', 'trust']",True,2
+truth,"['tales', 'trunk', 'truth']",True,3
+tryst,"['tales', 'trust', 'tryst']",True,3
+tubal,"['tales', 'tidal', 'tubal']",True,3
+tuber,"['tales', 'three', 'tiger', 'tower', 'tuber']",True,5
+tulip,"['tales', 'tulip']",True,2
+tulle,"['tales', 'tulle']",True,2
+tumor,"['tales', 'think', 'tutor', 'tumor']",True,4
+tunic,"['tales', 'thing', 'tonic', 'tunic']",True,4
+turbo,"['tales', 'thing', 'truck', 'tumor', 'turbo']",True,5
+tutor,"['tales', 'think', 'tutor']",True,3
+twang,"['tales', 'today', 'thank', 'twang']",True,4
+tweak,"['tales', 'treat', 'tweak']",True,3
+tweed,"['tales', 'truer', 'tepee', 'tweed']",True,4
+tweet,"['tales', 'tried', 'tepee', 'tweet']",True,4
+twice,"['tales', 'their', 'twine', 'twice']",True,4
+twine,"['tales', 'trend', 'twine']",True,3
+twirl,"['tales', 'troll', 'twirl']",True,3
+twist,"['tales', 'tipsy', 'twist']",True,3
+twixt,"['tales', 'truth', 'twixt']",True,3
+tying,"['tales', 'thing', 'tying']",True,3
+udder,"['tales', 'video', 'udder']",True,3
+ulcer,"['tales', 'cruel', 'ulcer']",True,3
+ultra,"['tales', 'float', 'ultra']",True,3
+umbra,"['tales', 'china', 'rumba', 'umbra']",True,4
+uncle,"['tales', 'reply', 'guile', 'boule', 'uncle']",True,5
+uncut,"['tales', 'print', 'uncut']",True,3
+under,"['tales', 'index', 'under']",True,3
+undid,"['tales', 'found', 'undid']",True,3
+undue,"['tales', 'every', 'being', 'undue']",True,4
+unfed,"['tales', 'given', 'boney', 'under', 'unfed']",True,5
+unfit,"['tales', 'print', 'unfit']",True,3
+unify,"['tales', 'group', 'chunk', 'undid', 'unify']",True,5
+union,"['tales', 'round', 'union']",True,3
+unite,"['tales', 'piety', 'unite']",True,3
+unity,"['tales', 'month', 'unity']",True,3
+unlit,"['tales', 'unlit']",True,2
+unmet,"['tales', 'greet', 'covet', 'quiet', 'unmet']",True,5
+unset,"['tales', 'steep', 'onset', 'unset']",True,4
+untie,"['tales', 'event', 'untie']",True,3
+until,"['tales', 'cloth', 'quilt', 'until']",True,4
+unwed,"['tales', 'under', 'unfed', 'unwed']",True,4
+unzip,"['tales', 'young', 'punch', 'unzip']",True,4
+upper,"['tales', 'power', 'riper', 'upper']",True,4
+upset,"['tales', 'reset', 'onset', 'upset']",True,4
+urban,"['tales', 'among', 'chain', 'urban']",True,4
+urine,"['tales', 'where', 'grove', 'crime', 'brine', 'urine']",True,6
+usage,"['tales', 'share', 'usage']",True,3
+usher,"['tales', 'scree', 'risen', 'usher']",True,4
+using,"['tales', 'spiky', 'using']",True,3
+usual,"['tales', 'slang', 'usual']",True,3
+usurp,"['tales', 'music', 'spunk', 'usurp']",True,4
+utile,"['tales', 'flute', 'utile']",True,3
+utter,"['tales', 'often', 'meter', 'utter']",True,4
+vague,"['tales', 'cache', 'gauge', 'vague']",True,4
+valet,"['tales', 'valet']",True,2
+valid,"['tales', 'valid']",True,2
+valor,"['tales', 'rally', 'valor']",True,3
+value,"['tales', 'valve', 'value']",True,3
+valve,"['tales', 'value', 'valve']",True,3
+vapid,"['tales', 'randy', 'madam', 'vapid']",True,4
+vapor,"['tales', 'fairy', 'major', 'vapor']",True,4
+vault,"['tales', 'fault', 'vault']",True,3
+vaunt,"['tales', 'patio', 'vaunt']",True,3
+vegan,"['tales', 'reach', 'media', 'kebab', 'vegan']",True,5
+venom,"['tales', 'movie', 'venom']",True,3
+venue,"['tales', 'being', 'wench', 'venue']",True,4
+verge,"['tales', 'query', 'price', 'forge', 'verge']",True,5
+verse,"['tales', 'noise', 'verse']",True,3
+verso,"['tales', 'house', 'verso']",True,3
+verve,"['tales', 'guide', 'chore', 'nerve', 'verve']",True,5
+vicar,"['tales', 'grand', 'borax', 'vicar']",True,4
+video,"['tales', 'under', 'video']",True,3
+vigil,"['tales', 'lucky', 'fling', 'vigil']",True,4
+vigor,"['tales', 'which', 'ninny', 'rigor', 'vigor']",True,5
+villa,"['tales', 'allay', 'villa']",True,3
+vinyl,"['tales', 'lingo', 'vinyl']",True,3
+viola,"['tales', 'viola']",True,2
+viper,"['tales', 'under', 'cheer', 'roger', 'fiber', 'piper']",False,6
+viral,"['tales', 'royal', 'mural', 'viral']",True,4
+virus,"['tales', 'cross', 'virus']",True,3
+visit,"['tales', 'rusty', 'visit']",True,3
+visor,"['tales', 'music', 'fishy', 'visor']",True,4
+vista,"['tales', 'coast', 'stray', 'vista']",True,4
+vital,"['tales', 'adult', 'vital']",True,3
+vivid,"['tales', 'doing', 'vivid']",True,3
+vixen,"['tales', 'money', 'given', 'vixen']",True,4
+vocal,"['tales', 'apply', 'final', 'local', 'vocal']",True,5
+vodka,"['tales', 'china', 'drama', 'vodka']",True,4
+vogue,"['tales', 'every', 'voice', 'vogue']",True,4
+voice,"['tales', 'being', 'voice']",True,3
+voila,"['tales', 'voila']",True,2
+vomit,"['tales', 'photo', 'ingot', 'vomit']",True,4
+voter,"['tales', 'enter', 'otter', 'voter']",True,4
+vouch,"['tales', 'forum', 'cough', 'vouch']",True,4
+vowel,"['tales', 'lower', 'dowel', 'vowel']",True,4
+vying,"['tales', 'going', 'wring', 'vying']",True,4
+wacky,"['tales', 'rainy', 'caddy', 'wacky']",True,4
+wafer,"['tales', 'eager', 'caper', 'rarer', 'waver', 'wafer']",True,6
+wager,"['tales', 'gayer', 'eager', 'wager']",True,4
+wagon,"['tales', 'major', 'canon', 'wagon']",True,4
+waist,"['tales', 'pasty', 'satin', 'waist']",True,4
+waive,"['tales', 'maybe', 'dance', 'gauze', 'waive']",True,5
+waltz,"['tales', 'waltz']",True,2
+warty,"['tales', 'patio', 'jaunt', 'warty']",True,4
+waste,"['tales', 'paste', 'caste', 'waste']",True,4
+watch,"['tales', 'faint', 'batty', 'watch']",True,4
+water,"['tales', 'water']",True,2
+waver,"['tales', 'payer', 'waver']",True,3
+waxen,"['tales', 'baker', 'payee', 'waxen']",True,4
+weary,"['tales', 'cheap', 'ready', 'weary']",True,4
+weave,"['tales', 'media', 'reach', 'weave']",True,4
+wedge,"['tales', 'movie', 'fugue', 'genre', 'wedge']",True,5
+weedy,"['tales', 'phone', 'fiery', 'weedy']",True,4
+weigh,"['tales', 'query', 'being', 'weigh']",True,4
+weird,"['tales', 'phone', 'fiery', 'weird']",True,4
+welch,"['tales', 'belie', 'felon', 'jelly', 'welch']",True,5
+welsh,"['tales', 'welsh']",True,2
+wench,"['tales', 'price', 'check', 'bench', 'wench']",True,5
+whack,"['tales', 'audio', 'gravy', 'whack']",True,4
+whale,"['tales', 'leaky', 'email', 'place', 'whale']",True,5
+wharf,"['tales', 'grand', 'ovary', 'quark', 'charm', 'wharf']",True,6
+wheat,"['tales', 'extra', 'agate', 'wheat']",True,4
+wheel,"['tales', 'model', 'level', 'kneel', 'wheel']",True,5
+whelp,"['tales', 'lunge', 'elbow', 'whelp']",True,4
+where,"['tales', 'price', 'where']",True,3
+which,"['tales', 'forum', 'dying', 'chick', 'which']",True,5
+whiff,"['tales', 'round', 'fizzy', 'whiff']",True,4
+while,"['tales', 'boule', 'while']",True,3
+whine,"['tales', 'where', 'whine']",True,3
+whiny,"['tales', 'round', 'whiny']",True,3
+whirl,"['tales', 'would', 'whirl']",True,3
+whisk,"['tales', 'sound', 'crisp', 'whisk']",True,4
+white,"['tales', 'entry', 'quote', 'white']",True,4
+whole,"['tales', 'newly', 'dwell', 'whole']",True,4
+whoop,"['tales', 'doing', 'crook', 'whoop']",True,4
+whose,"['tales', 'house', 'chose', 'whose']",True,4
+widen,"['tales', 'given', 'ripen', 'widen']",True,4
+wider,"['tales', 'power', 'wider']",True,3
+widow,"['tales', 'quick', 'windy', 'widow']",True,4
+width,"['tales', 'worth', 'width']",True,3
+wield,"['tales', 'reply', 'field', 'wield']",True,4
+wight,"['tales', 'print', 'bigot', 'might', 'fight', 'wight']",True,6
+willy,"['tales', 'gully', 'folly', 'hilly', 'billy', 'dilly']",False,6
+wimpy,"['tales', 'quick', 'irony', 'biddy', 'wimpy']",True,5
+wince,"['tales', 'being', 'niche', 'mince', 'wince']",True,5
+winch,"['tales', 'which', 'winch']",True,3
+windy,"['tales', 'group', 'ninny', 'windy']",True,4
+wiser,"['tales', 'shied', 'riser', 'miser', 'wiser']",True,5
+wispy,"['tales', 'sunny', 'mossy', 'risky', 'wispy']",True,5
+witch,"['tales', 'photo', 'itchy', 'ditch', 'hitch', 'witch']",True,6
+witty,"['tales', 'month', 'witty']",True,3
+woken,"['tales', 'given', 'woken']",True,3
+woman,"['tales', 'grand', 'woman']",True,3
+women,"['tales', 'money', 'women']",True,3
+woody,"['tales', 'young', 'rowdy', 'woody']",True,4
+wooer,"['tales', 'index', 'offer', 'power', 'wooer']",True,5
+wooly,"['tales', 'child', 'knoll', 'wooly']",True,4
+woozy,"['tales', 'forum', 'goody', 'booby', 'woozy']",True,5
+wordy,"['tales', 'group', 'dowry', 'wordy']",True,4
+world,"['tales', 'could', 'world']",True,3
+worry,"['tales', 'which', 'wrung', 'wordy', 'worry']",True,5
+worse,"['tales', 'shore', 'worse']",True,3
+worst,"['tales', 'short', 'worst']",True,3
+worth,"['tales', 'photo', 'month', 'forth', 'worth']",True,5
+would,"['tales', 'would']",True,2
+wound,"['tales', 'quick', 'bound', 'found', 'round', 'hound']",False,6
+woven,"['tales', 'video', 'mover', 'coven', 'woven']",True,5
+wrack,"['tales', 'human', 'diary', 'crack', 'wrack']",True,5
+wrath,"['tales', 'aunty', 'wrath']",True,3
+wreak,"['tales', 'media', 'cheap', 'freak', 'break', 'wreak']",True,6
+wreck,"['tales', 'being', 'every', 'wreck']",True,4
+wrest,"['tales', 'zesty', 'stove', 'crest', 'wrest']",True,5
+wring,"['tales', 'group', 'bring', 'wring']",True,4
+wrist,"['tales', 'south', 'visit', 'wrist']",True,4
+write,"['tales', 'quite', 'white', 'write']",True,4
+wrong,"['tales', 'bring', 'wrong']",True,3
+wrote,"['tales', 'entry', 'write', 'wrote']",True,4
+wrung,"['tales', 'forum', 'drunk', 'wrung']",True,4
+wryly,"['tales', 'child', 'wryly']",True,3
+yacht,"['tales', 'ratio', 'gaunt', 'yacht']",True,4
+yearn,"['tales', 'image', 'beach', 'yearn']",True,4
+yeast,"['tales', 'state', 'yeast']",True,3
+yield,"['tales', 'guile', 'wield', 'yield']",True,4
+young,"['tales', 'round', 'young']",True,3
+youth,"['tales', 'point', 'booth', 'youth']",True,4
+zebra,"['tales', 'grade', 'rebar', 'zebra']",True,4
+zesty,"['tales', 'stone', 'quest', 'zesty']",True,4
+zonal,"['tales', 'royal', 'local', 'modal', 'zonal']",True,5

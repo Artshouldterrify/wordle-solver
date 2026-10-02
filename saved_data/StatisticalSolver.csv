@@ -1,0 +1,2316 @@
+solution_word,guess_list,is_solved,n_guesses
+aback,"['would', 'games', 'chain', 'brack', 'aback']",True,5
+abase,"['their', 'money', 'cause', 'blase', 'abase']",True,5
+abate,"['there', 'acute', 'agate', 'abate']",True,4
+abbey,"['other', 'files', 'paved', 'abbey']",True,4
+abbot,"['their', 'coast', 'allot', 'afoot', 'abbot']",True,5
+abhor,"['which', 'hotel', 'abhor']",True,3
+abide,"['click', 'point', 'swiss', 'hairy', 'amiga', 'abide']",True,6
+abled,"['their', 'sales', 'alley', 'abled']",True,4
+abode,"['would', 'adopt', 'anode', 'abode']",True,4
+abort,"['other', 'court', 'snort', 'amort', 'abort']",True,5
+about,['about'],True,1
+above,"['price', 'above']",True,2
+abuse,"['first', 'abuse']",True,2
+abyss,"['price', 'found', 'balls', 'swabs', 'abyss']",True,5
+acorn,"['there', 'doors', 'ivory', 'agora', 'acorn']",True,5
+acrid,"['these', 'local', 'cabin', 'acrid']",True,4
+actor,"['first', 'water', 'attar', 'actor']",True,4
+acute,"['these', 'plate', 'waite', 'acute']",True,4
+adage,"['first', 'local', 'added', 'adage']",True,4
+adapt,"['there', 'stock', 'built', 'adapt']",True,4
+adept,"['would', 'trade', 'adept']",True,3
+admin,"['first', 'email', 'hakim', 'admin']",True,4
+admit,"['other', 'built', 'pipit', 'davit', 'admit']",True,5
+adobe,"['first', 'level', 'check', 'enjoy', 'dodge', 'adobe']",True,6
+adopt,"['price', 'alpha', 'adopt']",True,3
+adore,"['their', 'rules', 'prove', 'adore']",True,4
+adorn,"['their', 'words', 'brood', 'adorn']",True,4
+adult,"['there', 'staff', 'about', 'adult']",True,4
+affix,"['their', 'music', 'again', 'avoid', 'affix']",True,5
+afire,"['about', 'admin', 'arias', 'afire']",True,4
+afoot,"['their', 'coast', 'adopt', 'aloft', 'afoot']",True,5
+afoul,"['about', 'afoul']",True,2
+after,"['about', 'alter', 'apter', 'aster', 'after']",True,5
+again,"['their', 'login', 'again']",True,3
+agape,"['which', 'about', 'angel', 'agers', 'agave', 'agape']",True,6
+agate,"['these', 'flute', 'bitte', 'agate']",True,4
+agent,"['their', 'steam', 'adept', 'agent']",True,4
+agile,"['there', 'guide', 'agile']",True,3
+aging,"['would', 'there', 'picks', 'avian', 'axing', 'aging']",True,6
+aglow,"['there', 'books', 'amino', 'allow', 'aglow']",True,5
+agony,"['these', 'would', 'mayor', 'gyoza', 'agony']",True,5
+agora,"['about', 'agony', 'agood', 'agora']",True,4
+agree,"['there', 'nerve', 'eyrie', 'spree', 'agree']",True,5
+ahead,"['which', 'photo', 'share', 'ahead']",True,4
+aider,"['other', 'under', 'sider', 'aider']",True,4
+aisle,"['would', 'reply', 'cable', 'aisle']",True,4
+alarm,"['these', 'local', 'plain', 'flamm', 'alarm']",True,5
+album,"['there', 'using', 'awful', 'album']",True,4
+alert,"['about', 'avant', 'aglet', 'alert']",True,4
+algae,"['click', 'plans', 'alert', 'albee', 'algae']",True,5
+alibi,"['these', 'board', 'unban', 'limba', 'alibi']",True,5
+alien,"['their', 'miles', 'flied', 'alien']",True,4
+align,"['these', 'click', 'fling', 'align']",True,4
+alike,"['which', 'still', 'glide', 'aline', 'alike']",True,5
+alive,"['there', 'close', 'plane', 'alive']",True,4
+allay,"['their', 'young', 'kayak', 'allay']",True,4
+alley,"['would', 'level', 'iller', 'alley']",True,4
+allot,"['which', 'about', 'allot']",True,3
+allow,"['their', 'class', 'aloud', 'alloy', 'allow']",True,5
+alloy,"['these', 'world', 'cloak', 'llano', 'alloy']",True,5
+aloft,"['about', 'adopt', 'amort', 'aloft']",True,4
+alone,"['these', 'above', 'anode', 'axone', 'alone']",True,5
+along,"['there', 'links', 'naval', 'bland', 'along']",True,5
+aloof,"['these', 'click', 'glory', 'blown', 'aloud', 'aloof']",True,6
+aloud,"['other', 'found', 'aloud']",True,3
+alpha,"['price', 'shops', 'alpha']",True,3
+altar,"['their', 'motor', 'attar', 'antar', 'altar']",True,5
+alter,"['first', 'enter', 'later', 'alter']",True,4
+amass,"['price', 'tools', 'bands', 'aways', 'amass']",True,5
+amaze,"['there', 'space', 'glade', 'knave', 'amaze']",True,5
+amber,"['about', 'albee', 'amber']",True,3
+amble,"['first', 'place', 'eagle', 'azole', 'ankle', 'amble']",True,6
+amend,"['these', 'dream', 'amend']",True,3
+amiss,"['about', 'added', 'alpha', 'amiss']",True,4
+amity,"['which', 'going', 'daily', 'amity']",True,4
+among,"['first', 'place', 'gamma', 'among']",True,4
+ample,"['about', 'apple', 'ample']",True,3
+amply,"['other', 'click', 'fully', 'badly', 'apply', 'amply']",True,6
+amuse,"['click', 'about', 'anura', 'amuse']",True,4
+angel,"['price', 'games', 'angel']",True,3
+anger,"['their', 'error', 'upper', 'amber', 'acker', 'alder']",False,6
+angle,"['about', 'agree', 'angle']",True,3
+angry,"['their', 'works', 'alarm', 'angry']",True,4
+angst,"['about', 'asset', 'angst']",True,3
+anime,"['their', 'index', 'anise', 'anime']",True,4
+ankle,"['price', 'above', 'angle', 'anele', 'ankle']",True,5
+annex,"['other', 'sales', 'aided', 'apnea', 'annex']",True,5
+annoy,"['price', 'found', 'anglo', 'anomy', 'annoy']",True,5
+annul,"['there', 'using', 'fundy', 'annul']",True,4
+anode,"['would', 'video', 'anode']",True,3
+antic,"['other', 'visit', 'lytic', 'antic']",True,4
+anvil,"['price', 'until', 'snail', 'anvil']",True,4
+aorta,"['which', 'after', 'abort', 'aorta']",True,4
+apart,"['first', 'tract', 'apart']",True,3
+aphid,"['about', 'apply', 'aphid']",True,3
+aping,"['other', 'class', 'pizza', 'aping']",True,4
+apnea,"['price', 'spend', 'apnea']",True,3
+apple,"['these', 'guide', 'cable', 'apple']",True,4
+apply,"['these', 'click', 'moral', 'wally', 'apply']",True,5
+apron,"['click', 'state', 'japan', 'apron']",True,4
+aptly,"['other', 'lists', 'butyl', 'aptly']",True,4
+arbor,"['these', 'local', 'amino', 'arroz', 'ardor', 'arbor']",True,6
+ardor,"['other', 'prior', 'ardor']",True,3
+arena,"['there', 'clear', 'arena']",True,3
+argue,"['first', 'board', 'ranch', 'alvar', 'argue']",True,5
+arise,"['about', 'apply', 'added', 'aware', 'aerie', 'arise']",True,6
+armor,"['other', 'solar', 'payor', 'arbor', 'ardor', 'armor']",True,6
+aroma,"['there', 'world', 'proof', 'irony', 'crocs', 'aroma']",True,6
+arose,"['other', 'xerox', 'grove', 'crore', 'drome', 'prose']",False,6
+array,"['their', 'brand', 'array']",True,3
+arrow,"['which', 'below', 'arrow']",True,3
+arson,"['these', 'links', 'sauna', 'arson']",True,4
+artsy,"['would', 'there', 'party', 'artsy']",True,4
+ascot,"['would', 'above', 'armor', 'annoy', 'agios', 'ascot']",True,6
+ashen,"['there', 'hopes', 'ashen']",True,3
+aside,"['other', 'field', 'denim', 'azide', 'aside']",True,5
+askew,"['click', 'known', 'waked', 'askew']",True,4
+assay,"['other', 'black', 'gamma', 'avian', 'assay']",True,5
+asset,"['other', 'times', 'sated', 'asset']",True,4
+atoll,"['price', 'shall', 'atoll']",True,3
+atone,"['their', 'notes', 'cento', 'atone']",True,4
+attic,"['other', 'stats', 'attic']",True,3
+audio,"['about', 'audio']",True,2
+audit,"['price', 'login', 'mafia', 'quais', 'audit']",True,5
+augur,"['their', 'major', 'lunar', 'augur']",True,4
+aunty,"['first', 'today', 'natty', 'aunty']",True,4
+avail,"['first', 'while', 'polio', 'claim', 'avail']",True,5
+avert,"['these', 'avert']",True,2
+avian,"['price', 'going', 'naiad', 'avian']",True,4
+avoid,"['which', 'sites', 'radio', 'avoid']",True,4
+await,"['about', 'asset', 'admit', 'await']",True,4
+awake,"['there', 'above', 'ample', 'awake']",True,4
+award,"['there', 'award']",True,2
+aware,"['about', 'areas', 'aware']",True,3
+awash,"['click', 'after', 'abbas', 'asana', 'awash']",True,5
+awful,"['their', 'young', 'pulls', 'album', 'awful']",True,5
+awoke,"['their', 'based', 'plane', 'awoke']",True,4
+axial,"['about', 'asked', 'avian', 'axial']",True,4
+axiom,"['first', 'which', 'build', 'amiga', 'axiom']",True,5
+axion,"['their', 'using', 'onion', 'avion', 'axion']",True,5
+azure,"['there', 'score', 'fibre', 'padre', 'quare', 'azure']",True,6
+bacon,"['about', 'vocab', 'bacon']",True,3
+badge,"['click', 'after', 'maybe', 'badge']",True,4
+badly,"['other', 'using', 'clamp', 'wally', 'badly']",True,5
+bagel,"['would', 'large', 'gales', 'bagel']",True,4
+baggy,"['would', 'price', 'thank', 'abbas', 'baggy']",True,5
+baker,"['these', 'women', 'fixed', 'upper', 'razer', 'layer']",False,6
+baler,"['first', 'board', 'baler']",True,3
+balmy,"['price', 'total', 'walls', 'balmy']",True,4
+banal,"['which', 'years', 'fault', 'naval', 'banal']",True,5
+banjo,"['first', 'local', 'mambo', 'banjo']",True,4
+barge,"['about', 'based', 'baize', 'barge']",True,4
+baron,"['price', 'major', 'tarot', 'baron']",True,4
+basal,"['there', 'black', 'basal']",True,3
+basic,"['there', 'books', 'bassi', 'basil', 'basin', 'basic']",True,6
+basil,"['would', 'level', 'trail', 'basil']",True,4
+basin,"['would', 'items', 'spicy', 'bassi', 'basin']",True,5
+basis,"['other', 'links', 'swiss', 'basis']",True,4
+baste,"['about', 'bates', 'baste']",True,3
+batch,"['these', 'right', 'mouth', 'watch', 'batch']",True,5
+bathe,"['price', 'state', 'taube', 'bathe']",True,4
+baton,"['click', 'state', 'taboo', 'baton']",True,4
+batty,"['would', 'price', 'manga', 'batty']",True,4
+bawdy,"['click', 'order', 'stand', 'daffy', 'bawdy']",True,5
+bayou,"['price', 'total', 'mambo', 'bayou']",True,4
+beach,"['about', 'brand', 'blame', 'beach']",True,4
+beady,"['these', 'order', 'debug', 'bendy', 'beady']",True,5
+beard,"['click', 'group', 'three', 'wears', 'beard']",True,5
+beast,"['other', 'quite', 'meant', 'feast', 'least', 'beast']",True,6
+beech,"['would', 'games', 'entry', 'kibbe', 'beech']",True,5
+beefy,"['their', 'sleep', 'enemy', 'beefy']",True,4
+befit,"['about', 'debit', 'befit']",True,3
+began,"['first', 'check', 'women', 'begun', 'began']",True,5
+begat,"['their', 'often', 'style', 'exact', 'begat']",True,5
+beget,"['would', 'years', 'being', 'beget']",True,4
+begin,"['about', 'blind', 'binge', 'begin']",True,4
+begun,"['their', 'games', 'peggy', 'begun']",True,4
+being,"['click', 'point', 'bring', 'being']",True,4
+belch,"['their', 'holes', 'belch']",True,3
+belie,"['about', 'bible', 'belie']",True,3
+belle,"['first', 'money', 'apple', 'belle']",True,4
+belly,"['their', 'based', 'bonne', 'begum', 'belly']",True,5
+below,"['which', 'lower', 'below']",True,3
+bench,"['there', 'beach', 'belch', 'bench']",True,4
+beret,"['other', 'tries', 'egret', 'beret']",True,4
+berry,"['there', 'ferry', 'perry', 'verry', 'jerry', 'merry']",False,6
+berth,"['there', 'earth', 'berth']",True,3
+beset,"['price', 'women', 'takes', 'beset']",True,4
+betel,"['their', 'state', 'duvet', 'often', 'betel']",True,5
+bevel,"['first', 'check', 'leave', 'devel', 'bevel']",True,5
+bezel,"['price', 'legal', 'betel', 'bevel', 'bedel', 'bezel']",True,6
+bible,"['would', 'small', 'chili', 'bible']",True,4
+bicep,"['would', 'items', 'brief', 'bicep']",True,4
+biddy,"['click', 'times', 'rigid', 'divan', 'biddy']",True,5
+bigot,"['first', 'night', 'digit', 'gigot', 'bigot']",True,5
+bilge,"['would', 'level', 'flame', 'kylie', 'bilge']",True,5
+billy,"['their', 'links', 'dimly', 'gilly', 'filly', 'willy']",False,6
+binge,"['their', 'issue', 'voice', 'midge', 'binge']",True,5
+bingo,"['would', 'story', 'amino', 'jingo', 'bingo']",True,5
+biome,"['these', 'place', 'judge', 'fibre', 'biome']",True,5
+birch,"['about', 'billy', 'bicep', 'birch']",True,4
+birth,"['would', 'first', 'mirth', 'birth']",True,4
+bison,"['would', 'phone', 'canon', 'bison']",True,4
+bitty,"['other', 'saint', 'fifty', 'bitty']",True,4
+black,"['click', 'alack', 'black']",True,3
+blade,"['first', 'could', 'baldy', 'blade']",True,4
+blame,"['price', 'style', 'value', 'flake', 'alane', 'blade']",False,6
+bland,"['their', 'found', 'bland']",True,3
+blank,"['price', 'today', 'album', 'slabs', 'blank']",True,5
+blare,"['there', 'flare', 'glare', 'blare']",True,4
+blast,"['about', 'habit', 'blatt', 'blast']",True,4
+blaze,"['would', 'links', 'pearl', 'blaze']",True,4
+bleak,"['first', 'could', 'wheel', 'plena', 'bleak']",True,5
+bleat,"['there', 'items', 'bleat']",True,3
+bleed,"['which', 'after', 'ended', 'bleed']",True,4
+bleep,"['would', 'class', 'flirt', 'bleep']",True,4
+blend,"['these', 'query', 'amend', 'blend']",True,4
+bless,"['click', 'glass', 'bless']",True,3
+blimp,"['which', 'being', 'boils', 'blimp']",True,4
+blind,"['which', 'using', 'flint', 'aline', 'plink', 'blind']",True,6
+blink,"['there', 'local', 'milfs', 'pling', 'blink']",True,5
+bliss,"['there', 'could', 'final', 'kylix', 'blimp', 'bliss']",True,6
+blitz,"['first', 'thing', 'waite', 'blitz']",True,4
+bloat,"['about', 'bloat']",True,2
+block,"['there', 'books', 'block']",True,3
+bloke,"['these', 'large', 'olive', 'cloze', 'bloke']",True,5
+blond,"['would', 'sloid', 'flood', 'blond']",True,4
+blood,"['price', 'total', 'blogs', 'bloom', 'blood']",True,5
+bloom,"['other', 'could', 'nylon', 'limos', 'bloom']",True,5
+blown,"['these', 'could', 'flora', 'bloom', 'blown']",True,5
+bluer,"['click', 'plant', 'floor', 'elder', 'bluer']",True,5
+bluff,"['their', 'black', 'blows', 'bluff']",True,4
+blunt,"['would', 'sluts', 'blunt']",True,3
+blurb,"['these', 'board', 'blurb']",True,3
+blurt,"['there', 'smart', 'poort', 'blurt']",True,4
+blush,"['their', 'yahoo', 'blush']",True,3
+board,"['would', 'bored', 'board']",True,3
+boast,"['about', 'sabot', 'boast']",True,3
+bobby,"['there', 'local', 'going', 'boobs', 'bobby']",True,5
+boney,"['these', 'money', 'boney']",True,3
+bongo,"['first', 'phone', 'colon', 'mongo', 'bongo']",True,5
+bonus,"['about', 'bonus']",True,2
+booby,"['their', 'young', 'moody', 'kooky', 'boozy', 'booby']",True,6
+boost,"['about', 'boost']",True,2
+booth,"['these', 'worth', 'month', 'booth']",True,4
+booty,"['click', 'years', 'booty']",True,3
+booze,"['price', 'whole', 'stone', 'abode', 'booze']",True,5
+boozy,"['there', 'black', 'bound', 'bombs', 'boffo', 'boogy']",False,6
+borax,"['which', 'under', 'start', 'karma', 'foray', 'loral']",False,6
+borne,"['click', 'order', 'euros', 'forte', 'gorge', 'morne']",False,6
+bosom,"['click', 'after', 'buddy', 'boobs', 'bosom']",True,5
+bossy,"['these', 'gross', 'mossy', 'bossy']",True,4
+botch,"['which', 'catch', 'vetch', 'dutch', 'notch', 'gotch']",False,6
+bough,"['would', 'touch', 'hough', 'rough', 'bough']",True,5
+boule,"['about', 'burro', 'bouse', 'boule']",True,4
+bound,"['price', 'total', 'foods', 'doggy', 'wound', 'bound']",True,6
+bowel,"['other', 'comes', 'zoned', 'vowel', 'bowel']",True,5
+boxer,"['which', 'years', 'route', 'borer', 'boner', 'boxer']",True,6
+brace,"['about', 'maybe', 'blare', 'braze', 'brane', 'brake']",False,6
+braid,"['these', 'group', 'drawn', 'braid']",True,4
+brain,"['there', 'girls', 'rabbi', 'brain']",True,4
+brake,"['which', 'order', 'grave', 'erase', 'braze', 'brame']",False,6
+brand,"['price', 'wrong', 'drank', 'brand']",True,4
+brash,"['about', 'maybe', 'libra', 'brash']",True,4
+brass,"['first', 'crush', 'dress', 'gross', 'brass']",True,5
+brave,"['first', 'board', 'brake', 'brame', 'brave']",True,5
+bravo,"['click', 'there', 'brand', 'bravo']",True,4
+brawl,"['first', 'power', 'wrack', 'drawl', 'brawl']",True,5
+brawn,"['first', 'reply', 'board', 'brawn']",True,4
+bread,"['price', 'trees', 'freak', 'areal', 'dread', 'bread']",True,6
+break,"['these', 'opera', 'wreak', 'break']",True,4
+breed,"['would', 'rated', 'breed']",True,3
+briar,"['about', 'based', 'brawn', 'briar']",True,4
+bribe,"['these', 'drive', 'prize', 'urine', 'bribe']",True,5
+brick,"['there', 'cards', 'occur', 'prick', 'brick']",True,5
+bride,"['which', 'still', 'guide', 'bride']",True,4
+brief,"['their', 'pride', 'erics', 'grief', 'brief']",True,5
+brine,"['first', 'bring', 'briny', 'brink', 'brine']",True,5
+bring,"['other', 'award', 'rings', 'bring']",True,4
+brink,"['price', 'bring', 'brink']",True,3
+briny,"['other', 'bring', 'brink', 'briny']",True,4
+brisk,"['about', 'bring', 'briss', 'brisk']",True,4
+broad,"['click', 'group', 'arose', 'trona', 'broad']",True,5
+broil,"['first', 'crime', 'braid', 'broil']",True,4
+broke,"['there', 'crime', 'broke']",True,3
+brood,"['first', 'order', 'droog', 'brood']",True,4
+brook,"['click', 'break', 'brook']",True,3
+broom,"['click', 'these', 'major', 'vroom', 'groom', 'broom']",True,6
+broth,"['other', 'broth']",True,2
+brown,"['price', 'front', 'drown', 'grown', 'brown']",True,5
+brunt,"['which', 'state', 'truly', 'grunt', 'brunt']",True,5
+brush,"['there', 'graph', 'broch', 'brush']",True,4
+brute,"['first', 'water', 'trope', 'brute']",True,4
+buddy,"['price', 'about', 'blush', 'bundy', 'buddy']",True,5
+budge,"['there', 'value', 'coupe', 'nudie', 'mudge', 'budge']",True,6
+buggy,"['their', 'class', 'buddy', 'bungy', 'buggy']",True,5
+bugle,"['other', 'value', 'blume', 'bugle']",True,4
+build,"['would', 'guild', 'build']",True,3
+built,"['their', 'built']",True,2
+bulge,"['first', 'could', 'lunge', 'bulge']",True,4
+bulky,"['these', 'local', 'blind', 'burly', 'bulky']",True,5
+bully,"['there', 'would', 'gully', 'fully', 'bully']",True,5
+bunch,"['would', 'quite', 'sucks', 'curvy', 'hunch', 'punch']",False,6
+bunny,"['other', 'final', 'dunks', 'bunny']",True,4
+burly,"['click', 'tools', 'early', 'burly']",True,4
+burnt,"['click', 'order', 'party', 'turns', 'burnt']",True,5
+burst,"['these', 'worst', 'karst', 'burst']",True,4
+bused,"['price', 'sales', 'nosey', 'beset', 'bused']",True,5
+bushy,"['these', 'hours', 'sulph', 'mushy', 'cushy', 'bushy']",True,6
+butch,"['about', 'butyl', 'butte', 'butch']",True,4
+butte,"['which', 'after', 'petty', 'butte']",True,4
+buxom,"['first', 'place', 'buddy', 'buxom']",True,4
+buyer,"['there', 'rules', 'purer', 'auger', 'buyer']",True,5
+bylaw,"['their', 'local', 'alway', 'bylaw']",True,4
+cabal,"['first', 'local', 'canal', 'cabal']",True,4
+cabby,"['first', 'level', 'woman', 'gabba', 'cabby']",True,5
+cabin,"['price', 'basic', 'cabin']",True,3
+cable,"['price', 'close', 'cycle', 'cable']",True,4
+cacao,"['click', 'cycas', 'cacao']",True,3
+cache,"['other', 'check', 'cache']",True,3
+cacti,"['which', 'basic', 'capri', 'cacti']",True,4
+caddy,"['which', 'could', 'cadet', 'caddy']",True,4
+cadet,"['click', 'cards', 'caged', 'cadet']",True,4
+cagey,"['click', 'comes', 'cured', 'capex', 'cagey']",True,5
+cairn,"['price', 'caird', 'cairn']",True,3
+camel,"['there', 'being', 'added', 'waves', 'mazey', 'camel']",True,6
+cameo,"['there', 'pages', 'laden', 'cameo']",True,4
+canal,"['about', 'place', 'lilac', 'canal']",True,4
+candy,"['about', 'pages', 'daily', 'waddy', 'handy', 'candy']",True,6
+canny,"['click', 'costs', 'charm', 'capex', 'caddy', 'canny']",True,6
+canoe,"['price', 'chase', 'calve', 'canoe']",True,4
+canon,"['these', 'click', 'carry', 'campo', 'cajon', 'canon']",True,6
+caper,"['which', 'costs', 'clear', 'caper']",True,4
+caput,"['these', 'front', 'adapt', 'caput']",True,4
+carat,"['there', 'draft', 'carat']",True,3
+cargo,"['there', 'forum', 'arrow', 'carbo', 'cargo']",True,5
+carol,"['first', 'porno', 'error', 'carol']",True,4
+carry,"['their', 'world', 'carry']",True,3
+carve,"['click', 'cross', 'cheer', 'carve']",True,4
+caste,"['first', 'study', 'posts', 'testa', 'baste', 'haste']",False,6
+catch,"['there', 'patch', 'match', 'batch', 'catch']",True,5
+cater,"['their', 'alter', 'rater', 'mater', 'gater', 'eater']",False,6
+catty,"['click', 'cause', 'cargo', 'canty', 'catty']",True,5
+caulk,"['their', 'could', 'caulk']",True,3
+cause,"['would', 'sauce', 'cause']",True,3
+cavil,"['click', 'cavil']",True,2
+cease,"['price', 'acute', 'cache', 'clade', 'cease']",True,5
+cedar,"['would', 'drive', 'ender', 'cedar']",True,4
+cello,"['about', 'women', 'pesos', 'helio', 'jello', 'cello']",True,6
+chafe,"['click', 'coast', 'cramp', 'chang', 'chaff', 'chafe']",True,6
+chaff,"['price', 'calls', 'conga', 'chaff']",True,4
+chain,"['first', 'click', 'campi', 'cobia', 'chain']",True,5
+chair,"['about', 'image', 'chain', 'chair']",True,4
+chalk,"['their', 'shown', 'champ', 'chalk']",True,4
+champ,"['click', 'cause', 'chart', 'champ']",True,4
+chant,"['about', 'saint', 'plant', 'chant']",True,4
+chaos,"['which', 'chose', 'chaos']",True,3
+chard,"['other', 'crash', 'chara', 'chard']",True,4
+charm,"['their', 'shark', 'chard', 'chara', 'charm']",True,5
+chart,"['would', 'price', 'scary', 'charr', 'chara', 'chart']",True,6
+chase,"['price', 'close', 'cause', 'cease', 'chase']",True,5
+chasm,"['these', 'whisk', 'chasm']",True,3
+cheap,"['about', 'games', 'clear', 'cheap']",True,4
+cheat,"['which', 'cheap', 'cheat']",True,3
+check,"['these', 'wheal', 'chemo', 'check']",True,4
+cheek,"['would', 'there', 'cheek']",True,3
+cheer,"['there', 'sheer', 'cheer']",True,3
+chess,"['about', 'index', 'weeks', 'cress', 'chess']",True,5
+chest,"['other', 'theme', 'chest']",True,3
+chick,"['click', 'crick', 'chick']",True,3
+chide,"['these', 'chile', 'chine', 'chide']",True,4
+chief,"['there', 'chief']",True,2
+child,"['other', 'child']",True,2
+chili,"['price', 'cliff', 'child', 'chill', 'chili']",True,5
+chill,"['their', 'chill']",True,2
+chime,"['would', 'these', 'rhyne', 'chace', 'chime']",True,5
+china,"['there', 'shock', 'child', 'chimp', 'china']",True,5
+chirp,"['about', 'which', 'chili', 'chive', 'chiks', 'chirp']",True,6
+chock,"['price', 'watch', 'choco', 'chocs', 'chock']",True,5
+choir,"['about', 'shown', 'chomp', 'chord', 'choir']",True,5
+choke,"['which', 'chart', 'chefs', 'choke']",True,4
+chord,"['click', 'court', 'chord']",True,3
+chore,"['about', 'whole', 'shope', 'choke', 'chore']",True,5
+chose,"['click', 'costs', 'chose']",True,3
+chuck,"['other', 'chain', 'chums', 'chuck']",True,4
+chump,"['these', 'child', 'chunk', 'chump']",True,4
+chunk,"['these', 'which', 'chunk']",True,3
+churn,"['there', 'chard', 'chirk', 'churn']",True,4
+chute,"['which', 'chest', 'chute']",True,3
+cider,"['price', 'cider']",True,2
+cigar,"['which', 'comic', 'cited', 'cigar']",True,4
+cinch,"['which', 'bitch', 'cinch']",True,3
+circa,"['click', 'cisco', 'circa']",True,3
+civic,"['first', 'lived', 'bivvy', 'civic']",True,4
+civil,"['other', 'final', 'civil']",True,3
+clack,"['price', 'catch', 'clack']",True,3
+claim,"['price', 'civil', 'colin', 'claim']",True,4
+clamp,"['would', 'learn', 'flats', 'clack', 'clamp']",True,5
+clang,"['price', 'canon', 'clank', 'clans', 'clang']",True,5
+clank,"['which', 'cover', 'clubs', 'clang', 'clank']",True,5
+clash,"['their', 'hands', 'quash', 'swash', 'clash']",True,5
+clasp,"['about', 'image', 'plans', 'clasp']",True,4
+class,"['click', 'class']",True,2
+clean,"['there', 'specs', 'oleic', 'clean']",True,4
+clear,"['about', 'media', 'share', 'paper', 'eggar', 'clear']",True,6
+cleat,"['would', 'level', 'clear', 'cleat']",True,4
+cleft,"['there', 'steps', 'bleat', 'cleft']",True,4
+clerk,"['would', 'class', 'cliff', 'clerk']",True,4
+click,"['price', 'flick', 'slick', 'click']",True,4
+cliff,"['these', 'group', 'valid', 'cliff']",True,4
+climb,"['would', 'links', 'cliff', 'climb']",True,4
+cling,"['first', 'movie', 'child', 'click', 'cling']",True,5
+clink,"['other', 'small', 'blind', 'cling', 'clink']",True,5
+cloak,"['these', 'group', 'knock', 'cloak']",True,4
+clock,"['there', 'black', 'cluck', 'clock']",True,4
+clone,"['about', 'close', 'clone']",True,3
+close,"['about', 'known', 'rooms', 'spoil', 'close']",True,5
+cloth,"['which', 'cough', 'cloth']",True,3
+cloud,"['would', 'aloud', 'cloud']",True,3
+clout,"['these', 'input', 'clout']",True,3
+clove,"['there', 'since', 'cable', 'cloke', 'cloze', 'clove']",True,6
+clown,"['about', 'close', 'cloop', 'clock', 'clown']",True,5
+cluck,"['their', 'sound', 'fluff', 'plumb', 'cluck']",True,5
+clued,"['about', 'pussy', 'uncle', 'cruel', 'clued']",True,5
+clump,"['other', 'final', 'lucky', 'clump']",True,4
+clung,"['would', 'plush', 'blunt', 'flung', 'clung']",True,5
+coach,"['there', 'alpha', 'hands', 'ogham', 'coach']",True,5
+coast,"['there', 'staff', 'boast', 'coast']",True,4
+cobra,"['click', 'court', 'copra', 'cobra']",True,4
+cocoa,"['click', 'cacao', 'cocoa']",True,3
+colon,"['click', 'cells', 'color', 'colon']",True,4
+color,"['about', 'going', 'lower', 'dolor', 'color']",True,5
+comet,"['about', 'depot', 'motet', 'comet']",True,4
+comfy,"['their', 'small', 'mondo', 'comfy']",True,4
+comic,"['these', 'local', 'comix', 'comic']",True,4
+comma,"['these', 'click', 'combo', 'comma']",True,4
+conch,"['about', 'going', 'honey', 'conch']",True,4
+condo,"['these', 'board', 'doing', 'condo']",True,4
+conic,"['price', 'music', 'ionic', 'tonic', 'conic']",True,5
+copse,"['first', 'house', 'moose', 'dowse', 'posse', 'copse']",True,6
+coral,"['there', 'group', 'royal', 'loral', 'coral']",True,5
+corer,"['price', 'cover', 'cower', 'corer']",True,4
+corny,"['would', 'going', 'moons', 'ronne', 'corny']",True,5
+couch,"['which', 'patch', 'munch', 'vouch', 'couch']",True,5
+cough,"['their', 'happy', 'johns', 'vouch', 'cough']",True,5
+could,"['about', 'found', 'mould', 'could']",True,4
+count,"['first', 'meant', 'blunt', 'count']",True,4
+coupe,"['other', 'movie', 'noble', 'dodge', 'souce', 'coupe']",True,6
+court,"['which', 'cards', 'cruel', 'court']",True,4
+coven,"['there', 'index', 'women', 'coven']",True,4
+cover,"['other', 'cover']",True,2
+covet,"['other', 'comet', 'coset', 'covet']",True,4
+covey,"['price', 'cases', 'coded', 'cohen', 'coley', 'covey']",True,6
+cower,"['would', 'tower', 'mower', 'bower', 'cower']",True,5
+coyly,"['which', 'cards', 'congo', 'comte', 'coyly']",True,5
+crack,"['price', 'tract', 'draco', 'crack']",True,4
+craft,"['price', 'franc', 'craft']",True,3
+cramp,"['there', 'color', 'craig', 'crack', 'crams', 'cramp']",True,6
+crane,"['these', 'above', 'frame', 'grace', 'crane']",True,5
+crank,"['there', 'words', 'grill', 'urban', 'crank']",True,5
+crash,"['first', 'brush', 'crash']",True,3
+crass,"['there', 'works', 'grams', 'crans', 'crays', 'crabs']",False,6
+crate,"['price', 'cruse', 'creme', 'crave', 'crate']",True,5
+crave,"['would', 'state', 'frame', 'grape', 'craze', 'crane']",False,6
+crawl,"['their', 'board', 'crawl']",True,3
+craze,"['click', 'comes', 'crate', 'crape', 'craze']",True,5
+crazy,"['their', 'works', 'drama', 'crazy']",True,4
+creak,"['first', 'learn', 'dream', 'wreak', 'break', 'creak']",True,6
+cream,"['these', 'clean', 'creak', 'cream']",True,4
+credo,"['these', 'dream', 'credo']",True,3
+creed,"['there', 'breed', 'freed', 'creed']",True,4
+creek,"['first', 'reply', 'where', 'greed', 'creek']",True,5
+creep,"['about', 'level', 'sheep', 'creep']",True,4
+creme,"['price', 'crore', 'crane', 'crude', 'creme']",True,5
+crepe,"['would', 'games', 'price', 'crepe']",True,4
+crept,"['first', 'grant', 'erect', 'crept']",True,4
+cress,"['click', 'comes', 'chews', 'cress']",True,4
+crest,"['about', 'light', 'spent', 'crest']",True,4
+crick,"['which', 'quick', 'prick', 'brick', 'trick', 'erick']",False,6
+cried,"['would', 'fixed', 'imbed', 'dried', 'cried']",True,5
+crier,"['about', 'level', 'wines', 'pried', 'grief', 'crier']",True,6
+crime,"['other', 'every', 'range', 'pride', 'bribe', 'crime']",True,6
+crimp,"['would', 'price', 'crips', 'crimp']",True,4
+crisp,"['their', 'diary', 'bring', 'krill', 'crims', 'crisp']",True,6
+croak,"['first', 'power', 'groom', 'krona', 'croak']",True,5
+crock,"['click', 'chuck', 'crack', 'crock']",True,4
+crone,"['about', 'rooms', 'grove', 'prole', 'krone', 'drone']",False,6
+crony,"['there', 'girls', 'frank', 'bronc', 'crony']",True,5
+crook,"['other', 'brown', 'cross', 'crock', 'crook']",True,5
+cross,"['these', 'cross']",True,2
+croup,"['price', 'craps', 'croup']",True,3
+crowd,"['price', 'crowd']",True,2
+crown,"['which', 'clown', 'crown']",True,3
+crude,"['click', 'cards', 'crude']",True,3
+cruel,"['which', 'cover', 'cared', 'crees', 'cruet', 'cruel']",True,6
+crumb,"['their', 'brand', 'crumb']",True,3
+crump,"['click', 'costs', 'cream', 'crumb', 'crump']",True,5
+crush,"['click', 'comes', 'crash', 'crush']",True,4
+crust,"['there', 'draft', 'crust']",True,3
+crypt,"['first', 'chart', 'crept', 'crypt']",True,4
+cubic,"['click', 'cynic', 'civic', 'craic', 'comic', 'cubic']",True,6
+cumin,"['there', 'found', 'unzip', 'munis', 'cumin']",True,5
+curio,"['about', 'would', 'ounce', 'mucho', 'curio']",True,5
+curly,"['click', 'cells', 'could', 'curly']",True,4
+curry,"['their', 'group', 'mural', 'burrs', 'curry']",True,5
+curse,"['which', 'color', 'crude', 'curve', 'curse']",True,5
+curve,"['price', 'chore', 'curve']",True,3
+curvy,"['these', 'could', 'curia', 'curvy']",True,4
+cutie,"['other', 'guest', 'butte', 'cutie']",True,4
+cyber,"['other', 'layer', 'cyber']",True,3
+cycle,"['their', 'women', 'value', 'cycle']",True,4
+cynic,"['click', 'cubic', 'civic', 'comic', 'craic', 'cynic']",True,6
+daddy,"['about', 'games', 'hairy', 'daddy']",True,4
+daily,"['which', 'daily']",True,2
+dairy,"['about', 'class', 'naked', 'garda', 'dairy']",True,5
+daisy,"['there', 'music', 'pills', 'aviso', 'daisy']",True,5
+dally,"['first', 'women', 'chuck', 'plaza', 'dally']",True,5
+dance,"['first', 'women', 'penny', 'bunce', 'hance', 'dance']",True,6
+dandy,"['would', 'ideas', 'candy', 'gandy', 'handy', 'kandy']",False,6
+datum,"['click', 'state', 'tango', 'hatha', 'datum']",True,5
+daunt,"['first', 'doubt', 'dault', 'daunt']",True,4
+dealt,"['other', 'teens', 'delta', 'dealt']",True,4
+death,"['other', 'theft', 'meath', 'death']",True,4
+debar,"['there', 'early', 'auger', 'debar']",True,4
+debit,"['their', 'befit', 'debit']",True,3
+debug,"['would', 'under', 'duets', 'debug']",True,4
+debut,"['first', 'adult', 'duvet', 'debut']",True,4
+decal,"['first', 'local', 'decal']",True,3
+decay,"['price', 'chest', 'faced', 'decay']",True,4
+decor,"['their', 'order', 'decor']",True,3
+decoy,"['click', 'ocean', 'recto', 'decoy']",True,4
+decry,"['their', 'large', 'pedro', 'decry']",True,4
+defer,"['first', 'proof', 'defer']",True,3
+deign,"['would', 'cards', 'dying', 'deign']",True,4
+deity,"['other', 'metal', 'teens', 'debut', 'deity']",True,5
+delay,"['first', 'level', 'newly', 'delay']",True,4
+delta,"['there', 'metal', 'leant', 'delta']",True,4
+delve,"['there', 'peace', 'seize', 'delve']",True,4
+demon,"['which', 'group', 'notes', 'felon', 'devon', 'demon']",True,6
+demur,"['click', 'other', 'femur', 'demur']",True,4
+denim,"['about', 'click', 'rings', 'denim']",True,4
+dense,"['about', 'index', 'needs', 'dense']",True,4
+depot,"['there', 'noted', 'depot']",True,3
+depth,"['about', 'terms', 'kelty', 'hefte', 'depth']",True,5
+derby,"['other', 'areas', 'berry', 'derby']",True,4
+deter,"['about', 'there', 'peter', 'meter', 'deter']",True,5
+detox,"['their', 'metal', 'jetty', 'seton', 'detox']",True,5
+deuce,"['their', 'money', 'place', 'deuce']",True,4
+devil,"['which', 'sites', 'indie', 'geoid', 'devil']",True,5
+diary,"['which', 'video', 'diary']",True,3
+dicey,"['first', 'bible', 'mixed', 'widen', 'dicey']",True,5
+digit,"['about', 'light', 'digit']",True,3
+dilly,"['about', 'level', 'willy', 'silly', 'hilly', 'dilly']",True,6
+dimly,"['first', 'linux', 'dildo', 'dimly']",True,4
+diner,"['their', 'wider', 'dimer', 'diner']",True,4
+dingo,"['first', 'linux', 'kinky', 'wince', 'pingo', 'bingo']",False,6
+dingy,"['their', 'using', 'pingo', 'zingy', 'dingy']",True,5
+diode,"['their', 'video', 'diode']",True,3
+dirge,"['click', 'image', 'ridge', 'dirge']",True,4
+dirty,"['there', 'fruit', 'sitar', 'dirty']",True,4
+disco,"['which', 'discs', 'disci', 'disco']",True,4
+ditch,"['click', 'bitch', 'pitch', 'aitch', 'fitch', 'hitch']",False,6
+ditto,"['other', 'about', 'toxic', 'pinto', 'visto', 'ditto']",True,6
+ditty,"['first', 'ninth', 'bitty', 'titty', 'kitty', 'witty']",False,6
+diver,"['which', 'first', 'liver', 'diver']",True,4
+dizzy,"['there', 'could', 'winds', 'dizzy']",True,4
+dodge,"['price', 'house', 'tonne', 'fogle', 'dodge']",True,5
+dodgy,"['price', 'total', 'bonus', 'dodgy']",True,4
+dogma,"['other', 'sound', 'goody', 'dogma']",True,4
+doing,"['which', 'still', 'doing']",True,3
+dolly,"['about', 'world', 'dolls', 'dolly']",True,4
+donor,"['price', 'board', 'rowdy', 'dorms', 'dolor', 'donor']",True,6
+donut,"['these', 'point', 'donut']",True,3
+dopey,"['click', 'other', 'moves', 'boxed', 'doyen', 'dopey']",True,6
+doubt,"['other', 'topic', 'mount', 'boult', 'doubt']",True,5
+dough,"['there', 'alpha', 'hicks', 'dough']",True,4
+dowdy,"['would', 'howdy', 'rowdy', 'dowdy']",True,4
+dowel,"['would', 'dowel']",True,2
+downy,"['first', 'would', 'downy']",True,3
+dowry,"['price', 'start', 'hurry', 'lowry', 'dowry']",True,5
+dozen,"['first', 'black', 'money', 'hoven', 'dozen']",True,5
+draft,"['first', 'kraft', 'draft']",True,3
+drain,"['which', 'index', 'lindy', 'admin', 'drain']",True,5
+drake,"['which', 'state', 'plane', 'frame', 'graze', 'drave']",False,6
+drama,"['would', 'index', 'yards', 'draft', 'drama']",True,5
+drank,"['these', 'board', 'drain', 'drank']",True,4
+drape,"['these', 'large', 'drake', 'drape']",True,4
+drawl,"['which', 'brown', 'drawl']",True,3
+drawn,"['these', 'group', 'drama', 'drain', 'drawn']",True,5
+dread,"['first', 'never', 'clerk', 'grego', 'bream', 'dread']",True,6
+dream,"['would', 'cards', 'drama', 'dream']",True,4
+dress,"['first', 'grass', 'cress', 'dress']",True,4
+dried,"['other', 'armed', 'fried', 'cried', 'dried']",True,5
+drier,"['would', 'india', 'drive', 'dries', 'drier']",True,5
+drift,"['which', 'going', 'daily', 'duits', 'drift']",True,5
+drill,"['price', 'bring', 'trial', 'frill', 'drill']",True,5
+drink,"['price', 'drill', 'drift', 'drink']",True,4
+drive,"['would', 'needs', 'badge', 'drive']",True,4
+droit,"['would', 'video', 'droit']",True,3
+droll,"['first', 'board', 'redox', 'odour', 'droll']",True,5
+drone,"['which', 'order', 'erode', 'drone']",True,4
+drool,"['click', 'would', 'drool']",True,3
+droop,"['first', 'order', 'drown', 'drool', 'droop']",True,5
+dross,"['other', 'rooms', 'irons', 'drops', 'dross']",True,5
+drove,"['these', 'movie', 'prove', 'drove']",True,4
+drown,"['other', 'words', 'drown']",True,3
+druid,"['click', 'media', 'druid']",True,3
+drunk,"['would', 'drums', 'drunk']",True,3
+dryer,"['first', 'board', 'redux', 'dryer']",True,4
+dryly,"['about', 'which', 'sense', 'pygmy', 'dryly']",True,5
+duchy,"['price', 'calls', 'mucky', 'duchy']",True,4
+dully,"['these', 'black', 'would', 'dully']",True,4
+dummy,"['other', 'music', 'qualm', 'dumpy', 'dummy']",True,5
+dumpy,"['would', 'dutch', 'dumas', 'dummy', 'dumpy']",True,5
+dunce,"['price', 'lance', 'nonce', 'hence', 'bunce', 'dunce']",True,6
+dusky,"['first', 'sales', 'dusky']",True,3
+dusty,"['price', 'shall', 'books', 'gutsy', 'dusty']",True,5
+dutch,"['other', 'watch', 'pitch', 'dutch']",True,4
+duvet,"['these', 'metal', 'pipet', 'objet', 'cruet', 'duvet']",True,6
+dwarf,"['about', 'small', 'reach', 'drawn', 'dwarf']",True,5
+dwell,"['price', 'hotel', 'legal', 'quell', 'knell', 'swell']",False,6
+dwelt,"['their', 'agent', 'elect', 'dwelt']",True,4
+dying,"['click', 'using', 'thing', 'going', 'eying', 'vying']",False,6
+eager,"['price', 'years', 'after', 'eager']",True,4
+eagle,"['price', 'style', 'belle', 'emule', 'eagle']",True,5
+early,"['click', 'small', 'apply', 'wanly', 'early']",True,5
+earth,"['price', 'under', 'metro', 'earth']",True,4
+easel,"['about', 'games', 'eased', 'easel']",True,4
+eaten,"['which', 'games', 'rated', 'paten', 'laten', 'oaten']",False,6
+eater,"['there', 'meter', 'eater']",True,3
+ebony,"['click', 'there', 'names', 'enjoy', 'ebony']",True,5
+eclat,"['about', 'chart', 'facet', 'eclat']",True,4
+edict,"['these', 'after', 'legit', 'edict']",True,4
+edify,"['would', 'india', 'dicks', 'bride', 'edify']",True,5
+eerie,"['these', 'venue', 'femme', 'belle', 'peace', 'regie']",False,6
+egret,"['price', 'under', 'fares', 'egret']",True,4
+eight,"['price', 'media', 'lines', 'eight']",True,4
+eject,"['price', 'check', 'eject']",True,3
+eking,"['their', 'miles', 'ezine', 'eying', 'eking']",True,5
+elate,"['other', 'metal', 'slate', 'plate', 'elate']",True,5
+elbow,"['their', 'games', 'noble', 'elbow']",True,4
+elder,"['there', 'refer', 'ember', 'edger', 'elder']",True,5
+elect,"['about', 'might', 'slept', 'klett', 'cleft', 'elect']",True,6
+elegy,"['there', 'sleep', 'elegy']",True,3
+elfin,"['about', 'level', 'shelf', 'elfin']",True,4
+elide,"['which', 'guide', 'bride', 'snide', 'azide', 'oxide']",False,6
+elite,"['there', 'elute', 'elite']",True,3
+elope,"['about', 'cross', 'phone', 'elope']",True,4
+elude,"['would', 'elude']",True,2
+email,"['price', 'files', 'email']",True,3
+embed,"['which', 'books', 'album', 'embed']",True,4
+ember,"['which', 'order', 'enter', 'eager', 'emmer', 'ember']",True,6
+emcee,"['there', 'peace', 'cuvee', 'emcee']",True,4
+empty,"['which', 'after', 'guest', 'tonne', 'kelty', 'empty']",True,6
+enact,"['these', 'water', 'exalt', 'epact', 'enact']",True,5
+endow,"['click', 'order', 'podge', 'endow']",True,4
+enema,"['these', 'greek', 'beefy', 'emend', 'enema']",True,5
+enemy,"['which', 'great', 'enemy']",True,3
+enjoy,"['first', 'level', 'adobe', 'chemo', 'enjoy']",True,5
+ennui,"['there', 'based', 'enjoy', 'ennui']",True,4
+ensue,"['these', 'spree', 'ensue']",True,3
+enter,"['which', 'great', 'route', 'tyres', 'meter', 'enter']",True,6
+entry,"['which', 'years', 'entry']",True,3
+envoy,"['these', 'under', 'eniac', 'envoy']",True,4
+epoch,"['click', 'touch', 'epoch']",True,3
+epoxy,"['would', 'those', 'epoxy']",True,3
+equal,"['about', 'rural', 'usual', 'equal']",True,4
+equip,"['other', 'field', 'spine', 'equip']",True,4
+erase,"['other', 'reply', 'drive', 'brake', 'crane', 'frame']",False,6
+erect,"['click', 'beach', 'execs', 'eject', 'erect']",True,5
+erode,"['price', 'argue', 'froze', 'drome', 'erode']",True,5
+error,"['which', 'group', 'arbor', 'error']",True,4
+erupt,"['first', 'grant', 'crept', 'erupt']",True,4
+essay,"['which', 'books', 'staff', 'laser', 'vespa', 'essay']",True,6
+ester,"['which', 'years', 'steer', 'ester']",True,4
+ether,"['there', 'ether']",True,2
+ethic,"['other', 'ethyl', 'ethic']",True,3
+ethos,"['click', 'other', 'ethos']",True,3
+etude,"['would', 'drunk', 'feuds', 'etude']",True,4
+evade,"['click', 'years', 'phage', 'amaze', 'evade']",True,5
+event,"['other', 'texas', 'quite', 'dwelt', 'eject', 'event']",True,6
+every,"['which', 'books', 'after', 'perry', 'every']",True,5
+evict,"['their', 'intel', 'suite', 'evict']",True,4
+evoke,"['price', 'state', 'noble', 'geode', 'evoke']",True,5
+exact,"['price', 'check', 'enact', 'exact']",True,4
+exalt,"['other', 'least', 'exalt']",True,3
+excel,"['about', 'click', 'excel']",True,3
+exert,"['which', 'order', 'early', 'emerg', 'evert', 'exert']",True,6
+exile,"['there', 'leave', 'elope', 'emule', 'exile']",True,5
+exist,"['there', 'notes', 'festa', 'exist']",True,4
+expel,"['which', 'order', 'sales', 'expel']",True,4
+extol,"['about', 'posts', 'nitro', 'octyl', 'extol']",True,5
+extra,"['these', 'extra']",True,2
+exult,"['these', 'noted', 'exact', 'exult']",True,4
+eying,"['would', 'first', 'image', 'genii', 'eking', 'eying']",True,6
+fable,"['these', 'value', 'fable']",True,3
+facet,"['first', 'facet']",True,2
+faint,"['these', 'about', 'faint']",True,3
+fairy,"['which', 'guide', 'skill', 'avian', 'prima', 'fairy']",True,6
+faith,"['first', 'flite', 'faith']",True,3
+false,"['these', 'worse', 'lapse', 'valse', 'false']",True,5
+fancy,"['would', 'state', 'harry', 'gabby', 'fanny', 'fancy']",True,6
+fanny,"['there', 'click', 'funds', 'fanny']",True,4
+farce,"['other', 'large', 'parse', 'farce']",True,4
+fatal,"['first', 'fatwa', 'fatal']",True,3
+fatty,"['price', 'today', 'antsy', 'batty', 'fatty']",True,5
+fault,"['about', 'quart', 'gault', 'vault', 'fault']",True,5
+fauna,"['other', 'small', 'wanna', 'fauna']",True,4
+favor,"['their', 'color', 'armor', 'savor', 'favor']",True,5
+feast,"['about', 'smart', 'yeast', 'feast']",True,4
+fecal,"['which', 'class', 'focal', 'fecal']",True,4
+feign,"['click', 'going', 'feign']",True,3
+fella,"['which', 'under', 'least', 'melba', 'fella']",True,5
+felon,"['click', 'world', 'lesbo', 'melon', 'felon']",True,5
+femme,"['these', 'venue', 'merle', 'femme']",True,4
+femur,"['first', 'fewer', 'femur']",True,3
+fence,"['these', 'peace', 'fence']",True,3
+feral,"['price', 'years', 'regal', 'feral']",True,4
+ferry,"['price', 'under', 'heart', 'merry', 'berry', 'verry']",False,6
+fetal,"['which', 'about', 'later', 'fetal']",True,4
+fetch,"['about', 'these', 'ketch', 'vetch', 'letch', 'fetch']",True,6
+fetid,"['which', 'media', 'denis', 'geoid', 'fetid']",True,5
+fetus,"['click', 'group', 'fetus']",True,3
+fever,"['their', 'under', 'paper', 'roger', 'ember', 'keyer']",False,6
+fewer,"['there', 'elder', 'refer', 'fewer']",True,4
+fiber,"['price', 'wired', 'riley', 'giver', 'mixer', 'niner']",False,6
+fibre,"['these', 'movie', 'knife', 'fille', 'fibre']",True,5
+ficus,"['click', 'sonic', 'icers', 'picas', 'dicts', 'ficus']",True,6
+field,"['would', 'child', 'field']",True,3
+fiend,"['click', 'first', 'fined', 'fiend']",True,4
+fiery,"['about', 'links', 'river', 'fiere', 'fiery']",True,5
+fifth,"['there', 'light', 'witch', 'sixth', 'ninth', 'fifth']",True,6
+fifty,"['about', 'sites', 'dirty', 'minty', 'fifty']",True,5
+fight,"['these', 'match', 'hight', 'bight', 'light', 'right']",False,6
+filer,"['about', 'check', 'reply', 'lifer', 'filer']",True,5
+filet,"['click', 'miles', 'filed', 'filer', 'filet']",True,5
+filly,"['other', 'final', 'filmi', 'fills', 'filly']",True,5
+filmy,"['other', 'music', 'jimmy', 'filmy']",True,4
+filth,"['click', 'title', 'wilts', 'filth']",True,4
+final,"['price', 'until', 'vinyl', 'final']",True,4
+finch,"['which', 'mitch', 'zilch', 'cinch', 'finch']",True,5
+finer,"['first', 'fibro', 'fixer', 'finer']",True,4
+first,"['would', 'their', 'frist', 'first']",True,4
+fishy,"['would', 'first', 'fives', 'fishy']",True,4
+fixer,"['first', 'finer', 'fixer']",True,3
+fizzy,"['price', 'night', 'kills', 'jimmy', 'bizzy', 'dizzy']",False,6
+fjord,"['would', 'brood', 'fjord']",True,3
+flack,"['price', 'watch', 'flack']",True,3
+flail,"['other', 'music', 'anvil', 'flail']",True,4
+flair,"['there', 'world', 'mylar', 'flair']",True,4
+flake,"['there', 'since', 'maybe', 'apple', 'glade', 'flake']",True,6
+flaky,"['first', 'flood', 'flack', 'flake', 'flaky']",True,5
+flame,"['other', 'email', 'mealy', 'flame']",True,4
+flank,"['click', 'bleak', 'flank']",True,3
+flare,"['other', 'large', 'blare', 'flare']",True,4
+flash,"['other', 'flash']",True,2
+flask,"['which', 'order', 'plans', 'blast', 'flask']",True,5
+fleck,"['which', 'black', 'clock', 'pluck', 'fleck']",True,5
+fleet,"['click', 'flash', 'fleet']",True,3
+flesh,"['which', 'truth', 'glyph', 'flesh']",True,4
+flick,"['first', 'fluid', 'fling', 'flick']",True,4
+flier,"['click', 'blind', 'flirt', 'flier']",True,4
+fling,"['about', 'since', 'whiny', 'drink', 'pling', 'fling']",True,6
+flint,"['click', 'bliss', 'alive', 'pling', 'flint']",True,5
+flirt,"['which', 'guide', 'trial', 'flirt']",True,4
+float,"['these', 'adult', 'lovat', 'float']",True,4
+flock,"['price', 'block', 'clock', 'flock']",True,4
+flood,"['their', 'local', 'blood', 'flood']",True,4
+floor,"['other', 'major', 'donor', 'floor']",True,4
+flora,"['other', 'forum', 'frock', 'flory', 'flora']",True,5
+floss,"['these', 'glass', 'floss']",True,3
+flour,"['about', 'flour']",True,2
+flout,"['click', 'album', 'flout']",True,3
+flown,"['their', 'found', 'fanon', 'flown']",True,4
+fluff,"['price', 'small', 'nylon', 'klutz', 'bluff', 'fluff']",True,6
+fluid,"['about', 'funds', 'fluid']",True,3
+fluke,"['about', 'using', 'crude', 'plume', 'fluke']",True,5
+flume,"['about', 'super', 'fluke', 'flume']",True,4
+flung,"['click', 'plant', 'slung', 'flung']",True,4
+flunk,"['price', 'total', 'lungs', 'flunk']",True,4
+flush,"['these', 'brush', 'flush']",True,3
+flute,"['click', 'along', 'flyer', 'flesh', 'flume', 'flute']",True,6
+flyer,"['price', 'learn', 'flyer']",True,3
+foamy,"['other', 'sound', 'molly', 'foamy']",True,4
+focal,"['about', 'canon', 'focal']",True,3
+focus,"['about', 'focus']",True,2
+foggy,"['other', 'found', 'folio', 'foamy', 'foggy']",True,5
+foist,"['other', 'tools', 'joust', 'boast', 'moist', 'foist']",True,6
+folio,"['there', 'links', 'climb', 'paoli', 'igloo', 'folio']",True,6
+folly,"['there', 'using', 'black', 'lowly', 'folly']",True,5
+foray,"['there', 'words', 'moron', 'loral', 'foray']",True,5
+force,"['other', 'xerox', 'forme', 'forze', 'force']",True,5
+forge,"['first', 'furry', 'feral', 'forme', 'force', 'forge']",True,6
+forgo,"['their', 'brand', 'corps', 'forgo']",True,4
+forte,"['first', 'forty', 'forte']",True,3
+forth,"['price', 'major', 'world', 'forth']",True,4
+forty,"['about', 'often', 'softy', 'forty']",True,4
+forum,"['there', 'cards', 'borgo', 'forum']",True,4
+found,"['first', 'funky', 'flung', 'fauna', 'found']",True,5
+foyer,"['price', 'water', 'buyer', 'geyer', 'flyer', 'foyer']",True,6
+frail,"['there', 'major', 'rural', 'frail']",True,4
+frame,"['price', 'wrote', 'frame']",True,3
+frank,"['would', 'items', 'nancy', 'kranz', 'frank']",True,5
+fraud,"['there', 'cards', 'braid', 'fraud']",True,4
+freak,"['there', 'dream', 'areal', 'break', 'freak']",True,5
+freed,"['price', 'areas', 'trend', 'greed', 'breed', 'freed']",True,6
+freer,"['would', 'there', 'sneer', 'freer']",True,4
+fresh,"['other', 'hears', 'fresh']",True,3
+friar,"['about', 'class', 'japan', 'dryad', 'wreak', 'friar']",True,6
+fried,"['would', 'based', 'hired', 'irked', 'fried']",True,5
+frill,"['would', 'girls', 'trill', 'frill']",True,4
+frisk,"['other', 'grand', 'crisp', 'brisk', 'frisk']",True,5
+fritz,"['would', 'price', 'britt', 'frith', 'frits', 'fritz']",True,6
+frock,"['these', 'found', 'flory', 'frock']",True,4
+frond,"['which', 'order', 'prods', 'droll', 'brood', 'frond']",True,6
+front,"['would', 'above', 'proof', 'frosh', 'frock', 'front']",True,6
+frost,"['would', 'stock', 'riots', 'frost']",True,4
+froth,"['price', 'truth', 'wrath', 'froth']",True,4
+frown,"['about', 'whole', 'crown', 'frown']",True,4
+froze,"['which', 'order', 'prose', 'krone', 'brome', 'froze']",True,6
+fruit,"['their', 'artic', 'bruit', 'fruit']",True,4
+fudge,"['about', 'music', 'funny', 'fudge']",True,4
+fugue,"['about', 'jesus', 'fugue']",True,3
+fully,"['these', 'found', 'furry', 'fugly', 'fully']",True,5
+fungi,"['price', 'links', 'danio', 'fungi']",True,4
+funky,"['which', 'games', 'found', 'funky']",True,4
+funny,"['their', 'could', 'buffy', 'funny']",True,4
+furor,"['other', 'prior', 'rumor', 'juror', 'furor']",True,5
+furry,"['which', 'order', 'murry', 'burry', 'furry']",True,5
+fussy,"['these', 'swiss', 'lossy', 'gassy', 'pussy', 'fussy']",True,6
+fuzzy,"['first', 'fence', 'flaky', 'fuzzy']",True,4
+gaffe,"['other', 'being', 'judge', 'algae', 'gaffe']",True,5
+gaily,"['click', 'while', 'nails', 'gaily']",True,4
+gamer,"['would', 'these', 'paper', 'gamer']",True,4
+gamma,"['which', 'about', 'pages', 'gamma']",True,4
+gamut,"['these', 'point', 'craft', 'zakat', 'dault', 'gamut']",True,6
+gassy,"['which', 'under', 'glass', 'gassy']",True,4
+gaudy,"['price', 'books', 'gamma', 'gandy', 'gaudy']",True,5
+gauge,"['about', 'guard', 'gauge']",True,3
+gaunt,"['there', 'costs', 'plant', 'jaunt', 'daunt', 'gaunt']",True,6
+gauze,"['their', 'sales', 'nance', 'gaffe', 'gauge', 'gauze']",True,6
+gavel,"['would', 'sales', 'navel', 'gavel']",True,4
+gawky,"['about', 'class', 'happy', 'rainy', 'waddy', 'gawky']",True,6
+gayer,"['these', 'video', 'baker', 'racer', 'jager', 'gayer']",True,6
+gayly,"['other', 'links', 'album', 'wally', 'gayly']",True,5
+gazer,"['first', 'group', 'gazer']",True,3
+gecko,"['these', 'index', 'equal', 'peggy', 'gecko']",True,5
+geeky,"['price', 'women', 'legal', 'gests', 'geeky']",True,5
+geese,"['there', 'siege', 'geese']",True,3
+genie,"['about', 'click', 'fixed', 'semis', 'renin', 'genie']",True,6
+genre,"['price', 'range', 'genre']",True,3
+ghost,"['price', 'shall', 'thous', 'ghost']",True,4
+ghoul,"['would', 'ghoul']",True,2
+giant,"['about', 'heart', 'giant']",True,3
+giddy,"['click', 'first', 'jimmy', 'piney', 'biddy', 'giddy']",True,6
+gipsy,"['first', 'kiosk', 'hissy', 'gipsy']",True,4
+girly,"['first', 'girly']",True,2
+girth,"['price', 'right', 'girth']",True,3
+given,"['which', 'video', 'liven', 'riven', 'given']",True,5
+giver,"['click', 'video', 'river', 'giver']",True,4
+glade,"['about', 'small', 'plane', 'clade', 'glade']",True,5
+gland,"['about', 'years', 'plaza', 'claim', 'gland']",True,5
+glare,"['first', 'group', 'gamer', 'glare']",True,4
+glass,"['their', 'books', 'glass']",True,3
+glaze,"['there', 'space', 'flame', 'blade', 'glaze']",True,5
+gleam,"['other', 'guide', 'geeks', 'gleam']",True,4
+glean,"['first', 'black', 'along', 'glean']",True,4
+glide,"['click', 'bliss', 'alive', 'elite', 'glide']",True,5
+glint,"['price', 'smith', 'idiot', 'flint', 'glint']",True,5
+gloat,"['their', 'stock', 'zloty', 'flout', 'bloat', 'gloat']",True,6
+globe,"['which', 'years', 'model', 'globe']",True,4
+gloom,"['price', 'would', 'alloy', 'kloof', 'gloom']",True,5
+glory,"['there', 'yours', 'ovary', 'glory']",True,4
+gloss,"['would', 'globe', 'glogg', 'gloat', 'gloss']",True,5
+glove,"['these', 'large', 'glide', 'glume', 'glove']",True,5
+glyph,"['first', 'could', 'blank', 'glyph']",True,4
+gnash,"['about', 'years', 'small', 'gnash']",True,4
+gnome,"['first', 'level', 'adobe', 'ozone', 'gnome']",True,5
+godly,"['other', 'login', 'golds', 'godly']",True,4
+going,"['would', 'posts', 'cover', 'boing', 'going']",True,5
+golem,"['about', 'order', 'comes', 'money', 'golem']",True,5
+golly,"['about', 'movie', 'dolls', 'golly']",True,4
+gonad,"['would', 'nomad', 'gonad']",True,3
+goner,"['first', 'learn', 'under', 'zoner', 'honer', 'boner']",False,6
+goody,"['their', 'would', 'vodka', 'moody', 'foody', 'goody']",True,6
+gooey,"['click', 'other', 'nodes', 'fogey', 'gooey']",True,5
+goofy,"['other', 'found', 'sofas', 'goofy']",True,4
+goose,"['click', 'group', 'gooey', 'goose']",True,4
+gorge,"['which', 'games', 'grebe', 'gorge']",True,4
+gouge,"['which', 'after', 'sense', 'judge', 'gouge']",True,5
+gourd,"['click', 'years', 'dobro', 'gourd']",True,4
+grace,"['click', 'march', 'draco', 'tract', 'brace', 'grace']",True,6
+grade,"['which', 'under', 'ready', 'grade']",True,4
+graft,"['which', 'about', 'least', 'graft']",True,4
+grail,"['first', 'bring', 'grail']",True,3
+grain,"['their', 'brain', 'grain']",True,3
+grand,"['first', 'board', 'grand']",True,3
+grant,"['there', 'ratio', 'strap', 'draft', 'grant']",True,5
+grape,"['which', 'group', 'grape']",True,3
+graph,"['their', 'march', 'brash', 'graph']",True,4
+grasp,"['their', 'words', 'grasp']",True,3
+grass,"['price', 'grant', 'graal', 'graff', 'gravy', 'grabs']",False,6
+grate,"['these', 'quote', 'agate', 'grate']",True,4
+grave,"['these', 'image', 'glaze', 'grave']",True,4
+gravy,"['there', 'major', 'frank', 'crazy', 'gravy']",True,5
+graze,"['first', 'under', 'pearl', 'brake', 'grace', 'grave']",False,6
+great,"['first', 'heart', 'treat', 'great']",True,4
+greed,"['would', 'stand', 'fixed', 'ceded', 'egged', 'greed']",True,6
+green,"['there', 'reels', 'greek', 'greed', 'green']",True,5
+greet,"['which', 'games', 'greed', 'green', 'greek', 'greet']",True,6
+grief,"['these', 'women', 'paper', 'brief', 'grief']",True,5
+grill,"['would', 'early', 'brill', 'krill', 'frill', 'trill']",False,6
+grime,"['other', 'every', 'large', 'grise', 'grice', 'grime']",True,6
+grimy,"['other', 'brand', 'crisp', 'frizz', 'krill', 'grimy']",True,6
+grind,"['first', 'prior', 'drive', 'grind']",True,4
+gripe,"['their', 'weird', 'price', 'gripe']",True,4
+groan,"['click', 'there', 'major', 'foray', 'organ', 'groan']",True,6
+groin,"['which', 'index', 'train', 'proin', 'groin']",True,5
+groom,"['which', 'books', 'promo', 'vroom', 'groom']",True,5
+grope,"['there', 'prime', 'drape', 'grope']",True,4
+gross,"['their', 'rooms', 'crops', 'groks', 'grows', 'gross']",True,6
+group,"['there', 'color', 'proxy', 'group']",True,4
+grout,"['price', 'brand', 'grows', 'groom', 'grout']",True,5
+grove,"['first', 'under', 'every', 'grove']",True,4
+growl,"['would', 'flown', 'prowl', 'growl']",True,4
+grown,"['click', 'state', 'brown', 'drown', 'frown', 'grown']",True,6
+gruel,"['there', 'reply', 'ariel', 'cruel', 'gruel']",True,5
+gruff,"['their', 'cards', 'wrong', 'gruff']",True,4
+grunt,"['would', 'truth', 'cruet', 'brunt', 'grunt']",True,5
+guard,"['first', 'reply', 'brown', 'charm', 'quark', 'guard']",True,6
+guava,"['about', 'rural', 'quasi', 'guana', 'guava']",True,5
+guess,"['first', 'cause', 'guess']",True,3
+guest,"['which', 'group', 'gusts', 'gutsy', 'guest']",True,5
+guide,"['first', 'media', 'oxide', 'glide', 'guide']",True,5
+guild,"['their', 'click', 'guild']",True,3
+guile,"['about', 'pussy', 'queen', 'lucre', 'guile']",True,5
+guilt,"['their', 'point', 'guilt']",True,3
+guise,"['other', 'guide', 'guise']",True,3
+gulch,"['first', 'check', 'bunch', 'mulch', 'gulch']",True,5
+gully,"['first', 'black', 'lodge', 'gully']",True,4
+gumbo,"['click', 'about', 'bourg', 'gumbo']",True,4
+gummy,"['other', 'using', 'muggy', 'gummy']",True,4
+guppy,"['which', 'about', 'super', 'puppy', 'guppy']",True,5
+gusto,"['about', 'south', 'ousts', 'gusto']",True,4
+gusty,"['which', 'years', 'sonny', 'fussy', 'dusky', 'musty']",False,6
+gypsy,"['first', 'whose', 'sassy', 'gypsy']",True,4
+habit,"['would', 'first', 'evict', 'habit']",True,4
+hairy,"['their', 'hijra', 'hairy']",True,3
+halve,"['first', 'phone', 'hable', 'halve']",True,4
+handy,"['other', 'ships', 'mulch', 'hanky', 'handy']",True,5
+happy,"['price', 'stops', 'nymph', 'happy']",True,4
+hardy,"['price', 'works', 'burnt', 'larva', 'hardy']",True,5
+harem,"['these', 'hello', 'harem']",True,3
+harpy,"['other', 'charm', 'harpy']",True,3
+harry,"['which', 'house', 'hydra', 'harry']",True,4
+harsh,"['which', 'hough', 'heath', 'harsh']",True,4
+haste,"['other', 'chest', 'heats', 'haste']",True,4
+hasty,"['would', 'first', 'types', 'satay', 'hasty']",True,5
+hatch,"['click', 'match', 'batch', 'watch', 'hatch']",True,5
+hater,"['these', 'earth', 'hater']",True,3
+haunt,"['would', 'truck', 'haunt']",True,3
+haute,"['click', 'state', 'arete', 'haute']",True,4
+haven,"['their', 'helps', 'hokey', 'hawed', 'haven']",True,5
+havoc,"['which', 'aches', 'havoc']",True,3
+hazel,"['these', 'bench', 'hoped', 'hiver', 'hakea', 'hazel']",True,6
+heady,"['click', 'other', 'ahead', 'heads', 'heady']",True,5
+heard,"['which', 'horse', 'heder', 'heard']",True,4
+heart,"['other', 'chert', 'heart']",True,3
+heath,"['click', 'after', 'teams', 'death', 'heath']",True,5
+heave,"['click', 'years', 'meant', 'weave', 'heave']",True,5
+heavy,"['which', 'hours', 'henna', 'heald', 'heave', 'heavy']",True,6
+hedge,"['there', 'heave', 'henge', 'hedge']",True,4
+hefty,"['which', 'yahoo', 'hyper', 'hefty']",True,4
+heist,"['price', 'quiet', 'heist']",True,3
+helix,"['there', 'heavy', 'hench', 'helms', 'hello', 'helix']",True,6
+hello,"['price', 'hotel', 'hello']",True,3
+hence,"['price', 'ounce', 'hance', 'hence']",True,4
+heron,"['click', 'other', 'heron']",True,3
+hilly,"['other', 'ships', 'finch', 'hijab', 'hilly']",True,5
+hinge,"['first', 'dildo', 'pinch', 'hinge']",True,4
+hippo,"['these', 'lunch', 'hardy', 'hippo']",True,4
+hippy,"['these', 'alpha', 'hoppy', 'hippy']",True,4
+hitch,"['there', 'night', 'sixth', 'mitch', 'ditch', 'bitch']",False,6
+hoard,"['first', 'reply', 'major', 'krona', 'board', 'hoard']",True,6
+hobby,"['price', 'shall', 'dough', 'hobby']",True,4
+hoist,"['about', 'moist', 'foist', 'joist', 'hoist']",True,5
+holly,"['first', 'black', 'level', 'holly']",True,4
+homer,"['would', 'movie', 'comet', 'nomes', 'gomer', 'homer']",True,6
+honey,"['there', 'helps', 'hiked', 'hooey', 'honey']",True,5
+honor,"['would', 'books', 'gonzo', 'honor']",True,4
+horde,"['their', 'heron', 'horde']",True,3
+horny,"['these', 'hairy', 'horny']",True,3
+horse,"['which', 'yahoo', 'hours', 'horst', 'horse']",True,5
+hotel,"['their', 'hated', 'hotel']",True,3
+hotly,"['which', 'heart', 'hoots', 'hotly']",True,4
+hound,"['there', 'lunch', 'unhip', 'hound']",True,4
+house,"['click', 'group', 'sound', 'mouse', 'youse', 'house']",True,6
+hovel,"['there', 'beach', 'honey', 'homed', 'hovel']",True,5
+hover,"['about', 'power', 'loser', 'rover', 'hover']",True,5
+howdy,"['which', 'howls', 'howdy']",True,3
+human,"['click', 'these', 'yahoo', 'hurra', 'human']",True,5
+humid,"['other', 'china', 'sighs', 'humid']",True,4
+humor,"['their', 'humor']",True,2
+humph,"['would', 'music', 'jumpy', 'humph']",True,4
+humus,"['these', 'hours', 'humps', 'humus']",True,4
+hunch,"['click', 'dance', 'syncs', 'junco', 'munch', 'hunch']",True,6
+hunky,"['these', 'alpha', 'humor', 'huggy', 'hubby', 'hunky']",True,6
+hurry,"['about', 'quick', 'funny', 'mummy', 'sully', 'duddy']",False,6
+husky,"['about', 'guide', 'fully', 'hurry', 'humpy', 'hussy']",False,6
+hussy,"['click', 'there', 'johns', 'sabha', 'hussy']",True,5
+hutch,"['there', 'watch', 'notch', 'pitch', 'kutch', 'butch']",False,6
+hydro,"['their', 'harry', 'hydro']",True,3
+hyena,"['click', 'there', 'hyena']",True,3
+hymen,"['would', 'years', 'chevy', 'hymen']",True,4
+hyper,"['their', 'heder', 'huger', 'honer', 'hyper']",True,5
+icily,"['their', 'doing', 'skill', 'icily']",True,4
+icing,"['first', 'while', 'doing', 'cuing', 'icing']",True,5
+ideal,"['first', 'click', 'devil', 'ideal']",True,4
+idiom,"['about', 'money', 'limos', 'idiom']",True,4
+idiot,"['price', 'going', 'adios', 'idiot']",True,4
+idler,"['first', 'prior', 'chair', 'iller', 'idler']",True,5
+idyll,"['these', 'found', 'daddy', 'idyll']",True,4
+igloo,"['there', 'could', 'salon', 'igloo']",True,4
+iliac,"['which', 'coins', 'iliac']",True,3
+image,"['these', 'image']",True,2
+imbue,"['price', 'image', 'imbue']",True,3
+impel,"['these', 'power', 'upped', 'impel']",True,4
+imply,"['these', 'click', 'dildo', 'labia', 'imply']",True,5
+inane,"['these', 'value', 'frame', 'awake', 'inane']",True,5
+inbox,"['about', 'robin', 'inbox']",True,3
+incur,"['there', 'color', 'incur']",True,3
+index,"['would', 'index']",True,2
+inept,"['price', 'wipes', 'inept']",True,3
+inert,"['price', 'inter', 'inert']",True,3
+infer,"['click', 'their', 'rider', 'inner', 'infer']",True,5
+ingot,"['click', 'right', 'ingot']",True,3
+inlay,"['click', 'girls', 'ideal', 'inlay']",True,4
+inlet,"['other', 'taxes', 'quiet', 'civet', 'inlet']",True,5
+inner,"['click', 'index', 'inter', 'infer', 'inner']",True,5
+input,"['other', 'input']",True,2
+inter,"['which', 'first', 'trail', 'uteri', 'inter']",True,5
+intro,"['these', 'until', 'intro']",True,3
+ionic,"['other', 'young', 'mondo', 'sonic', 'conic', 'ionic']",True,6
+irate,"['about', 'trade', 'frate', 'grate', 'crate', 'irate']",True,6
+irony,"['other', 'board', 'cross', 'group', 'kroon', 'irony']",True,6
+islet,"['price', 'video', 'islet']",True,3
+issue,"['their', 'being', 'lives', 'issue']",True,4
+itchy,"['their', 'night', 'itchy']",True,3
+ivory,"['which', 'first', 'grain', 'idler', 'impro', 'ivory']",True,6
+jaunt,"['there', 'posts', 'vital', 'abaft', 'jaunt']",True,5
+jazzy,"['their', 'black', 'gonna', 'squad', 'pappy', 'jammy']",False,6
+jelly,"['there', 'video', 'equal', 'yells', 'kelly', 'felly']",False,6
+jerky,"['first', 'error', 'curve', 'pared', 'beryl', 'jerky']",True,6
+jetty,"['these', 'intel', 'extra', 'jetty']",True,4
+jewel,"['their', 'place', 'level', 'newel', 'jewel']",True,5
+jiffy,"['price', 'visit', 'ninja', 'bijou', 'jimmy', 'jiggy']",False,6
+joint,"['other', 'coast', 'point', 'joint']",True,4
+joist,"['there', 'costs', 'boost', 'moist', 'foist', 'joist']",True,6
+joker,"['first', 'every', 'range', 'decor', 'boxer', 'power']",False,6
+jolly,"['click', 'hotel', 'loads', 'molly', 'jolly']",True,5
+joust,"['other', 'tools', 'joust']",True,3
+judge,"['first', 'women', 'check', 'delay', 'judge']",True,5
+juice,"['which', 'click', 'juicy', 'juice']",True,4
+juicy,"['would', 'quite', 'suing', 'juicy']",True,4
+jumbo,"['would', 'humor', 'bumbo', 'jumbo']",True,4
+jumpy,"['click', 'other', 'buddy', 'funny', 'muzzy', 'gummy']",False,6
+junta,"['about', 'taupe', 'gutta', 'junta']",True,4
+junto,"['their', 'study', 'uncut', 'futon', 'junto']",True,5
+juror,"['would', 'humor', 'furor', 'juror']",True,4
+kappa,"['click', 'books', 'kerry', 'kudzu', 'kanga', 'kappa']",True,6
+karma,"['there', 'group', 'birds', 'marka', 'karma']",True,5
+kayak,"['click', 'greek', 'spank', 'muzak', 'kayak']",True,5
+kebab,"['would', 'items', 'heavy', 'pecan', 'kebab']",True,5
+khaki,"['would', 'games', 'chart', 'bhaji', 'khaki']",True,5
+kinky,"['there', 'found', 'vinyl', 'zingy', 'pinky', 'kinky']",True,6
+kiosk,"['there', 'could', 'amino', 'kiosk']",True,4
+kitty,"['which', 'times', 'nifty', 'kitty']",True,4
+knack,"['their', 'young', 'canal', 'knack']",True,4
+knave,"['their', 'based', 'peace', 'glaze', 'knave']",True,5
+knead,"['about', 'shall', 'paper', 'edema', 'knead']",True,5
+kneed,"['which', 'under', 'sneed', 'kneed']",True,4
+kneel,"['which', 'state', 'offer', 'glued', 'level', 'expel']",False,6
+knelt,"['their', 'sweet', 'pleat', 'knelt']",True,4
+knife,"['these', 'range', 'clone', 'nixie', 'knive', 'knife']",True,6
+knock,"['about', 'shown', 'ozone', 'knock']",True,4
+knoll,"['click', 'leaks', 'knoll']",True,3
+known,"['there', 'using', 'naval', 'mondo', 'known']",True,5
+koala,"['first', 'phone', 'combo', 'jolly', 'koala']",True,5
+krill,"['first', 'chair', 'bride', 'primo', 'wring', 'krill']",True,6
+label,"['about', 'brand', 'gable', 'label']",True,4
+labor,"['would', 'along', 'taxol', 'halos', 'labor']",True,5
+laden,"['which', 'about', 'years', 'paved', 'laden']",True,5
+ladle,"['these', 'movie', 'grade', 'ladle']",True,4
+lager,"['price', 'users', 'early', 'lawer', 'lager']",True,5
+lance,"['there', 'issue', 'dance', 'nance', 'lance']",True,5
+lanky,"['price', 'found', 'shawn', 'natty', 'lanky']",True,5
+lapel,"['which', 'under', 'level', 'lapel']",True,4
+lapse,"['price', 'slope', 'lapse']",True,3
+large,"['their', 'rules', 'enrol', 'carle', 'large']",True,5
+larva,"['about', 'years', 'radar', 'parka', 'varna', 'larva']",True,6
+lasso,"['other', 'found', 'clock', 'lasso']",True,4
+latch,"['their', 'mouth', 'catch', 'natch', 'hatch', 'watch']",False,6
+later,"['click', 'hotel', 'later']",True,3
+lathe,"['there', 'sythe', 'lithe', 'lathe']",True,4
+latte,"['there', 'quote', 'paste', 'waite', 'zante', 'latte']",True,6
+laugh,"['would', 'flush', 'lauch', 'laugh']",True,4
+layer,"['would', 'click', 'level', 'laten', 'laxer', 'laser']",False,6
+leach,"['other', 'beach', 'leach']",True,3
+leafy,"['click', 'would', 'panel', 'relay', 'leafy']",True,5
+leaky,"['price', 'below', 'metal', 'seals', 'leavy', 'leafy']",False,6
+leant,"['first', 'event', 'leant']",True,3
+leapt,"['there', 'notes', 'debit', 'kempt', 'leapt']",True,5
+learn,"['first', 'reply', 'lever', 'learn']",True,4
+lease,"['their', 'place', 'swale', 'lyase', 'lease']",True,5
+leash,"['their', 'holes', 'leash']",True,3
+least,"['would', 'links', 'lease', 'leash', 'least']",True,5
+leave,"['there', 'peace', 'lease', 'leave']",True,4
+ledge,"['first', 'would', 'pedal', 'ledge']",True,4
+leech,"['which', 'teach', 'perch', 'dench', 'belch', 'leech']",True,6
+leery,"['there', 'emerg', 'leery']",True,3
+lefty,"['first', 'lofty', 'lefty']",True,3
+legal,"['which', 'state', 'added', 'omega', 'legal']",True,5
+leggy,"['which', 'great', 'debug', 'leggo', 'legge', 'leggy']",True,6
+lemon,"['about', 'world', 'silos', 'lemon']",True,4
+lemur,"['their', 'paper', 'lemur']",True,3
+leper,"['these', 'fewer', 'leger', 'leper']",True,4
+level,"['their', 'model', 'bezel', 'level']",True,4
+lever,"['would', 'links', 'label', 'lever']",True,4
+libel,"['click', 'miles', 'liven', 'liger', 'libel']",True,5
+liege,"['other', 'since', 'gimme', 'liege']",True,4
+light,"['there', 'light']",True,2
+liken,"['about', 'index', 'risen', 'liven', 'linen', 'liken']",True,6
+lilac,"['price', 'icons', 'mimic', 'lilac']",True,4
+limbo,"['their', 'build', 'limba', 'limbo']",True,4
+limit,"['there', 'stock', 'until', 'limit']",True,4
+linen,"['price', 'field', 'libel', 'limes', 'liven', 'linen']",True,6
+liner,"['which', 'image', 'fixed', 'tires', 'liber', 'liner']",True,6
+lingo,"['there', 'books', 'allow', 'lingo']",True,4
+lipid,"['which', 'links', 'livre', 'lipid']",True,4
+lithe,"['would', 'click', 'limit', 'lites', 'litre', 'lithe']",True,6
+liver,"['price', 'liver']",True,2
+livid,"['would', 'salad', 'lipid', 'livid']",True,4
+llama,"['other', 'click', 'playa', 'flava', 'ulama', 'llama']",True,6
+loamy,"['there', 'black', 'psalm', 'loamy']",True,4
+loath,"['their', 'hosts', 'booth', 'youth', 'loath']",True,5
+lobby,"['their', 'sound', 'molly', 'looby', 'lobby']",True,5
+local,"['first', 'money', 'dough', 'koala', 'vocal', 'local']",True,6
+locus,"['these', 'books', 'loans', 'locus']",True,4
+lodge,"['price', 'these', 'lodge']",True,3
+lofty,"['which', 'order', 'tools', 'lofty']",True,4
+logic,"['price', 'music', 'tonic', 'logic']",True,4
+login,"['price', 'final', 'unlit', 'login']",True,4
+loopy,"['which', 'games', 'found', 'robot', 'loopy']",True,5
+loose,"['other', 'mouse', 'noose', 'loose']",True,4
+lorry,"['their', 'cards', 'murky', 'lorry']",True,4
+loser,"['these', 'deals', 'silex', 'luser', 'loser']",True,5
+louse,"['which', 'great', 'money', 'louse']",True,4
+lousy,"['price', 'today', 'bobby', 'sonny', 'mossy', 'lousy']",True,6
+lover,"['these', 'money', 'loved', 'lover']",True,4
+lower,"['these', 'money', 'power', 'rower', 'bower', 'lower']",True,6
+lowly,"['would', 'jowls', 'lowly']",True,3
+loyal,"['these', 'black', 'moral', 'nodal', 'loyal']",True,5
+lucid,"['which', 'basic', 'ricin', 'fecit', 'lucid']",True,5
+lucky,"['price', 'could', 'lucky']",True,3
+lumen,"['these', 'index', 'money', 'namer', 'lumen']",True,5
+lumpy,"['which', 'great', 'pussy', 'bumpy', 'jumpy', 'lumpy']",True,6
+lunar,"['these', 'would', 'album', 'gulag', 'rural', 'lunar']",True,6
+lunch,"['their', 'hands', 'punch', 'lunch']",True,4
+lunge,"['click', 'level', 'louse', 'lunge']",True,4
+lupus,"['these', 'girls', 'looks', 'lands', 'lupus']",True,5
+lurch,"['would', 'album', 'lures', 'lurch']",True,4
+lurid,"['first', 'curie', 'lurid']",True,3
+lusty,"['price', 'about', 'sluts', 'lusty']",True,4
+lying,"['click', 'smile', 'laity', 'lying']",True,4
+lymph,"['there', 'alpha', 'lymph']",True,3
+lynch,"['price', 'catch', 'lynch']",True,3
+lyric,"['about', 'index', 'hills', 'flick', 'lyric']",True,5
+macaw,"['their', 'young', 'camps', 'macaw']",True,4
+macho,"['which', 'cohen', 'tacho', 'macho']",True,4
+macro,"['these', 'black', 'cargo', 'macro']",True,4
+madam,"['about', 'place', 'harry', 'wanna', 'mamas', 'madam']",True,6
+madly,"['first', 'place', 'badly', 'madly']",True,4
+mafia,"['click', 'their', 'spain', 'avoid', 'wuxia', 'mafia']",True,6
+magic,"['other', 'links', 'juicy', 'capiz', 'magic']",True,5
+magma,"['there', 'local', 'bands', 'kappa', 'wagga', 'magma']",True,6
+maize,"['these', 'large', 'canoe', 'maize']",True,4
+major,"['which', 'after', 'vapor', 'manor', 'mayor', 'major']",True,6
+maker,"['about', 'games', 'maker']",True,3
+mambo,"['about', 'banjo', 'mambo']",True,3
+mamma,"['which', 'great', 'falls', 'banjo', 'daddy', 'mamma']",True,6
+mammy,"['these', 'group', 'admin', 'jammy', 'lammy', 'mammy']",True,6
+manga,"['first', 'local', 'maybe', 'manna', 'manga']",True,5
+mange,"['their', 'place', 'badge', 'mange']",True,4
+mango,"['there', 'links', 'funny', 'manga', 'mango']",True,5
+mangy,"['first', 'place', 'manga', 'mango', 'mangy']",True,5
+mania,"['click', 'image', 'mafia', 'mania']",True,4
+manic,"['first', 'movie', 'mania', 'manic']",True,4
+manly,"['first', 'would', 'kelly', 'manly']",True,4
+manor,"['there', 'works', 'labor', 'payor', 'favor', 'manor']",True,6
+maple,"['price', 'slope', 'tuple', 'apple', 'maple']",True,5
+march,"['price', 'narco', 'larch', 'march']",True,4
+marry,"['there', 'award', 'cobra', 'nairu', 'marry']",True,5
+marsh,"['their', 'march', 'marah', 'marsh']",True,4
+mason,"['their', 'would', 'among', 'macon', 'mason']",True,5
+masse,"['price', 'quote', 'maybe', 'masse']",True,4
+match,"['these', 'might', 'match']",True,3
+matey,"['would', 'there', 'seats', 'matey']",True,4
+mauve,"['first', 'local', 'wanna', 'gauge', 'mauve']",True,5
+maxim,"['about', 'email', 'maria', 'mavis', 'mafic', 'maxim']",True,6
+maybe,"['would', 'years', 'matey', 'maybe']",True,4
+mayor,"['their', 'major', 'mayor']",True,3
+mealy,"['these', 'video', 'kelly', 'mealy']",True,4
+meant,"['click', 'group', 'james', 'meath', 'meant']",True,5
+meaty,"['click', 'state', 'meaty']",True,3
+mecca,"['there', 'women', 'beams', 'mekka', 'mecca']",True,5
+medal,"['about', 'small', 'femal', 'medal']",True,4
+media,"['these', 'being', 'demic', 'media']",True,4
+medic,"['other', 'since', 'medic']",True,3
+melee,"['there', 'sense', 'melee']",True,3
+melon,"['which', 'under', 'began', 'seton', 'melon']",True,5
+mercy,"['there', 'poker', 'remix', 'derma', 'mercs', 'mercy']",True,6
+merge,"['click', 'state', 'probe', 'deere', 'revue', 'gerne']",False,6
+merit,"['their', 'resit', 'merit']",True,3
+merry,"['these', 'media', 'merry']",True,3
+metal,"['would', 'sales', 'clean', 'legal', 'feral', 'metal']",True,6
+meter,"['click', 'about', 'peter', 'meter']",True,4
+metro,"['these', 'after', 'petri', 'retro', 'metro']",True,5
+micro,"['other', 'brown', 'rocks', 'macro', 'micro']",True,5
+midge,"['these', 'movie', 'mille', 'minke', 'midge']",True,5
+midst,"['other', 'built', 'await', 'didst', 'midst']",True,5
+might,"['which', 'sight', 'fight', 'might']",True,4
+milky,"['which', 'email', 'limbs', 'milky']",True,4
+mimic,"['these', 'black', 'crowd', 'zymic', 'mimic']",True,5
+mince,"['other', 'place', 'deuce', 'since', 'wince', 'mince']",True,6
+miner,"['price', 'fiber', 'tiger', 'miner']",True,4
+minim,"['first', 'video', 'jimmy', 'minim']",True,4
+minor,"['would', 'those', 'macro', 'minor']",True,4
+minty,"['would', 'items', 'mitch', 'mifty', 'minty']",True,5
+minus,"['these', 'using', 'munis', 'minus']",True,4
+mirth,"['their', 'girth', 'birth', 'mirth']",True,4
+miser,"['their', 'niger', 'fiber', 'wiper', 'sider', 'riser']",False,6
+missy,"['price', 'might', 'mills', 'missy']",True,4
+mocha,"['about', 'ocean', 'coach', 'mocha']",True,4
+modal,"['these', 'world', 'moldy', 'modal']",True,4
+model,"['which', 'years', 'quote', 'boxed', 'dozen', 'model']",True,6
+modem,"['click', 'group', 'today', 'sodom', 'modem']",True,5
+mogul,"['about', 'focus', 'hokum', 'mogul']",True,4
+moist,"['first', 'whist', 'moist']",True,3
+molar,"['their', 'major', 'molar']",True,3
+moldy,"['other', 'would', 'nodal', 'soldi', 'moldy']",True,5
+money,"['about', 'going', 'donor', 'cones', 'poney', 'honey']",False,6
+month,"['click', 'other', 'tough', 'booth', 'month']",True,5
+moody,"['there', 'could', 'downs', 'vodka', 'goody', 'moody']",True,6
+moose,"['there', 'space', 'guise', 'loose', 'moose']",True,5
+moral,"['other', 'group', 'forms', 'moray', 'moral']",True,5
+moron,"['other', 'board', 'forum', 'norms', 'moron']",True,5
+morph,"['would', 'month', 'morph']",True,3
+mossy,"['their', 'class', 'wussy', 'mossy']",True,4
+motel,"['would', 'local', 'sorel', 'botel', 'hotel', 'motel']",True,6
+motif,"['which', 'video', 'login', 'torii', 'posit', 'motif']",True,6
+motor,"['other', 'tabor', 'motor']",True,3
+motto,"['first', 'death', 'zloty', 'junto', 'motto']",True,5
+moult,"['about', 'fount', 'moult']",True,3
+mound,"['there', 'could', 'found', 'pound', 'bound', 'mound']",True,6
+mount,"['these', 'input', 'mount']",True,3
+mourn,"['first', 'every', 'board', 'mourn']",True,4
+mouse,"['click', 'after', 'house', 'mouse']",True,4
+mouth,"['about', 'tough', 'mouth']",True,3
+mover,"['click', 'where', 'after', 'dover', 'mover']",True,5
+movie,"['these', 'drive', 'lovie', 'movie']",True,4
+mower,"['these', 'media', 'mover', 'mower']",True,4
+mucky,"['price', 'facts', 'duchy', 'yucky', 'lucky', 'mucky']",True,6
+mucus,"['price', 'canon', 'tucks', 'fucus', 'mucus']",True,5
+muddy,"['about', 'super', 'lucky', 'gummy', 'muzzy', 'muddy']",True,6
+mulch,"['which', 'reach', 'punch', 'butch', 'mulch']",True,5
+mummy,"['these', 'board', 'quick', 'lumpy', 'gummy', 'yummy']",False,6
+munch,"['click', 'space', 'torch', 'bunch', 'munch']",True,5
+mural,"['there', 'radio', 'grass', 'alvar', 'mural']",True,5
+murky,"['these', 'found', 'lucky', 'murky']",True,4
+mushy,"['price', 'total', 'funds', 'hussy', 'mushy']",True,5
+music,"['their', 'india', 'spoil', 'music']",True,4
+musky,"['first', 'books', 'dusky', 'musky']",True,4
+musty,"['first', 'texas', 'stony', 'busty', 'lusty', 'musty']",True,6
+myrrh,"['their', 'crash', 'myrrh']",True,3
+nadir,"['click', 'times', 'brain', 'nadir']",True,4
+naive,"['there', 'value', 'naive']",True,3
+nanny,"['would', 'state', 'hairy', 'nappy', 'nancy', 'nanny']",True,6
+nasal,"['their', 'class', 'basal', 'nasal']",True,4
+nasty,"['about', 'parts', 'tasty', 'nasty']",True,4
+natal,"['their', 'costs', 'plant', 'natal']",True,4
+naval,"['click', 'small', 'total', 'regal', 'papal', 'naval']",True,6
+navel,"['their', 'value', 'navel']",True,3
+needy,"['other', 'value', 'seems', 'weeny', 'needy']",True,5
+neigh,"['these', 'heard', 'neigh']",True,3
+nerdy,"['which', 'great', 'offer', 'nurse', 'nerdy']",True,5
+nerve,"['these', 'leone', 'venue', 'nerve']",True,4
+never,"['click', 'other', 'saver', 'bever', 'never']",True,5
+newer,"['other', 'never', 'newer']",True,3
+newly,"['about', 'which', 'dwell', 'newly']",True,4
+nicer,"['other', 'laser', 'never', 'niger', 'nicer']",True,5
+niche,"['these', 'mache', 'fiche', 'niche']",True,4
+niece,"['click', 'hitch', 'mince', 'niece']",True,4
+night,"['these', 'match', 'hight', 'fight', 'wight', 'bight']",False,6
+ninja,"['price', 'night', 'ninja']",True,3
+ninny,"['about', 'click', 'river', 'winds', 'minim', 'ninny']",True,6
+ninth,"['about', 'these', 'filth', 'mirth', 'width', 'ninth']",True,6
+noble,"['about', 'bobby', 'sober', 'mobie', 'coble', 'noble']",True,6
+nobly,"['these', 'would', 'golly', 'coyly', 'nobly']",True,5
+noise,"['other', 'movie', 'noise']",True,3
+noisy,"['their', 'linux', 'swing', 'psion', 'noisy']",True,5
+nomad,"['would', 'noted', 'nomad']",True,3
+noose,"['there', 'since', 'noose']",True,3
+north,"['their', 'wrath', 'forth', 'north']",True,4
+nosey,"['which', 'after', 'ended', 'noses', 'nosey']",True,5
+notch,"['other', 'shots', 'touch', 'botch', 'hotch', 'gotch']",False,6
+novel,"['which', 'years', 'event', 'novel']",True,4
+nudge,"['their', 'based', 'undue', 'nudge']",True,4
+nurse,"['price', 'horse', 'terse', 'burse', 'nurse']",True,5
+nutty,"['other', 'adult', 'butts', 'putty', 'cutty', 'nutty']",True,6
+nylon,"['which', 'games', 'floor', 'pylon', 'nylon']",True,5
+nymph,"['other', 'china', 'hunks', 'nymph']",True,4
+oaken,"['other', 'oozes', 'owned', 'oaken']",True,4
+obese,"['there', 'piece', 'suede', 'leese', 'obese']",True,5
+occur,"['other', 'oscar', 'occur']",True,3
+ocean,"['other', 'obese', 'onely', 'odeon', 'ocean']",True,5
+octal,"['these', 'input', 'lotto', 'octal']",True,4
+octet,"['these', 'entry', 'fetal', 'muted', 'vitex', 'octet']",True,6
+odder,"['their', 'order', 'older', 'odder']",True,4
+oddly,"['other', 'ouija', 'oddly']",True,3
+offal,"['click', 'world', 'talon', 'shoal', 'offal']",True,5
+offer,"['click', 'where', 'offer']",True,3
+often,"['there', 'noted', 'oaten', 'often']",True,4
+olden,"['click', 'along', 'pleon', 'olden']",True,4
+older,"['price', 'after', 'elder', 'older']",True,4
+olive,"['price', 'anime', 'slide', 'flite', 'olive']",True,5
+ombre,"['price', 'share', 'murre', 'ombre']",True,4
+omega,"['first', 'could', 'ebook', 'omega']",True,4
+onion,"['first', 'click', 'doing', 'union', 'anion', 'onion']",True,6
+onset,"['about', 'idiot', 'octet', 'onset']",True,4
+opera,"['click', 'order', 'overs', 'opera']",True,4
+opine,"['about', 'world', 'enjoy', 'segno', 'ovine', 'opine']",True,6
+opium,"['about', 'locus', 'orgue', 'opium']",True,4
+optic,"['click', 'sonic', 'ohmic', 'optic']",True,4
+orbit,"['click', 'index', 'visit', 'qubit', 'habit', 'orbit']",True,6
+order,"['click', 'state', 'order']",True,3
+organ,"['other', 'orals', 'orgia', 'organ']",True,4
+other,"['first', 'water', 'toker', 'other']",True,4
+otter,"['other', 'otter']",True,2
+ought,"['their', 'south', 'ought']",True,3
+ounce,"['first', 'check', 'lance', 'ounce']",True,4
+outdo,"['click', 'there', 'posts', 'afoot', 'outgo', 'outdo']",True,6
+outer,"['price', 'users', 'lured', 'tuber', 'outer']",True,5
+outgo,"['about', 'youth', 'tutor', 'outed', 'outgo']",True,5
+ovary,"['click', 'about', 'mayor', 'ovary']",True,4
+ovate,"['click', 'there', 'monte', 'quote', 'ovate']",True,5
+overt,"['these', 'agent', 'overt']",True,3
+ovine,"['about', 'world', 'onion', 'ovine']",True,4
+ovoid,"['their', 'valid', 'ovoid']",True,3
+owing,"['price', 'still', 'avian', 'whiny', 'owing']",True,5
+owner,"['these', 'power', 'owner']",True,3
+oxide,"['would', 'adobe', 'oxide']",True,3
+ozone,"['about', 'rooms', 'ology', 'ozone']",True,4
+paddy,"['their', 'sound', 'madam', 'laddy', 'daddy', 'waddy']",False,6
+pagan,"['there', 'using', 'logon', 'pagan']",True,4
+paint,"['there', 'stock', 'built', 'paint']",True,4
+paler,"['about', 'class', 'valid', 'halal', 'paler']",True,5
+palsy,"['these', 'gross', 'paisa', 'pansy', 'palsy']",True,5
+panel,"['would', 'level', 'spiel', 'panel']",True,4
+panic,"['would', 'games', 'catch', 'panic']",True,4
+pansy,"['there', 'could', 'swiss', 'gypsy', 'pansy']",True,5
+papal,"['their', 'black', 'salon', 'laval', 'papal']",True,5
+paper,"['click', 'there', 'order', 'super', 'gaper', 'paper']",True,6
+parer,"['which', 'group', 'peter', 'paper', 'payer', 'paver']",False,6
+parka,"['about', 'pages', 'papal', 'parma', 'parka']",True,5
+parry,"['about', 'small', 'naked', 'hairy', 'parry']",True,5
+parse,"['would', 'there', 'price', 'parse']",True,4
+party,"['price', 'parts', 'party']",True,3
+pasta,"['price', 'plaza', 'pasta']",True,3
+paste,"['price', 'plate', 'paste']",True,3
+pasty,"['click', 'after', 'nasty', 'pasty']",True,4
+patch,"['these', 'night', 'catch', 'patch']",True,4
+patio,"['would', 'photo', 'patio']",True,3
+patsy,"['price', 'plaza', 'pawns', 'patsy']",True,4
+patty,"['their', 'stock', 'fatal', 'natty', 'patty']",True,5
+pause,"['click', 'after', 'heavy', 'badge', 'passe', 'pause']",True,6
+payee,"['first', 'women', 'added', 'lapel', 'pacey', 'payee']",True,6
+payer,"['these', 'power', 'pacer', 'paler', 'payer']",True,5
+peace,"['which', 'track', 'peace']",True,3
+peach,"['their', 'beach', 'peach']",True,3
+pearl,"['price', 'payer', 'peart', 'pearl']",True,4
+pecan,"['there', 'index', 'beans', 'vegan', 'leman', 'pecan']",True,6
+pedal,"['other', 'email', 'sepal', 'pedal']",True,4
+penal,"['there', 'media', 'vegas', 'kenaf', 'penal']",True,5
+pence,"['these', 'genre', 'venue', 'benne', 'fence', 'pence']",True,6
+penne,"['first', 'would', 'check', 'penny', 'penne']",True,5
+penny,"['which', 'great', 'moved', 'sense', 'penny']",True,5
+perch,"['which', 'reach', 'perch']",True,3
+peril,"['there', 'offer', 'early', 'peril']",True,4
+perky,"['which', 'years', 'reedy', 'jerky', 'perky']",True,5
+pesky,"['their', 'value', 'codes', 'pesky']",True,4
+pesto,"['which', 'after', 'quote', 'mesto', 'pesto']",True,5
+petal,"['about', 'party', 'petal']",True,3
+petty,"['click', 'order', 'teens', 'petty']",True,4
+phase,"['these', 'chase', 'phase']",True,3
+phone,"['would', 'phone']",True,2
+phony,"['first', 'level', 'among', 'phono', 'phony']",True,5
+photo,"['would', 'other', 'tacho', 'photo']",True,4
+piano,"['about', 'woman', 'sango', 'llano', 'piano']",True,5
+picky,"['about', 'which', 'nicer', 'dicks', 'micky', 'picky']",True,6
+piece,"['click', 'bitch', 'discs', 'niece', 'piece']",True,5
+piety,"['their', 'inept', 'piety']",True,3
+piggy,"['there', 'click', 'avoid', 'fungi', 'biggy', 'wiggy']",False,6
+pilot,"['first', 'nicht', 'dixit', 'gilet', 'pilot']",True,5
+pinch,"['click', 'pitch', 'pinch']",True,3
+piney,"['first', 'dildo', 'kinky', 'ginny', 'piney']",True,5
+pinky,"['would', 'state', 'chick', 'pinky']",True,4
+pinto,"['would', 'store', 'acton', 'pinto']",True,4
+piper,"['there', 'under', 'cover', 'layer', 'mixer', 'wiper']",False,6
+pique,"['there', 'since', 'diode', 'mille', 'pique']",True,5
+pitch,"['other', 'patch', 'pitch']",True,3
+pithy,"['their', 'width', 'light', 'pithy']",True,4
+pivot,"['about', 'pilot', 'pivot']",True,3
+pixel,"['which', 'items', 'video', 'niger', 'zizel', 'libel']",False,6
+pixie,"['other', 'image', 'slide', 'nieve', 'pique', 'pixie']",True,6
+pizza,"['first', 'dildo', 'kinky', 'bicep', 'pizza']",True,5
+place,"['would', 'class', 'flack', 'glace', 'place']",True,5
+plaid,"['price', 'pilot', 'plaid']",True,3
+plain,"['click', 'oldie', 'slain', 'blain', 'plain']",True,5
+plait,"['click', 'ollie', 'blain', 'flair', 'plaid', 'plait']",True,6
+plane,"['first', 'could', 'leave', 'plane']",True,4
+plank,"['click', 'plank']",True,2
+plant,"['would', 'level', 'glass', 'playa', 'plank', 'plant']",True,6
+plate,"['would', 'black', 'flash', 'platt', 'platy', 'plate']",True,6
+plaza,"['first', 'women', 'black', 'playa', 'plaza']",True,5
+plead,"['first', 'level', 'apple', 'plead']",True,4
+pleat,"['about', 'smart', 'yacht', 'izzat', 'pleat']",True,5
+plied,"['which', 'point', 'prima', 'plied']",True,4
+plier,"['these', 'under', 'poker', 'plier']",True,4
+pluck,"['which', 'stock', 'knack', 'pluck']",True,4
+plumb,"['click', 'plans', 'plebe', 'plumb']",True,4
+plume,"['which', 'years', 'queen', 'plume']",True,4
+plump,"['there', 'music', 'ulama', 'plumb', 'plump']",True,5
+plunk,"['would', 'clubs', 'plunk']",True,3
+plush,"['these', 'flush', 'slush', 'blush', 'plush']",True,5
+poesy,"['about', 'world', 'noise', 'poesy']",True,4
+point,"['price', 'psion', 'point']",True,3
+poise,"['there', 'close', 'fosse', 'dowse', 'noise', 'poise']",True,6
+poker,"['which', 'about', 'error', 'foyer', 'gomer', 'soler']",False,6
+polar,"['click', 'total', 'lomas', 'volar', 'polar']",True,5
+polka,"['first', 'black', 'kogal', 'polka']",True,4
+polyp,"['first', 'check', 'along', 'lobby', 'polyp']",True,5
+pooch,"['first', 'could', 'mocha', 'hooch', 'pooch']",True,5
+poppy,"['their', 'local', 'boobs', 'young', 'poppy']",True,5
+porch,"['about', 'women', 'cocks', 'folic', 'porch']",True,5
+poser,"['about', 'movie', 'jones', 'soler', 'poser']",True,5
+posit,"['these', 'study', 'lists', 'posit']",True,4
+posse,"['there', 'close', 'mouse', 'gosse', 'fosse', 'posse']",True,6
+pouch,"['there', 'alpha', 'pooch', 'pouch']",True,4
+pound,"['there', 'local', 'found', 'wound', 'sound', 'pound']",True,6
+pouty,"['click', 'other', 'boats', 'dotty', 'pouty']",True,5
+power,"['click', 'these', 'women', 'rower', 'dower', 'bower']",False,6
+prank,"['which', 'about', 'range', 'drank', 'prank']",True,5
+prawn,"['their', 'brand', 'prawn']",True,3
+preen,"['their', 'break', 'greed', 'frees', 'creel', 'preen']",True,6
+press,"['about', 'since', 'edges', 'yells', 'press']",True,5
+price,"['first', 'brain', 'prior', 'primi', 'pried', 'prize']",False,6
+prick,"['their', 'risks', 'karri', 'crick', 'brick', 'prick']",True,6
+pride,"['price', 'prize', 'pride']",True,3
+pried,"['these', 'power', 'pried']",True,3
+prime,"['would', 'years', 'price', 'prize', 'prime']",True,5
+primo,"['there', 'color', 'broad', 'primo']",True,4
+print,"['would', 'years', 'brink', 'print']",True,4
+prior,"['first', 'chair', 'inker', 'prior']",True,4
+prism,"['about', 'level', 'ships', 'crisp', 'prism']",True,5
+privy,"['these', 'forum', 'rapid', 'privy']",True,4
+prize,"['price', 'prize']",True,2
+probe,"['other', 'score', 'drove', 'froze', 'grope', 'prole']",False,6
+prone,"['would', 'photo', 'prose', 'probe', 'prore', 'prone']",True,6
+prong,"['their', 'cards', 'brown', 'prong']",True,4
+proof,"['about', 'close', 'moody', 'whoop', 'proof']",True,5
+prose,"['price', 'prole', 'prose']",True,3
+proud,"['about', 'ghoul', 'scour', 'vrouw', 'proud']",True,5
+prove,"['click', 'order', 'freon', 'brome', 'arose', 'wrote']",False,6
+prowl,"['about', 'whole', 'plows', 'prowl']",True,4
+proxy,"['price', 'prong', 'prods', 'proof', 'prowl', 'proxy']",True,6
+prude,"['these', 'price', 'prone', 'prude']",True,4
+prune,"['price', 'prone', 'prune']",True,3
+psalm,"['their', 'young', 'plaza', 'psalm']",True,4
+pubic,"['first', 'being', 'pubic']",True,3
+pudgy,"['these', 'found', 'muddy', 'pudgy']",True,4
+puffy,"['these', 'local', 'rugby', 'yummy', 'puppy', 'puffy']",True,6
+pulpy,"['other', 'class', 'billy', 'pulpy']",True,4
+pulse,"['price', 'phage', 'pombe', 'penne', 'pulse']",True,5
+punch,"['which', 'reach', 'notch', 'punch']",True,4
+pupal,"['price', 'pussy', 'pupal']",True,3
+pupil,"['other', 'daily', 'licks', 'pupil']",True,4
+puppy,"['which', 'under', 'album', 'puppy']",True,4
+puree,"['click', 'there', 'merge', 'spree', 'puree']",True,5
+purer,"['other', 'never', 'baker', 'ruler', 'purer']",True,5
+purge,"['their', 'reply', 'prose', 'parve', 'purge']",True,5
+purse,"['would', 'input', 'purge', 'purse']",True,4
+pushy,"['there', 'yahoo', 'hippy', 'pushy']",True,4
+putty,"['about', 'dutch', 'nutty', 'putty']",True,4
+pygmy,"['these', 'could', 'gamma', 'pigmy', 'pygmy']",True,5
+quack,"['click', 'shock', 'knack', 'wrack', 'aback', 'quack']",True,6
+quail,"['first', 'while', 'plaid', 'avail', 'quail']",True,5
+quake,"['would', 'users', 'pique', 'quate', 'quake']",True,5
+qualm,"['which', 'after', 'japan', 'loads', 'qualm']",True,5
+quark,"['other', 'grand', 'swarm', 'quark']",True,4
+quart,"['price', 'major', 'straw', 'ultra', 'quart']",True,5
+quash,"['there', 'flash', 'gnash', 'awash', 'quash']",True,5
+quasi,"['first', 'bliss', 'nkosi', 'quasi']",True,4
+queen,"['click', 'where', 'queen']",True,3
+queer,"['their', 'speer', 'queer']",True,3
+quell,"['would', 'built', 'surly', 'quale', 'quell']",True,5
+query,"['price', 'water', 'jerry', 'query']",True,4
+quest,"['would', 'pussy', 'quasi', 'quest']",True,4
+queue,"['would', 'input', 'gurus', 'queue']",True,4
+quick,"['which', 'price', 'stick', 'click', 'quick']",True,5
+quiet,"['click', 'using', 'opium', 'quite', 'quiet']",True,5
+quill,"['first', 'guide', 'quick', 'quina', 'quill']",True,5
+quilt,"['about', 'quiet', 'quint', 'quist', 'quilt']",True,5
+quirk,"['first', 'price', 'naira', 'guiro', 'quirk']",True,5
+quite,"['there', 'suite', 'quite']",True,3
+quota,"['there', 'about', 'quota']",True,3
+quote,"['other', 'detox', 'emote', 'quote']",True,4
+quoth,"['there', 'south', 'quoth']",True,3
+rabbi,"['about', 'basis', 'rabbi']",True,3
+rabid,"['their', 'paris', 'rabid']",True,3
+racer,"['these', 'email', 'annex', 'baker', 'carer', 'racer']",True,6
+radar,"['price', 'story', 'abram', 'rajah', 'radar']",True,5
+radii,"['about', 'pages', 'harry', 'kafir', 'ramin', 'radii']",True,6
+radio,"['click', 'sites', 'again', 'radix', 'radio']",True,5
+rainy,"['these', 'could', 'japan', 'rainy']",True,4
+raise,"['price', 'moire', 'raine', 'raise']",True,4
+rajah,"['first', 'board', 'cream', 'lunar', 'rajah']",True,5
+rally,"['first', 'under', 'crack', 'aggro', 'ralph', 'rally']",True,6
+ralph,"['click', 'tools', 'level', 'galax', 'balmy', 'ralph']",True,6
+ramen,"['first', 'every', 'order', 'ramen']",True,4
+ranch,"['these', 'march', 'ranch']",True,3
+randy,"['other', 'virus', 'alarm', 'dryad', 'randy']",True,5
+range,"['click', 'about', 'share', 'marge', 'range']",True,5
+rapid,"['other', 'bring', 'viral', 'mauri', 'rapid']",True,5
+rarer,"['these', 'money', 'fixed', 'wager', 'pacer', 'baler']",False,6
+raspy,"['other', 'grand', 'parks', 'raspy']",True,4
+ratio,"['which', 'video', 'ngaio', 'patio', 'ratio']",True,5
+ratty,"['their', 'smart', 'carta', 'ratty']",True,4
+raven,"['there', 'under', 'ramen', 'raven']",True,4
+rayon,"['would', 'those', 'major', 'caron', 'rayon']",True,5
+razor,"['click', 'order', 'furor', 'razor']",True,4
+reach,"['which', 'touch', 'reach']",True,3
+react,"['their', 'retro', 'rents', 'rebut', 'react']",True,5
+ready,"['about', 'place', 'reads', 'readd', 'ready']",True,5
+realm,"['which', 'state', 'ready', 'realm']",True,4
+rearm,"['first', 'board', 'pharm', 'alarm', 'rearm']",True,5
+rebar,"['these', 'being', 'zebra', 'debar', 'rebar']",True,5
+rebel,"['these', 'excel', 'repel', 'revel', 'rebel']",True,5
+rebus,"['first', 'rules', 'resus', 'rebus']",True,4
+rebut,"['there', 'rated', 'rests', 'remit', 'rebut']",True,5
+recap,"['other', 'areas', 'relax', 'reman', 'recap']",True,5
+recur,"['their', 'cover', 'recur']",True,3
+recut,"['other', 'entry', 'treat', 'resit', 'rebut', 'recut']",True,6
+reedy,"['price', 'terms', 'never', 'beery', 'reeky', 'reedy']",True,6
+refer,"['first', 'wafer', 'refer']",True,3
+refit,"['would', 'there', 'rests', 'refit']",True,4
+regal,"['price', 'under', 'metro', 'regal']",True,4
+rehab,"['would', 'state', 'amber', 'break', 'rehab']",True,5
+reign,"['these', 'media', 'reiki', 'reign']",True,4
+relax,"['first', 'reply', 'revel', 'relax']",True,4
+relay,"['price', 'learn', 'feral', 'relax', 'relay']",True,5
+relic,"['first', 'crime', 'relic']",True,3
+remit,"['their', 'merit', 'remit']",True,3
+renal,"['first', 'power', 'every', 'rehab', 'relax', 'renal']",True,6
+renew,"['there', 'never', 'renew']",True,3
+repay,"['click', 'these', 'added', 'beaux', 'vegan', 'remap']",False,6
+repel,"['other', 'agree', 'breed', 'renew', 'repel']",True,5
+reply,"['other', 'every', 'nerdy', 'repay', 'reply']",True,5
+rerun,"['which', 'years', 'never', 'rerun']",True,4
+reset,"['price', 'every', 'rebel', 'renew', 'reset']",True,5
+resin,"['would', 'there', 'fiber', 'reins', 'resin']",True,5
+retch,"['would', 'price', 'reach', 'retch']",True,4
+retro,"['price', 'terms', 'deter', 'retro']",True,4
+retry,"['their', 'retro', 'retry']",True,3
+reuse,"['price', 'large', 'route', 'reuse']",True,4
+revel,"['these', 'refer', 'renew', 'repel', 'revel']",True,5
+revue,"['would', 'using', 'puppy', 'femur', 'rebut', 'revue']",True,6
+rhino,"['there', 'chair', 'rhino']",True,3
+rhyme,"['these', 'rhyme']",True,2
+rider,"['there', 'under', 'wider', 'rider']",True,4
+ridge,"['would', 'trade', 'ridge']",True,3
+rifle,"['price', 'eerie', 'litre', 'rifle']",True,4
+right,"['other', 'truth', 'ratha', 'right']",True,4
+rigid,"['would', 'speed', 'third', 'acrid', 'rigid']",True,5
+rigor,"['would', 'yahoo', 'minor', 'visor', 'rigor']",True,5
+rinse,"['would', 'first', 'rinse']",True,3
+ripen,"['there', 'offer', 'armed', 'rises', 'ripen']",True,5
+riper,"['which', 'video', 'times', 'biker', 'niger', 'piler']",False,6
+risen,"['there', 'early', 'poker', 'brief', 'rices', 'risen']",True,6
+riser,"['there', 'poker', 'fiber', 'rider', 'riser']",True,5
+risky,"['which', 'index', 'limit', 'kiosk', 'risks', 'risky']",True,6
+rival,"['other', 'paris', 'libra', 'rival']",True,4
+river,"['which', 'sites', 'video', 'given', 'river']",True,5
+rivet,"['about', 'print', 'first', 'right', 'rivet']",True,5
+roach,"['about', 'loans', 'hoagy', 'poach', 'coach', 'roach']",True,6
+roast,"['price', 'story', 'worst', 'roast']",True,4
+robin,"['about', 'combo', 'robin']",True,3
+robot,"['would', 'books', 'combo', 'robot']",True,4
+rocky,"['click', 'sucks', 'jocko', 'rocky']",True,4
+rodeo,"['these', 'being', 'offer', 'romeo', 'rodeo']",True,5
+roger,"['these', 'order', 'roker', 'rover', 'rower', 'roger']",True,6
+rogue,"['there', 'crime', 'purse', 'rouge', 'rogue']",True,5
+roomy,"['price', 'board', 'rooms', 'roomy']",True,4
+roost,"['about', 'short', 'prost', 'roost']",True,4
+rotor,"['price', 'hours', 'forty', 'rotor']",True,4
+rouge,"['about', 'would', 'mouse', 'coupe', 'gouge', 'vouge']",False,6
+rough,"['would', 'hours', 'rough']",True,3
+round,"['click', 'order', 'gourd', 'round']",True,4
+rouse,"['first', 'dress', 'rouse']",True,3
+route,"['their', 'wrote', 'route']",True,3
+rover,"['first', 'group', 'labor', 'homer', 'roker', 'rower']",False,6
+rowdy,"['these', 'click', 'among', 'juror', 'rowdy']",True,5
+rower,"['which', 'owned', 'mower', 'sower', 'power', 'tower']",False,6
+royal,"['these', 'black', 'daily', 'mylar', 'royal']",True,5
+ruddy,"['other', 'bring', 'laura', 'murky', 'ruddy']",True,5
+ruder,"['these', 'under', 'ruder']",True,3
+rugby,"['about', 'bucks', 'hubby', 'rugby']",True,4
+ruler,"['which', 'after', 'order', 'purer', 'ruler']",True,5
+rumba,"['about', 'bursa', 'rumba']",True,3
+rumor,"['first', 'reply', 'rough', 'rumor']",True,4
+rupee,"['would', 'users', 'purge', 'rupee']",True,4
+rural,"['about', 'usual', 'dural', 'rural']",True,4
+rusty,"['click', 'after', 'tours', 'rusty']",True,4
+sadly,"['would', 'ladle', 'sadly']",True,3
+safer,"['about', 'class', 'saved', 'samen', 'saker', 'sager']",False,6
+saint,"['their', 'input', 'flint', 'saint']",True,4
+salad,"['which', 'great', 'kayak', 'nasal', 'lamas', 'salad']",True,6
+sally,"['these', 'books', 'usual', 'salix', 'salpa', 'sally']",True,6
+salon,"['price', 'would', 'gloss', 'salon']",True,4
+salsa,"['would', 'links', 'flesh', 'salsa']",True,4
+salty,"['first', 'costs', 'skate', 'sutta', 'salty']",True,5
+salve,"['other', 'image', 'lance', 'fable', 'value', 'salve']",True,6
+salvo,"['first', 'sales', 'salon', 'salvo']",True,4
+sandy,"['other', 'again', 'nanny', 'dancy', 'pandy', 'sandy']",True,6
+saner,"['other', 'refer', 'laser', 'sayer', 'sager', 'saver']",False,6
+sappy,"['these', 'girls', 'mason', 'saucy', 'savvy', 'sappy']",True,6
+sassy,"['other', 'using', 'plays', 'massy', 'sassy']",True,5
+satin,"['these', 'parts', 'sabot', 'satay', 'satin']",True,5
+satyr,"['their', 'starr', 'satyr']",True,3
+sauce,"['which', 'force', 'space', 'sauce']",True,4
+saucy,"['which', 'black', 'saucy']",True,3
+sauna,"['about', 'cause', 'sauna']",True,3
+saute,"['other', 'quite', 'acute', 'saute']",True,4
+savor,"['price', 'major', 'valor', 'savor']",True,4
+savoy,"['which', 'about', 'moral', 'nanos', 'savoy']",True,5
+savvy,"['first', 'small', 'sauna', 'saved', 'savoy', 'savvy']",True,6
+scald,"['price', 'local', 'scaly', 'scald']",True,4
+scale,"['first', 'based', 'usage', 'shame', 'space', 'scale']",True,6
+scalp,"['these', 'books', 'using', 'salad', 'scaly', 'scalp']",True,6
+scaly,"['would', 'apply', 'mealy', 'scaly']",True,4
+scamp,"['their', 'found', 'plaza', 'swamp', 'scamp']",True,5
+scant,"['price', 'could', 'scant']",True,3
+scare,"['their', 'force', 'cruse', 'scare']",True,4
+scarf,"['other', 'cards', 'scarp', 'scary', 'scarf']",True,5
+scary,"['click', 'scope', 'scant', 'scams', 'scary']",True,5
+scene,"['there', 'niece', 'scene']",True,3
+scent,"['first', 'spent', 'stent', 'scent']",True,4
+scion,"['click', 'acini', 'scion']",True,3
+scoff,"['there', 'would', 'mason', 'scoff']",True,4
+scold,"['would', 'ahold', 'scold']",True,3
+scone,"['which', 'clear', 'decoy', 'scope', 'scone']",True,5
+scoop,"['click', 'acres', 'scoff', 'scoot', 'scoop']",True,5
+scope,"['about', 'rooms', 'snowy', 'spoke', 'shope', 'slope']",False,6
+score,"['price', 'curve', 'ochre', 'score']",True,4
+scorn,"['price', 'rocks', 'scrog', 'scorn']",True,4
+scour,"['their', 'floor', 'amour', 'scour']",True,4
+scout,"['first', 'upset', 'saunt', 'stout', 'scout']",True,5
+scowl,"['other', 'young', 'dildo', 'flock', 'scowl']",True,5
+scram,"['about', 'pages', 'shall', 'scran', 'scram']",True,5
+scrap,"['other', 'cards', 'scran', 'scram', 'scrap']",True,5
+scree,"['about', 'price', 'chere', 'scree']",True,4
+screw,"['first', 'yards', 'scrub', 'screw']",True,4
+scrub,"['first', 'works', 'spray', 'serve', 'shrug', 'scrum']",False,6
+scrum,"['these', 'cards', 'scrim', 'scrum']",True,4
+scuba,"['which', 'clear', 'bacon', 'scuba']",True,4
+sedan,"['would', 'needs', 'sedan']",True,3
+seedy,"['their', 'speak', 'suede', 'seedy']",True,4
+segue,"['other', 'place', 'judge', 'segue']",True,4
+seize,"['there', 'venue', 'ledge', 'mease', 'seize']",True,5
+semen,"['click', 'state', 'speed', 'seres', 'semen']",True,5
+sense,"['there', 'peace', 'sense']",True,3
+sepia,"['about', 'media', 'feria', 'xenia', 'sepia']",True,5
+serif,"['about', 'click', 'mixed', 'sensi', 'serif']",True,5
+serum,"['which', 'after', 'query', 'redux', 'serum']",True,5
+serve,"['other', 'reply', 'merge', 'nerve', 'serve']",True,5
+setup,"['would', 'quite', 'recut', 'getup', 'setup']",True,5
+seven,"['first', 'space', 'sells', 'sewed', 'semen', 'seven']",True,6
+sever,"['their', 'under', 'offer', 'cyber', 'lever', 'sever']",True,6
+sewer,"['price', 'after', 'elder', 'newer', 'sewer']",True,5
+shack,"['first', 'means', 'shady', 'shawl', 'shack']",True,5
+shade,"['their', 'chose', 'shape', 'shade']",True,4
+shady,"['price', 'south', 'shams', 'shaky', 'shady']",True,5
+shaft,"['price', 'would', 'stats', 'shaft']",True,4
+shake,"['other', 'shape', 'shame', 'shave', 'shake']",True,5
+shaky,"['other', 'which', 'shays', 'shaky']",True,4
+shale,"['click', 'value', 'lyase', 'swale', 'stale', 'shale']",True,6
+shall,"['first', 'pages', 'assay', 'shank', 'shall']",True,5
+shalt,"['their', 'chant', 'shalt']",True,3
+shame,"['there', 'chile', 'shame']",True,3
+shank,"['their', 'shawn', 'shand', 'shank']",True,4
+shape,"['their', 'whole', 'shape']",True,3
+shard,"['would', 'third', 'shard']",True,3
+share,"['there', 'share']",True,2
+shark,"['these', 'chips', 'shawl', 'shand', 'shama', 'shark']",True,6
+sharp,"['first', 'share', 'shard', 'shark', 'sharn', 'sharp']",True,6
+shave,"['which', 'three', 'shame', 'shape', 'shade', 'shale']",False,6
+shawl,"['price', 'about', 'glass', 'shall', 'shawl']",True,5
+shear,"['about', 'pages', 'chase', 'shear']",True,4
+sheen,"['about', 'which', 'sheer', 'sheel', 'sheep', 'sheen']",True,6
+sheep,"['about', 'index', 'refer', 'esses', 'sleep', 'sheep']",True,6
+sheer,"['there', 'sheer']",True,2
+sheet,"['other', 'sheet']",True,2
+sheik,"['price', 'video', 'legit', 'skein', 'sheik']",True,5
+shelf,"['click', 'value', 'hotel', 'whelp', 'shelf']",True,5
+shell,"['these', 'shell']",True,2
+shied,"['which', 'shine', 'shied']",True,3
+shift,"['click', 'being', 'faith', 'shift']",True,4
+shine,"['first', 'basis', 'slide', 'spine', 'shine']",True,5
+shiny,"['first', 'louis', 'spicy', 'shiny']",True,4
+shire,"['other', 'where', 'share', 'shire']",True,4
+shirk,"['would', 'price', 'smirk', 'shirk']",True,4
+shirt,"['these', 'shoot', 'shunt', 'shift', 'shirt']",True,5
+shoal,"['click', 'hotel', 'whorl', 'ghoul', 'shool', 'shoal']",True,6
+shock,"['click', 'snack', 'shock']",True,3
+shone,"['would', 'stock', 'shops', 'shoji', 'shove', 'shore']",False,6
+shook,"['click', 'brook', 'snook', 'shook']",True,4
+shoot,"['would', 'those', 'shots', 'shoot']",True,4
+shore,"['there', 'shore']",True,2
+shorn,"['other', 'rough', 'hydro', 'whorl', 'shorn']",True,5
+short,"['would', 'above', 'stock', 'sport', 'short']",True,5
+shout,"['there', 'photo', 'shout']",True,3
+shove,"['first', 'sales', 'scope', 'shone', 'shove']",True,5
+shown,"['would', 'arrow', 'knows', 'shown']",True,4
+showy,"['price', 'today', 'snowy', 'showy']",True,4
+shrew,"['would', 'fewer', 'threw', 'shrew']",True,4
+shrub,"['their', 'chord', 'shrub']",True,3
+shrug,"['their', 'churn', 'shrug']",True,3
+shuck,"['there', 'shows', 'shiva', 'shuck']",True,4
+shunt,"['about', 'quest', 'stunt', 'shunt']",True,4
+shush,"['their', 'shops', 'shush']",True,3
+shyly,"['their', 'shops', 'shank', 'shyly']",True,4
+siege,"['would', 'games', 'serge', 'siege']",True,4
+sieve,"['which', 'image', 'rifle', 'piste', 'sieve']",True,5
+sight,"['which', 'night', 'sight']",True,3
+sigma,"['which', 'times', 'sigma']",True,3
+silky,"['click', 'milky', 'silky']",True,3
+silly,"['there', 'music', 'links', 'silva', 'silly']",True,5
+since,"['first', 'cisco', 'since']",True,3
+sinew,"['first', 'signs', 'since', 'sinew']",True,4
+singe,"['about', 'while', 'rinse', 'since', 'singe']",True,5
+siren,"['click', 'sites', 'siver', 'siren']",True,4
+sissy,"['which', 'first', 'missa', 'kissy', 'sissy']",True,5
+sixth,"['about', 'terms', 'synth', 'swith', 'sixth']",True,5
+sixty,"['click', 'index', 'fixit', 'sixth', 'sixty']",True,5
+skate,"['first', 'study', 'slots', 'septa', 'skate']",True,5
+skier,"['price', 'skier']",True,2
+skiff,"['which', 'drive', 'going', 'spill', 'suits', 'skiff']",True,6
+skill,"['there', 'music', 'kings', 'skiff', 'skill']",True,5
+skimp,"['which', 'daily', 'going', 'quite', 'skips', 'skimp']",True,6
+skirt,"['would', 'years', 'skirt']",True,3
+skulk,"['which', 'under', 'about', 'puffy', 'skull', 'skulk']",True,6
+skull,"['other', 'using', 'bulbs', 'slump', 'skull']",True,5
+skunk,"['which', 'books', 'skull', 'skunk']",True,4
+slack,"['other', 'click', 'black', 'flack', 'slack']",True,5
+slain,"['would', 'links', 'snail', 'slain']",True,4
+slang,"['click', 'flash', 'slams', 'slang']",True,4
+slant,"['click', 'allow', 'flash', 'plans', 'slane', 'slang']",False,6
+slash,"['their', 'alpha', 'clash', 'slash']",True,4
+slate,"['would', 'class', 'slain', 'slate']",True,4
+slave,"['their', 'games', 'sedan', 'scape', 'slave']",True,5
+sleek,"['click', 'blank', 'sleek']",True,3
+sleep,"['these', 'sleep']",True,2
+sleet,"['click', 'allow', 'sleep', 'sleet']",True,4
+slept,"['click', 'blood', 'alpha', 'plews', 'sleep', 'slept']",True,6
+slice,"['price', 'twice', 'voice', 'juice', 'slice']",True,5
+slick,"['price', 'click', 'klick', 'slick']",True,4
+slide,"['which', 'guide', 'pride', 'elide', 'slide']",True,5
+slime,"['about', 'which', 'knife', 'drive', 'smile', 'slime']",True,6
+slimy,"['price', 'doing', 'still', 'slimy']",True,4
+sling,"['about', 'click', 'glide', 'pling', 'sling']",True,5
+slink,"['there', 'click', 'slink']",True,3
+sloop,"['other', 'could', 'blogs', 'sloan', 'sloop']",True,5
+slope,"['first', 'based', 'smoke', 'scone', 'shove', 'slope']",True,6
+slosh,"['their', 'honda', 'mucho', 'slosh']",True,4
+sloth,"['would', 'clock', 'slope', 'sloth']",True,4
+slump,"['their', 'class', 'slung', 'slump']",True,4
+slung,"['other', 'daily', 'clubs', 'slump', 'slung']",True,5
+slunk,"['click', 'flask', 'sleek', 'slunk']",True,4
+slurp,"['there', 'yours', 'asura', 'slurp']",True,4
+slush,"['their', 'flash', 'blush', 'slush']",True,4
+slyly,"['other', 'class', 'slung', 'slily', 'slyly']",True,5
+smack,"['other', 'click', 'snuck', 'smack']",True,4
+small,"['their', 'class', 'spall', 'small']",True,4
+smart,"['click', 'state', 'shaft', 'swart', 'spart', 'smart']",True,6
+smash,"['other', 'chain', 'flash', 'swash', 'smash']",True,5
+smear,"['click', 'about', 'names', 'seame', 'smear']",True,5
+smell,"['price', 'games', 'mesto', 'smell']",True,4
+smelt,"['price', 'women', 'meals', 'smelt']",True,4
+smile,"['about', 'while', 'smile']",True,3
+smirk,"['would', 'items', 'missa', 'smirk']",True,4
+smite,"['about', 'terms', 'smite']",True,3
+smith,"['there', 'watch', 'booth', 'sixth', 'smith']",True,5
+smock,"['which', 'truck', 'flock', 'knock', 'smock']",True,5
+smoke,"['their', 'based', 'mouse', 'smoke']",True,4
+smoky,"['which', 'about', 'looks', 'smoky']",True,4
+smote,"['these', 'waste', 'spite', 'smote']",True,4
+snack,"['there', 'would', 'signs', 'snack']",True,4
+snail,"['would', 'large', 'plant', 'snail']",True,4
+snake,"['would', 'price', 'sense', 'snake']",True,4
+snaky,"['other', 'again', 'spans', 'snack', 'snaky']",True,5
+snare,"['price', 'three', 'rogue', 'flare', 'snare']",True,5
+snarl,"['which', 'under', 'snarl']",True,3
+sneak,"['these', 'ideas', 'spear', 'sneak']",True,4
+sneer,"['click', 'group', 'terms', 'saber', 'sneer']",True,5
+snide,"['about', 'where', 'slice', 'snide']",True,4
+sniff,"['other', 'using', 'snips', 'sniff']",True,4
+snipe,"['their', 'files', 'spike', 'swipe', 'snipe']",True,5
+snoop,"['first', 'needs', 'sauna', 'synch', 'spoon', 'snoop']",True,6
+snore,"['there', 'glare', 'crore', 'swore', 'spore', 'snore']",True,6
+snort,"['there', 'start', 'sport', 'skort', 'snort']",True,5
+snout,"['first', 'asset', 'stout', 'spout', 'shout', 'scout']",False,6
+snowy,"['about', 'score', 'smoky', 'snowy']",True,4
+snuck,"['would', 'truck', 'snuck']",True,3
+snuff,"['which', 'games', 'pussy', 'stuff', 'snuff']",True,5
+soapy,"['these', 'words', 'soupy', 'soapy']",True,4
+sober,"['which', 'group', 'major', 'older', 'noter', 'roker']",False,6
+soggy,"['would', 'money', 'sorry', 'soapy', 'softy', 'soggy']",True,6
+solar,"['these', 'girls', 'solar']",True,3
+solid,"['click', 'final', 'louie', 'polis', 'solid']",True,5
+solve,"['other', 'close', 'solve']",True,3
+sonar,"['price', 'world', 'rooms', 'sonar']",True,4
+sonic,"['click', 'micro', 'ionic', 'tonic', 'sonic']",True,5
+sooth,"['price', 'small', 'study', 'snoot', 'sooth']",True,5
+sooty,"['click', 'there', 'about', 'stops', 'sooty']",True,5
+sorry,"['there', 'sorry']",True,2
+sound,"['about', 'house', 'soups', 'sound']",True,4
+south,"['which', 'death', 'north', 'sooth', 'south']",True,5
+sower,"['these', 'pages', 'screw', 'sower']",True,4
+space,"['these', 'since', 'sauce', 'space']",True,4
+spade,"['there', 'space', 'spade']",True,3
+spank,"['first', 'small', 'scans', 'swank', 'spank']",True,5
+spare,"['there', 'flare', 'spare']",True,3
+spark,"['other', 'grand', 'spars', 'spark']",True,4
+spasm,"['about', 'email', 'champ', 'spasm']",True,4
+spawn,"['which', 'below', 'award', 'spawn']",True,4
+speak,"['which', 'state', 'speak']",True,3
+spear,"['which', 'after', 'rebar', 'smear', 'spear']",True,5
+speck,"['first', 'pages', 'slope', 'speck']",True,4
+speed,"['these', 'seeds', 'sweed', 'speed']",True,4
+spell,"['these', 'views', 'smell', 'snell', 'spell']",True,5
+spelt,"['price', 'types', 'swept', 'spelt']",True,4
+spend,"['which', 'group', 'japan', 'spend']",True,4
+spent,"['first', 'sweet', 'spect', 'spelt', 'spent']",True,5
+sperm,"['their', 'press', 'sperm']",True,3
+spice,"['which', 'quick', 'epics', 'spice']",True,4
+spicy,"['price', 'spica', 'spick', 'spicy']",True,4
+spied,"['first', 'basis', 'smile', 'spied']",True,4
+spiel,"['which', 'print', 'opium', 'spiky', 'spill', 'spiel']",True,6
+spike,"['their', 'issue', 'slice', 'spike']",True,4
+spiky,"['price', 'spiny', 'spiky']",True,3
+spill,"['which', 'doing', 'brief', 'suits', 'skivy', 'spill']",True,6
+spilt,"['which', 'doing', 'quite', 'stirs', 'spilt']",True,5
+spine,"['about', 'since', 'snipe', 'spine']",True,4
+spiny,"['which', 'print', 'spink', 'spina', 'spiny']",True,5
+spire,"['other', 'every', 'beard', 'inure', 'spire']",True,5
+spite,"['price', 'stipe', 'spite']",True,3
+splat,"['other', 'saint', 'splat']",True,3
+split,"['their', 'visit', 'split']",True,3
+spoil,"['which', 'links', 'basil', 'spoil']",True,4
+spoke,"['there', 'place', 'opine', 'spoke']",True,4
+spoof,"['these', 'books', 'spool', 'spoon', 'spoof']",True,5
+spook,"['would', 'store', 'shops', 'spook']",True,4
+spool,"['there', 'click', 'dolls', 'spool']",True,4
+spoon,"['other', 'going', 'knows', 'spoon']",True,4
+spore,"['price', 'sprue', 'spore']",True,3
+sport,"['these', 'study', 'split', 'sprat', 'sport']",True,5
+spout,"['their', 'staff', 'spout']",True,3
+spray,"['price', 'spark', 'spray']",True,3
+spree,"['click', 'state', 'swore', 'spree']",True,4
+sprig,"['price', 'rapid', 'strip', 'sprig']",True,4
+spunk,"['first', 'games', 'scoop', 'spunk']",True,4
+spurn,"['which', 'under', 'turns', 'spurn']",True,4
+spurt,"['their', 'front', 'scart', 'spurt']",True,4
+squad,"['which', 'state', 'sugar', 'squab', 'squad']",True,5
+squat,"['other', 'lists', 'patsy', 'scant', 'squat']",True,5
+squib,"['which', 'items', 'silva', 'squib']",True,4
+stack,"['price', 'clock', 'snack', 'shack', 'stack']",True,5
+staff,"['would', 'first', 'staff']",True,3
+stage,"['these', 'stage']",True,2
+staid,"['other', 'study', 'stand', 'staid']",True,4
+stain,"['which', 'links', 'savin', 'spain', 'stain']",True,5
+stair,"['other', 'attar', 'starr', 'stair']",True,4
+stake,"['there', 'quote', 'style', 'stane', 'stake']",True,5
+stale,"['which', 'about', 'party', 'texas', 'stade', 'stave']",False,6
+stalk,"['their', 'posts', 'stuff', 'stang', 'stall', 'stalk']",True,6
+stall,"['click', 'hotel', 'trull', 'stall']",True,4
+stamp,"['click', 'group', 'stamp']",True,3
+stand,"['price', 'books', 'stand']",True,3
+stank,"['about', 'state', 'stain', 'stand', 'stank']",True,5
+stare,"['there', 'stare']",True,2
+stark,"['their', 'court', 'starn', 'stark']",True,4
+start,"['click', 'there', 'stars', 'starr', 'start']",True,5
+stash,"['there', 'youth', 'watch', 'staph', 'stash']",True,5
+state,"['these', 'state']",True,2
+stave,"['first', 'style', 'stane', 'stake', 'stave']",True,5
+stead,"['other', 'items', 'stell', 'stent', 'steak', 'stead']",True,6
+steak,"['price', 'level', 'guest', 'stews', 'stead', 'steam']",False,6
+steal,"['price', 'level', 'extol', 'steal']",True,4
+steam,"['about', 'trade', 'steak', 'steal', 'steam']",True,5
+steed,"['their', 'steam', 'steen', 'steel', 'steep', 'steed']",True,6
+steel,"['would', 'email', 'kneel', 'steel']",True,4
+steep,"['other', 'steed', 'steep']",True,3
+steer,"['click', 'state', 'strep', 'steer']",True,4
+stein,"['there', 'agent', 'stein']",True,3
+stern,"['would', 'their', 'greet', 'stern']",True,4
+stick,"['these', 'staff', 'stick']",True,3
+stiff,"['their', 'stick', 'stiff']",True,3
+still,"['would', 'still']",True,2
+stilt,"['there', 'still', 'stilt']",True,3
+sting,"['about', 'times', 'strip', 'stink', 'sting']",True,5
+stink,"['about', 'sites', 'smith', 'stiff', 'still', 'stink']",True,6
+stint,"['other', 'study', 'stack', 'still', 'stint']",True,5
+stock,"['these', 'start', 'still', 'stock']",True,4
+stoic,"['about', 'stone', 'stood', 'stoic']",True,4
+stoke,"['which', 'group', 'tools', 'stoma', 'stoke']",True,5
+stole,"['first', 'stock', 'stoop', 'stone', 'stove', 'stole']",True,6
+stomp,"['their', 'staff', 'stock', 'stood', 'stott', 'stops']",False,6
+stone,"['these', 'stone']",True,2
+stony,"['other', 'atoll', 'stood', 'stock', 'stout', 'stomp']",False,6
+stood,"['click', 'there', 'posts', 'stoma', 'stong', 'stood']",True,6
+stool,"['would', 'along', 'spoil', 'stool']",True,4
+stoop,"['there', 'point', 'stomp', 'stoup', 'stoop']",True,5
+store,"['first', 'roots', 'stour', 'stork', 'storm', 'story']",False,6
+stork,"['first', 'roots', 'storm', 'stork']",True,4
+storm,"['these', 'start', 'storm']",True,3
+story,"['which', 'great', 'tours', 'story']",True,4
+stout,"['other', 'stops', 'stoat', 'stout']",True,4
+stove,"['about', 'photo', 'stock', 'story', 'stove']",True,5
+strap,"['other', 'sturt', 'stria', 'straw', 'stray', 'strap']",True,6
+straw,"['price', 'hours', 'karst', 'stray', 'straw']",True,5
+stray,"['other', 'stark', 'strad', 'straw', 'stray']",True,5
+strip,"['their', 'atria', 'strip']",True,3
+strut,"['first', 'sprat', 'strut']",True,3
+stuck,"['other', 'stuff', 'stung', 'stump', 'stuck']",True,5
+study,"['click', 'order', 'hands', 'study']",True,4
+stuff,"['which', 'books', 'study', 'stung', 'sturt', 'stull']",False,6
+stump,"['would', 'abuse', 'spurs', 'stump']",True,4
+stung,"['which', 'under', 'young', 'flung', 'stung']",True,5
+stunk,"['click', 'break', 'spunk', 'stunk']",True,4
+stunt,"['first', 'shout', 'squat', 'stunt']",True,4
+style,"['there', 'state', 'stone', 'stime', 'style']",True,5
+suave,"['there', 'image', 'blade', 'scape', 'soave', 'suave']",True,6
+sugar,"['about', 'rural', 'sugar']",True,3
+suing,"['these', 'books', 'using', 'suing']",True,4
+suite,"['these', 'stone', 'slate', 'smite', 'suite']",True,5
+sulky,"['click', 'walks', 'sulky']",True,3
+sully,"['price', 'would', 'bully', 'sully']",True,4
+sumac,"['these', 'books', 'usual', 'sugar', 'sumac']",True,5
+sunny,"['their', 'would', 'fuzzy', 'bumpy', 'sucky', 'sunny']",True,6
+super,"['their', 'paper', 'duper', 'super']",True,4
+surer,"['about', 'quick', 'guess', 'super', 'surer']",True,5
+surge,"['about', 'users', 'super', 'surge']",True,4
+surly,"['there', 'radio', 'burns', 'surly']",True,4
+sushi,"['price', 'night', 'sushi']",True,3
+swami,"['would', 'fewer', 'twist', 'swain', 'swami']",True,5
+swamp,"['their', 'found', 'plays', 'scapa', 'spasm', 'swamp']",True,6
+swarm,"['click', 'state', 'swamp', 'swarm']",True,4
+swash,"['click', 'group', 'these', 'swash']",True,4
+swath,"['their', 'dutch', 'stash', 'swath']",True,4
+swear,"['click', 'where', 'swear']",True,3
+sweat,"['which', 'below', 'awake', 'sweat']",True,4
+sweep,"['these', 'seeks', 'sweep']",True,3
+sweet,"['would', 'aware', 'swept', 'sweet']",True,4
+swell,"['click', 'small', 'snell', 'spell', 'swell']",True,5
+swept,"['their', 'agent', 'dwelt', 'swept']",True,4
+swift,"['about', 'print', 'shift', 'swift']",True,4
+swill,"['there', 'using', 'fails', 'swill']",True,4
+swine,"['these', 'scope', 'slide', 'skive', 'swire', 'swine']",True,6
+swing,"['which', 'twill', 'owing', 'swing']",True,4
+swirl,"['there', 'diary', 'noirs', 'smirk', 'swirl']",True,5
+swish,"['their', 'pinch', 'swish']",True,3
+swoon,"['would', 'owner', 'swoon']",True,3
+swoop,"['their', 'found', 'mambo', 'scoop', 'sloop', 'swoop']",True,6
+sword,"['these', 'small', 'sword']",True,3
+swore,"['would', 'arrow', 'sworn', 'swore']",True,4
+sworn,"['about', 'close', 'goods', 'shown', 'sworn']",True,5
+swung,"['would', 'squaw', 'swung']",True,3
+synod,"['their', 'small', 'scoop', 'synod']",True,4
+syrup,"['their', 'works', 'scrub', 'syrup']",True,4
+tabby,"['first', 'taken', 'tatty', 'tammy', 'tally', 'tabby']",True,6
+table,"['their', 'takes', 'taube', 'table']",True,4
+taboo,"['there', 'talks', 'tawny', 'tacit', 'tazza', 'taboo']",True,6
+tacit,"['other', 'input', 'digit', 'tacit']",True,4
+tacky,"['these', 'track', 'tacky']",True,3
+taffy,"['price', 'small', 'today', 'taffy']",True,4
+taint,"['other', 'input', 'clint', 'taint']",True,4
+taken,"['would', 'there', 'tapes', 'taken']",True,4
+taker,"['which', 'books', 'karma', 'taker']",True,4
+tally,"['click', 'value', 'salon', 'waltz', 'talaq', 'tally']",True,6
+talon,"['other', 'posts', 'taxon', 'talon']",True,4
+tamer,"['these', 'timer', 'tamer']",True,3
+tango,"['their', 'tonga', 'tango']",True,3
+tangy,"['their', 'tommy', 'tasty', 'taffy', 'tabby', 'talky']",False,6
+taper,"['which', 'great', 'rated', 'taler', 'taber', 'taxer']",False,6
+tapir,"['there', 'train', 'tapir']",True,3
+tardy,"['would', 'trade', 'tardy']",True,3
+tarot,"['price', 'hours', 'major', 'karoo', 'tarot']",True,5
+taste,"['there', 'title', 'taste']",True,3
+tasty,"['which', 'group', 'level', 'tanks', 'tasty']",True,5
+tatty,"['their', 'tommy', 'taffy', 'tangy', 'tacky', 'tally']",False,6
+taunt,"['their', 'towns', 'taunt']",True,3
+tawny,"['these', 'trunk', 'tawny']",True,3
+teach,"['first', 'watch', 'teach']",True,3
+teary,"['would', 'these', 'terra', 'teary']",True,4
+tease,"['there', 'tenue', 'tepee', 'tease']",True,4
+teddy,"['click', 'where', 'based', 'demon', 'teddy']",True,5
+teeth,"['other', 'eight', 'death', 'tenth', 'teeth']",True,5
+tempo,"['these', 'tyler', 'tempo']",True,3
+tenet,"['first', 'adult', 'genet', 'benet', 'tenet']",True,5
+tenor,"['other', 'tenor']",True,2
+tense,"['which', 'after', 'teens', 'tense']",True,4
+tenth,"['first', 'total', 'teeth', 'tenth']",True,4
+tepee,"['first', 'table', 'tenue', 'tepee']",True,4
+tepid,"['their', 'tepid']",True,2
+terra,"['which', 'state', 'later', 'terra']",True,4
+terse,"['price', 'share', 'morse', 'verse', 'terse']",True,5
+testy,"['price', 'hotel', 'seats', 'zesty', 'testy']",True,5
+thank,"['first', 'hotel', 'thanx', 'thang', 'thank']",True,5
+theft,"['their', 'theme', 'theca', 'theft']",True,4
+their,['their'],True,1
+theme,"['these', 'there', 'theme']",True,3
+there,"['click', 'order', 'every', 'jeers', 'where', 'there']",True,6
+these,"['first', 'tease', 'these']",True,3
+theta,"['would', 'items', 'brent', 'theca', 'theta']",True,5
+thick,"['there', 'thanx', 'thugs', 'thill', 'thick']",True,5
+thief,"['first', 'motif', 'thief']",True,3
+thigh,"['about', 'their', 'thick', 'thins', 'thigh']",True,5
+thing,"['there', 'thick', 'thing']",True,3
+think,"['their', 'thing', 'think']",True,3
+third,"['first', 'train', 'third']",True,3
+thong,"['price', 'found', 'along', 'stong', 'thong']",True,5
+thorn,"['first', 'other', 'thorn']",True,3
+those,"['first', 'tense', 'tasse', 'touse', 'those']",True,5
+three,"['price', 'where', 'three']",True,3
+threw,"['click', 'other', 'three', 'threw']",True,4
+throb,"['these', 'third', 'throb']",True,3
+throw,"['click', 'group', 'major', 'throb', 'throw']",True,5
+thrum,"['which', 'shoes', 'phang', 'thumb', 'thrum']",True,5
+thumb,"['their', 'thous', 'thumb']",True,3
+thump,"['click', 'other', 'synth', 'mutha', 'thumb', 'thump']",True,6
+thyme,"['price', 'these', 'thane', 'thyme']",True,4
+tiara,"['their', 'triad', 'tiara']",True,3
+tibia,"['which', 'video', 'linux', 'first', 'tikka', 'tibia']",True,6
+tidal,"['their', 'titan', 'tical', 'tidal']",True,4
+tiger,"['click', 'items', 'bitte', 'eight', 'tiger']",True,5
+tight,"['first', 'digit', 'eight', 'kight', 'bight', 'wight']",False,6
+tilde,"['click', 'final', 'hills', 'tilde']",True,4
+timer,"['there', 'tyler', 'tuner', 'taker', 'titer', 'timer']",True,6
+timid,"['price', 'light', 'ditto', 'timid']",True,4
+tipsy,"['there', 'towns', 'tipsy']",True,3
+titan,"['would', 'state', 'titan']",True,3
+tithe,"['these', 'tache', 'tithe']",True,3
+title,"['other', 'table', 'tuple', 'title']",True,4
+toast,"['there', 'tommy', 'tonga', 'toast']",True,4
+today,"['their', 'today']",True,2
+toddy,"['there', 'tanks', 'topic', 'tolyl', 'totty', 'toddy']",True,6
+token,"['about', 'hotel', 'toney', 'token']",True,4
+tonal,"['first', 'hotel', 'tonal']",True,3
+tonga,"['click', 'about', 'gotta', 'tonga']",True,4
+tonic,"['which', 'basic', 'comic', 'doric', 'yogic', 'topic']",False,6
+tooth,"['these', 'touch', 'tooth']",True,3
+topaz,"['price', 'lamps', 'attap', 'topaz']",True,4
+topic,"['other', 'count', 'toxic', 'topic']",True,4
+torch,"['which', 'patch', 'tench', 'touch', 'torch']",True,5
+torso,"['price', 'start', 'torso']",True,3
+torus,"['would', 'conus', 'momus', 'torus']",True,4
+total,"['first', 'photo', 'motel', 'total']",True,4
+totem,"['first', 'today', 'tonne', 'totem']",True,4
+touch,"['first', 'month', 'tough', 'touch']",True,4
+tough,"['would', 'tours', 'tough']",True,3
+towel,"['there', 'takes', 'timed', 'towel']",True,4
+tower,"['would', 'gowns', 'zowie', 'bower', 'rower', 'cower']",False,6
+toxic,"['these', 'trial', 'titty', 'tonic', 'toxic']",True,5
+toxin,"['other', 'today', 'topic', 'toxin']",True,4
+trace,"['other', 'terms', 'trike', 'trave', 'trace']",True,5
+track,"['which', 'block', 'track']",True,3
+tract,"['click', 'watch', 'trace', 'tract']",True,4
+trade,"['first', 'track', 'trawl', 'trade']",True,4
+trail,"['other', 'parts', 'draft', 'trawl', 'trail']",True,5
+train,"['other', 'print', 'train']",True,3
+trait,"['there', 'train', 'trail', 'trait']",True,4
+tramp,"['about', 'texas', 'tiara', 'trawl', 'track', 'tramp']",True,6
+trash,"['click', 'other', 'furth', 'trash']",True,4
+trawl,"['price', 'grand', 'wrath', 'trawl']",True,4
+tread,"['there', 'treat', 'tread']",True,3
+treat,"['other', 'trend', 'treys', 'treif', 'treck', 'treat']",True,6
+trend,"['their', 'treen', 'trend']",True,3
+triad,"['their', 'triac', 'triad']",True,3
+trial,"['about', 'state', 'intra', 'triad', 'triac', 'trial']",True,6
+tribe,"['other', 'terry', 'trice', 'trike', 'tripe', 'trine']",False,6
+trice,"['these', 'table', 'titre', 'trike', 'trine', 'tripe']",False,6
+trick,"['about', 'times', 'thick', 'trick']",True,4
+tried,"['first', 'write', 'tried']",True,3
+tripe,"['other', 'extra', 'brent', 'truce', 'trike', 'trite']",False,6
+trite,"['click', 'print', 'write', 'trite']",True,4
+troll,"['which', 'years', 'round', 'brook', 'tromp', 'troll']",True,6
+troop,"['other', 'ratio', 'forty', 'troop']",True,4
+trope,"['would', 'offer', 'score', 'trove', 'trone', 'trope']",True,6
+trout,"['price', 'brand', 'truth', 'trout']",True,4
+trove,"['other', 'trope', 'trove']",True,3
+truce,"['about', 'study', 'truer', 'truce']",True,4
+truck,"['which', 'force', 'brack', 'truck']",True,4
+truer,"['there', 'tried', 'truer']",True,3
+truly,"['about', 'study', 'truly']",True,3
+trump,"['first', 'track', 'trope', 'trump']",True,4
+trunk,"['which', 'under', 'brunt', 'trunk']",True,4
+truss,"['other', 'smart', 'writs', 'truss']",True,4
+trust,"['there', 'track', 'troop', 'truss', 'trust']",True,5
+truth,"['these', 'troth', 'truth']",True,3
+tryst,"['would', 'there', 'traps', 'tryst']",True,4
+tubal,"['these', 'trail', 'total', 'tubal']",True,4
+tuber,"['other', 'alter', 'tiger', 'tuner', 'tuber']",True,5
+tulip,"['these', 'truck', 'tulip']",True,3
+tulle,"['there', 'twice', 'touse', 'tuple', 'tulle']",True,5
+tumor,"['these', 'trail', 'tumor']",True,3
+tunic,"['price', 'civic', 'music', 'tunic']",True,4
+turbo,"['first', 'threw', 'targa', 'turbo']",True,4
+tutor,"['about', 'outer', 'sutor', 'tutor']",True,4
+twang,"['which', 'owner', 'swans', 'bwana', 'twang']",True,5
+tweak,"['other', 'title', 'tweak']",True,3
+tweed,"['would', 'jawed', 'tweed']",True,3
+tweet,"['these', 'teeny', 'treed', 'tweep', 'tweet']",True,5
+twice,"['other', 'teens', 'twice']",True,3
+twine,"['would', 'twins', 'twink', 'twine']",True,4
+twirl,"['first', 'write', 'twirl']",True,3
+twist,"['first', 'exist', 'twist']",True,3
+twixt,"['their', 'titan', 'twist', 'twixt']",True,4
+tying,"['about', 'there', 'titty', 'tying']",True,4
+udder,"['there', 'poker', 'amber', 'under', 'udder']",True,5
+ulcer,"['their', 'power', 'never', 'dryer', 'maker', 'suber']",False,6
+ultra,"['price', 'north', 'smart', 'ultra']",True,4
+umbra,"['which', 'under', 'usurp', 'ultra', 'umbra']",True,5
+uncle,"['first', 'level', 'whole', 'gable', 'uncle']",True,5
+uncut,"['their', 'coast', 'uncut']",True,3
+under,"['price', 'under']",True,2
+undid,"['there', 'found', 'unlid', 'undid']",True,4
+undue,"['there', 'image', 'solve', 'bubbe', 'undue']",True,5
+unfed,"['other', 'added', 'sized', 'cubed', 'upled', 'unwed']",False,6
+unfit,"['would', 'using', 'unzip', 'untie', 'unfit']",True,5
+unify,"['which', 'using', 'unity', 'unify']",True,4
+union,"['which', 'print', 'noise', 'onion', 'union']",True,5
+unite,"['which', 'print', 'unite']",True,3
+unity,"['their', 'joint', 'knits', 'unity']",True,4
+unlit,"['price', 'links', 'unlit']",True,3
+unmet,"['their', 'often', 'unmet']",True,3
+unset,"['there', 'metal', 'duvet', 'upset', 'unset']",True,5
+untie,"['which', 'links', 'again', 'nooit', 'untie']",True,5
+until,"['which', 'times', 'input', 'until']",True,4
+unwed,"['first', 'phone', 'named', 'ended', 'unwed']",True,5
+unzip,"['which', 'media', 'until', 'unzip']",True,4
+upper,"['about', 'using', 'udder', 'upper']",True,4
+upset,"['about', 'crust', 'upset']",True,3
+urban,"['click', 'after', 'drama', 'organ', 'urban']",True,5
+urine,"['there', 'price', 'bribe', 'arise', 'grime', 'drive']",False,6
+usage,"['these', 'smoke', 'lisle', 'usque', 'usage']",True,5
+usher,"['about', 'super', 'usher']",True,3
+using,"['other', 'music', 'using']",True,3
+usual,"['these', 'links', 'usual']",True,3
+usurp,"['there', 'alarm', 'worry', 'quirk', 'spurs', 'usurp']",True,6
+utile,"['about', 'suite', 'utile']",True,3
+utter,"['first', 'entry', 'rated', 'cuter', 'utter']",True,5
+vague,"['other', 'media', 'clean', 'spake', 'vague']",True,5
+valet,"['their', 'least', 'eclat', 'palet', 'valet']",True,5
+valid,"['their', 'basis', 'magic', 'vapid', 'valid']",True,5
+valor,"['would', 'close', 'valor']",True,3
+value,"['price', 'quote', 'undue', 'value']",True,4
+valve,"['about', 'class', 'early', 'halve', 'valve']",True,5
+vapid,"['click', 'items', 'robin', 'vivid', 'vapid']",True,5
+vapor,"['other', 'solar', 'favor', 'vapor']",True,4
+vault,"['there', 'visit', 'vault']",True,3
+vaunt,"['click', 'years', 'honda', 'zaman', 'jaunt', 'taunt']",False,6
+vegan,"['their', 'level', 'vegan']",True,3
+venom,"['which', 'order', 'mouse', 'genom', 'venom']",True,5
+venue,"['click', 'order', 'texas', 'peggy', 'femme', 'benne']",False,6
+verge,"['click', 'order', 'every', 'nerve', 'verse', 'verge']",True,6
+verse,"['these', 'lense', 'perse', 'verse']",True,4
+verso,"['other', 'grove', 'verso']",True,3
+verve,"['first', 'rural', 'porno', 'herby', 'verge', 'verve']",True,6
+vicar,"['which', 'basic', 'cigar', 'vicar']",True,4
+video,"['their', 'index', 'sides', 'aided', 'video']",True,5
+vigil,"['other', 'music', 'plain', 'filii', 'vigil']",True,5
+vigor,"['price', 'virus', 'vizor', 'vigor']",True,4
+villa,"['which', 'sites', 'dildo', 'billy', 'villa']",True,5
+vinyl,"['first', 'dildo', 'liang', 'nihil', 'vinyl']",True,5
+viola,"['price', 'again', 'jihad', 'limba', 'villa', 'viola']",True,6
+viper,"['price', 'viper']",True,2
+viral,"['first', 'girly', 'viral']",True,3
+virus,"['other', 'girls', 'dirks', 'virus']",True,4
+visit,"['click', 'times', 'sixth', 'visit']",True,4
+visor,"['their', 'minor', 'vigor', 'visor']",True,4
+vista,"['about', 'staff', 'waste', 'vista']",True,4
+vital,"['other', 'lists', 'vital']",True,3
+vivid,"['price', 'links', 'fight', 'bizzy', 'vivid']",True,5
+vixen,"['about', 'links', 'ricin', 'given', 'vixen']",True,5
+vocal,"['these', 'would', 'logic', 'copal', 'focal', 'vocal']",True,6
+vodka,"['other', 'local', 'fonda', 'douma', 'vodka']",True,5
+vogue,"['their', 'women', 'goose', 'vogue']",True,4
+voice,"['would', 'posts', 'cover', 'voice']",True,4
+voila,"['click', 'daily', 'voila']",True,3
+vomit,"['there', 'costs', 'doubt', 'nooit', 'vomit']",True,5
+voter,"['which', 'games', 'poker', 'rover', 'voter']",True,5
+vouch,"['price', 'block', 'coach', 'touch', 'vouch']",True,5
+vowel,"['other', 'women', 'sowed', 'bowel', 'vowel']",True,5
+vying,"['other', 'class', 'puppy', 'vying']",True,4
+wacky,"['first', 'would', 'waken', 'wacky']",True,4
+wafer,"['price', 'every', 'later', 'safer', 'wafer']",True,5
+wager,"['which', 'woman', 'watts', 'warez', 'wafer', 'waver']",False,6
+wagon,"['click', 'state', 'major', 'bayou', 'wahoo', 'wagon']",True,6
+waist,"['first', 'hoist', 'alist', 'waist']",True,4
+waive,"['first', 'movie', 'chive', 'naive', 'waive']",True,5
+waltz,"['their', 'staff', 'baton', 'vault', 'waltz']",True,5
+warty,"['there', 'parts', 'warty']",True,3
+waste,"['would', 'weeks', 'wiser', 'waste']",True,4
+watch,"['price', 'match', 'latch', 'batch', 'catch', 'natch']",False,6
+water,"['would', 'which', 'wraps', 'waver', 'water']",True,5
+waver,"['would', 'wings', 'wreck', 'water', 'waver']",True,5
+waxen,"['other', 'level', 'cases', 'faxed', 'waxen']",True,5
+weary,"['first', 'power', 'wreak', 'whare', 'weary']",True,5
+weave,"['about', 'image', 'phase', 'weave']",True,4
+wedge,"['these', 'peace', 'femme', 'verge', 'legge', 'wedge']",True,6
+weedy,"['click', 'these', 'every', 'weedy']",True,4
+weigh,"['their', 'hides', 'neigh', 'weigh']",True,4
+weird,"['these', 'email', 'being', 'reiki', 'weird']",True,5
+welch,"['click', 'welch']",True,2
+welsh,"['their', 'beach', 'welsh']",True,3
+wench,"['click', 'space', 'merch', 'tench', 'dench', 'bench']",False,6
+whack,"['there', 'shown', 'whiff', 'whack']",True,4
+whale,"['other', 'phase', 'chace', 'whale']",True,4
+wharf,"['these', 'charm', 'wharf']",True,3
+wheat,"['first', 'agent', 'wheat']",True,3
+wheel,"['price', 'legal', 'ethyl', 'sheol', 'wheel']",True,5
+whelp,"['which', 'whoop', 'whump', 'whelp']",True,4
+where,"['these', 'where']",True,2
+which,"['would', 'watch', 'which']",True,3
+whiff,"['there', 'shall', 'chimp', 'whizz', 'whiny', 'whiff']",True,6
+while,"['their', 'chine', 'shive', 'while']",True,4
+whine,"['about', 'which', 'whips', 'whizz', 'whirl', 'whiny']",False,6
+whiny,"['their', 'chick', 'shims', 'whiny']",True,4
+whirl,"['about', 'level', 'swirl', 'whirl']",True,4
+whisk,"['their', 'child', 'whims', 'whisk']",True,4
+white,"['price', 'suite', 'waite', 'white']",True,4
+whole,"['these', 'chime', 'whole']",True,3
+whoop,"['their', 'shock', 'ghoul', 'phono', 'whoop']",True,5
+whose,"['first', 'house', 'whose']",True,3
+widen,"['these', 'power', 'waved', 'widen']",True,4
+wider,"['click', 'image', 'penis', 'fixed', 'rider', 'eider']",False,6
+widow,"['which', 'wills', 'wider', 'widow']",True,4
+width,"['first', 'witch', 'width']",True,3
+wield,"['click', 'field', 'wield']",True,3
+wight,"['other', 'thing', 'fight', 'sight', 'aight', 'hight']",False,6
+willy,"['these', 'group', 'admin', 'jiffy', 'billy', 'willy']",True,6
+wimpy,"['these', 'board', 'civil', 'jiffy', 'wimpy']",True,5
+wince,"['their', 'being', 'since', 'mince', 'wince']",True,5
+winch,"['would', 'where', 'winch']",True,3
+windy,"['price', 'again', 'linux', 'windy']",True,4
+wiser,"['about', 'since', 'files', 'riser', 'miser', 'wiser']",True,6
+wispy,"['click', 'sites', 'vison', 'wisha', 'wispy']",True,5
+witch,"['first', 'titan', 'ditch', 'hitch', 'bitch', 'pitch']",False,6
+witty,"['other', 'input', 'lists', 'kitty', 'titty', 'witty']",True,6
+woken,"['would', 'works', 'woken']",True,3
+woman,"['about', 'major', 'foams', 'nomad', 'woman']",True,5
+women,"['would', 'worry', 'wonks', 'women']",True,4
+woody,"['would', 'words', 'woody']",True,3
+wooer,"['would', 'worst', 'woker', 'wooer']",True,4
+wooly,"['would', 'wools', 'wooly']",True,3
+woozy,"['these', 'group', 'bloom', 'woody', 'woozy']",True,5
+wordy,"['their', 'cross', 'roman', 'lorry', 'porky', 'wordy']",True,6
+world,"['about', 'going', 'model', 'holds', 'world']",True,5
+worry,"['price', 'forum', 'sorts', 'zorro', 'lorry', 'worry']",True,6
+worse,"['about', 'order', 'worse']",True,3
+worst,"['price', 'major', 'short', 'worst']",True,4
+worth,"['their', 'north', 'forth', 'worth']",True,4
+would,"['first', 'money', 'would']",True,3
+wound,"['which', 'world', 'wound']",True,3
+woven,"['their', 'level', 'moved', 'fovea', 'woven']",True,5
+wrack,"['would', 'which', 'wreck', 'wrack']",True,4
+wrath,"['first', 'track', 'wrath']",True,3
+wreak,"['would', 'write', 'wreck', 'wreak']",True,4
+wreck,"['other', 'large', 'weird', 'wreck']",True,4
+wrest,"['their', 'erect', 'wrest']",True,3
+wring,"['there', 'girls', 'wring']",True,3
+wrist,"['which', 'waist', 'wrist']",True,3
+write,"['first', 'inter', 'uteri', 'tribe', 'write']",True,5
+wrong,"['which', 'women', 'wrong']",True,3
+wrote,"['other', 'forte', 'wrote']",True,3
+wrung,"['about', 'under', 'krunk', 'wrung']",True,4
+wryly,"['about', 'click', 'wheel', 'wryly']",True,4
+yacht,"['there', 'month', 'licht', 'yacht']",True,4
+yearn,"['their', 'force', 'relay', 'yearn']",True,4
+yeast,"['would', 'these', 'feist', 'yeast']",True,4
+yield,"['would', 'yield']",True,2
+young,"['about', 'could', 'rouge', 'young']",True,4
+youth,"['which', 'fresh', 'nymph', 'youth']",True,4
+zebra,"['which', 'games', 'extra', 'opera', 'zebra']",True,5
+zesty,"['first', 'posts', 'dusty', 'zesty']",True,4
+zonal,"['click', 'value', 'total', 'loral', 'modal', 'zonal']",True,6

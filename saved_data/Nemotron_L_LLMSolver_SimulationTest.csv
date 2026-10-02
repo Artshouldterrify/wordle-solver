@@ -1,0 +1,6 @@
+solution_word,guess_list,is_solved,n_guesses
+wacky,"['stare', 'aloud', 'wacky']",True,3
+druid,"['stare', 'irony', 'unrig', 'cumin']",False,8
+basil,"['arise', 'satin', 'basis', 'basic', 'basil']",True,5
+mafia,"['crane', 'about', 'happy', 'falls', 'mafia']",True,5
+debit,"['stare', 'tenth', 'debit']",True,3

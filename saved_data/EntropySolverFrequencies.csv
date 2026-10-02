@@ -1,0 +1,2316 @@
+solution_word,guess_list,is_solved,n_guesses
+aback,"['tares', 'dolia', 'human', 'aback']",True,4
+abase,"['tares', 'soave', 'phase', 'lease', 'abase']",True,5
+abate,"['tares', 'dealt', 'coate', 'agate', 'abate']",True,5
+abbey,"['tares', 'lycea', 'abbey']",True,3
+abbot,"['tares', 'biota', 'abbot']",True,3
+abhor,"['tares', 'aroid', 'appro', 'abhor']",True,4
+abide,"['tares', 'diane', 'abide']",True,3
+abled,"['tares', 'lycea', 'angel', 'aloed', 'abled']",True,5
+abode,"['tares', 'diane', 'adobe', 'abode']",True,4
+abort,"['tares', 'drant', 'abort']",True,3
+about,"['tares', 'biota', 'about']",True,3
+above,"['tares', 'diane', 'above']",True,3
+abuse,"['tares', 'soave', 'abuse']",True,3
+abyss,"['tares', 'duans', 'alias', 'azyms', 'abyss']",True,5
+acorn,"['tares', 'aroid', 'acorn']",True,3
+acrid,"['tares', 'pyran', 'arrow', 'acrid']",True,4
+actor,"['tares', 'drant', 'ultra', 'actor']",True,4
+acute,"['tares', 'dealt', 'acute']",True,3
+adage,"['tares', 'diane', 'blade', 'adage']",True,4
+adapt,"['tares', 'biota', 'adult', 'adapt']",True,4
+adept,"['tares', 'dealt', 'adept']",True,3
+admin,"['tares', 'dolia', 'admin']",True,3
+admit,"['tares', 'biota', 'audit', 'admit']",True,4
+adobe,"['tares', 'diane', 'adobe']",True,3
+adopt,"['tares', 'biota', 'adopt']",True,3
+adore,"['tares', 'denar', 'grade', 'adore']",True,4
+adorn,"['tares', 'aroid', 'adorn']",True,3
+adult,"['tares', 'biota', 'adult']",True,3
+affix,"['tares', 'dolia', 'again', 'affix']",True,4
+afire,"['tares', 'denar', 'frame', 'afore', 'afire']",True,5
+afoot,"['tares', 'biota', 'adopt', 'amowt', 'ayont', 'afoot']",True,6
+afoul,"['tares', 'dolia', 'along', 'afoul']",True,4
+after,"['tares', 'after']",True,2
+again,"['tares', 'dolia', 'again']",True,3
+agape,"['tares', 'diane', 'place', 'agape']",True,4
+agate,"['tares', 'dealt', 'coate', 'agate']",True,4
+agent,"['tares', 'dealt', 'agent']",True,3
+agile,"['tares', 'diane', 'alive', 'agile']",True,4
+aging,"['tares', 'dolia', 'pikau', 'aging']",True,4
+aglow,"['tares', 'dolia', 'allow', 'aglow']",True,4
+agony,"['tares', 'dolia', 'among', 'agony']",True,4
+agora,"['tares', 'aroid', 'acorn', 'agora']",True,4
+agree,"['tares', 'acred', 'agree']",True,3
+ahead,"['tares', 'diane', 'ahead']",True,3
+aider,"['tares', 'ariel', 'aider']",True,3
+aisle,"['tares', 'soave', 'abuse', 'aside', 'aisle']",True,5
+alarm,"['tares', 'aroid', 'angry', 'alarm']",True,4
+album,"['tares', 'dolia', 'black', 'album']",True,4
+alert,"['tares', 'alert']",True,2
+algae,"['tares', 'diane', 'above', 'apple', 'algae']",True,5
+alibi,"['tares', 'dolia', 'final', 'alibi']",True,4
+alien,"['tares', 'lycea', 'angel', 'alien']",True,4
+align,"['tares', 'dolia', 'final', 'align']",True,4
+alike,"['tares', 'diane', 'alive', 'alike']",True,4
+alive,"['tares', 'diane', 'alive']",True,3
+allay,"['tares', 'dolia', 'yulan', 'bylaw', 'allay']",True,5
+alley,"['tares', 'lycea', 'alley']",True,3
+allot,"['tares', 'biota', 'fouat', 'allot']",True,4
+allow,"['tares', 'dolia', 'allow']",True,3
+alloy,"['tares', 'dolia', 'allow', 'alloy']",True,4
+aloft,"['tares', 'biota', 'adopt', 'amowt', 'ayont', 'afoot']",False,6
+alone,"['tares', 'diane', 'alone']",True,3
+along,"['tares', 'dolia', 'along']",True,3
+aloof,"['tares', 'dolia', 'along', 'aloof']",True,4
+aloud,"['tares', 'dolia', 'aloud']",True,3
+alpha,"['tares', 'dolia', 'alpha']",True,3
+altar,"['tares', 'drant', 'ultra', 'altar']",True,4
+alter,"['tares', 'after', 'alter']",True,3
+amass,"['tares', 'duans', 'class', 'amass']",True,4
+amaze,"['tares', 'diane', 'place', 'quake', 'weave', 'amaze']",True,6
+amber,"['tares', 'ariel', 'amber']",True,3
+amble,"['tares', 'diane', 'above', 'amble']",True,4
+amend,"['tares', 'diane', 'amend']",True,3
+amiss,"['tares', 'duans', 'alias', 'amiss']",True,4
+amity,"['tares', 'biota', 'amity']",True,3
+among,"['tares', 'dolia', 'among']",True,3
+ample,"['tares', 'diane', 'above', 'apple', 'ample']",True,5
+amply,"['tares', 'dolia', 'black', 'apply', 'amply']",True,5
+amuse,"['tares', 'soave', 'abuse', 'amuse']",True,4
+angel,"['tares', 'lycea', 'angel']",True,3
+anger,"['tares', 'ariel', 'amber', 'anger']",True,4
+angle,"['tares', 'diane', 'angle']",True,3
+angry,"['tares', 'aroid', 'angry']",True,3
+angst,"['tares', 'loast', 'angst']",True,3
+anime,"['tares', 'diane', 'anime']",True,3
+ankle,"['tares', 'diane', 'angle', 'ancle', 'ankle']",True,5
+annex,"['tares', 'lycea', 'added', 'annex']",True,4
+annoy,"['tares', 'dolia', 'among', 'annoy']",True,4
+annul,"['tares', 'dolia', 'black', 'apply', 'annal', 'annul']",True,6
+anode,"['tares', 'diane', 'anode']",True,3
+antic,"['tares', 'biota', 'audit', 'attic', 'antic']",True,5
+anvil,"['tares', 'dolia', 'claim', 'anvil']",True,4
+aorta,"['tares', 'airth', 'aorta']",True,3
+apart,"['tares', 'drant', 'chart', 'apart']",True,4
+aphid,"['tares', 'dolia', 'admin', 'aphid']",True,4
+aping,"['tares', 'dolia', 'pikau', 'aping']",True,4
+apnea,"['tares', 'lycea', 'bohea', 'apnea']",True,4
+apple,"['tares', 'diane', 'above', 'apple']",True,4
+apply,"['tares', 'dolia', 'black', 'apply']",True,4
+apron,"['tares', 'pyran', 'apron']",True,3
+aptly,"['tares', 'biota', 'adult', 'aptly']",True,4
+arbor,"['tares', 'aroid', 'armor', 'arbor']",True,4
+ardor,"['tares', 'aroid', 'ardor']",True,3
+arena,"['tares', 'denar', 'arena']",True,3
+argue,"['tares', 'denar', 'frame', 'argue']",True,4
+arise,"['tares', 'smear', 'arise']",True,3
+armor,"['tares', 'aroid', 'armor']",True,3
+aroma,"['tares', 'aroid', 'aroha', 'aroma']",True,4
+arose,"['tares', 'smear', 'arise', 'arose']",True,4
+array,"['tares', 'pyran', 'array']",True,3
+arrow,"['tares', 'pyran', 'arrow']",True,3
+arson,"['tares', 'sopra', 'oscar', 'arson']",True,4
+artsy,"['tares', 'smart', 'artsy']",True,3
+ascot,"['tares', 'loast', 'ascot']",True,3
+ashen,"['tares', 'ashen']",True,2
+aside,"['tares', 'soave', 'abuse', 'aside']",True,4
+askew,"['tares', 'ashen', 'asked', 'askew']",True,4
+assay,"['tares', 'scopa', 'flash', 'assai', 'assay']",True,5
+asset,"['tares', 'asset']",True,2
+atoll,"['tares', 'biota', 'adopt', 'atoll']",True,4
+atone,"['tares', 'dealt', 'acute', 'atone']",True,4
+attic,"['tares', 'biota', 'audit', 'attic']",True,4
+audio,"['tares', 'dolia', 'audio']",True,3
+audit,"['tares', 'biota', 'audit']",True,3
+augur,"['tares', 'aroid', 'angry', 'augur']",True,4
+aunty,"['tares', 'biota', 'aunty']",True,3
+avail,"['tares', 'dolia', 'claim', 'avail']",True,4
+avert,"['tares', 'alert', 'avert']",True,3
+avian,"['tares', 'dolia', 'pikau', 'avian']",True,4
+avoid,"['tares', 'dolia', 'audio', 'avoid']",True,4
+await,"['tares', 'biota', 'audit', 'await']",True,4
+awake,"['tares', 'diane', 'place', 'quake', 'awake']",True,5
+award,"['tares', 'aroid', 'award']",True,3
+aware,"['tares', 'denar', 'frame', 'aware']",True,4
+awash,"['tares', 'scopa', 'flash', 'awash']",True,4
+awful,"['tares', 'dolia', 'black', 'apply', 'annal', 'awful']",True,6
+awoke,"['tares', 'diane', 'above', 'awoke']",True,4
+axial,"['tares', 'dolia', 'final', 'axial']",True,4
+axiom,"['tares', 'dolia', 'piano', 'axiom']",True,4
+axion,"['tares', 'dolia', 'piano', 'avion', 'anion', 'axion']",True,6
+azure,"['tares', 'denar', 'frame', 'azure']",True,4
+bacon,"['tares', 'danio', 'wagon', 'halon', 'macon', 'bacon']",True,6
+badge,"['tares', 'daine', 'badge']",True,3
+badly,"['tares', 'danio', 'badly']",True,3
+bagel,"['tares', 'haled', 'panel', 'label', 'bagel']",True,5
+baggy,"['tares', 'danio', 'happy', 'balmy', 'baccy', 'baggy']",True,6
+baker,"['tares', 'macer', 'paper', 'layer', 'baker']",True,5
+baler,"['tares', 'macer', 'paper', 'layer', 'baler']",True,5
+balmy,"['tares', 'danio', 'happy', 'balmy']",True,4
+banal,"['tares', 'danio', 'manga', 'canal', 'banal']",True,5
+banjo,"['tares', 'danio', 'mango', 'banjo']",True,4
+barge,"['tares', 'parae', 'large', 'barge']",True,4
+baron,"['tares', 'baron']",True,2
+basal,"['tares', 'salmi', 'nasal', 'basal']",True,4
+basic,"['tares', 'salmi', 'basic']",True,3
+basil,"['tares', 'salmi', 'basil']",True,3
+basin,"['tares', 'salmi', 'basic', 'basin']",True,4
+basis,"['tares', 'dalis', 'basis']",True,3
+baste,"['tares', 'waste', 'paste', 'caste', 'haste', 'baste']",True,6
+batch,"['tares', 'daint', 'watch', 'match', 'patch', 'catch']",False,6
+bathe,"['tares', 'bathe']",True,2
+baton,"['tares', 'daint', 'baton']",True,3
+batty,"['tares', 'daint', 'watch', 'fatal', 'batty']",True,5
+bawdy,"['tares', 'danio', 'badly', 'bawdy']",True,4
+bayou,"['tares', 'danio', 'haoma', 'yapok', 'bayou']",True,5
+beach,"['tares', 'diane', 'beach']",True,3
+beady,"['tares', 'diane', 'weald', 'heady', 'beady']",True,5
+beard,"['tares', 'denar', 'ready', 'heard', 'beard']",True,5
+beast,"['tares', 'stela', 'beast']",True,3
+beech,"['tares', 'monie', 'kelly', 'debug', 'beech']",True,5
+beefy,"['tares', 'monie', 'kelly', 'peggy', 'weedy', 'beefy']",True,6
+befit,"['tares', 'monte', 'eight', 'debit', 'befit']",True,5
+began,"['tares', 'diane', 'began']",True,3
+begat,"['tares', 'dealt', 'begat']",True,3
+beget,"['tares', 'inlet', 'upjet', 'comet', 'beget']",True,5
+begin,"['tares', 'monie', 'begin']",True,3
+begun,"['tares', 'monie', 'newly', 'begun']",True,4
+being,"['tares', 'monie', 'being']",True,3
+belch,"['tares', 'monie', 'kelly', 'welch', 'belch']",True,5
+belie,"['tares', 'monie', 'fugie', 'dixie', 'belie']",True,5
+belle,"['tares', 'monie', 'judge', 'cycle', 'belle']",True,5
+belly,"['tares', 'monie', 'kelly', 'belly']",True,4
+below,"['tares', 'monie', 'below']",True,3
+bench,"['tares', 'monie', 'penny', 'bench']",True,4
+beret,"['tares', 'egret', 'beret']",True,3
+berry,"['tares', 'borne', 'berry']",True,3
+berth,"['tares', 'merit', 'certy', 'hertz', 'berth']",True,5
+beset,"['tares', 'coset', 'upset', 'inset', 'beset']",True,5
+betel,"['tares', 'inlet', 'hotel', 'betel']",True,4
+bevel,"['tares', 'poley', 'level', 'devel', 'nevel', 'bevel']",True,6
+bezel,"['tares', 'poley', 'level', 'gemel', 'jewel', 'bezel']",True,6
+bible,"['tares', 'monie', 'bible']",True,3
+bicep,"['tares', 'poley', 'unpeg', 'bicep']",True,4
+biddy,"['tares', 'noily', 'midgy', 'diddy', 'kiddy', 'biddy']",True,6
+bigot,"['tares', 'biont', 'bigot']",True,3
+bilge,"['tares', 'monie', 'bible', 'bilge']",True,4
+billy,"['tares', 'noily', 'imply', 'billy']",True,4
+binge,"['tares', 'monie', 'wince', 'dinge', 'hinge', 'binge']",True,6
+bingo,"['tares', 'noily', 'bingo']",True,3
+biome,"['tares', 'monie', 'biome']",True,3
+birch,"['tares', 'giron', 'mirly', 'birch']",True,4
+birth,"['tares', 'lirot', 'birth']",True,3
+bison,"['tares', 'sonic', 'bison']",True,3
+bitty,"['tares', 'biont', 'bitch', 'bitty']",True,4
+black,"['tares', 'dolia', 'black']",True,3
+blade,"['tares', 'diane', 'blade']",True,3
+blame,"['tares', 'diane', 'place', 'blame']",True,4
+bland,"['tares', 'dolia', 'gland', 'bland']",True,4
+blank,"['tares', 'dolia', 'black', 'blank']",True,4
+blare,"['tares', 'denar', 'frame', 'aware', 'glare', 'blare']",True,6
+blast,"['tares', 'loast', 'blast']",True,3
+blaze,"['tares', 'diane', 'place', 'blame', 'blaze']",True,5
+bleak,"['tares', 'diane', 'cheap', 'gleam', 'bleak']",True,5
+bleat,"['tares', 'dealt', 'bleat']",True,3
+bleed,"['tares', 'poley', 'level', 'cleek', 'bleed']",True,5
+bleep,"['tares', 'poley', 'expel', 'bleep']",True,4
+blend,"['tares', 'monie', 'newly', 'blend']",True,4
+bless,"['tares', 'heils', 'bless']",True,3
+blimp,"['tares', 'noily', 'click', 'blimp']",True,4
+blind,"['tares', 'noily', 'blind']",True,3
+blink,"['tares', 'noily', 'blind', 'blink']",True,4
+bliss,"['tares', 'loins', 'clips', 'bliss']",True,4
+blitz,"['tares', 'biont', 'blitz']",True,3
+bloat,"['tares', 'biota', 'bloat']",True,3
+block,"['tares', 'noily', 'block']",True,3
+bloke,"['tares', 'monie', 'whole', 'globe', 'bloke']",True,5
+blond,"['tares', 'noily', 'blond']",True,3
+blood,"['tares', 'noily', 'block', 'blood']",True,4
+bloom,"['tares', 'noily', 'block', 'blood', 'bloom']",True,5
+blown,"['tares', 'noily', 'blond', 'blown']",True,4
+bluer,"['tares', 'oriel', 'bluer']",True,3
+bluff,"['tares', 'noily', 'plumb', 'bluff']",True,4
+blunt,"['tares', 'biont', 'blunt']",True,3
+blurb,"['tares', 'broil', 'blurb']",True,3
+blurt,"['tares', 'nitro', 'blurt']",True,3
+blush,"['tares', 'sonic', 'pussy', 'blush']",True,4
+board,"['tares', 'aroid', 'board']",True,3
+boast,"['tares', 'loast', 'coast', 'boast']",True,4
+bobby,"['tares', 'noily', 'moody', 'bobby']",True,4
+boney,"['tares', 'poley', 'money', 'honey', 'boney']",True,5
+bongo,"['tares', 'noily', 'found', 'congo', 'bongo']",True,5
+bonus,"['tares', 'loins', 'songs', 'bonus']",True,4
+booby,"['tares', 'noily', 'moody', 'booky', 'booby']",True,5
+boost,"['tares', 'suint', 'kydst', 'boost']",True,4
+booth,"['tares', 'biont', 'booty', 'booth']",True,4
+booty,"['tares', 'biont', 'booty']",True,3
+booze,"['tares', 'monie', 'lodge', 'coupe', 'booze']",True,5
+boozy,"['tares', 'noily', 'moody', 'booky', 'booby', 'boozy']",True,6
+borax,"['tares', 'pyran', 'rural', 'coram', 'borax']",True,5
+borne,"['tares', 'borne']",True,2
+bosom,"['tares', 'sonic', 'lousy', 'bosom']",True,4
+bossy,"['tares', 'sonic', 'lousy', 'bossy']",True,4
+botch,"['tares', 'biont', 'bothy', 'botch']",True,4
+bough,"['tares', 'noily', 'combo', 'bough']",True,4
+boule,"['tares', 'monie', 'lodge', 'joule', 'boule']",True,5
+bound,"['tares', 'noily', 'found', 'bound']",True,4
+bowel,"['tares', 'poley', 'model', 'novel', 'bowel']",True,5
+boxer,"['tares', 'oriel', 'poker', 'cover', 'roger', 'homer']",False,6
+brace,"['tares', 'denar', 'frame', 'grace', 'brace']",True,5
+braid,"['tares', 'aroid', 'braid']",True,3
+brain,"['tares', 'aroid', 'brain']",True,3
+brake,"['tares', 'denar', 'frame', 'grace', 'brake']",True,5
+brand,"['tares', 'aroid', 'brand']",True,3
+brash,"['tares', 'sopra', 'crash', 'brash']",True,4
+brass,"['tares', 'riads', 'brass']",True,3
+brave,"['tares', 'denar', 'frame', 'grace', 'brake', 'brave']",True,6
+bravo,"['tares', 'aroid', 'bravo']",True,3
+brawl,"['tares', 'aroid', 'urban', 'brava', 'brawl']",True,5
+brawn,"['tares', 'aroid', 'urban', 'brawn']",True,4
+bread,"['tares', 'denar', 'bread']",True,3
+break,"['tares', 'denar', 'break']",True,3
+breed,"['tares', 'oriel', 'green', 'creek', 'breed']",True,5
+briar,"['tares', 'aroid', 'bravi', 'briar']",True,4
+bribe,"['tares', 'reoil', 'drive', 'price', 'urine', 'bribe']",True,6
+brick,"['tares', 'broil', 'bring', 'brick']",True,4
+bride,"['tares', 'reoil', 'drive', 'pride', 'bride']",True,5
+brief,"['tares', 'oriel', 'brief']",True,3
+brine,"['tares', 'reoil', 'drive', 'price', 'urine', 'brine']",True,6
+bring,"['tares', 'broil', 'bring']",True,3
+brink,"['tares', 'broil', 'bring', 'brink']",True,4
+briny,"['tares', 'broil', 'bring', 'brink', 'briny']",True,5
+brisk,"['tares', 'skirl', 'brisk']",True,3
+broad,"['tares', 'aroid', 'broad']",True,3
+broil,"['tares', 'broil']",True,2
+broke,"['tares', 'reoil', 'grove', 'broke']",True,4
+brood,"['tares', 'broil', 'brown', 'brock', 'brood']",True,5
+brook,"['tares', 'broil', 'brown', 'brock', 'brook']",True,5
+broom,"['tares', 'broil', 'brown', 'brock', 'brood', 'broom']",True,6
+broth,"['tares', 'nitro', 'grout', 'froth', 'wroth', 'broth']",True,6
+brown,"['tares', 'broil', 'brown']",True,3
+brunt,"['tares', 'nitro', 'brunt']",True,3
+brush,"['tares', 'skirl', 'brush']",True,3
+brute,"['tares', 'nitre', 'wrote', 'brute']",True,4
+buddy,"['tares', 'noily', 'buddy']",True,3
+budge,"['tares', 'monie', 'judge', 'fudge', 'budge']",True,5
+buggy,"['tares', 'noily', 'buddy', 'buffy', 'bumpy', 'buggy']",True,6
+bugle,"['tares', 'monie', 'judge', 'bugle']",True,4
+build,"['tares', 'noily', 'build']",True,3
+built,"['tares', 'biont', 'built']",True,3
+bulge,"['tares', 'monie', 'judge', 'bulge']",True,4
+bulky,"['tares', 'noily', 'lucky', 'bulky']",True,4
+bully,"['tares', 'noily', 'fully', 'bully']",True,4
+bunch,"['tares', 'noily', 'bunch']",True,3
+bunny,"['tares', 'noily', 'funny', 'dunny', 'bunny']",True,5
+burly,"['tares', 'giron', 'burly']",True,3
+burnt,"['tares', 'lirot', 'burnt']",True,3
+burst,"['tares', 'worst', 'first', 'hurst', 'durst', 'burst']",True,6
+bused,"['tares', 'solei', 'fused', 'mused', 'bused']",True,5
+bushy,"['tares', 'sonic', 'pussy', 'musky', 'bushy']",True,5
+butch,"['tares', 'biont', 'butch']",True,3
+butte,"['tares', 'monte', 'white', 'butte']",True,4
+buxom,"['tares', 'noily', 'gumbo', 'buxom']",True,4
+buyer,"['tares', 'oriel', 'under', 'buyer']",True,4
+bylaw,"['tares', 'dolia', 'yulan', 'bylaw']",True,4
+cabal,"['tares', 'danio', 'happy', 'gamma', 'kaval', 'cabal']",True,6
+cabby,"['tares', 'danio', 'happy', 'balmy', 'gabby', 'cabby']",True,6
+cabin,"['tares', 'danio', 'cabin']",True,3
+cable,"['tares', 'daine', 'maybe', 'cable']",True,4
+cacao,"['tares', 'danio', 'yahoo', 'mambo', 'wacko', 'cacao']",True,6
+cache,"['tares', 'daine', 'maybe', 'value', 'cache']",True,5
+cacti,"['tares', 'daint', 'patio', 'cacti']",True,4
+caddy,"['tares', 'danio', 'badly', 'faddy', 'paddy', 'caddy']",True,6
+cadet,"['tares', 'oaten', 'lacet', 'cadet']",True,4
+cagey,"['tares', 'haled', 'oaken', 'payee', 'wavey', 'cagey']",True,6
+cairn,"['tares', 'cauri', 'cairn']",True,3
+camel,"['tares', 'haled', 'panel', 'label', 'camel']",True,5
+cameo,"['tares', 'haled', 'oaken', 'cameo']",True,4
+canal,"['tares', 'danio', 'manga', 'canal']",True,4
+candy,"['tares', 'danio', 'candy']",True,3
+canny,"['tares', 'danio', 'manga', 'nancy', 'canny']",True,5
+canoe,"['tares', 'daine', 'lance', 'canoe']",True,4
+canon,"['tares', 'danio', 'canon']",True,3
+caper,"['tares', 'macer', 'caper']",True,3
+caput,"['tares', 'daint', 'fault', 'caput']",True,4
+carat,"['tares', 'parti', 'carat']",True,3
+cargo,"['tares', 'baron', 'cargo']",True,3
+carol,"['tares', 'baron', 'carol']",True,3
+carry,"['tares', 'baron', 'march', 'carry']",True,4
+carve,"['tares', 'parae', 'large', 'barde', 'carve']",True,5
+caste,"['tares', 'waste', 'paste', 'caste']",True,4
+catch,"['tares', 'daint', 'watch', 'match', 'patch', 'catch']",True,6
+cater,"['tares', 'oater', 'water', 'later', 'cater']",True,5
+catty,"['tares', 'daint', 'watch', 'catty']",True,4
+caulk,"['tares', 'danio', 'happy', 'gamma', 'baulk', 'waulk']",False,6
+cause,"['tares', 'saine', 'cause']",True,3
+cavil,"['tares', 'danio', 'magic', 'calif', 'cavil']",True,5
+cease,"['tares', 'soave', 'phase', 'lease', 'cease']",True,5
+cedar,"['tares', 'denar', 'cedar']",True,3
+cello,"['tares', 'monie', 'below', 'hello', 'cello']",True,5
+chafe,"['tares', 'diane', 'place', 'chafe']",True,4
+chaff,"['tares', 'dolia', 'human', 'whack', 'chaff']",True,5
+chain,"['tares', 'dolia', 'again', 'chain']",True,4
+chair,"['tares', 'aroid', 'chair']",True,3
+chalk,"['tares', 'dolia', 'black', 'chalk']",True,4
+champ,"['tares', 'dolia', 'human', 'champ']",True,4
+chant,"['tares', 'biota', 'adult', 'chant']",True,4
+chaos,"['tares', 'duans', 'class', 'chaos']",True,4
+chard,"['tares', 'aroid', 'chard']",True,3
+charm,"['tares', 'aroid', 'charm']",True,3
+chart,"['tares', 'drant', 'chart']",True,3
+chase,"['tares', 'soave', 'phase', 'chase']",True,4
+chasm,"['tares', 'scopa', 'clash', 'chasm']",True,4
+cheap,"['tares', 'diane', 'cheap']",True,3
+cheat,"['tares', 'dealt', 'agent', 'cheat']",True,4
+check,"['tares', 'monie', 'kelly', 'check']",True,4
+cheek,"['tares', 'poley', 'given', 'muxed', 'cheek']",True,5
+cheer,"['tares', 'oriel', 'under', 'refer', 'cheer']",True,5
+chess,"['tares', 'heils', 'chess']",True,3
+chest,"['tares', 'shote', 'chest']",True,3
+chick,"['tares', 'noily', 'quick', 'chick']",True,4
+chide,"['tares', 'monie', 'bible', 'guide', 'chide']",True,5
+chief,"['tares', 'poley', 'given', 'chief']",True,4
+child,"['tares', 'noily', 'build', 'child']",True,4
+chili,"['tares', 'noily', 'build', 'chili']",True,4
+chill,"['tares', 'noily', 'build', 'chili', 'chill']",True,5
+chime,"['tares', 'monie', 'clime', 'chime']",True,4
+china,"['tares', 'dolia', 'china']",True,3
+chirp,"['tares', 'broil', 'chirm', 'chirp']",True,4
+chock,"['tares', 'noily', 'gumbo', 'choof', 'chock']",True,5
+choir,"['tares', 'broil', 'choir']",True,3
+choke,"['tares', 'monie', 'whole', 'choke']",True,4
+chord,"['tares', 'broil', 'chord']",True,3
+chore,"['tares', 'reoil', 'grove', 'whore', 'chore']",True,5
+chose,"['tares', 'scone', 'close', 'chose']",True,4
+chuck,"['tares', 'noily', 'whump', 'chuck']",True,4
+chump,"['tares', 'noily', 'whump', 'chump']",True,4
+chunk,"['tares', 'noily', 'bunch', 'chunk']",True,4
+churn,"['tares', 'broil', 'rummy', 'uhuru', 'churn']",True,5
+chute,"['tares', 'monte', 'white', 'chute']",True,4
+cider,"['tares', 'oriel', 'river', 'fiber', 'wider', 'cider']",True,6
+cigar,"['tares', 'aroid', 'rival', 'minar', 'cigar']",True,5
+cinch,"['tares', 'noily', 'unbid', 'pinch', 'finch', 'winch']",False,6
+circa,"['tares', 'pyran', 'arrow', 'jirga', 'circa']",True,5
+civic,"['tares', 'noily', 'cubic', 'civic']",True,4
+civil,"['tares', 'noily', 'civil']",True,3
+clack,"['tares', 'dolia', 'black', 'flack', 'clack']",True,5
+claim,"['tares', 'dolia', 'claim']",True,3
+clamp,"['tares', 'dolia', 'black', 'clamp']",True,4
+clang,"['tares', 'dolia', 'black', 'clamp', 'clang']",True,5
+clank,"['tares', 'dolia', 'black', 'clank']",True,4
+clash,"['tares', 'scopa', 'clash']",True,3
+clasp,"['tares', 'scopa', 'clasp']",True,3
+class,"['tares', 'duans', 'class']",True,3
+clean,"['tares', 'diane', 'began', 'clean']",True,4
+clear,"['tares', 'denar', 'clear']",True,3
+cleat,"['tares', 'dealt', 'bleat', 'cleat']",True,4
+cleft,"['tares', 'monte', 'eight', 'debut', 'cleft']",True,5
+clerk,"['tares', 'reoil', 'clerk']",True,3
+click,"['tares', 'noily', 'click']",True,3
+cliff,"['tares', 'noily', 'click', 'cliff']",True,4
+climb,"['tares', 'noily', 'click', 'cliff', 'climb']",True,5
+cling,"['tares', 'noily', 'blind', 'cling']",True,4
+clink,"['tares', 'noily', 'blind', 'cling', 'clink']",True,5
+cloak,"['tares', 'dolia', 'along', 'cloak']",True,4
+clock,"['tares', 'noily', 'block', 'clock']",True,4
+clone,"['tares', 'monie', 'phone', 'clone']",True,4
+close,"['tares', 'scone', 'close']",True,3
+cloth,"['tares', 'biont', 'photo', 'cloth']",True,4
+cloud,"['tares', 'noily', 'block', 'cloud']",True,4
+clout,"['tares', 'biont', 'flout', 'clout']",True,4
+clove,"['tares', 'monie', 'whole', 'globe', 'cloye', 'clove']",True,6
+clown,"['tares', 'noily', 'blond', 'clown']",True,4
+cluck,"['tares', 'noily', 'plumb', 'cluck']",True,4
+clued,"['tares', 'poley', 'level', 'klieg', 'clued']",True,5
+clump,"['tares', 'noily', 'plumb', 'clump']",True,4
+clung,"['tares', 'noily', 'lunch', 'clung']",True,4
+coach,"['tares', 'dolia', 'woman', 'coach']",True,4
+coast,"['tares', 'loast', 'coast']",True,3
+cobra,"['tares', 'aroid', 'royal', 'koura', 'cobra']",True,5
+cocoa,"['tares', 'dolia', 'gonna', 'yowza', 'cocoa']",True,5
+colon,"['tares', 'noily', 'colon']",True,3
+color,"['tares', 'broil', 'color']",True,3
+comet,"['tares', 'inlet', 'upjet', 'comet']",True,4
+comfy,"['tares', 'noily', 'moody', 'comfy']",True,4
+comic,"['tares', 'noily', 'comic']",True,3
+comma,"['tares', 'dolia', 'gonna', 'yowza', 'cocoa', 'comma']",True,6
+conch,"['tares', 'noily', 'found', 'congo', 'conch']",True,5
+condo,"['tares', 'noily', 'found', 'mondo', 'condo']",True,5
+conic,"['tares', 'noily', 'wongi', 'ionic', 'conic']",True,5
+copse,"['tares', 'scone', 'copse']",True,3
+coral,"['tares', 'pyran', 'rural', 'moral', 'coral']",True,5
+corer,"['tares', 'morel', 'bored', 'corey', 'corer']",True,5
+corny,"['tares', 'giron', 'porno', 'horny', 'corny']",True,5
+couch,"['tares', 'noily', 'combo', 'couch']",True,4
+cough,"['tares', 'noily', 'combo', 'couch', 'cough']",True,5
+could,"['tares', 'noily', 'would', 'could']",True,4
+count,"['tares', 'biont', 'count']",True,3
+coupe,"['tares', 'monie', 'lodge', 'coupe']",True,4
+court,"['tares', 'nitro', 'court']",True,3
+coven,"['tares', 'poley', 'women', 'dozen', 'cohen', 'coven']",True,6
+cover,"['tares', 'oriel', 'poker', 'cover']",True,4
+covet,"['tares', 'inlet', 'upjet', 'comet', 'covet']",True,5
+covey,"['tares', 'poley', 'money', 'covey']",True,4
+cower,"['tares', 'oriel', 'poker', 'cover', 'coder', 'comer']",False,6
+coyly,"['tares', 'noily', 'molly', 'cooly', 'coyly']",True,5
+crack,"['tares', 'aroid', 'urban', 'crazy', 'crack']",True,5
+craft,"['tares', 'drant', 'craft']",True,3
+cramp,"['tares', 'aroid', 'urban', 'crazy', 'crack', 'crawl']",False,6
+crane,"['tares', 'denar', 'arena', 'crane']",True,4
+crank,"['tares', 'aroid', 'urban', 'frank', 'crank']",True,5
+crash,"['tares', 'sopra', 'crash']",True,3
+crass,"['tares', 'riads', 'brass', 'grass', 'crass']",True,5
+crate,"['tares', 'alert', 'irate', 'prate', 'crate']",True,5
+crave,"['tares', 'denar', 'frame', 'grace', 'crave']",True,5
+crawl,"['tares', 'aroid', 'urban', 'crazy', 'crack', 'crawl']",True,6
+craze,"['tares', 'denar', 'frame', 'grace', 'crave', 'craze']",True,6
+crazy,"['tares', 'aroid', 'urban', 'crazy']",True,4
+creak,"['tares', 'denar', 'break', 'creak']",True,4
+cream,"['tares', 'denar', 'break', 'cream']",True,4
+credo,"['tares', 'reoil', 'fuero', 'credo']",True,4
+creed,"['tares', 'oriel', 'green', 'creek', 'creed']",True,5
+creek,"['tares', 'oriel', 'green', 'creek']",True,4
+creep,"['tares', 'oriel', 'green', 'creek', 'creed', 'creep']",True,6
+creme,"['tares', 'reoil', 'where', 'grece', 'creme']",True,5
+crepe,"['tares', 'reoil', 'where', 'grece', 'creme', 'crepe']",True,6
+crept,"['tares', 'nitre', 'recto', 'erect', 'crept']",True,5
+cress,"['tares', 'leirs', 'press', 'dress', 'cress']",True,5
+crest,"['tares', 'styre', 'crest']",True,3
+crick,"['tares', 'broil', 'drink', 'prick', 'crick']",True,5
+cried,"['tares', 'oriel', 'brief', 'dried', 'cried']",True,5
+crier,"['tares', 'oriel', 'brief', 'dried', 'crier']",True,5
+crime,"['tares', 'reoil', 'drive', 'price', 'crime']",True,5
+crimp,"['tares', 'broil', 'drink', 'primy', 'crimp']",True,5
+crisp,"['tares', 'skirl', 'crisp']",True,3
+croak,"['tares', 'aroid', 'krona', 'croak']",True,4
+crock,"['tares', 'broil', 'group', 'crown', 'crook', 'crock']",True,6
+crone,"['tares', 'reoil', 'grove', 'broke', 'prone', 'drone']",False,6
+crony,"['tares', 'broil', 'group', 'crown', 'crony']",True,5
+crook,"['tares', 'broil', 'group', 'crown', 'crook']",True,5
+cross,"['tares', 'ruins', 'cross']",True,3
+croup,"['tares', 'broil', 'group', 'croup']",True,4
+crowd,"['tares', 'broil', 'group', 'crown', 'crowd']",True,5
+crown,"['tares', 'broil', 'group', 'crown']",True,4
+crude,"['tares', 'reoil', 'where', 'crude']",True,4
+cruel,"['tares', 'oriel', 'cruel']",True,3
+crumb,"['tares', 'broil', 'crumb']",True,3
+crump,"['tares', 'broil', 'crump']",True,3
+crush,"['tares', 'skirl', 'brush', 'crush']",True,4
+crust,"['tares', 'skirt', 'brust', 'crust']",True,4
+crypt,"['tares', 'nitro', 'crypt']",True,3
+cubic,"['tares', 'noily', 'cubic']",True,3
+cumin,"['tares', 'noily', 'unbid', 'cumin']",True,4
+curio,"['tares', 'giron', 'curio']",True,3
+curly,"['tares', 'giron', 'burly', 'curly']",True,4
+curry,"['tares', 'giron', 'burly', 'curry']",True,4
+curse,"['tares', 'horse', 'nurse', 'purse', 'curse']",True,5
+curve,"['tares', 'borne', 'merge', 'curve']",True,4
+curvy,"['tares', 'giron', 'burly', 'curry', 'curvy']",True,5
+cutie,"['tares', 'monte', 'etude', 'cutie']",True,4
+cyber,"['tares', 'oriel', 'under', 'refer', 'cyber']",True,5
+cycle,"['tares', 'monie', 'judge', 'cycle']",True,4
+cynic,"['tares', 'noily', 'cynic']",True,3
+daddy,"['tares', 'danio', 'dally', 'daddy']",True,4
+daily,"['tares', 'danio', 'daily']",True,3
+dairy,"['tares', 'cauri', 'hairy', 'dairy']",True,4
+daisy,"['tares', 'salmi', 'basic', 'daisy']",True,4
+dally,"['tares', 'danio', 'dally']",True,3
+dance,"['tares', 'daine', 'dance']",True,3
+dandy,"['tares', 'danio', 'danny', 'dandy']",True,4
+datum,"['tares', 'daint', 'datal', 'datum']",True,4
+daunt,"['tares', 'daint', 'daunt']",True,3
+dealt,"['tares', 'dealt']",True,2
+death,"['tares', 'dealt', 'death']",True,3
+debar,"['tares', 'denar', 'dewar', 'debar']",True,4
+debit,"['tares', 'monte', 'eight', 'debit']",True,4
+debug,"['tares', 'monie', 'kelly', 'debug']",True,4
+debut,"['tares', 'monte', 'eight', 'debut']",True,4
+decal,"['tares', 'diane', 'delay', 'decal']",True,4
+decay,"['tares', 'diane', 'delay', 'decay']",True,4
+decor,"['tares', 'reoil', 'decor']",True,3
+decoy,"['tares', 'monie', 'below', 'decoy']",True,4
+decry,"['tares', 'reoil', 'henry', 'decry']",True,4
+defer,"['tares', 'oriel', 'under', 'defer']",True,4
+deign,"['tares', 'monie', 'being', 'neigh', 'feign', 'deign']",True,6
+deity,"['tares', 'monte', 'depth', 'deity']",True,4
+delay,"['tares', 'diane', 'delay']",True,3
+delta,"['tares', 'dealt', 'delta']",True,3
+delve,"['tares', 'monie', 'judge', 'debye', 'delve']",True,5
+demon,"['tares', 'monie', 'lemon', 'demon']",True,4
+demur,"['tares', 'reoil', 'henry', 'femur', 'demur']",True,5
+denim,"['tares', 'monie', 'denim']",True,3
+dense,"['tares', 'scone', 'dense']",True,3
+depot,"['tares', 'monte', 'depot']",True,3
+depth,"['tares', 'monte', 'depth']",True,3
+derby,"['tares', 'borne', 'derby']",True,3
+deter,"['tares', 'noter', 'peter', 'meter', 'deter']",True,5
+detox,"['tares', 'monte', 'depot', 'detox']",True,4
+deuce,"['tares', 'monie', 'judge', 'deuce']",True,4
+devil,"['tares', 'monie', 'devil']",True,3
+diary,"['tares', 'aroid', 'diary']",True,3
+dicey,"['tares', 'poley', 'wifey', 'jivey', 'dicey']",True,5
+digit,"['tares', 'biont', 'light', 'digit']",True,4
+dilly,"['tares', 'noily', 'imply', 'billy', 'hilly', 'willy']",False,6
+dimly,"['tares', 'noily', 'imply', 'dimly']",True,4
+diner,"['tares', 'oriel', 'river', 'fiber', 'wider', 'diner']",True,6
+dingo,"['tares', 'noily', 'bingo', 'dingo']",True,4
+dingy,"['tares', 'noily', 'bingy', 'dingy']",True,4
+diode,"['tares', 'monie', 'olive', 'diode']",True,4
+dirge,"['tares', 'borne', 'merge', 'purge', 'dirge']",True,5
+dirty,"['tares', 'lirot', 'birth', 'dirty']",True,4
+disco,"['tares', 'sonic', 'cisco', 'disco']",True,4
+ditch,"['tares', 'biont', 'pitch', 'witch', 'hitch', 'mitch']",False,6
+ditto,"['tares', 'biont', 'ditto']",True,3
+ditty,"['tares', 'biont', 'pitch', 'kitty', 'ditty']",True,5
+diver,"['tares', 'oriel', 'river', 'diver']",True,4
+dizzy,"['tares', 'noily', 'midgy', 'dizzy']",True,4
+dodge,"['tares', 'monie', 'lodge', 'dodge']",True,4
+dodgy,"['tares', 'noily', 'moody', 'doggy', 'dodgy']",True,5
+dogma,"['tares', 'dolia', 'donna', 'dogma']",True,4
+doing,"['tares', 'noily', 'doing']",True,3
+dolly,"['tares', 'noily', 'molly', 'folly', 'polly', 'holly']",False,6
+donor,"['tares', 'broil', 'round', 'donor']",True,4
+donut,"['tares', 'biont', 'donut']",True,3
+dopey,"['tares', 'poley', 'dopey']",True,3
+doubt,"['tares', 'biont', 'doubt']",True,3
+dough,"['tares', 'noily', 'combo', 'dough']",True,4
+dowdy,"['tares', 'noily', 'moody', 'howdy', 'dowdy']",True,5
+dowel,"['tares', 'poley', 'model', 'dowel']",True,4
+downy,"['tares', 'noily', 'powny', 'downy']",True,4
+dowry,"['tares', 'broil', 'round', 'dowry']",True,4
+dozen,"['tares', 'poley', 'women', 'dozen']",True,4
+draft,"['tares', 'drant', 'draft']",True,3
+drain,"['tares', 'aroid', 'drain']",True,3
+drake,"['tares', 'denar', 'drake']",True,3
+drama,"['tares', 'aroid', 'drama']",True,3
+drank,"['tares', 'aroid', 'drama', 'drawn', 'drank']",True,5
+drape,"['tares', 'denar', 'drake', 'drape']",True,4
+drawl,"['tares', 'aroid', 'drama', 'drawn', 'drawl']",True,5
+drawn,"['tares', 'aroid', 'drama', 'drawn']",True,4
+dread,"['tares', 'denar', 'dream', 'dread']",True,4
+dream,"['tares', 'denar', 'dream']",True,3
+dress,"['tares', 'leirs', 'press', 'dress']",True,4
+dried,"['tares', 'oriel', 'brief', 'dried']",True,4
+drier,"['tares', 'oriel', 'brief', 'dried', 'drier']",True,5
+drift,"['tares', 'nitro', 'fruit', 'drift']",True,4
+drill,"['tares', 'broil', 'grill', 'drill']",True,4
+drink,"['tares', 'broil', 'drink']",True,3
+drive,"['tares', 'reoil', 'drive']",True,3
+droit,"['tares', 'nitro', 'orbit', 'droit']",True,4
+droll,"['tares', 'broil', 'prowl', 'drool', 'droll']",True,5
+drone,"['tares', 'reoil', 'grove', 'broke', 'prone', 'drone']",True,6
+drool,"['tares', 'broil', 'prowl', 'drool']",True,4
+droop,"['tares', 'broil', 'group', 'droop']",True,4
+dross,"['tares', 'ruins', 'cross', 'gross', 'dross']",True,5
+drove,"['tares', 'reoil', 'grove', 'prove', 'drove']",True,5
+drown,"['tares', 'broil', 'group', 'crown', 'drown']",True,5
+druid,"['tares', 'broil', 'druid']",True,3
+drunk,"['tares', 'broil', 'crump', 'drunk']",True,4
+dryer,"['tares', 'oriel', 'green', 'dryer']",True,4
+dryly,"['tares', 'broil', 'dryly']",True,3
+duchy,"['tares', 'noily', 'buddy', 'duchy']",True,4
+dully,"['tares', 'noily', 'fully', 'bully', 'gully', 'cully']",False,6
+dummy,"['tares', 'noily', 'buddy', 'duchy', 'dummy']",True,5
+dumpy,"['tares', 'noily', 'buddy', 'duchy', 'dummy', 'dumpy']",True,6
+dunce,"['tares', 'monie', 'venue', 'lunge', 'bunce', 'dunce']",True,6
+dusky,"['tares', 'sonic', 'pussy', 'musky', 'husky', 'dusky']",True,6
+dusty,"['tares', 'suint', 'busty', 'dusty']",True,4
+dutch,"['tares', 'biont', 'dutch']",True,3
+duvet,"['tares', 'inlet', 'upjet', 'duvet']",True,4
+dwarf,"['tares', 'aroid', 'dwarf']",True,3
+dwell,"['tares', 'monie', 'kelly', 'dwell']",True,4
+dwelt,"['tares', 'monte', 'eight', 'debut', 'dwelt']",True,5
+dying,"['tares', 'noily', 'dying']",True,3
+eager,"['tares', 'macer', 'paper', 'layer', 'baker', 'eager']",True,6
+eagle,"['tares', 'daine', 'maybe', 'value', 'eagle']",True,5
+early,"['tares', 'parae', 'early']",True,3
+earth,"['tares', 'earth']",True,2
+easel,"['tares', 'samek', 'based', 'paseo', 'easel']",True,5
+eaten,"['tares', 'oaten', 'eaten']",True,3
+eater,"['tares', 'oater', 'water', 'later', 'cater', 'eater']",True,6
+ebony,"['tares', 'monie', 'enjoy', 'ebony']",True,4
+eclat,"['tares', 'dealt', 'bleat', 'eclat']",True,4
+edict,"['tares', 'monte', 'eight', 'edict']",True,4
+edify,"['tares', 'monie', 'field', 'edify']",True,4
+eerie,"['tares', 'borne', 'merge', 'perce', 'verve', 'eerie']",True,6
+egret,"['tares', 'egret']",True,2
+eight,"['tares', 'monte', 'eight']",True,3
+eject,"['tares', 'monte', 'eight', 'elect', 'eject']",True,5
+eking,"['tares', 'monie', 'being', 'eking']",True,4
+elate,"['tares', 'dealt', 'plate', 'elate']",True,4
+elbow,"['tares', 'monie', 'below', 'elbow']",True,4
+elder,"['tares', 'oriel', 'bluer', 'elder']",True,4
+elect,"['tares', 'monte', 'eight', 'elect']",True,4
+elegy,"['tares', 'monie', 'kelly', 'elegy']",True,4
+elfin,"['tares', 'monie', 'begin', 'elfin']",True,4
+elide,"['tares', 'monie', 'bible', 'ylike', 'glide', 'elide']",True,6
+elite,"['tares', 'monte', 'white', 'quite', 'elite']",True,5
+elope,"['tares', 'monie', 'whole', 'globe', 'cloye', 'elope']",True,6
+elude,"['tares', 'monie', 'judge', 'deuce', 'elude']",True,5
+email,"['tares', 'diane', 'email']",True,3
+embed,"['tares', 'poley', 'given', 'muxed', 'embed']",True,5
+ember,"['tares', 'oriel', 'under', 'refer', 'cheer', 'ember']",True,6
+emcee,"['tares', 'poley', 'given', 'muxed', 'emcee']",True,5
+empty,"['tares', 'monte', 'empty']",True,3
+enact,"['tares', 'dealt', 'exact', 'enact']",True,4
+endow,"['tares', 'monie', 'enjoy', 'endow']",True,4
+enema,"['tares', 'diane', 'began', 'enema']",True,4
+enemy,"['tares', 'monie', 'enemy']",True,3
+enjoy,"['tares', 'monie', 'enjoy']",True,3
+ennui,"['tares', 'monie', 'ennui']",True,3
+ensue,"['tares', 'scone', 'dense', 'ensue']",True,4
+enter,"['tares', 'noter', 'enter']",True,3
+entry,"['tares', 'nitre', 'entry']",True,3
+envoy,"['tares', 'monie', 'enjoy', 'envoy']",True,4
+epoch,"['tares', 'monie', 'below', 'epoch']",True,4
+epoxy,"['tares', 'monie', 'below', 'epoch', 'epoxy']",True,5
+equal,"['tares', 'diane', 'cheap', 'legal', 'equal']",True,5
+equip,"['tares', 'monie', 'devil', 'equip']",True,4
+erase,"['tares', 'smear', 'arise', 'erase']",True,4
+erect,"['tares', 'nitre', 'recto', 'erect']",True,4
+erode,"['tares', 'reoil', 'grove', 'broke', 'prone', 'froze']",False,6
+error,"['tares', 'borne', 'error']",True,3
+erupt,"['tares', 'nitre', 'recto', 'erupt']",True,4
+essay,"['tares', 'soave', 'essay']",True,3
+ester,"['tares', 'steer', 'ester']",True,3
+ether,"['tares', 'noter', 'ether']",True,3
+ethic,"['tares', 'monte', 'eight', 'ethic']",True,4
+ethos,"['tares', 'yetis', 'steps', 'ethos']",True,4
+etude,"['tares', 'monte', 'etude']",True,3
+evade,"['tares', 'diane', 'blade', 'evade']",True,4
+event,"['tares', 'monte', 'event']",True,3
+every,"['tares', 'reoil', 'where', 'every']",True,4
+evict,"['tares', 'monte', 'eight', 'edict', 'evict']",True,5
+evoke,"['tares', 'monie', 'whole', 'evoke']",True,4
+exact,"['tares', 'dealt', 'exact']",True,3
+exalt,"['tares', 'dealt', 'exalt']",True,3
+excel,"['tares', 'poley', 'level', 'wheel', 'excel']",True,5
+exert,"['tares', 'nitre', 'overt', 'exert']",True,4
+exile,"['tares', 'monie', 'bible', 'while', 'exile']",True,5
+exist,"['tares', 'shote', 'guest', 'exist']",True,4
+expel,"['tares', 'poley', 'expel']",True,3
+extol,"['tares', 'monte', 'depot', 'extol']",True,4
+extra,"['tares', 'alert', 'extra']",True,3
+exult,"['tares', 'monte', 'eight', 'elect', 'exult']",True,5
+eying,"['tares', 'monie', 'being', 'eking', 'ehing', 'eying']",True,6
+fable,"['tares', 'daine', 'maybe', 'cable', 'fable']",True,5
+facet,"['tares', 'oaten', 'lacet', 'facet']",True,4
+faint,"['tares', 'daint', 'paint', 'faint']",True,4
+fairy,"['tares', 'cauri', 'hairy', 'dairy', 'fairy']",True,5
+faith,"['tares', 'daint', 'faith']",True,3
+false,"['tares', 'saine', 'cause', 'false']",True,4
+fancy,"['tares', 'danio', 'manga', 'nancy', 'fancy']",True,5
+fanny,"['tares', 'danio', 'manga', 'nancy', 'fanny']",True,5
+farce,"['tares', 'parae', 'large', 'barde', 'carve', 'farce']",True,6
+fatal,"['tares', 'daint', 'watch', 'fatal']",True,4
+fatty,"['tares', 'daint', 'watch', 'fatal', 'fatty']",True,5
+fault,"['tares', 'daint', 'fault']",True,3
+fauna,"['tares', 'danio', 'japan', 'fauna']",True,4
+favor,"['tares', 'cauri', 'labor', 'major', 'favor']",True,5
+feast,"['tares', 'stela', 'beast', 'yeast', 'feast']",True,5
+fecal,"['tares', 'diane', 'cheap', 'fecal']",True,4
+feign,"['tares', 'monie', 'being', 'neigh', 'feign']",True,5
+fella,"['tares', 'diane', 'cheap', 'lemma', 'fella']",True,5
+felon,"['tares', 'monie', 'enjoy', 'devon', 'belon', 'felon']",True,6
+femme,"['tares', 'monie', 'emyde', 'lemme', 'femme']",True,5
+femur,"['tares', 'reoil', 'henry', 'femur']",True,4
+fence,"['tares', 'monie', 'venue', 'hence', 'fence']",True,5
+feral,"['tares', 'porae', 'deray', 'reran', 'feral']",True,5
+ferry,"['tares', 'borne', 'kerry', 'jerry', 'perry', 'ferry']",True,6
+fetal,"['tares', 'dealt', 'metal', 'fetal']",True,4
+fetch,"['tares', 'monte', 'eight', 'vetch', 'fetch']",True,5
+fetid,"['tares', 'monte', 'eight', 'fetid']",True,4
+fetus,"['tares', 'yetis', 'fetus']",True,3
+fever,"['tares', 'oriel', 'under', 'refer', 'fewer', 'fever']",True,6
+fewer,"['tares', 'oriel', 'under', 'refer', 'fewer']",True,5
+fiber,"['tares', 'oriel', 'river', 'fiber']",True,4
+fibre,"['tares', 'reoil', 'drive', 'fibre']",True,4
+ficus,"['tares', 'loins', 'picks', 'ficus']",True,4
+field,"['tares', 'monie', 'field']",True,3
+fiend,"['tares', 'monie', 'being', 'fiend']",True,4
+fiery,"['tares', 'reoil', 'drive', 'fiery']",True,4
+fifth,"['tares', 'biont', 'pitch', 'filth', 'fifth']",True,5
+fifty,"['tares', 'biont', 'pitch', 'fifty']",True,4
+fight,"['tares', 'biont', 'light', 'might', 'fight']",True,5
+filer,"['tares', 'oriel', 'liver', 'filer']",True,4
+filet,"['tares', 'inlet', 'filet']",True,3
+filly,"['tares', 'noily', 'imply', 'billy', 'hilly', 'willy']",False,6
+filmy,"['tares', 'noily', 'bilby', 'milky', 'filmy']",True,5
+filth,"['tares', 'biont', 'pitch', 'filth']",True,4
+final,"['tares', 'dolia', 'final']",True,3
+finch,"['tares', 'noily', 'unbid', 'pinch', 'finch']",True,5
+finer,"['tares', 'oriel', 'river', 'fiber', 'finer']",True,5
+first,"['tares', 'worst', 'first']",True,3
+fishy,"['tares', 'sonic', 'missy', 'fishy']",True,4
+fixer,"['tares', 'oriel', 'river', 'fiber', 'finer', 'fixer']",True,6
+fizzy,"['tares', 'noily', 'midgy', 'biffy', 'fizzy']",True,5
+fjord,"['tares', 'broil', 'chord', 'fjord']",True,4
+flack,"['tares', 'dolia', 'black', 'flack']",True,4
+flail,"['tares', 'dolia', 'claim', 'plain', 'flail']",True,5
+flair,"['tares', 'aroid', 'chair', 'flair']",True,4
+flake,"['tares', 'diane', 'place', 'blame', 'flake']",True,5
+flaky,"['tares', 'dolia', 'black', 'flaky']",True,4
+flame,"['tares', 'diane', 'place', 'blame', 'flame']",True,5
+flank,"['tares', 'dolia', 'black', 'plank', 'flank']",True,5
+flare,"['tares', 'denar', 'frame', 'flare']",True,4
+flash,"['tares', 'scopa', 'flash']",True,3
+flask,"['tares', 'scopa', 'flash', 'flask']",True,4
+fleck,"['tares', 'monie', 'kelly', 'fleck']",True,4
+fleet,"['tares', 'inlet', 'fleet']",True,3
+flesh,"['tares', 'scone', 'flesh']",True,3
+flick,"['tares', 'noily', 'click', 'flick']",True,4
+flier,"['tares', 'oriel', 'flier']",True,3
+fling,"['tares', 'noily', 'blind', 'cling', 'fling']",True,5
+flint,"['tares', 'biont', 'flint']",True,3
+flirt,"['tares', 'nitro', 'flirt']",True,3
+float,"['tares', 'biota', 'adopt', 'float']",True,4
+flock,"['tares', 'noily', 'block', 'clock', 'flock']",True,5
+flood,"['tares', 'noily', 'block', 'flood']",True,4
+floor,"['tares', 'broil', 'floor']",True,3
+flora,"['tares', 'aroid', 'flora']",True,3
+floss,"['tares', 'loins', 'blogs', 'flows', 'floss']",True,5
+flour,"['tares', 'broil', 'floor', 'flour']",True,4
+flout,"['tares', 'biont', 'flout']",True,3
+flown,"['tares', 'noily', 'blond', 'clown', 'flown']",True,5
+fluff,"['tares', 'noily', 'plumb', 'cluck', 'fluff']",True,5
+fluid,"['tares', 'noily', 'civil', 'bluid', 'fluid']",True,5
+fluke,"['tares', 'monie', 'judge', 'bevue', 'fluke']",True,5
+flume,"['tares', 'monie', 'emyde', 'blume', 'plume', 'flume']",True,6
+flung,"['tares', 'noily', 'lunch', 'plunk', 'flung']",True,5
+flunk,"['tares', 'noily', 'lunch', 'plunk', 'flunk']",True,5
+flush,"['tares', 'sonic', 'pussy', 'blush', 'flush']",True,5
+flute,"['tares', 'monte', 'white', 'butte', 'elute', 'flute']",True,6
+flyer,"['tares', 'oriel', 'bluer', 'elder', 'flyer']",True,5
+foamy,"['tares', 'dolia', 'woman', 'foamy']",True,4
+focal,"['tares', 'dolia', 'local', 'vocal', 'focal']",True,5
+focus,"['tares', 'loins', 'goods', 'focus']",True,4
+foggy,"['tares', 'noily', 'moody', 'bobby', 'foggy']",True,5
+foist,"['tares', 'suint', 'blist', 'moist', 'hoist', 'joist']",False,6
+folio,"['tares', 'noily', 'logic', 'folio']",True,4
+folly,"['tares', 'noily', 'molly', 'folly']",True,4
+foray,"['tares', 'pyran', 'array', 'moray', 'foray']",True,5
+force,"['tares', 'borne', 'force']",True,3
+forge,"['tares', 'borne', 'force', 'forge']",True,4
+forgo,"['tares', 'giron', 'forgo']",True,3
+forte,"['tares', 'merit', 'forte']",True,3
+forth,"['tares', 'lirot', 'north', 'worth', 'forth']",True,5
+forty,"['tares', 'lirot', 'north', 'forty']",True,4
+forum,"['tares', 'giron', 'world', 'forum']",True,4
+found,"['tares', 'noily', 'found']",True,3
+foyer,"['tares', 'oriel', 'poker', 'cover', 'roger', 'homer']",False,6
+frail,"['tares', 'aroid', 'brain', 'craig', 'fraim', 'frail']",True,6
+frame,"['tares', 'denar', 'frame']",True,3
+frank,"['tares', 'aroid', 'urban', 'frank']",True,4
+fraud,"['tares', 'aroid', 'brand', 'fraud']",True,4
+freak,"['tares', 'denar', 'break', 'creak', 'freak']",True,5
+freed,"['tares', 'oriel', 'green', 'creek', 'breed', 'freed']",True,6
+freer,"['tares', 'oriel', 'green', 'creek', 'breed', 'freer']",True,6
+fresh,"['tares', 'shire', 'fresh']",True,3
+friar,"['tares', 'aroid', 'bravi', 'prima', 'friar']",True,5
+fried,"['tares', 'oriel', 'brief', 'fried']",True,4
+frill,"['tares', 'broil', 'grill', 'drill', 'krill', 'frill']",True,6
+frisk,"['tares', 'skirl', 'brisk', 'frisk']",True,4
+fritz,"['tares', 'nitro', 'fruit', 'fritz']",True,4
+frock,"['tares', 'broil', 'group', 'crown', 'frock']",True,5
+frond,"['tares', 'broil', 'group', 'crown', 'frond']",True,5
+front,"['tares', 'nitro', 'front']",True,3
+frost,"['tares', 'skirt', 'brust', 'frost']",True,4
+froth,"['tares', 'nitro', 'grout', 'froth']",True,4
+frown,"['tares', 'broil', 'group', 'crown', 'drown', 'frown']",True,6
+froze,"['tares', 'reoil', 'grove', 'broke', 'prone', 'froze']",True,6
+fruit,"['tares', 'nitro', 'fruit']",True,3
+fudge,"['tares', 'monie', 'judge', 'fudge']",True,4
+fugue,"['tares', 'monie', 'judge', 'bugle', 'fugue']",True,5
+fully,"['tares', 'noily', 'fully']",True,3
+fungi,"['tares', 'noily', 'unbid', 'fungi']",True,4
+funky,"['tares', 'noily', 'funny', 'fundy', 'funky']",True,5
+funny,"['tares', 'noily', 'funny']",True,3
+furor,"['tares', 'giron', 'duroc', 'furor']",True,4
+furry,"['tares', 'giron', 'burly', 'curry', 'hurry', 'furry']",True,6
+fussy,"['tares', 'sonic', 'pussy', 'fussy']",True,4
+fuzzy,"['tares', 'noily', 'buddy', 'puppy', 'yummy', 'fuzzy']",True,6
+gaffe,"['tares', 'daine', 'maybe', 'value', 'cache', 'gaffe']",True,6
+gaily,"['tares', 'danio', 'machi', 'laika', 'gaily']",True,5
+gamer,"['tares', 'macer', 'gamer']",True,3
+gamma,"['tares', 'danio', 'happy', 'gamma']",True,4
+gamut,"['tares', 'daint', 'fault', 'caput', 'bahut', 'gamut']",True,6
+gassy,"['tares', 'salmi', 'bason', 'gassy']",True,4
+gaudy,"['tares', 'danio', 'badly', 'gaudy']",True,4
+gauge,"['tares', 'daine', 'maybe', 'value', 'gauge']",True,5
+gaunt,"['tares', 'daint', 'haunt', 'gaunt']",True,4
+gauze,"['tares', 'daine', 'maybe', 'value', 'gauge', 'gauze']",True,6
+gavel,"['tares', 'haled', 'panel', 'label', 'camel', 'gavel']",True,6
+gawky,"['tares', 'danio', 'happy', 'balmy', 'wacky', 'gawky']",True,6
+gayer,"['tares', 'macer', 'paper', 'layer', 'bayer', 'gayer']",True,6
+gayly,"['tares', 'danio', 'happy', 'balmy', 'gayly']",True,5
+gazer,"['tares', 'macer', 'paper', 'layer', 'baker', 'eager']",False,6
+gecko,"['tares', 'monie', 'below', 'deffo', 'gecko']",True,5
+geeky,"['tares', 'monie', 'kelly', 'geeky']",True,4
+geese,"['tares', 'scone', 'issue', 'geese']",True,4
+genie,"['tares', 'monie', 'genie']",True,3
+genre,"['tares', 'reoil', 'henry', 'genre']",True,4
+ghost,"['tares', 'suint', 'kydst', 'boost', 'ghost']",True,5
+ghoul,"['tares', 'noily', 'block', 'ghoul']",True,4
+giant,"['tares', 'biota', 'giant']",True,3
+giddy,"['tares', 'noily', 'midgy', 'giddy']",True,4
+gipsy,"['tares', 'sonic', 'missy', 'gipsy']",True,4
+girly,"['tares', 'giron', 'girly']",True,3
+girth,"['tares', 'lirot', 'birth', 'yirth', 'firth', 'girth']",True,6
+given,"['tares', 'poley', 'given']",True,3
+giver,"['tares', 'oriel', 'river', 'diver', 'giver']",True,5
+glade,"['tares', 'diane', 'blade', 'glade']",True,4
+gland,"['tares', 'dolia', 'gland']",True,3
+glare,"['tares', 'denar', 'frame', 'aware', 'glare']",True,5
+glass,"['tares', 'duans', 'class', 'glass']",True,4
+glaze,"['tares', 'diane', 'place', 'blame', 'flake', 'glaze']",True,6
+gleam,"['tares', 'diane', 'cheap', 'gleam']",True,4
+glean,"['tares', 'diane', 'began', 'glean']",True,4
+glide,"['tares', 'monie', 'bible', 'ylike', 'glide']",True,5
+glint,"['tares', 'biont', 'flint', 'clint', 'glint']",True,5
+gloat,"['tares', 'biota', 'adopt', 'float', 'gloat']",True,5
+globe,"['tares', 'monie', 'whole', 'globe']",True,4
+gloom,"['tares', 'noily', 'block', 'flood', 'gloom']",True,5
+glory,"['tares', 'broil', 'floor', 'glory']",True,4
+gloss,"['tares', 'loins', 'blogs', 'gloss']",True,4
+glove,"['tares', 'monie', 'whole', 'globe', 'glove']",True,5
+glyph,"['tares', 'noily', 'lymph', 'glyph']",True,4
+gnash,"['tares', 'scopa', 'flash', 'awash', 'quash', 'gnash']",True,6
+gnome,"['tares', 'monie', 'gnome']",True,3
+godly,"['tares', 'noily', 'molly', 'cooly', 'godly']",True,5
+going,"['tares', 'noily', 'doing', 'going']",True,4
+golem,"['tares', 'poley', 'golem']",True,3
+golly,"['tares', 'noily', 'molly', 'folly', 'polly', 'holly']",False,6
+gonad,"['tares', 'dolia', 'nomad', 'gonad']",True,4
+goner,"['tares', 'oriel', 'poker', 'cover', 'roger', 'gomer']",False,6
+goody,"['tares', 'noily', 'moody', 'goody']",True,4
+gooey,"['tares', 'poley', 'money', 'covey', 'bogey', 'gooey']",True,6
+goofy,"['tares', 'noily', 'moody', 'booky', 'woopy', 'goofy']",True,6
+goose,"['tares', 'scone', 'whose', 'loose', 'goose']",True,5
+gorge,"['tares', 'borne', 'force', 'horde', 'gorge']",True,5
+gouge,"['tares', 'monie', 'lodge', 'gouge']",True,4
+gourd,"['tares', 'broil', 'round', 'gourd']",True,4
+grace,"['tares', 'denar', 'frame', 'grace']",True,4
+grade,"['tares', 'denar', 'grade']",True,3
+graft,"['tares', 'drant', 'craft', 'kraft', 'graft']",True,5
+grail,"['tares', 'aroid', 'brain', 'craig', 'grail']",True,5
+grain,"['tares', 'aroid', 'brain', 'grain']",True,4
+grand,"['tares', 'aroid', 'brand', 'grand']",True,4
+grant,"['tares', 'drant', 'grant']",True,3
+grape,"['tares', 'denar', 'frame', 'grace', 'grave', 'grape']",True,6
+graph,"['tares', 'aroid', 'urban', 'crazy', 'graph']",True,5
+grasp,"['tares', 'sopra', 'grasp']",True,3
+grass,"['tares', 'riads', 'brass', 'grass']",True,4
+grate,"['tares', 'alert', 'irate', 'prate', 'crate', 'grate']",True,6
+grave,"['tares', 'denar', 'frame', 'grace', 'grave']",True,5
+gravy,"['tares', 'aroid', 'urban', 'crazy', 'gravy']",True,5
+graze,"['tares', 'denar', 'frame', 'grace', 'grave', 'grape']",False,6
+great,"['tares', 'alert', 'great']",True,3
+greed,"['tares', 'oriel', 'green', 'greek', 'greed']",True,5
+green,"['tares', 'oriel', 'green']",True,3
+greet,"['tares', 'noter', 'relet', 'greet']",True,4
+grief,"['tares', 'oriel', 'brief', 'grief']",True,4
+grill,"['tares', 'broil', 'grill']",True,3
+grime,"['tares', 'reoil', 'drive', 'price', 'urine', 'bribe']",False,6
+grimy,"['tares', 'broil', 'drink', 'primy', 'grimy']",True,5
+grind,"['tares', 'broil', 'drink', 'grind']",True,4
+gripe,"['tares', 'reoil', 'drive', 'price', 'gripe']",True,5
+groan,"['tares', 'aroid', 'krona', 'groan']",True,4
+groin,"['tares', 'broil', 'groin']",True,3
+groom,"['tares', 'broil', 'group', 'grody', 'groom']",True,5
+grope,"['tares', 'reoil', 'grove', 'grope']",True,4
+gross,"['tares', 'ruins', 'cross', 'gross']",True,4
+group,"['tares', 'broil', 'group']",True,3
+grout,"['tares', 'nitro', 'grout']",True,3
+grove,"['tares', 'reoil', 'grove']",True,3
+growl,"['tares', 'broil', 'prowl', 'growl']",True,4
+grown,"['tares', 'broil', 'group', 'grody', 'groom', 'grown']",True,6
+gruel,"['tares', 'oriel', 'cruel', 'gruel']",True,4
+gruff,"['tares', 'broil', 'crump', 'drunk', 'gruff']",True,5
+grunt,"['tares', 'nitro', 'brunt', 'grunt']",True,4
+guard,"['tares', 'aroid', 'chard', 'guard']",True,4
+guava,"['tares', 'dolia', 'nucha', 'pukka', 'bubba', 'guava']",True,6
+guess,"['tares', 'heils', 'guess']",True,3
+guest,"['tares', 'shote', 'guest']",True,3
+guide,"['tares', 'monie', 'bible', 'guide']",True,4
+guild,"['tares', 'noily', 'build', 'guild']",True,4
+guile,"['tares', 'monie', 'bible', 'while', 'exile', 'guile']",True,6
+guilt,"['tares', 'biont', 'guilt']",True,3
+guise,"['tares', 'scone', 'issue', 'guise']",True,4
+gulch,"['tares', 'noily', 'plumb', 'gulch']",True,4
+gully,"['tares', 'noily', 'fully', 'bully', 'gully']",True,5
+gumbo,"['tares', 'noily', 'gumbo']",True,3
+gummy,"['tares', 'noily', 'buddy', 'puppy', 'yummy', 'gummy']",True,6
+guppy,"['tares', 'noily', 'buddy', 'puppy', 'guppy']",True,5
+gusto,"['tares', 'suint', 'busty', 'gusto']",True,4
+gusty,"['tares', 'suint', 'busty', 'dusty', 'musty', 'lusty']",False,6
+gypsy,"['tares', 'sonic', 'pussy', 'gypsy']",True,4
+habit,"['tares', 'daint', 'habit']",True,3
+hairy,"['tares', 'cauri', 'hairy']",True,3
+halve,"['tares', 'daine', 'maybe', 'value', 'halve']",True,5
+handy,"['tares', 'danio', 'candy', 'handy']",True,4
+happy,"['tares', 'danio', 'happy']",True,3
+hardy,"['tares', 'baron', 'march', 'hardy']",True,4
+harem,"['tares', 'bared', 'pareu', 'warez', 'harem']",True,5
+harpy,"['tares', 'baron', 'march', 'hardy', 'harpy']",True,5
+harry,"['tares', 'baron', 'march', 'hardy', 'harpy', 'harry']",True,6
+harsh,"['tares', 'sarod', 'marsh', 'harsh']",True,4
+haste,"['tares', 'waste', 'paste', 'caste', 'haste']",True,5
+hasty,"['tares', 'sault', 'basto', 'nasty', 'hasty']",True,5
+hatch,"['tares', 'daint', 'watch', 'match', 'patch', 'catch']",False,6
+hater,"['tares', 'oater', 'water', 'later', 'cater', 'eater']",False,6
+haunt,"['tares', 'daint', 'haunt']",True,3
+haute,"['tares', 'bathe', 'haute']",True,3
+haven,"['tares', 'haled', 'haven']",True,3
+havoc,"['tares', 'danio', 'haoma', 'havoc']",True,4
+hazel,"['tares', 'haled', 'hazel']",True,3
+heady,"['tares', 'diane', 'weald', 'heady']",True,4
+heard,"['tares', 'denar', 'ready', 'heard']",True,4
+heart,"['tares', 'alert', 'heart']",True,3
+heath,"['tares', 'dealt', 'neath', 'heath']",True,4
+heave,"['tares', 'diane', 'place', 'quake', 'weave', 'heave']",True,6
+heavy,"['tares', 'diane', 'beach', 'heavy']",True,4
+hedge,"['tares', 'monie', 'judge', 'kedge', 'hedge']",True,5
+hefty,"['tares', 'monte', 'depth', 'hefty']",True,4
+heist,"['tares', 'shote', 'heist']",True,3
+helix,"['tares', 'monie', 'devil', 'helix']",True,4
+hello,"['tares', 'monie', 'below', 'hello']",True,4
+hence,"['tares', 'monie', 'venue', 'hence']",True,4
+heron,"['tares', 'borne', 'heron']",True,3
+hilly,"['tares', 'noily', 'imply', 'billy', 'hilly']",True,5
+hinge,"['tares', 'monie', 'wince', 'dinge', 'hinge']",True,5
+hippo,"['tares', 'noily', 'bipod', 'hippo']",True,4
+hippy,"['tares', 'noily', 'midgy', 'biffy', 'picky', 'hippy']",True,6
+hitch,"['tares', 'biont', 'pitch', 'witch', 'hitch']",True,5
+hoard,"['tares', 'aroid', 'board', 'hoard']",True,4
+hobby,"['tares', 'noily', 'moody', 'bobby', 'hobby']",True,5
+hoist,"['tares', 'suint', 'blist', 'moist', 'hoist']",True,5
+holly,"['tares', 'noily', 'molly', 'folly', 'polly', 'holly']",True,6
+homer,"['tares', 'oriel', 'poker', 'cover', 'roger', 'homer']",True,6
+honey,"['tares', 'poley', 'money', 'honey']",True,4
+honor,"['tares', 'broil', 'round', 'honor']",True,4
+horde,"['tares', 'borne', 'force', 'horde']",True,4
+horny,"['tares', 'giron', 'porno', 'horny']",True,4
+horse,"['tares', 'horse']",True,2
+hotel,"['tares', 'inlet', 'hotel']",True,3
+hotly,"['tares', 'biont', 'youth', 'hotly']",True,4
+hound,"['tares', 'noily', 'found', 'bound', 'pound', 'wound']",False,6
+house,"['tares', 'scone', 'house']",True,3
+hovel,"['tares', 'poley', 'model', 'novel', 'hovel']",True,5
+hover,"['tares', 'oriel', 'poker', 'cover', 'rover', 'dover']",False,6
+howdy,"['tares', 'noily', 'moody', 'howdy']",True,4
+human,"['tares', 'dolia', 'human']",True,3
+humid,"['tares', 'noily', 'cubic', 'humid']",True,4
+humor,"['tares', 'broil', 'round', 'occur', 'humor']",True,5
+humph,"['tares', 'noily', 'whump', 'bumph', 'humph']",True,5
+humus,"['tares', 'loins', 'pumps', 'humfs', 'humus']",True,5
+hunch,"['tares', 'noily', 'bunch', 'punch', 'munch', 'hunch']",True,6
+hunky,"['tares', 'noily', 'funny', 'hunky']",True,4
+hurry,"['tares', 'giron', 'burly', 'curry', 'hurry']",True,5
+husky,"['tares', 'sonic', 'pussy', 'musky', 'husky']",True,5
+hussy,"['tares', 'sonic', 'pussy', 'fussy', 'hussy']",True,5
+hutch,"['tares', 'biont', 'dutch', 'hutch']",True,4
+hydro,"['tares', 'broil', 'round', 'hydro']",True,4
+hyena,"['tares', 'diane', 'henna', 'hyena']",True,4
+hymen,"['tares', 'poley', 'yiked', 'hymen']",True,4
+hyper,"['tares', 'oriel', 'under', 'refer', 'cyber', 'hyper']",True,6
+icily,"['tares', 'noily', 'icily']",True,3
+icing,"['tares', 'noily', 'ching', 'icing']",True,4
+ideal,"['tares', 'diane', 'media', 'ideal']",True,4
+idiom,"['tares', 'noily', 'opium', 'idiom']",True,4
+idiot,"['tares', 'biont', 'idiot']",True,3
+idler,"['tares', 'oriel', 'liver', 'idler']",True,4
+idyll,"['tares', 'noily', 'idyll']",True,3
+igloo,"['tares', 'noily', 'dildo', 'igloo']",True,4
+iliac,"['tares', 'dolia', 'final', 'iliac']",True,4
+image,"['tares', 'diane', 'image']",True,3
+imbue,"['tares', 'monie', 'clime', 'imbue']",True,4
+impel,"['tares', 'poley', 'expel', 'impel']",True,4
+imply,"['tares', 'noily', 'imply']",True,3
+inane,"['tares', 'diane', 'inane']",True,3
+inbox,"['tares', 'noily', 'bingo', 'inbox']",True,4
+incur,"['tares', 'broil', 'chirm', 'incur']",True,4
+index,"['tares', 'poley', 'given', 'index']",True,4
+inept,"['tares', 'monte', 'event', 'knelt', 'inept']",True,5
+inert,"['tares', 'nitre', 'inert']",True,3
+infer,"['tares', 'oriel', 'river', 'inner', 'infer']",True,5
+ingot,"['tares', 'biont', 'ingot']",True,3
+inlay,"['tares', 'dolia', 'lilac', 'inlay']",True,4
+inlet,"['tares', 'inlet']",True,2
+inner,"['tares', 'oriel', 'river', 'inner']",True,4
+input,"['tares', 'biont', 'input']",True,3
+inter,"['tares', 'noter', 'enter', 'inter']",True,4
+intro,"['tares', 'nitro', 'intro']",True,3
+ionic,"['tares', 'noily', 'wongi', 'ionic']",True,4
+irate,"['tares', 'alert', 'irate']",True,3
+irony,"['tares', 'broil', 'irony']",True,3
+islet,"['tares', 'coset', 'sheet', 'islet']",True,4
+issue,"['tares', 'scone', 'issue']",True,3
+itchy,"['tares', 'biont', 'culti', 'itchy']",True,4
+ivory,"['tares', 'broil', 'ivory']",True,3
+jaunt,"['tares', 'daint', 'haunt', 'gaunt', 'jaunt']",True,5
+jazzy,"['tares', 'danio', 'happy', 'balmy', 'wacky', 'jazzy']",True,6
+jelly,"['tares', 'monie', 'kelly', 'belly', 'welly', 'jelly']",True,6
+jerky,"['tares', 'borne', 'kerry', 'perky', 'jerky']",True,5
+jetty,"['tares', 'monte', 'depth', 'betty', 'jetty']",True,5
+jewel,"['tares', 'poley', 'level', 'gemel', 'jewel']",True,5
+jiffy,"['tares', 'noily', 'midgy', 'biffy', 'jiffy']",True,5
+joint,"['tares', 'biont', 'point', 'joint']",True,4
+joist,"['tares', 'suint', 'blist', 'moist', 'hoist', 'joist']",True,6
+joker,"['tares', 'oriel', 'poker', 'yoker', 'joker']",True,5
+jolly,"['tares', 'noily', 'molly', 'folly', 'polly', 'holly']",False,6
+joust,"['tares', 'suint', 'joust']",True,3
+judge,"['tares', 'monie', 'judge']",True,3
+juice,"['tares', 'monie', 'bible', 'guide', 'juice']",True,5
+juicy,"['tares', 'noily', 'juicy']",True,3
+jumbo,"['tares', 'noily', 'gumbo', 'jumbo']",True,4
+jumpy,"['tares', 'noily', 'buddy', 'puppy', 'jumpy']",True,5
+junta,"['tares', 'biota', 'whata', 'junta']",True,4
+junto,"['tares', 'biont', 'month', 'junto']",True,4
+juror,"['tares', 'giron', 'duroc', 'furor', 'juror']",True,5
+kappa,"['tares', 'danio', 'happy', 'kappa']",True,4
+karma,"['tares', 'baron', 'march', 'karma']",True,4
+kayak,"['tares', 'danio', 'happy', 'kayak']",True,4
+kebab,"['tares', 'diane', 'cheap', 'legal', 'kebab']",True,5
+khaki,"['tares', 'dolia', 'pikau', 'khaki']",True,4
+kinky,"['tares', 'noily', 'bingy', 'windy', 'pinky', 'kinky']",True,6
+kiosk,"['tares', 'sonic', 'kiosk']",True,3
+kitty,"['tares', 'biont', 'pitch', 'kitty']",True,4
+knack,"['tares', 'dolia', 'human', 'knack']",True,4
+knave,"['tares', 'diane', 'knave']",True,3
+knead,"['tares', 'diane', 'knead']",True,3
+kneed,"['tares', 'poley', 'given', 'ended', 'kneed']",True,5
+kneel,"['tares', 'poley', 'level', 'wheel', 'kneel']",True,5
+knelt,"['tares', 'monte', 'event', 'knelt']",True,4
+knife,"['tares', 'monie', 'niche', 'ingle', 'knife']",True,5
+knock,"['tares', 'noily', 'known', 'knock']",True,4
+knoll,"['tares', 'noily', 'knoll']",True,3
+known,"['tares', 'noily', 'known']",True,3
+koala,"['tares', 'dolia', 'longa', 'koala']",True,4
+krill,"['tares', 'broil', 'grill', 'drill', 'krill']",True,5
+label,"['tares', 'haled', 'panel', 'label']",True,4
+labor,"['tares', 'cauri', 'labor']",True,3
+laden,"['tares', 'haled', 'laden']",True,3
+ladle,"['tares', 'daine', 'badge', 'ladle']",True,4
+lager,"['tares', 'macer', 'paper', 'layer', 'lager']",True,5
+lance,"['tares', 'daine', 'lance']",True,3
+lanky,"['tares', 'danio', 'manga', 'nancy', 'hanky', 'lanky']",True,6
+lapel,"['tares', 'haled', 'panel', 'lapel']",True,4
+lapse,"['tares', 'saine', 'cause', 'false', 'lapse']",True,5
+large,"['tares', 'parae', 'large']",True,3
+larva,"['tares', 'baron', 'march', 'garda', 'varia', 'larva']",True,6
+lasso,"['tares', 'salmi', 'nasal', 'lasso']",True,4
+latch,"['tares', 'daint', 'watch', 'match', 'patch', 'catch']",False,6
+later,"['tares', 'oater', 'water', 'later']",True,4
+lathe,"['tares', 'bathe', 'lathe']",True,3
+latte,"['tares', 'bathe', 'matte', 'latte']",True,4
+laugh,"['tares', 'danio', 'happy', 'laugh']",True,4
+layer,"['tares', 'macer', 'paper', 'layer']",True,4
+leach,"['tares', 'diane', 'beach', 'peach', 'leach']",True,5
+leafy,"['tares', 'diane', 'beach', 'mealy', 'leafy']",True,5
+leaky,"['tares', 'diane', 'beach', 'mealy', 'leafy', 'leaky']",True,6
+leant,"['tares', 'dealt', 'leant']",True,3
+leapt,"['tares', 'dealt', 'leant', 'leapt']",True,4
+learn,"['tares', 'denar', 'learn']",True,3
+lease,"['tares', 'soave', 'phase', 'lease']",True,4
+leash,"['tares', 'soave', 'leash']",True,3
+least,"['tares', 'stela', 'least']",True,3
+leave,"['tares', 'diane', 'place', 'leave']",True,4
+ledge,"['tares', 'monie', 'judge', 'kedge', 'hedge', 'ledge']",True,6
+leech,"['tares', 'monie', 'kelly', 'leech']",True,4
+leery,"['tares', 'reoil', 'leery']",True,3
+lefty,"['tares', 'monte', 'depth', 'betty', 'lefty']",True,5
+legal,"['tares', 'diane', 'cheap', 'legal']",True,4
+leggy,"['tares', 'monie', 'kelly', 'leggy']",True,4
+lemon,"['tares', 'monie', 'lemon']",True,3
+lemur,"['tares', 'reoil', 'leery', 'lemur']",True,4
+leper,"['tares', 'oriel', 'bluer', 'lever', 'leger', 'leper']",True,6
+level,"['tares', 'poley', 'level']",True,3
+lever,"['tares', 'oriel', 'bluer', 'lever']",True,4
+libel,"['tares', 'poley', 'level', 'libel']",True,4
+liege,"['tares', 'monie', 'bible', 'liege']",True,4
+light,"['tares', 'biont', 'light']",True,3
+liken,"['tares', 'poley', 'level', 'liked', 'liken']",True,5
+lilac,"['tares', 'dolia', 'lilac']",True,3
+limbo,"['tares', 'noily', 'dildo', 'limbo']",True,4
+limit,"['tares', 'biont', 'light', 'limit']",True,4
+linen,"['tares', 'poley', 'level', 'liked', 'linen']",True,5
+liner,"['tares', 'oriel', 'liver', 'liger', 'liner']",True,5
+lingo,"['tares', 'noily', 'lingo']",True,3
+lipid,"['tares', 'noily', 'civil', 'lipid']",True,4
+lithe,"['tares', 'monte', 'etude', 'lythe', 'lithe']",True,5
+liver,"['tares', 'oriel', 'liver']",True,3
+livid,"['tares', 'noily', 'civil', 'livid']",True,4
+llama,"['tares', 'dolia', 'alpha', 'llama']",True,4
+loamy,"['tares', 'dolia', 'local', 'loamy']",True,4
+loath,"['tares', 'biota', 'loath']",True,3
+lobby,"['tares', 'noily', 'lobby']",True,3
+local,"['tares', 'dolia', 'local']",True,3
+locus,"['tares', 'loins', 'looks', 'locus']",True,4
+lodge,"['tares', 'monie', 'lodge']",True,3
+lofty,"['tares', 'biont', 'youth', 'potty', 'lofty']",True,5
+logic,"['tares', 'noily', 'logic']",True,3
+login,"['tares', 'noily', 'login']",True,3
+loopy,"['tares', 'noily', 'lobby', 'loopy']",True,4
+loose,"['tares', 'scone', 'whose', 'loose']",True,4
+lorry,"['tares', 'giron', 'world', 'lorry']",True,4
+loser,"['tares', 'spier', 'loser']",True,3
+louse,"['tares', 'scone', 'house', 'mouse', 'louse']",True,5
+lousy,"['tares', 'sonic', 'lousy']",True,3
+lover,"['tares', 'oriel', 'lower', 'lover']",True,4
+lower,"['tares', 'oriel', 'lower']",True,3
+lowly,"['tares', 'noily', 'molly', 'lowly']",True,4
+loyal,"['tares', 'dolia', 'local', 'loyal']",True,4
+lucid,"['tares', 'noily', 'civil', 'lucid']",True,4
+lucky,"['tares', 'noily', 'lucky']",True,3
+lumen,"['tares', 'poley', 'level', 'liked', 'lumen']",True,5
+lumpy,"['tares', 'noily', 'lucky', 'lumpy']",True,4
+lunar,"['tares', 'aroid', 'charm', 'lunar']",True,4
+lunch,"['tares', 'noily', 'lunch']",True,3
+lunge,"['tares', 'monie', 'venue', 'lunge']",True,4
+lupus,"['tares', 'loins', 'luffs', 'lumps', 'lupus']",True,5
+lurch,"['tares', 'giron', 'burly', 'lurch']",True,4
+lurid,"['tares', 'giron', 'lyric', 'lurid']",True,4
+lusty,"['tares', 'suint', 'busty', 'dusty', 'musty', 'lusty']",True,6
+lying,"['tares', 'noily', 'lying']",True,3
+lymph,"['tares', 'noily', 'lymph']",True,3
+lynch,"['tares', 'noily', 'lynch']",True,3
+lyric,"['tares', 'giron', 'lyric']",True,3
+macaw,"['tares', 'danio', 'happy', 'gamma', 'macaw']",True,5
+macho,"['tares', 'danio', 'yahoo', 'macho']",True,4
+macro,"['tares', 'cauri', 'macro']",True,3
+madam,"['tares', 'danio', 'badly', 'madam']",True,4
+madly,"['tares', 'danio', 'badly', 'madly']",True,4
+mafia,"['tares', 'danio', 'magic', 'maxim', 'mafia']",True,5
+magic,"['tares', 'danio', 'magic']",True,3
+magma,"['tares', 'danio', 'happy', 'gamma', 'magma']",True,5
+maize,"['tares', 'daine', 'maize']",True,3
+major,"['tares', 'cauri', 'labor', 'major']",True,4
+maker,"['tares', 'macer', 'maker']",True,3
+mambo,"['tares', 'danio', 'yahoo', 'mambo']",True,4
+mamma,"['tares', 'danio', 'happy', 'gamma', 'mamma']",True,5
+mammy,"['tares', 'danio', 'happy', 'balmy', 'gaumy', 'mammy']",True,6
+manga,"['tares', 'danio', 'manga']",True,3
+mange,"['tares', 'daine', 'lance', 'mange']",True,4
+mango,"['tares', 'danio', 'mango']",True,3
+mangy,"['tares', 'danio', 'manga', 'mangy']",True,4
+mania,"['tares', 'danio', 'panic', 'bania', 'mania']",True,5
+manic,"['tares', 'danio', 'panic', 'manic']",True,4
+manly,"['tares', 'danio', 'manga', 'manly']",True,4
+manor,"['tares', 'cauri', 'labor', 'major', 'mayor', 'manor']",True,6
+maple,"['tares', 'daine', 'maybe', 'maple']",True,4
+march,"['tares', 'baron', 'march']",True,3
+marry,"['tares', 'baron', 'march', 'marly', 'mardy', 'marry']",True,6
+marsh,"['tares', 'sarod', 'marsh']",True,3
+mason,"['tares', 'salmi', 'mason']",True,3
+masse,"['tares', 'saine', 'cause', 'false', 'basse', 'passe']",False,6
+match,"['tares', 'daint', 'watch', 'match']",True,4
+matey,"['tares', 'oaten', 'latex', 'dated', 'matey']",True,5
+mauve,"['tares', 'daine', 'maybe', 'maple', 'mauve']",True,5
+maxim,"['tares', 'danio', 'magic', 'maxim']",True,4
+maybe,"['tares', 'daine', 'maybe']",True,3
+mayor,"['tares', 'cauri', 'labor', 'major', 'mayor']",True,5
+mealy,"['tares', 'diane', 'beach', 'mealy']",True,4
+meant,"['tares', 'dealt', 'meant']",True,3
+meaty,"['tares', 'dealt', 'neath', 'beaty', 'meaty']",True,5
+mecca,"['tares', 'diane', 'cheap', 'mecca']",True,4
+medal,"['tares', 'diane', 'ahead', 'medal']",True,4
+media,"['tares', 'diane', 'media']",True,3
+medic,"['tares', 'monie', 'medii', 'medic']",True,4
+melee,"['tares', 'poley', 'filed', 'celeb', 'melee']",True,5
+melon,"['tares', 'monie', 'melon']",True,3
+mercy,"['tares', 'borne', 'kerry', 'mercy']",True,4
+merge,"['tares', 'borne', 'merge']",True,3
+merit,"['tares', 'merit']",True,2
+merry,"['tares', 'borne', 'kerry', 'jerry', 'perry', 'ferry']",False,6
+metal,"['tares', 'dealt', 'metal']",True,3
+meter,"['tares', 'noter', 'peter', 'meter']",True,4
+metro,"['tares', 'nitre', 'retry', 'metro']",True,4
+micro,"['tares', 'broil', 'minor', 'micro']",True,4
+midge,"['tares', 'monie', 'midge']",True,3
+midst,"['tares', 'suint', 'visit', 'midst']",True,4
+might,"['tares', 'biont', 'light', 'might']",True,4
+milky,"['tares', 'noily', 'bilby', 'milky']",True,4
+mimic,"['tares', 'noily', 'cubic', 'mimic']",True,4
+mince,"['tares', 'monie', 'mince']",True,3
+miner,"['tares', 'oriel', 'river', 'fiber', 'wider', 'mixer']",False,6
+minim,"['tares', 'noily', 'unbid', 'minim']",True,4
+minor,"['tares', 'broil', 'minor']",True,3
+minty,"['tares', 'biont', 'linty', 'minty']",True,4
+minus,"['tares', 'loins', 'kinds', 'wings', 'minus']",True,5
+mirth,"['tares', 'lirot', 'birth', 'yirth', 'firth', 'girth']",False,6
+miser,"['tares', 'spier', 'riser', 'wiser', 'miser']",True,5
+missy,"['tares', 'sonic', 'missy']",True,3
+mocha,"['tares', 'dolia', 'gonna', 'yowza', 'cocoa', 'mocha']",True,6
+modal,"['tares', 'dolia', 'woald', 'modal']",True,4
+model,"['tares', 'poley', 'model']",True,3
+modem,"['tares', 'poley', 'women', 'moved', 'modem']",True,5
+mogul,"['tares', 'noily', 'mogul']",True,3
+moist,"['tares', 'suint', 'blist', 'moist']",True,4
+molar,"['tares', 'aroid', 'royal', 'polar', 'molar']",True,5
+moldy,"['tares', 'noily', 'lobby', 'folky', 'moldy']",True,5
+money,"['tares', 'poley', 'money']",True,3
+month,"['tares', 'biont', 'month']",True,3
+moody,"['tares', 'noily', 'moody']",True,3
+moose,"['tares', 'scone', 'whose', 'loose', 'goose', 'moose']",True,6
+moral,"['tares', 'pyran', 'rural', 'moral']",True,4
+moron,"['tares', 'giron', 'moron']",True,3
+morph,"['tares', 'giron', 'world', 'forum', 'morph']",True,5
+mossy,"['tares', 'sonic', 'lousy', 'bossy', 'mossy']",True,5
+motel,"['tares', 'inlet', 'hotel', 'motel']",True,4
+motif,"['tares', 'biont', 'ootid', 'motif']",True,4
+motor,"['tares', 'nitro', 'motor']",True,3
+motto,"['tares', 'biont', 'youth', 'motto']",True,4
+moult,"['tares', 'biont', 'ought', 'pluot', 'moult']",True,5
+mound,"['tares', 'noily', 'found', 'bound', 'pound', 'wound']",False,6
+mount,"['tares', 'biont', 'count', 'mount']",True,4
+mourn,"['tares', 'broil', 'round', 'mourn']",True,4
+mouse,"['tares', 'scone', 'house', 'mouse']",True,4
+mouth,"['tares', 'biont', 'youth', 'mouth']",True,4
+mover,"['tares', 'oriel', 'poker', 'cover', 'rover', 'dover']",False,6
+movie,"['tares', 'monie', 'movie']",True,3
+mower,"['tares', 'oriel', 'poker', 'cover', 'roger', 'homer']",False,6
+mucky,"['tares', 'noily', 'buddy', 'puppy', 'yummy', 'mucky']",True,6
+mucus,"['tares', 'loins', 'pumps', 'mucus']",True,4
+muddy,"['tares', 'noily', 'buddy', 'muddy']",True,4
+mulch,"['tares', 'noily', 'plumb', 'mulch']",True,4
+mummy,"['tares', 'noily', 'buddy', 'puppy', 'yummy', 'gummy']",False,6
+munch,"['tares', 'noily', 'bunch', 'punch', 'munch']",True,5
+mural,"['tares', 'pyran', 'rural', 'mural']",True,4
+murky,"['tares', 'giron', 'burly', 'curry', 'murky']",True,5
+mushy,"['tares', 'sonic', 'pussy', 'musky', 'mushy']",True,5
+music,"['tares', 'sonic', 'music']",True,3
+musky,"['tares', 'sonic', 'pussy', 'musky']",True,4
+musty,"['tares', 'suint', 'busty', 'dusty', 'musty']",True,5
+myrrh,"['tares', 'giron', 'burly', 'myrrh']",True,4
+nadir,"['tares', 'cauri', 'radio', 'nadir']",True,4
+naive,"['tares', 'daine', 'naive']",True,3
+nanny,"['tares', 'danio', 'manga', 'nancy', 'nanny']",True,5
+nasal,"['tares', 'salmi', 'nasal']",True,3
+nasty,"['tares', 'sault', 'basto', 'nasty']",True,4
+natal,"['tares', 'daint', 'baton', 'natal']",True,4
+naval,"['tares', 'danio', 'japan', 'naval']",True,4
+navel,"['tares', 'haled', 'panel', 'navel']",True,4
+needy,"['tares', 'monie', 'newly', 'needy']",True,4
+neigh,"['tares', 'monie', 'being', 'neigh']",True,4
+nerdy,"['tares', 'borne', 'rerun', 'nerdy']",True,4
+nerve,"['tares', 'borne', 'nerve']",True,3
+never,"['tares', 'oriel', 'under', 'never']",True,4
+newer,"['tares', 'oriel', 'under', 'never', 'newer']",True,5
+newly,"['tares', 'monie', 'newly']",True,3
+nicer,"['tares', 'oriel', 'river', 'fiber', 'wider', 'mixer']",False,6
+niche,"['tares', 'monie', 'niche']",True,3
+niece,"['tares', 'monie', 'niche', 'niece']",True,4
+night,"['tares', 'biont', 'night']",True,3
+ninja,"['tares', 'dolia', 'china', 'ninja']",True,4
+ninny,"['tares', 'noily', 'nippy', 'ninny']",True,4
+ninth,"['tares', 'biont', 'linty', 'ninth']",True,4
+noble,"['tares', 'monie', 'noble']",True,3
+nobly,"['tares', 'noily', 'nobly']",True,3
+noise,"['tares', 'scone', 'noise']",True,3
+noisy,"['tares', 'sonic', 'noisy']",True,3
+nomad,"['tares', 'dolia', 'nomad']",True,3
+noose,"['tares', 'scone', 'noose']",True,3
+north,"['tares', 'lirot', 'north']",True,3
+nosey,"['tares', 'solei', 'posed', 'hosen', 'nosey']",True,5
+notch,"['tares', 'biont', 'month', 'notch']",True,4
+novel,"['tares', 'poley', 'model', 'novel']",True,4
+nudge,"['tares', 'monie', 'uncle', 'nudge']",True,4
+nurse,"['tares', 'horse', 'nurse']",True,3
+nutty,"['tares', 'biont', 'punty', 'nutty']",True,4
+nylon,"['tares', 'noily', 'nylon']",True,3
+nymph,"['tares', 'noily', 'nymph']",True,3
+oaken,"['tares', 'haled', 'oaken']",True,3
+obese,"['tares', 'scone', 'house', 'obese']",True,4
+occur,"['tares', 'broil', 'round', 'occur']",True,4
+ocean,"['tares', 'diane', 'began', 'clean', 'ocean']",True,5
+octal,"['tares', 'biota', 'fouat', 'octal']",True,4
+octet,"['tares', 'inlet', 'upjet', 'comet', 'octet']",True,5
+odder,"['tares', 'oriel', 'offer', 'owner', 'odder']",True,5
+oddly,"['tares', 'noily', 'oddly']",True,3
+offal,"['tares', 'dolia', 'along', 'offal']",True,4
+offer,"['tares', 'oriel', 'offer']",True,3
+often,"['tares', 'inlet', 'noted', 'often']",True,4
+olden,"['tares', 'poley', 'olden']",True,3
+older,"['tares', 'oriel', 'older']",True,3
+olive,"['tares', 'monie', 'olive']",True,3
+ombre,"['tares', 'reoil', 'fuero', 'ochre', 'ombre']",True,5
+omega,"['tares', 'diane', 'cheap', 'omega']",True,4
+onion,"['tares', 'noily', 'union', 'onion']",True,4
+onset,"['tares', 'coset', 'onset']",True,3
+opera,"['tares', 'denar', 'frame', 'opera']",True,4
+opine,"['tares', 'monie', 'ovine', 'opine']",True,4
+opium,"['tares', 'noily', 'opium']",True,3
+optic,"['tares', 'biont', 'ootid', 'optic']",True,4
+orbit,"['tares', 'nitro', 'orbit']",True,3
+order,"['tares', 'oriel', 'order']",True,3
+organ,"['tares', 'aroid', 'bravo', 'organ']",True,4
+other,"['tares', 'noter', 'other']",True,3
+otter,"['tares', 'noter', 'outer', 'otter']",True,4
+ought,"['tares', 'biont', 'ought']",True,3
+ounce,"['tares', 'monie', 'ounce']",True,3
+outdo,"['tares', 'biont', 'youth', 'outdo']",True,4
+outer,"['tares', 'noter', 'outer']",True,3
+outgo,"['tares', 'biont', 'youth', 'outdo', 'outgo']",True,5
+ovary,"['tares', 'aroid', 'royal', 'ovary']",True,4
+ovate,"['tares', 'dealt', 'coate', 'ovate']",True,4
+overt,"['tares', 'nitre', 'overt']",True,3
+ovine,"['tares', 'monie', 'ovine']",True,3
+ovoid,"['tares', 'noily', 'bipod', 'ovoid']",True,4
+owing,"['tares', 'noily', 'union', 'owing']",True,4
+owner,"['tares', 'oriel', 'offer', 'owner']",True,4
+oxide,"['tares', 'monie', 'olive', 'oxide']",True,4
+ozone,"['tares', 'monie', 'phone', 'clone', 'ozone']",True,5
+paddy,"['tares', 'danio', 'badly', 'faddy', 'paddy']",True,5
+pagan,"['tares', 'danio', 'japan', 'pagan']",True,4
+paint,"['tares', 'daint', 'paint']",True,3
+paler,"['tares', 'macer', 'paper', 'pager', 'payer', 'paver']",False,6
+palsy,"['tares', 'salmi', 'balsa', 'palsy']",True,4
+panel,"['tares', 'haled', 'panel']",True,3
+panic,"['tares', 'danio', 'panic']",True,3
+pansy,"['tares', 'salmi', 'bason', 'pansy']",True,4
+papal,"['tares', 'danio', 'happy', 'papal']",True,4
+paper,"['tares', 'macer', 'paper']",True,3
+parer,"['tares', 'bared', 'pareu', 'paren', 'pareo', 'parer']",True,6
+parka,"['tares', 'baron', 'march', 'garda', 'varia', 'parka']",True,6
+parry,"['tares', 'baron', 'march', 'garda', 'parry']",True,5
+parse,"['tares', 'parse']",True,2
+party,"['tares', 'parti', 'party']",True,3
+pasta,"['tares', 'sault', 'basto', 'nasty', 'fasti', 'pasta']",True,6
+paste,"['tares', 'waste', 'paste']",True,3
+pasty,"['tares', 'sault', 'basto', 'nasty', 'hasty', 'pasty']",True,6
+patch,"['tares', 'daint', 'watch', 'match', 'patch']",True,5
+patio,"['tares', 'daint', 'patio']",True,3
+patsy,"['tares', 'sault', 'basto', 'patsy']",True,4
+patty,"['tares', 'daint', 'watch', 'fatal', 'batty', 'patty']",True,6
+pause,"['tares', 'saine', 'cause', 'pause']",True,4
+payee,"['tares', 'haled', 'oaken', 'payee']",True,4
+payer,"['tares', 'macer', 'paper', 'pager', 'payer']",True,5
+peace,"['tares', 'diane', 'place', 'peace']",True,4
+peach,"['tares', 'diane', 'beach', 'peach']",True,4
+pearl,"['tares', 'denar', 'reach', 'pearl']",True,4
+pecan,"['tares', 'diane', 'began', 'pecan']",True,4
+pedal,"['tares', 'diane', 'ahead', 'medal', 'pedal']",True,5
+penal,"['tares', 'diane', 'began', 'penal']",True,4
+pence,"['tares', 'monie', 'venue', 'hence', 'fence', 'pence']",True,6
+penne,"['tares', 'monie', 'venue', 'hence', 'wenge', 'penne']",True,6
+penny,"['tares', 'monie', 'penny']",True,3
+perch,"['tares', 'borne', 'kerry', 'peril', 'perch']",True,5
+peril,"['tares', 'borne', 'kerry', 'peril']",True,4
+perky,"['tares', 'borne', 'kerry', 'perky']",True,4
+pesky,"['tares', 'scone', 'flesh', 'pesky']",True,4
+pesto,"['tares', 'shote', 'pesto']",True,3
+petal,"['tares', 'dealt', 'metal', 'fetal', 'petal']",True,5
+petty,"['tares', 'monte', 'depth', 'petty']",True,4
+phase,"['tares', 'soave', 'phase']",True,3
+phone,"['tares', 'monie', 'phone']",True,3
+phony,"['tares', 'noily', 'oundy', 'phony']",True,4
+photo,"['tares', 'biont', 'photo']",True,3
+piano,"['tares', 'dolia', 'piano']",True,3
+picky,"['tares', 'noily', 'midgy', 'biffy', 'picky']",True,5
+piece,"['tares', 'monie', 'bible', 'piece']",True,4
+piety,"['tares', 'monte', 'depth', 'piety']",True,4
+piggy,"['tares', 'noily', 'midgy', 'piggy']",True,4
+pilot,"['tares', 'biont', 'pilot']",True,3
+pinch,"['tares', 'noily', 'unbid', 'pinch']",True,4
+piney,"['tares', 'poley', 'piney']",True,3
+pinky,"['tares', 'noily', 'bingy', 'windy', 'pinky']",True,5
+pinto,"['tares', 'biont', 'pinto']",True,3
+piper,"['tares', 'oriel', 'river', 'fiber', 'wider', 'mixer']",False,6
+pique,"['tares', 'monie', 'bible', 'piece', 'pique']",True,5
+pitch,"['tares', 'biont', 'pitch']",True,3
+pithy,"['tares', 'biont', 'pitch', 'pithy']",True,4
+pivot,"['tares', 'biont', 'pilot', 'pivot']",True,4
+pixel,"['tares', 'poley', 'pixel']",True,3
+pixie,"['tares', 'monie', 'fugie', 'dixie', 'pixie']",True,5
+pizza,"['tares', 'dolia', 'china', 'pizza']",True,4
+place,"['tares', 'diane', 'place']",True,3
+plaid,"['tares', 'dolia', 'plaid']",True,3
+plain,"['tares', 'dolia', 'claim', 'plain']",True,4
+plait,"['tares', 'biota', 'audit', 'plait']",True,4
+plane,"['tares', 'diane', 'plane']",True,3
+plank,"['tares', 'dolia', 'black', 'plank']",True,4
+plant,"['tares', 'biota', 'adult', 'plant']",True,4
+plate,"['tares', 'dealt', 'plate']",True,3
+plaza,"['tares', 'dolia', 'alpha', 'plaza']",True,4
+plead,"['tares', 'diane', 'ahead', 'plead']",True,4
+pleat,"['tares', 'dealt', 'bleat', 'cleat', 'pleat']",True,5
+plied,"['tares', 'poley', 'pixel', 'plied']",True,4
+plier,"['tares', 'oriel', 'flier', 'plier']",True,4
+pluck,"['tares', 'noily', 'plumb', 'pluck']",True,4
+plumb,"['tares', 'noily', 'plumb']",True,3
+plume,"['tares', 'monie', 'emyde', 'blume', 'plume']",True,5
+plump,"['tares', 'noily', 'plumb', 'plump']",True,4
+plunk,"['tares', 'noily', 'lunch', 'plunk']",True,4
+plush,"['tares', 'sonic', 'pussy', 'plush']",True,4
+poesy,"['tares', 'scone', 'lesbo', 'poesy']",True,4
+point,"['tares', 'biont', 'point']",True,3
+poise,"['tares', 'scone', 'house', 'poise']",True,4
+poker,"['tares', 'oriel', 'poker']",True,3
+polar,"['tares', 'aroid', 'royal', 'polar']",True,4
+polka,"['tares', 'dolia', 'polka']",True,3
+polyp,"['tares', 'noily', 'polyp']",True,3
+pooch,"['tares', 'noily', 'combo', 'pooch']",True,4
+poppy,"['tares', 'noily', 'moody', 'bobby', 'foggy', 'poppy']",True,6
+porch,"['tares', 'giron', 'world', 'forum', 'corby', 'porch']",True,6
+poser,"['tares', 'spier', 'poser']",True,3
+posit,"['tares', 'suint', 'visit', 'posit']",True,4
+posse,"['tares', 'scone', 'house', 'poise', 'posse']",True,5
+pouch,"['tares', 'noily', 'combo', 'pouch']",True,4
+pound,"['tares', 'noily', 'found', 'bound', 'pound']",True,5
+pouty,"['tares', 'biont', 'youth', 'pouty']",True,4
+power,"['tares', 'oriel', 'poker', 'power']",True,4
+prank,"['tares', 'aroid', 'urban', 'frank', 'crank', 'prank']",True,6
+prawn,"['tares', 'aroid', 'urban', 'prawn']",True,4
+preen,"['tares', 'oriel', 'green', 'preen']",True,4
+press,"['tares', 'leirs', 'press']",True,3
+price,"['tares', 'reoil', 'drive', 'price']",True,4
+prick,"['tares', 'broil', 'drink', 'prick']",True,4
+pride,"['tares', 'reoil', 'drive', 'pride']",True,4
+pried,"['tares', 'oriel', 'brief', 'dried', 'cried', 'pried']",True,6
+prime,"['tares', 'reoil', 'drive', 'price', 'prime']",True,5
+primo,"['tares', 'broil', 'prior', 'primo']",True,4
+print,"['tares', 'nitro', 'print']",True,3
+prior,"['tares', 'broil', 'prior']",True,3
+prism,"['tares', 'skirl', 'crisp', 'prism']",True,4
+privy,"['tares', 'broil', 'drink', 'primy', 'privy']",True,5
+prize,"['tares', 'reoil', 'drive', 'price', 'prime', 'prize']",True,6
+probe,"['tares', 'reoil', 'grove', 'broke', 'probe']",True,5
+prone,"['tares', 'reoil', 'grove', 'broke', 'prone']",True,5
+prong,"['tares', 'broil', 'group', 'prong']",True,4
+proof,"['tares', 'broil', 'group', 'proof']",True,4
+prose,"['tares', 'shire', 'reuse', 'prose']",True,4
+proud,"['tares', 'broil', 'group', 'proud']",True,4
+prove,"['tares', 'reoil', 'grove', 'prove']",True,4
+prowl,"['tares', 'broil', 'prowl']",True,3
+proxy,"['tares', 'broil', 'group', 'proof', 'proxy']",True,5
+prude,"['tares', 'reoil', 'where', 'crude', 'prude']",True,5
+prune,"['tares', 'reoil', 'where', 'crude', 'prune']",True,5
+psalm,"['tares', 'scopa', 'psalm']",True,3
+pubic,"['tares', 'noily', 'cubic', 'pubic']",True,4
+pudgy,"['tares', 'noily', 'buddy', 'judgy', 'pudgy']",True,5
+puffy,"['tares', 'noily', 'buddy', 'puppy', 'puffy']",True,5
+pulpy,"['tares', 'noily', 'lucky', 'pulpy']",True,4
+pulse,"['tares', 'scone', 'issue', 'pulse']",True,4
+punch,"['tares', 'noily', 'bunch', 'punch']",True,4
+pupal,"['tares', 'dolia', 'black', 'apply', 'pupal']",True,5
+pupil,"['tares', 'noily', 'civil', 'fuzil', 'pupil']",True,5
+puppy,"['tares', 'noily', 'buddy', 'puppy']",True,4
+puree,"['tares', 'morel', 'wired', 'pyrex', 'puree']",True,5
+purer,"['tares', 'morel', 'wired', 'pyrex', 'puree', 'purer']",True,6
+purge,"['tares', 'borne', 'merge', 'purge']",True,4
+purse,"['tares', 'horse', 'nurse', 'purse']",True,4
+pushy,"['tares', 'sonic', 'pussy', 'pushy']",True,4
+putty,"['tares', 'biont', 'dutch', 'gutty', 'putty']",True,5
+pygmy,"['tares', 'noily', 'buddy', 'pygmy']",True,4
+quack,"['tares', 'dolia', 'human', 'quack']",True,4
+quail,"['tares', 'dolia', 'claim', 'avail', 'quail']",True,5
+quake,"['tares', 'diane', 'place', 'quake']",True,4
+qualm,"['tares', 'dolia', 'black', 'myall', 'qualm']",True,5
+quark,"['tares', 'aroid', 'charm', 'quark']",True,4
+quart,"['tares', 'drant', 'chart', 'apart', 'quart']",True,5
+quash,"['tares', 'scopa', 'flash', 'awash', 'quash']",True,5
+quasi,"['tares', 'scopa', 'flash', 'quasi']",True,4
+queen,"['tares', 'poley', 'given', 'queen']",True,4
+queer,"['tares', 'oriel', 'under', 'buyer', 'queer']",True,5
+quell,"['tares', 'monie', 'kelly', 'dwell', 'quell']",True,5
+query,"['tares', 'reoil', 'where', 'query']",True,4
+quest,"['tares', 'shote', 'guest', 'quest']",True,4
+queue,"['tares', 'monie', 'judge', 'queue']",True,4
+quick,"['tares', 'noily', 'quick']",True,3
+quiet,"['tares', 'inlet', 'bidet', 'quiet']",True,4
+quill,"['tares', 'noily', 'build', 'quill']",True,4
+quilt,"['tares', 'biont', 'guilt', 'quilt']",True,4
+quirk,"['tares', 'broil', 'chirm', 'quirk']",True,4
+quite,"['tares', 'monte', 'white', 'quite']",True,4
+quota,"['tares', 'biota', 'quota']",True,3
+quote,"['tares', 'monte', 'quote']",True,3
+quoth,"['tares', 'biont', 'photo', 'cloth', 'quoth']",True,5
+rabbi,"['tares', 'cauri', 'rabbi']",True,3
+rabid,"['tares', 'cauri', 'radio', 'rapid', 'rabid']",True,5
+racer,"['tares', 'macer', 'lacer', 'racer']",True,4
+radar,"['tares', 'cauri', 'labor', 'radar']",True,4
+radii,"['tares', 'cauri', 'rabbi', 'radii']",True,4
+radio,"['tares', 'cauri', 'radio']",True,3
+rainy,"['tares', 'cauri', 'radio', 'rainy']",True,4
+raise,"['tares', 'raise']",True,2
+rajah,"['tares', 'cauri', 'labor', 'randy', 'ragga', 'rajah']",True,6
+rally,"['tares', 'cauri', 'labor', 'rally']",True,4
+ralph,"['tares', 'cauri', 'labor', 'rally', 'ralph']",True,5
+ramen,"['tares', 'macer', 'ramen']",True,3
+ranch,"['tares', 'cauri', 'ranch']",True,3
+randy,"['tares', 'cauri', 'labor', 'randy']",True,4
+range,"['tares', 'rayle', 'range']",True,3
+rapid,"['tares', 'cauri', 'radio', 'rapid']",True,4
+rarer,"['tares', 'bared', 'pareu', 'warez', 'harem', 'laree']",False,6
+raspy,"['tares', 'savor', 'raspy']",True,3
+ratio,"['tares', 'gator', 'ratio']",True,3
+ratty,"['tares', 'gator', 'ratty']",True,3
+raven,"['tares', 'macer', 'raped', 'raven']",True,4
+rayon,"['tares', 'cauri', 'labor', 'razoo', 'radon', 'rayon']",True,6
+razor,"['tares', 'cauri', 'labor', 'major', 'favor', 'razor']",True,6
+reach,"['tares', 'denar', 'reach']",True,3
+react,"['tares', 'alert', 'react']",True,3
+ready,"['tares', 'denar', 'ready']",True,3
+realm,"['tares', 'denar', 'reach', 'realm']",True,4
+rearm,"['tares', 'denar', 'reach', 'realm', 'rearm']",True,5
+rebar,"['tares', 'denar', 'leear', 'rebar']",True,4
+rebel,"['tares', 'oriel', 'rebel']",True,3
+rebus,"['tares', 'leirs', 'reens', 'resus', 'rebus']",True,5
+rebut,"['tares', 'nitre', 'recto', 'rebut']",True,4
+recap,"['tares', 'denar', 'recap']",True,3
+recur,"['tares', 'reoil', 'renne', 'reddy', 'recur']",True,5
+recut,"['tares', 'nitre', 'recto', 'recut']",True,4
+reedy,"['tares', 'reoil', 'renne', 'reedy']",True,4
+refer,"['tares', 'oriel', 'under', 'refer']",True,4
+refit,"['tares', 'nitre', 'recit', 'remit', 'refit']",True,5
+regal,"['tares', 'denar', 'recap', 'relay', 'regal']",True,5
+rehab,"['tares', 'denar', 'recap', 'relay', 'rehab']",True,5
+reign,"['tares', 'reoil', 'reive', 'reign']",True,4
+relax,"['tares', 'denar', 'recap', 'relay', 'relax']",True,5
+relay,"['tares', 'denar', 'recap', 'relay']",True,4
+relic,"['tares', 'reoil', 'relic']",True,3
+remit,"['tares', 'nitre', 'recit', 'remit']",True,4
+renal,"['tares', 'denar', 'renal']",True,3
+renew,"['tares', 'oriel', 'under', 'renew']",True,4
+repay,"['tares', 'denar', 'recap', 'repay']",True,4
+repel,"['tares', 'oriel', 'rebel', 'revel', 'repel']",True,5
+reply,"['tares', 'reoil', 'reply']",True,3
+rerun,"['tares', 'borne', 'rerun']",True,3
+reset,"['tares', 'steer', 'reset']",True,3
+resin,"['tares', 'shire', 'resin']",True,3
+retch,"['tares', 'nitre', 'fetor', 'retch']",True,4
+retro,"['tares', 'nitre', 'retry', 'retro']",True,4
+retry,"['tares', 'nitre', 'retry']",True,3
+reuse,"['tares', 'shire', 'reuse']",True,3
+revel,"['tares', 'oriel', 'rebel', 'revel']",True,4
+revue,"['tares', 'reoil', 'renne', 'reeve', 'revue']",True,5
+rhino,"['tares', 'broil', 'minor', 'rhino']",True,4
+rhyme,"['tares', 'reoil', 'rhyme']",True,3
+rider,"['tares', 'oriel', 'river', 'rider']",True,4
+ridge,"['tares', 'reoil', 'ridge']",True,3
+rifle,"['tares', 'reoil', 'rifle']",True,3
+right,"['tares', 'nitro', 'right']",True,3
+rigid,"['tares', 'broil', 'rigid']",True,3
+rigor,"['tares', 'broil', 'minor', 'vigor', 'rigor']",True,5
+rinse,"['tares', 'shire', 'rinse']",True,3
+ripen,"['tares', 'oriel', 'river', 'rimed', 'ripen']",True,5
+riper,"['tares', 'oriel', 'river', 'rider', 'riper']",True,5
+risen,"['tares', 'spier', 'risen']",True,3
+riser,"['tares', 'spier', 'riser']",True,3
+risky,"['tares', 'skirl', 'risky']",True,3
+rival,"['tares', 'aroid', 'rival']",True,3
+river,"['tares', 'oriel', 'river']",True,3
+rivet,"['tares', 'noter', 'relet', 'rivet']",True,4
+roach,"['tares', 'aroid', 'royal', 'roach']",True,4
+roast,"['tares', 'smart', 'roast']",True,3
+robin,"['tares', 'broil', 'robin']",True,3
+robot,"['tares', 'nitro', 'grout', 'robot']",True,4
+rocky,"['tares', 'broil', 'round', 'rocky']",True,4
+rodeo,"['tares', 'oriel', 'poker', 'rouen', 'romeo', 'rodeo']",True,6
+roger,"['tares', 'oriel', 'poker', 'cover', 'roger']",True,5
+rogue,"['tares', 'reoil', 'rouge', 'rogue']",True,4
+roomy,"['tares', 'broil', 'chord', 'rooky', 'roomy']",True,5
+roost,"['tares', 'skirt', 'brust', 'roost']",True,4
+rotor,"['tares', 'nitro', 'motor', 'rotor']",True,4
+rouge,"['tares', 'reoil', 'rouge']",True,3
+rough,"['tares', 'broil', 'round', 'rough']",True,4
+round,"['tares', 'broil', 'round']",True,3
+rouse,"['tares', 'shire', 'reuse', 'rouse']",True,4
+route,"['tares', 'nitre', 'wrote', 'route']",True,4
+rover,"['tares', 'oriel', 'poker', 'cover', 'rover']",True,5
+rowdy,"['tares', 'broil', 'round', 'rowdy']",True,4
+rower,"['tares', 'oriel', 'poker', 'cover', 'roger', 'rower']",True,6
+royal,"['tares', 'aroid', 'royal']",True,3
+ruddy,"['tares', 'broil', 'rummy', 'runny', 'ruddy']",True,5
+ruder,"['tares', 'oriel', 'under', 'ruder']",True,4
+rugby,"['tares', 'broil', 'rugby']",True,3
+ruler,"['tares', 'oriel', 'bluer', 'ruler']",True,4
+rumba,"['tares', 'aroid', 'charm', 'rumba']",True,4
+rumor,"['tares', 'broil', 'round', 'rumor']",True,4
+rupee,"['tares', 'oriel', 'under', 'rupee']",True,4
+rural,"['tares', 'pyran', 'rural']",True,3
+rusty,"['tares', 'skirt', 'rusty']",True,3
+sadly,"['tares', 'salmi', 'sadly']",True,3
+safer,"['tares', 'maser', 'saver', 'safer']",True,4
+saint,"['tares', 'sault', 'saint']",True,3
+salad,"['tares', 'salmi', 'salon', 'salad']",True,4
+sally,"['tares', 'salmi', 'salon', 'salad', 'sally']",True,5
+salon,"['tares', 'salmi', 'salon']",True,3
+salsa,"['tares', 'salmi', 'salon', 'salad', 'salsa']",True,5
+salty,"['tares', 'sault', 'salty']",True,3
+salve,"['tares', 'saine', 'sauce', 'salle', 'salve']",True,5
+salvo,"['tares', 'salmi', 'salon', 'salvo']",True,4
+sandy,"['tares', 'salmi', 'sanko', 'sansa', 'sandy']",True,5
+saner,"['tares', 'maser', 'saver', 'safer', 'saber', 'sager']",False,6
+sappy,"['tares', 'salmi', 'sanko', 'sassy', 'savvy', 'saggy']",False,6
+sassy,"['tares', 'salmi', 'sanko', 'sassy']",True,4
+satin,"['tares', 'sault', 'satin']",True,3
+satyr,"['tares', 'satyr']",True,2
+sauce,"['tares', 'saine', 'sauce']",True,3
+saucy,"['tares', 'salmi', 'sanko', 'sassy', 'savvy', 'saggy']",False,6
+sauna,"['tares', 'salmi', 'sanko', 'sauna']",True,4
+saute,"['tares', 'waste', 'saute']",True,3
+savor,"['tares', 'savor']",True,2
+savoy,"['tares', 'salmi', 'sanko', 'savoy']",True,4
+savvy,"['tares', 'salmi', 'sanko', 'sassy', 'savvy']",True,5
+scald,"['tares', 'scopa', 'scail', 'scald']",True,4
+scale,"['tares', 'soave', 'space', 'scale']",True,4
+scalp,"['tares', 'scopa', 'scalp']",True,3
+scaly,"['tares', 'scopa', 'scail', 'scald', 'scaly']",True,5
+scamp,"['tares', 'scopa', 'scalp', 'scamp']",True,4
+scant,"['tares', 'loast', 'scant']",True,3
+scare,"['tares', 'smear', 'share', 'spare', 'scare']",True,5
+scarf,"['tares', 'sopra', 'scary', 'scarf']",True,4
+scary,"['tares', 'sopra', 'scary']",True,3
+scene,"['tares', 'scone', 'scene']",True,3
+scent,"['tares', 'shote', 'spent', 'scent']",True,4
+scion,"['tares', 'sonic', 'scion']",True,3
+scoff,"['tares', 'sonic', 'scold', 'scoug', 'scoop', 'scoff']",True,6
+scold,"['tares', 'sonic', 'scold']",True,3
+scone,"['tares', 'scone']",True,2
+scoop,"['tares', 'sonic', 'scold', 'scoug', 'scoop']",True,5
+scope,"['tares', 'scone', 'scope']",True,3
+score,"['tares', 'shire', 'score']",True,3
+scorn,"['tares', 'skirl', 'shorn', 'sworn', 'scorn']",True,5
+scour,"['tares', 'skirl', 'scour']",True,3
+scout,"['tares', 'suint', 'shout', 'scout']",True,4
+scowl,"['tares', 'sonic', 'scold', 'scowl']",True,4
+scram,"['tares', 'scran', 'scrap', 'scram']",True,4
+scrap,"['tares', 'scran', 'scrap']",True,3
+scree,"['tares', 'sprew', 'siren', 'sorel', 'shred', 'scree']",True,6
+screw,"['tares', 'sprew', 'screw']",True,3
+scrub,"['tares', 'surly', 'scrub']",True,3
+scrum,"['tares', 'surly', 'scrub', 'scrum']",True,4
+scuba,"['tares', 'scopa', 'scuba']",True,3
+sedan,"['tares', 'soave', 'speak', 'sedan']",True,4
+seedy,"['tares', 'scone', 'shell', 'seedy']",True,4
+segue,"['tares', 'scone', 'slide', 'segue']",True,4
+seize,"['tares', 'scone', 'slide', 'spike', 'seize']",True,5
+semen,"['tares', 'solei', 'speed', 'seven', 'semen']",True,5
+sense,"['tares', 'scone', 'sense']",True,3
+sepia,"['tares', 'soave', 'speak', 'sepia']",True,4
+serif,"['tares', 'horse', 'serif']",True,3
+serum,"['tares', 'horse', 'serif', 'serum']",True,4
+serve,"['tares', 'horse', 'serve']",True,3
+setup,"['tares', 'shote', 'spent', 'setup']",True,4
+seven,"['tares', 'solei', 'speed', 'seven']",True,4
+sever,"['tares', 'spier', 'sheer', 'seder', 'sewer', 'sever']",True,6
+sewer,"['tares', 'spier', 'sheer', 'seder', 'sewer']",True,5
+shack,"['tares', 'scopa', 'snack', 'shack']",True,4
+shade,"['tares', 'soave', 'space', 'shame', 'shade']",True,5
+shady,"['tares', 'scopa', 'shall', 'shady']",True,4
+shaft,"['tares', 'loast', 'scant', 'shaft']",True,4
+shake,"['tares', 'soave', 'space', 'shame', 'shade', 'shake']",True,6
+shaky,"['tares', 'scopa', 'shall', 'shady', 'shaky']",True,5
+shale,"['tares', 'soave', 'space', 'shame', 'shade', 'shake']",False,6
+shall,"['tares', 'scopa', 'shall']",True,3
+shalt,"['tares', 'loast', 'shalt']",True,3
+shame,"['tares', 'soave', 'space', 'shame']",True,4
+shank,"['tares', 'scopa', 'shall', 'shady', 'shawn', 'shank']",True,6
+shape,"['tares', 'soave', 'space', 'shape']",True,4
+shard,"['tares', 'sopra', 'scary', 'shark', 'shard']",True,5
+share,"['tares', 'smear', 'share']",True,3
+shark,"['tares', 'sopra', 'scary', 'shark']",True,4
+sharp,"['tares', 'sopra', 'sharp']",True,3
+shave,"['tares', 'soave', 'slave', 'shave']",True,4
+shawl,"['tares', 'scopa', 'shall', 'shawl']",True,4
+shear,"['tares', 'smear', 'swear', 'spear', 'shear']",True,5
+sheen,"['tares', 'solei', 'speed', 'sheen']",True,4
+sheep,"['tares', 'solei', 'speed', 'sheep']",True,4
+sheer,"['tares', 'spier', 'sheer']",True,3
+sheet,"['tares', 'coset', 'sheet']",True,3
+sheik,"['tares', 'scone', 'shell', 'sheik']",True,4
+shelf,"['tares', 'scone', 'shell', 'shelf']",True,4
+shell,"['tares', 'scone', 'shell']",True,3
+shied,"['tares', 'solei', 'sized', 'spied', 'skied', 'shied']",True,6
+shift,"['tares', 'suint', 'shift']",True,3
+shine,"['tares', 'scone', 'swine', 'shine']",True,4
+shiny,"['tares', 'sonic', 'swing', 'shiny']",True,4
+shire,"['tares', 'shire']",True,2
+shirk,"['tares', 'skirl', 'shirk']",True,3
+shirt,"['tares', 'skirt', 'shirt']",True,3
+shoal,"['tares', 'scopa', 'sloan', 'shoal']",True,4
+shock,"['tares', 'sonic', 'scold', 'shock']",True,4
+shone,"['tares', 'scone', 'shone']",True,3
+shook,"['tares', 'sonic', 'splog', 'shook']",True,4
+shoot,"['tares', 'suint', 'shoot']",True,3
+shore,"['tares', 'shire', 'shore']",True,3
+shorn,"['tares', 'skirl', 'shorn']",True,3
+short,"['tares', 'skirt', 'sport', 'short']",True,4
+shout,"['tares', 'suint', 'shout']",True,3
+shove,"['tares', 'scone', 'spoke', 'shove']",True,4
+shown,"['tares', 'sonic', 'shown']",True,3
+showy,"['tares', 'sonic', 'splog', 'smoky', 'showy']",True,5
+shrew,"['tares', 'sprew', 'screw', 'shrew']",True,4
+shrub,"['tares', 'surly', 'scrub', 'shrub']",True,4
+shrug,"['tares', 'surly', 'scrub', 'shrug']",True,4
+shuck,"['tares', 'sonic', 'sucky', 'shuck']",True,4
+shunt,"['tares', 'suint', 'stunt', 'shunt']",True,4
+shush,"['tares', 'sonic', 'sumph', 'slush', 'shush']",True,5
+shyly,"['tares', 'sonic', 'sumph', 'shyly']",True,4
+siege,"['tares', 'scone', 'slide', 'siege']",True,4
+sieve,"['tares', 'scone', 'slide', 'siege', 'sieve']",True,5
+sight,"['tares', 'suint', 'split', 'sight']",True,4
+sigma,"['tares', 'scopa', 'sigma']",True,3
+silky,"['tares', 'sonic', 'skill', 'silky']",True,4
+silly,"['tares', 'sonic', 'skill', 'silly']",True,4
+since,"['tares', 'scone', 'since']",True,3
+sinew,"['tares', 'solei', 'sized', 'sinew']",True,4
+singe,"['tares', 'scone', 'sense', 'singe']",True,4
+siren,"['tares', 'sprew', 'siren']",True,3
+sissy,"['tares', 'sonic', 'skill', 'sushi', 'sissy']",True,5
+sixth,"['tares', 'suint', 'sixth']",True,3
+sixty,"['tares', 'suint', 'sixth', 'sixty']",True,4
+skate,"['tares', 'stela', 'skate']",True,3
+skier,"['tares', 'spier', 'skier']",True,3
+skiff,"['tares', 'sonic', 'skill', 'skiff']",True,4
+skill,"['tares', 'sonic', 'skill']",True,3
+skimp,"['tares', 'sonic', 'skill', 'skiff', 'skimp']",True,5
+skirt,"['tares', 'skirt']",True,2
+skulk,"['tares', 'sonic', 'sumph', 'skull', 'skulk']",True,5
+skull,"['tares', 'sonic', 'sumph', 'skull']",True,4
+skunk,"['tares', 'sonic', 'shuln', 'spunk', 'skunk']",True,5
+slack,"['tares', 'scopa', 'snack', 'shack', 'slack']",True,5
+slain,"['tares', 'scopa', 'shall', 'slain']",True,4
+slang,"['tares', 'scopa', 'shall', 'slain', 'slang']",True,5
+slant,"['tares', 'loast', 'shalt', 'slant']",True,4
+slash,"['tares', 'scopa', 'shall', 'slash']",True,4
+slate,"['tares', 'stela', 'slate']",True,3
+slave,"['tares', 'soave', 'slave']",True,3
+sleek,"['tares', 'solei', 'sleep', 'sleek']",True,4
+sleep,"['tares', 'solei', 'sleep']",True,3
+sleet,"['tares', 'coset', 'sheet', 'sweet', 'skeet', 'sleet']",True,6
+slept,"['tares', 'shote', 'spent', 'swept', 'slept']",True,5
+slice,"['tares', 'scone', 'spice', 'slice']",True,4
+slick,"['tares', 'sonic', 'spicy', 'slick']",True,4
+slide,"['tares', 'scone', 'slide']",True,3
+slime,"['tares', 'scone', 'slide', 'slive', 'slime']",True,5
+slimy,"['tares', 'sonic', 'skill', 'slimy']",True,4
+sling,"['tares', 'sonic', 'swing', 'sling']",True,4
+slink,"['tares', 'sonic', 'swing', 'shiny', 'spink', 'slink']",True,6
+sloop,"['tares', 'sonic', 'splog', 'sloop']",True,4
+slope,"['tares', 'scone', 'spoke', 'slope']",True,4
+slosh,"['tares', 'sonic', 'splog', 'slosh']",True,4
+sloth,"['tares', 'suint', 'stock', 'sloth']",True,4
+slump,"['tares', 'sonic', 'sumph', 'slump']",True,4
+slung,"['tares', 'sonic', 'shuln', 'slung']",True,4
+slunk,"['tares', 'sonic', 'shuln', 'slung', 'slunk']",True,5
+slurp,"['tares', 'skirl', 'slurp']",True,3
+slush,"['tares', 'sonic', 'sumph', 'slush']",True,4
+slyly,"['tares', 'sonic', 'sumph', 'slyly']",True,4
+smack,"['tares', 'scopa', 'snack', 'shack', 'slack', 'smack']",True,6
+small,"['tares', 'scopa', 'shall', 'small']",True,4
+smart,"['tares', 'smart']",True,2
+smash,"['tares', 'scopa', 'shall', 'smash']",True,4
+smear,"['tares', 'smear']",True,2
+smell,"['tares', 'scone', 'shell', 'spell', 'smell']",True,5
+smelt,"['tares', 'shote', 'spent', 'smelt']",True,4
+smile,"['tares', 'scone', 'slide', 'smile']",True,4
+smirk,"['tares', 'skirl', 'shirk', 'smirk']",True,4
+smite,"['tares', 'shote', 'suite', 'spite', 'smite']",True,5
+smith,"['tares', 'suint', 'smith']",True,3
+smock,"['tares', 'sonic', 'scold', 'shock', 'smock']",True,5
+smoke,"['tares', 'scone', 'spoke', 'smoke']",True,4
+smoky,"['tares', 'sonic', 'splog', 'smoky']",True,4
+smote,"['tares', 'shote', 'smote']",True,3
+snack,"['tares', 'scopa', 'snack']",True,3
+snail,"['tares', 'scopa', 'shall', 'snail']",True,4
+snake,"['tares', 'soave', 'space', 'shame', 'snake']",True,5
+snaky,"['tares', 'scopa', 'shall', 'snafu', 'snaky']",True,5
+snare,"['tares', 'smear', 'share', 'spare', 'scare', 'snare']",True,6
+snarl,"['tares', 'sopra', 'scary', 'shark', 'swarm', 'snarl']",True,6
+sneak,"['tares', 'soave', 'speak', 'sneak']",True,4
+sneer,"['tares', 'spier', 'sheer', 'sneer']",True,4
+snide,"['tares', 'scone', 'sense', 'snipe', 'snide']",True,5
+sniff,"['tares', 'sonic', 'swing', 'sniff']",True,4
+snipe,"['tares', 'scone', 'sense', 'snipe']",True,4
+snoop,"['tares', 'sonic', 'shown', 'snoop']",True,4
+snore,"['tares', 'shire', 'score', 'swore', 'spore', 'snore']",True,6
+snort,"['tares', 'skirt', 'sport', 'short', 'snort']",True,5
+snout,"['tares', 'suint', 'snout']",True,3
+snowy,"['tares', 'sonic', 'shown', 'snowy']",True,4
+snuck,"['tares', 'sonic', 'snuck']",True,3
+snuff,"['tares', 'sonic', 'shuln', 'spunk', 'snuff']",True,5
+soapy,"['tares', 'scopa', 'soapy']",True,3
+sober,"['tares', 'spier', 'sheer', 'soler', 'sober']",True,5
+soggy,"['tares', 'sonic', 'sough', 'soggy']",True,4
+solar,"['tares', 'sopra', 'solar']",True,3
+solid,"['tares', 'sonic', 'solid']",True,3
+solve,"['tares', 'scone', 'solve']",True,3
+sonar,"['tares', 'sopra', 'solar', 'sowar', 'sonar']",True,5
+sonic,"['tares', 'sonic']",True,2
+sooth,"['tares', 'suint', 'stock', 'sloth', 'sooth']",True,5
+sooty,"['tares', 'suint', 'stock', 'sloth', 'sooty']",True,5
+sorry,"['tares', 'surly', 'sorry']",True,3
+sound,"['tares', 'sonic', 'sound']",True,3
+south,"['tares', 'suint', 'south']",True,3
+sower,"['tares', 'spier', 'sheer', 'soler', 'sober', 'sower']",True,6
+space,"['tares', 'soave', 'space']",True,3
+spade,"['tares', 'soave', 'space', 'spade']",True,4
+spank,"['tares', 'scopa', 'spain', 'spank']",True,4
+spare,"['tares', 'smear', 'share', 'spare']",True,4
+spark,"['tares', 'sopra', 'sharp', 'spark']",True,4
+spasm,"['tares', 'scopa', 'spain', 'spasm']",True,4
+spawn,"['tares', 'scopa', 'spain', 'spawn']",True,4
+speak,"['tares', 'soave', 'speak']",True,3
+spear,"['tares', 'smear', 'swear', 'spear']",True,4
+speck,"['tares', 'scone', 'speck']",True,3
+speed,"['tares', 'solei', 'speed']",True,3
+spell,"['tares', 'scone', 'shell', 'spell']",True,4
+spelt,"['tares', 'shote', 'spent', 'spelt']",True,4
+spend,"['tares', 'scone', 'spend']",True,3
+spent,"['tares', 'shote', 'spent']",True,3
+sperm,"['tares', 'shire', 'sperm']",True,3
+spice,"['tares', 'scone', 'spice']",True,3
+spicy,"['tares', 'sonic', 'spicy']",True,3
+spied,"['tares', 'solei', 'sized', 'spied']",True,4
+spiel,"['tares', 'solei', 'spiel']",True,3
+spike,"['tares', 'scone', 'slide', 'spike']",True,4
+spiky,"['tares', 'sonic', 'skill', 'spiky']",True,4
+spill,"['tares', 'sonic', 'skill', 'spill']",True,4
+spilt,"['tares', 'suint', 'shift', 'spilt']",True,4
+spine,"['tares', 'scone', 'swine', 'shine', 'spine']",True,5
+spiny,"['tares', 'sonic', 'swing', 'shiny', 'spiny']",True,5
+spire,"['tares', 'shire', 'spire']",True,3
+spite,"['tares', 'shote', 'suite', 'spite']",True,4
+splat,"['tares', 'loast', 'splat']",True,3
+split,"['tares', 'suint', 'split']",True,3
+spoil,"['tares', 'sonic', 'spoil']",True,3
+spoke,"['tares', 'scone', 'spoke']",True,3
+spoof,"['tares', 'sonic', 'splog', 'spoof']",True,4
+spook,"['tares', 'sonic', 'splog', 'spoof', 'spook']",True,5
+spool,"['tares', 'sonic', 'splog', 'spool']",True,4
+spoon,"['tares', 'sonic', 'shown', 'spoon']",True,4
+spore,"['tares', 'shire', 'score', 'swore', 'spore']",True,5
+sport,"['tares', 'skirt', 'sport']",True,3
+spout,"['tares', 'suint', 'shout', 'scout', 'stout', 'spout']",True,6
+spray,"['tares', 'scran', 'spray']",True,3
+spree,"['tares', 'sprew', 'spree']",True,3
+sprig,"['tares', 'surly', 'scrow', 'sprig']",True,4
+spunk,"['tares', 'sonic', 'shuln', 'spunk']",True,4
+spurn,"['tares', 'skirl', 'shorn', 'spurn']",True,4
+spurt,"['tares', 'skirt', 'sport', 'spurt']",True,4
+squad,"['tares', 'scopa', 'shall', 'squad']",True,4
+squat,"['tares', 'loast', 'squat']",True,3
+squib,"['tares', 'sonic', 'sybil', 'squib']",True,4
+stack,"['tares', 'loast', 'stand', 'staff', 'stamp', 'stack']",True,6
+staff,"['tares', 'loast', 'stand', 'staff']",True,4
+stage,"['tares', 'stela', 'state', 'stage']",True,4
+staid,"['tares', 'loast', 'stand', 'staid']",True,4
+stain,"['tares', 'loast', 'stand', 'stain']",True,4
+stair,"['tares', 'smart', 'stair']",True,3
+stake,"['tares', 'stela', 'state', 'stage', 'stake']",True,5
+stale,"['tares', 'stela', 'stale']",True,3
+stalk,"['tares', 'loast', 'stall', 'stalk']",True,4
+stall,"['tares', 'loast', 'stall']",True,3
+stamp,"['tares', 'loast', 'stand', 'staff', 'stamp']",True,5
+stand,"['tares', 'loast', 'stand']",True,3
+stank,"['tares', 'loast', 'stand', 'stang', 'stank']",True,5
+stare,"['tares', 'stare']",True,2
+stark,"['tares', 'smart', 'stark']",True,3
+start,"['tares', 'smart', 'start']",True,3
+stash,"['tares', 'loast', 'stash']",True,3
+state,"['tares', 'stela', 'state']",True,3
+stave,"['tares', 'stela', 'state', 'stage', 'stake', 'stave']",True,6
+stead,"['tares', 'stela', 'steam', 'steak', 'stead']",True,5
+steak,"['tares', 'stela', 'steam', 'steak']",True,4
+steal,"['tares', 'stela', 'steal']",True,3
+steam,"['tares', 'stela', 'steam']",True,3
+steed,"['tares', 'coset', 'steel', 'steep', 'steed']",True,5
+steel,"['tares', 'coset', 'steel']",True,3
+steep,"['tares', 'coset', 'steel', 'steep']",True,4
+steer,"['tares', 'steer']",True,2
+stein,"['tares', 'shote', 'spent', 'stein']",True,4
+stern,"['tares', 'styre', 'stern']",True,3
+stick,"['tares', 'suint', 'smith', 'still', 'stick']",True,5
+stiff,"['tares', 'suint', 'smith', 'still', 'stick', 'stiff']",True,6
+still,"['tares', 'suint', 'smith', 'still']",True,4
+stilt,"['tares', 'suint', 'shift', 'spilt', 'stilt']",True,5
+sting,"['tares', 'suint', 'sting']",True,3
+stink,"['tares', 'suint', 'sting', 'stink']",True,4
+stint,"['tares', 'suint', 'stint']",True,3
+stock,"['tares', 'suint', 'stock']",True,3
+stoic,"['tares', 'suint', 'sixth', 'styli', 'stoic']",True,5
+stoke,"['tares', 'shote', 'stone', 'stole', 'stove', 'stoke']",True,6
+stole,"['tares', 'shote', 'stone', 'stole']",True,4
+stomp,"['tares', 'suint', 'stock', 'stood', 'stomp']",True,5
+stone,"['tares', 'shote', 'stone']",True,3
+stony,"['tares', 'suint', 'stony']",True,3
+stood,"['tares', 'suint', 'stock', 'stood']",True,4
+stool,"['tares', 'suint', 'stock', 'stood', 'stool']",True,5
+stoop,"['tares', 'suint', 'stock', 'stood', 'stool', 'stoop']",True,6
+store,"['tares', 'styre', 'store']",True,3
+stork,"['tares', 'skirt', 'stork']",True,3
+storm,"['tares', 'skirt', 'storm']",True,3
+story,"['tares', 'skirt', 'storm', 'story']",True,4
+stout,"['tares', 'suint', 'shout', 'scout', 'stout']",True,5
+stove,"['tares', 'shote', 'stone', 'stole', 'stove']",True,5
+strap,"['tares', 'strap']",True,2
+straw,"['tares', 'strap', 'straw']",True,3
+stray,"['tares', 'strap', 'straw', 'stray']",True,4
+strip,"['tares', 'worst', 'strip']",True,3
+strut,"['tares', 'worst', 'strut']",True,3
+stuck,"['tares', 'suint', 'south', 'study', 'stuff', 'stuck']",True,6
+study,"['tares', 'suint', 'south', 'study']",True,4
+stuff,"['tares', 'suint', 'south', 'study', 'stuff']",True,5
+stump,"['tares', 'suint', 'south', 'study', 'stuff', 'stuck']",False,6
+stung,"['tares', 'suint', 'stung']",True,3
+stunk,"['tares', 'suint', 'stung', 'stunk']",True,4
+stunt,"['tares', 'suint', 'stunt']",True,3
+style,"['tares', 'shote', 'style']",True,3
+suave,"['tares', 'soave', 'slave', 'shave', 'suave']",True,5
+sugar,"['tares', 'sopra', 'sugar']",True,3
+suing,"['tares', 'sonic', 'swing', 'sling', 'suing']",True,5
+suite,"['tares', 'shote', 'suite']",True,3
+sulky,"['tares', 'sonic', 'sumph', 'sulky']",True,4
+sully,"['tares', 'sonic', 'sumph', 'sulky', 'sully']",True,5
+sumac,"['tares', 'scopa', 'snack', 'sumac']",True,4
+sunny,"['tares', 'sonic', 'sunny']",True,3
+super,"['tares', 'spier', 'super']",True,3
+surer,"['tares', 'sprew', 'siren', 'sorel', 'shred', 'scree']",False,6
+surge,"['tares', 'horse', 'serve', 'surge']",True,4
+surly,"['tares', 'surly']",True,2
+sushi,"['tares', 'sonic', 'skill', 'sushi']",True,4
+swami,"['tares', 'scopa', 'shall', 'snafu', 'smaak', 'swami']",True,6
+swamp,"['tares', 'scopa', 'spain', 'swamp']",True,4
+swarm,"['tares', 'sopra', 'scary', 'shark', 'swarm']",True,5
+swash,"['tares', 'scopa', 'shall', 'smash', 'swash']",True,5
+swath,"['tares', 'loast', 'stand', 'swath']",True,4
+swear,"['tares', 'smear', 'swear']",True,3
+sweat,"['tares', 'stela', 'sceat', 'sweat']",True,4
+sweep,"['tares', 'solei', 'speed', 'sheep', 'sweep']",True,5
+sweet,"['tares', 'coset', 'sheet', 'sweet']",True,4
+swell,"['tares', 'scone', 'shell', 'spell', 'smell', 'swell']",True,6
+swept,"['tares', 'shote', 'spent', 'swept']",True,4
+swift,"['tares', 'suint', 'shift', 'swift']",True,4
+swill,"['tares', 'sonic', 'skill', 'spill', 'shill', 'swill']",True,6
+swine,"['tares', 'scone', 'swine']",True,3
+swing,"['tares', 'sonic', 'swing']",True,3
+swirl,"['tares', 'skirl', 'swirl']",True,3
+swish,"['tares', 'sonic', 'skill', 'swish']",True,4
+swoon,"['tares', 'sonic', 'shown', 'swoun', 'swoon']",True,5
+swoop,"['tares', 'sonic', 'splog', 'sysop', 'swoop']",True,5
+sword,"['tares', 'skirl', 'shorn', 'sword']",True,4
+swore,"['tares', 'shire', 'score', 'swore']",True,4
+sworn,"['tares', 'skirl', 'shorn', 'sworn']",True,4
+swung,"['tares', 'sonic', 'shuln', 'spunk', 'swung']",True,5
+synod,"['tares', 'sonic', 'synod']",True,3
+syrup,"['tares', 'surly', 'syrup']",True,3
+tabby,"['tares', 'tamin', 'tacho', 'tauld', 'takky', 'tabby']",True,6
+table,"['tares', 'tache', 'table']",True,3
+taboo,"['tares', 'tamin', 'tacho', 'taboo']",True,4
+tacit,"['tares', 'tamin', 'tacit']",True,3
+tacky,"['tares', 'tamin', 'tacho', 'tacky']",True,4
+taffy,"['tares', 'tamin', 'tacho', 'tauld', 'takky', 'tabby']",False,6
+taint,"['tares', 'tamin', 'taint']",True,3
+taken,"['tares', 'taken']",True,2
+taker,"['tares', 'taler', 'tater', 'taper', 'taker']",True,5
+tally,"['tares', 'tamin', 'tacho', 'tauld', 'tally']",True,5
+talon,"['tares', 'tamin', 'taxon', 'talon']",True,4
+tamer,"['tares', 'taler', 'tater', 'taper', 'taker', 'tamer']",True,6
+tango,"['tares', 'tamin', 'tango']",True,3
+tangy,"['tares', 'tamin', 'tango', 'tangy']",True,4
+taper,"['tares', 'taler', 'tater', 'taper']",True,4
+tapir,"['tares', 'tapir']",True,2
+tardy,"['tares', 'tardy']",True,2
+tarot,"['tares', 'tardy', 'tarot']",True,3
+taste,"['tares', 'taste']",True,2
+tasty,"['tares', 'tasty']",True,2
+tatty,"['tares', 'tamin', 'tacho', 'tauld', 'takky', 'tabby']",False,6
+taunt,"['tares', 'tamin', 'tango', 'tawny', 'taunt']",True,5
+tawny,"['tares', 'tamin', 'tango', 'tawny']",True,4
+teach,"['tares', 'thane', 'teach']",True,3
+teary,"['tares', 'trape', 'teary']",True,3
+tease,"['tares', 'tease']",True,2
+teddy,"['tares', 'tepid', 'teddy']",True,3
+teeth,"['tares', 'tepid', 'tench', 'teeth']",True,4
+tempo,"['tares', 'tepid', 'tempo']",True,3
+tenet,"['tares', 'tined', 'tenet']",True,3
+tenor,"['tares', 'trone', 'tenor']",True,3
+tense,"['tares', 'toise', 'these', 'tense']",True,4
+tenth,"['tares', 'tepid', 'tench', 'tenth']",True,4
+tepee,"['tares', 'tined', 'towel', 'tepee']",True,4
+tepid,"['tares', 'tepid']",True,2
+terra,"['tares', 'terra']",True,2
+terse,"['tares', 'terse']",True,2
+testy,"['tares', 'toise', 'testy']",True,3
+thank,"['tares', 'tuina', 'thank']",True,3
+theft,"['tares', 'tepid', 'theme', 'theft']",True,4
+their,"['tares', 'trone', 'their']",True,3
+theme,"['tares', 'tepid', 'theme']",True,3
+there,"['tares', 'trone', 'there']",True,3
+these,"['tares', 'toise', 'these']",True,3
+theta,"['tares', 'thane', 'theta']",True,3
+thick,"['tares', 'tulip', 'think', 'thick']",True,4
+thief,"['tares', 'tined', 'thief']",True,3
+thigh,"['tares', 'tulip', 'think', 'thigh']",True,4
+thing,"['tares', 'tulip', 'think', 'thing']",True,4
+think,"['tares', 'tulip', 'think']",True,3
+third,"['tares', 'trump', 'third']",True,3
+thong,"['tares', 'tulip', 'tooth', 'thong']",True,4
+thorn,"['tares', 'trump', 'third', 'thorn']",True,4
+those,"['tares', 'toise', 'those']",True,3
+three,"['tares', 'three']",True,2
+threw,"['tares', 'three', 'threw']",True,3
+throb,"['tares', 'turfy', 'throw', 'throb']",True,4
+throw,"['tares', 'turfy', 'throw']",True,3
+thrum,"['tares', 'turfy', 'thrum']",True,3
+thumb,"['tares', 'tulip', 'touch', 'thumb']",True,4
+thump,"['tares', 'tulip', 'thump']",True,3
+thyme,"['tares', 'tepid', 'theme', 'thyme']",True,4
+tiara,"['tares', 'trona', 'tiara']",True,3
+tibia,"['tares', 'tuina', 'tibia']",True,3
+tidal,"['tares', 'tuina', 'tilak', 'tidal']",True,4
+tiger,"['tares', 'tiler', 'tiger']",True,3
+tight,"['tares', 'tulip', 'think', 'tight']",True,4
+tilde,"['tares', 'tepid', 'tilde']",True,3
+timer,"['tares', 'tiler', 'tiger', 'timer']",True,4
+timid,"['tares', 'tulip', 'toxin', 'timid']",True,4
+tipsy,"['tares', 'tulsi', 'tipsy']",True,3
+titan,"['tares', 'tuina', 'twain', 'titan']",True,4
+tithe,"['tares', 'tepid', 'title', 'tithe']",True,4
+title,"['tares', 'tepid', 'title']",True,3
+toast,"['tares', 'tsadi', 'toast']",True,3
+today,"['tares', 'tuina', 'today']",True,3
+toddy,"['tares', 'tulip', 'tooth', 'tommy', 'towny', 'toddy']",True,6
+token,"['tares', 'tined', 'token']",True,3
+tonal,"['tares', 'tuina', 'tonal']",True,3
+tonga,"['tares', 'tuina', 'tonga']",True,3
+tonic,"['tares', 'tulip', 'toxin', 'tonic']",True,4
+tooth,"['tares', 'tulip', 'tooth']",True,3
+topaz,"['tares', 'tuina', 'today', 'topaz']",True,4
+topic,"['tares', 'tulip', 'topic']",True,3
+torch,"['tares', 'turfy', 'throw', 'torch']",True,4
+torso,"['tares', 'torso']",True,2
+torus,"['tares', 'turds', 'torus']",True,3
+total,"['tares', 'tuina', 'today', 'topaz', 'total']",True,5
+totem,"['tares', 'tined', 'towel', 'totem']",True,4
+touch,"['tares', 'tulip', 'touch']",True,3
+tough,"['tares', 'tulip', 'touch', 'tough']",True,4
+towel,"['tares', 'tined', 'towel']",True,3
+tower,"['tares', 'tiler', 'tower']",True,3
+toxic,"['tares', 'tulip', 'toxin', 'toxic']",True,4
+toxin,"['tares', 'tulip', 'toxin']",True,3
+trace,"['tares', 'trape', 'trade', 'trace']",True,4
+track,"['tares', 'trona', 'trial', 'track']",True,4
+tract,"['tares', 'trona', 'trial', 'track', 'tract']",True,5
+trade,"['tares', 'trape', 'trade']",True,3
+trail,"['tares', 'trona', 'trial', 'trail']",True,4
+train,"['tares', 'trona', 'train']",True,3
+trait,"['tares', 'trona', 'trial', 'tragi', 'trait']",True,5
+tramp,"['tares', 'trona', 'trial', 'track', 'trapt', 'tramp']",True,6
+trash,"['tares', 'trash']",True,2
+trawl,"['tares', 'trona', 'trial', 'trawl']",True,4
+tread,"['tares', 'trape', 'treat', 'tread']",True,4
+treat,"['tares', 'trape', 'treat']",True,3
+trend,"['tares', 'trone', 'trend']",True,3
+triad,"['tares', 'trona', 'trial', 'triad']",True,4
+trial,"['tares', 'trona', 'trial']",True,3
+tribe,"['tares', 'trone', 'truce', 'tribe']",True,4
+trice,"['tares', 'trone', 'truce', 'trice']",True,4
+trick,"['tares', 'trump', 'trick']",True,3
+tried,"['tares', 'tiler', 'tried']",True,3
+tripe,"['tares', 'trone', 'truce', 'tribe', 'tripe']",True,5
+trite,"['tares', 'trone', 'truce', 'tribe', 'tripe', 'trike']",False,6
+troll,"['tares', 'trump', 'trick', 'troll']",True,4
+troop,"['tares', 'trump', 'troop']",True,3
+trope,"['tares', 'trone', 'trope']",True,3
+trout,"['tares', 'trump', 'trout']",True,3
+trove,"['tares', 'trone', 'trope', 'trove']",True,4
+truce,"['tares', 'trone', 'truce']",True,3
+truck,"['tares', 'trump', 'truck']",True,3
+truer,"['tares', 'tiler', 'tower', 'tuner', 'truer']",True,5
+truly,"['tares', 'trump', 'truck', 'truth', 'truly']",True,5
+trump,"['tares', 'trump']",True,2
+trunk,"['tares', 'trump', 'truck', 'trunk']",True,4
+truss,"['tares', 'trons', 'trips', 'truss']",True,4
+trust,"['tares', 'trust']",True,2
+truth,"['tares', 'trump', 'truck', 'truth']",True,4
+tryst,"['tares', 'trust', 'tryst']",True,3
+tubal,"['tares', 'tuina', 'tubal']",True,3
+tuber,"['tares', 'tiler', 'tower', 'tuner', 'tuber']",True,5
+tulip,"['tares', 'tulip']",True,2
+tulle,"['tares', 'tepid', 'theme', 'towze', 'tulle']",True,5
+tumor,"['tares', 'trump', 'tumor']",True,3
+tunic,"['tares', 'tulip', 'tunic']",True,3
+turbo,"['tares', 'turfy', 'turbo']",True,3
+tutor,"['tares', 'trump', 'tutor']",True,3
+twang,"['tares', 'tuina', 'thank', 'twang']",True,4
+tweak,"['tares', 'thane', 'telia', 'tweak']",True,4
+tweed,"['tares', 'tined', 'typed', 'towed', 'tweed']",True,5
+tweet,"['tares', 'tined', 'towel', 'tweep', 'tweet']",True,5
+twice,"['tares', 'tepid', 'title', 'twice']",True,4
+twine,"['tares', 'tepid', 'title', 'twice', 'twine']",True,5
+twirl,"['tares', 'trump', 'third', 'twirl']",True,4
+twist,"['tares', 'tulsi', 'tipsy', 'twist']",True,4
+twixt,"['tares', 'tulip', 'think', 'twixt']",True,4
+tying,"['tares', 'tulip', 'think', 'toing', 'tying']",True,5
+udder,"['tares', 'oriel', 'under', 'udder']",True,4
+ulcer,"['tares', 'oriel', 'bluer', 'ulcer']",True,4
+ultra,"['tares', 'drant', 'ultra']",True,3
+umbra,"['tares', 'aroid', 'charm', 'umbra']",True,4
+uncle,"['tares', 'monie', 'uncle']",True,3
+uncut,"['tares', 'biont', 'uncut']",True,3
+under,"['tares', 'oriel', 'under']",True,3
+undid,"['tares', 'noily', 'unbid', 'undid']",True,4
+undue,"['tares', 'monie', 'uncle', 'undue']",True,4
+unfed,"['tares', 'poley', 'given', 'ended', 'unwed', 'unfed']",True,6
+unfit,"['tares', 'biont', 'input', 'unfit']",True,4
+unify,"['tares', 'noily', 'unify']",True,3
+union,"['tares', 'noily', 'union']",True,3
+unite,"['tares', 'monte', 'unite']",True,3
+unity,"['tares', 'biont', 'until', 'unity']",True,4
+unlit,"['tares', 'biont', 'input', 'unfit', 'unlit']",True,5
+unmet,"['tares', 'inlet', 'unmet']",True,3
+unset,"['tares', 'coset', 'upset', 'unset']",True,4
+untie,"['tares', 'monte', 'ethne', 'untie']",True,4
+until,"['tares', 'biont', 'until']",True,3
+unwed,"['tares', 'poley', 'given', 'ended', 'unwed']",True,5
+unzip,"['tares', 'noily', 'unbid', 'unzip']",True,4
+upper,"['tares', 'oriel', 'under', 'upper']",True,4
+upset,"['tares', 'coset', 'upset']",True,3
+urban,"['tares', 'aroid', 'urban']",True,3
+urine,"['tares', 'reoil', 'drive', 'price', 'urine']",True,5
+usage,"['tares', 'soave', 'phase', 'usage']",True,4
+usher,"['tares', 'spier', 'loser', 'usher']",True,4
+using,"['tares', 'sonic', 'using']",True,3
+usual,"['tares', 'scopa', 'flash', 'usual']",True,4
+usurp,"['tares', 'skirl', 'usurp']",True,3
+utile,"['tares', 'monte', 'etude', 'utile']",True,4
+utter,"['tares', 'noter', 'peter', 'liter', 'utter']",True,5
+vague,"['tares', 'daine', 'maybe', 'value', 'vague']",True,5
+valet,"['tares', 'oaten', 'lacet', 'valet']",True,4
+valid,"['tares', 'danio', 'valid']",True,3
+valor,"['tares', 'cauri', 'labor', 'valor']",True,4
+value,"['tares', 'daine', 'maybe', 'value']",True,4
+valve,"['tares', 'daine', 'maybe', 'value', 'valve']",True,5
+vapid,"['tares', 'danio', 'valid', 'vapid']",True,4
+vapor,"['tares', 'cauri', 'labor', 'major', 'favor', 'vapor']",True,6
+vault,"['tares', 'daint', 'fault', 'gault', 'vault']",True,5
+vaunt,"['tares', 'daint', 'haunt', 'gaunt', 'jaunt', 'vaunt']",True,6
+vegan,"['tares', 'diane', 'began', 'vegan']",True,4
+venom,"['tares', 'monie', 'venom']",True,3
+venue,"['tares', 'monie', 'venue']",True,3
+verge,"['tares', 'borne', 'merge', 'verge']",True,4
+verse,"['tares', 'horse', 'nurse', 'verse']",True,4
+verso,"['tares', 'horse', 'verso']",True,3
+verve,"['tares', 'borne', 'merge', 'perce', 'verve']",True,5
+vicar,"['tares', 'aroid', 'rival', 'vicar']",True,4
+video,"['tares', 'poley', 'video']",True,3
+vigil,"['tares', 'noily', 'civil', 'vigil']",True,4
+vigor,"['tares', 'broil', 'minor', 'vigor']",True,4
+villa,"['tares', 'dolia', 'villa']",True,3
+vinyl,"['tares', 'noily', 'vinyl']",True,3
+viola,"['tares', 'dolia', 'viola']",True,3
+viper,"['tares', 'oriel', 'river', 'viper']",True,4
+viral,"['tares', 'pyran', 'rural', 'moral', 'viral']",True,5
+virus,"['tares', 'loris', 'firms', 'virus']",True,4
+visit,"['tares', 'suint', 'visit']",True,3
+visor,"['tares', 'skirl', 'visor']",True,3
+vista,"['tares', 'loast', 'vista']",True,3
+vital,"['tares', 'biota', 'giant', 'cital', 'vital']",True,5
+vivid,"['tares', 'noily', 'cubic', 'immix', 'vivid']",True,5
+vixen,"['tares', 'poley', 'given', 'vixen']",True,4
+vocal,"['tares', 'dolia', 'local', 'vocal']",True,4
+vodka,"['tares', 'dolia', 'honda', 'vodka']",True,4
+vogue,"['tares', 'monie', 'lodge', 'vogue']",True,4
+voice,"['tares', 'monie', 'voice']",True,3
+voila,"['tares', 'dolia', 'voila']",True,3
+vomit,"['tares', 'biont', 'idiot', 'vomit']",True,4
+voter,"['tares', 'noter', 'voter']",True,3
+vouch,"['tares', 'noily', 'combo', 'pouch', 'vouch']",True,5
+vowel,"['tares', 'poley', 'model', 'novel', 'vowel']",True,5
+vying,"['tares', 'noily', 'dying', 'vying']",True,4
+wacky,"['tares', 'danio', 'happy', 'balmy', 'wacky']",True,5
+wafer,"['tares', 'macer', 'paper', 'layer', 'baker', 'eager']",False,6
+wager,"['tares', 'macer', 'paper', 'layer', 'baker', 'eager']",False,6
+wagon,"['tares', 'danio', 'wagon']",True,3
+waist,"['tares', 'sault', 'mayst', 'waist']",True,4
+waive,"['tares', 'daine', 'maize', 'waive']",True,4
+waltz,"['tares', 'daint', 'watch', 'waltz']",True,4
+warty,"['tares', 'parti', 'garth', 'carta', 'warty']",True,5
+waste,"['tares', 'waste']",True,2
+watch,"['tares', 'daint', 'watch']",True,3
+water,"['tares', 'oater', 'water']",True,3
+waver,"['tares', 'macer', 'paper', 'layer', 'baker', 'eager']",False,6
+waxen,"['tares', 'haled', 'oaken', 'maven', 'zazen', 'waxen']",True,6
+weary,"['tares', 'denar', 'reach', 'pearl', 'weary']",True,5
+weave,"['tares', 'diane', 'place', 'quake', 'weave']",True,5
+wedge,"['tares', 'monie', 'judge', 'kedge', 'hedge', 'ledge']",False,6
+weedy,"['tares', 'monie', 'kelly', 'peggy', 'weedy']",True,5
+weigh,"['tares', 'monie', 'field', 'weigh']",True,4
+weird,"['tares', 'reoil', 'weird']",True,3
+welch,"['tares', 'monie', 'kelly', 'welch']",True,4
+welsh,"['tares', 'scone', 'flesh', 'welsh']",True,4
+wench,"['tares', 'monie', 'penny', 'bench', 'wench']",True,5
+whack,"['tares', 'dolia', 'human', 'whack']",True,4
+whale,"['tares', 'diane', 'place', 'leave', 'whale']",True,5
+wharf,"['tares', 'aroid', 'charm', 'wharf']",True,4
+wheat,"['tares', 'dealt', 'agent', 'cheat', 'wheat']",True,5
+wheel,"['tares', 'poley', 'level', 'wheel']",True,4
+whelp,"['tares', 'monie', 'kelly', 'whelp']",True,4
+where,"['tares', 'reoil', 'where']",True,3
+which,"['tares', 'noily', 'quick', 'which']",True,4
+whiff,"['tares', 'noily', 'quick', 'whiff']",True,4
+while,"['tares', 'monie', 'bible', 'while']",True,4
+whine,"['tares', 'monie', 'niche', 'whine']",True,4
+whiny,"['tares', 'noily', 'unify', 'whiny']",True,4
+whirl,"['tares', 'broil', 'whirl']",True,3
+whisk,"['tares', 'sonic', 'missy', 'whisk']",True,4
+white,"['tares', 'monte', 'white']",True,3
+whole,"['tares', 'monie', 'whole']",True,3
+whoop,"['tares', 'noily', 'gumbo', 'choof', 'whoop']",True,5
+whose,"['tares', 'scone', 'whose']",True,3
+widen,"['tares', 'poley', 'given', 'widen']",True,4
+wider,"['tares', 'oriel', 'river', 'fiber', 'wider']",True,5
+widow,"['tares', 'noily', 'bipod', 'widow']",True,4
+width,"['tares', 'biont', 'pitch', 'filth', 'width']",True,5
+wield,"['tares', 'monie', 'field', 'yield', 'wield']",True,5
+wight,"['tares', 'biont', 'light', 'might', 'fight', 'dight']",False,6
+willy,"['tares', 'noily', 'imply', 'billy', 'hilly', 'willy']",True,6
+wimpy,"['tares', 'noily', 'midgy', 'jimmy', 'wimpy']",True,5
+wince,"['tares', 'monie', 'wince']",True,3
+winch,"['tares', 'noily', 'unbid', 'pinch', 'finch', 'winch']",True,6
+windy,"['tares', 'noily', 'bingy', 'windy']",True,4
+wiser,"['tares', 'spier', 'riser', 'wiser']",True,4
+wispy,"['tares', 'sonic', 'missy', 'fishy', 'wispy']",True,5
+witch,"['tares', 'biont', 'pitch', 'witch']",True,4
+witty,"['tares', 'biont', 'pitch', 'kitty', 'ditty', 'witty']",True,6
+woken,"['tares', 'poley', 'women', 'woven', 'woken']",True,5
+woman,"['tares', 'dolia', 'woman']",True,3
+women,"['tares', 'poley', 'women']",True,3
+woody,"['tares', 'noily', 'moody', 'goody', 'woody']",True,5
+wooer,"['tares', 'oriel', 'poker', 'cover', 'roger', 'homer']",False,6
+wooly,"['tares', 'noily', 'molly', 'cooly', 'wooly']",True,5
+woozy,"['tares', 'noily', 'moody', 'booky', 'woopy', 'woozy']",True,6
+wordy,"['tares', 'giron', 'world', 'wordy']",True,4
+world,"['tares', 'giron', 'world']",True,3
+worry,"['tares', 'giron', 'world', 'worry']",True,4
+worse,"['tares', 'horse', 'worse']",True,3
+worst,"['tares', 'worst']",True,2
+worth,"['tares', 'lirot', 'north', 'worth']",True,4
+would,"['tares', 'noily', 'would']",True,3
+wound,"['tares', 'noily', 'found', 'bound', 'pound', 'wound']",True,6
+woven,"['tares', 'poley', 'women', 'woven']",True,4
+wrack,"['tares', 'aroid', 'urban', 'crazy', 'wrack']",True,5
+wrath,"['tares', 'drant', 'praty', 'wrath']",True,4
+wreak,"['tares', 'denar', 'break', 'creak', 'freak', 'wreak']",True,6
+wreck,"['tares', 'reoil', 'where', 'wreck']",True,4
+wrest,"['tares', 'styre', 'crest', 'wrest']",True,4
+wring,"['tares', 'broil', 'drink', 'wring']",True,4
+wrist,"['tares', 'skirt', 'wrist']",True,3
+write,"['tares', 'nitre', 'write']",True,3
+wrong,"['tares', 'broil', 'group', 'wrong']",True,4
+wrote,"['tares', 'nitre', 'wrote']",True,3
+wrung,"['tares', 'broil', 'crump', 'drunk', 'wrung']",True,5
+wryly,"['tares', 'broil', 'dryly', 'wryly']",True,4
+yacht,"['tares', 'daint', 'fault', 'yacht']",True,4
+yearn,"['tares', 'denar', 'learn', 'yearn']",True,4
+yeast,"['tares', 'stela', 'beast', 'yeast']",True,4
+yield,"['tares', 'monie', 'field', 'yield']",True,4
+young,"['tares', 'noily', 'young']",True,3
+youth,"['tares', 'biont', 'youth']",True,3
+zebra,"['tares', 'denar', 'reach', 'zebra']",True,4
+zesty,"['tares', 'shote', 'zesty']",True,3
+zonal,"['tares', 'dolia', 'local', 'monal', 'zonal']",True,5

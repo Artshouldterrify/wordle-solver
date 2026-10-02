@@ -1,0 +1,6 @@
+solution_word,guess_list,is_solved,n_guesses
+frill,"['crane', 'prior', 'drift', 'frisk', 'frill']",True,5
+magma,"['slate', 'broad', 'magic', 'magma']",True,4
+midst,"['crane', 'slump', 'moist', 'midst']",True,4
+shone,"['crane', 'spine', 'stone', 'shone']",True,4
+lapel,"['crane', 'sales', 'lapel']",True,3

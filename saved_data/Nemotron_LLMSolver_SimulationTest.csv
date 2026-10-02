@@ -1,0 +1,51 @@
+solution_word,guess_list,is_solved,n_guesses
+glare,"['crane', 'spare', 'flare', 'blare', 'glare']",True,5
+valve,"['crane', 'plate', 'ladle', 'salve', 'halve', 'valve']",True,6
+opine,"['crane', 'spine', 'opine']",True,3
+ulcer,"['slate', 'blend', 'plier', 'gluer', 'ulcer']",True,5
+blurt,"['crane', 'sword', 'giddy', 'blurt']",True,4
+tacit,"['apple', 'brass', 'candy', 'tacit']",True,4
+cinch,"['crane', 'colon', 'cynic', 'cinch']",True,4
+agile,"['apple', 'agile']",True,2
+baron,"['crane', 'rands', 'narky', 'baron']",True,4
+amble,"['apple', 'agile', 'ankle', 'amole', 'amble']",True,5
+would,"['crane', 'blush', 'mould', 'would']",True,4
+steak,"['apple', 'baker', 'knead', 'steak']",True,4
+sorry,"['crane', 'glory', 'sorry']",True,3
+rayon,"['raise', 'razor', 'radon', 'rayon']",True,4
+riper,"['crane', 'river', 'riper']",True,3
+angst,"['stone', 'tansy', 'angst']",True,3
+exert,"['apple', 'tiger', 'retro', 'evert', 'stern', 'exert']",True,6
+fever,['apple'],False,8
+juror,"['apple', 'tough', 'quoin', 'furor', 'burro', 'juror']",True,6
+eclat,"['stone', 'tread', 'eclat']",True,3
+lofty,"['crane', 'blush', 'livid', 'loopy', 'loped', 'lolly', 'loggy', 'lofty']",False,8
+mourn,"['crane', 'spurn', 'bourn']",False,8
+grant,"['slate', 'grant']",True,2
+saucy,"['raise', 'camps', 'samba', 'saucy']",True,4
+haunt,"['apple', 'cigar', 'atman', 'anted', 'tanks', 'jaunt', 'haunt']",True,7
+brash,"['slate', 'crash', 'brash']",True,3
+usurp,"['spare', 'spurn', 'pours', 'usurp']",True,4
+bland,"['crane', 'flank', 'plant', 'slang', 'bland']",True,5
+afoul,"['apple', 'aloud', 'afoul']",True,3
+built,"['apple', 'silly', 'chili', 'guilt', 'quilt', 'built']",True,6
+berry,"['crane', 'tiger', 'sherd', 'merry', 'ferry', 'berry']",True,6
+given,"['crane', 'tuned', 'woken', 'seven', 'liven', 'given']",True,6
+write,"['raise', 'pride', 'crime', 'brine', 'trite', 'write']",True,6
+snoop,"['crane', 'flown', 'nooks', 'snoop']",True,4
+sheet,"['apple', 'broke', 'deeds', 'sheen', 'sheet']",True,5
+vigil,"['apple', 'blink', 'solid', 'limit', 'civil', 'vigil']",True,6
+grave,"['apple', 'trace', 'brake', 'frame', 'grave']",True,5
+truss,"['crane', 'brush', 'frust', 'truss']",True,4
+pluck,"['crane', 'optic']",False,8
+coupe,"['apple', 'pride', 'elope', 'stope', 'coupe']",True,5
+thigh,"['arise', 'blink', 'quipu', 'whiff', 'thigh']",True,5
+muddy,"['crane', 'blush', 'jumpy', 'muggy', 'muddy']",True,5
+flack,"['apple', 'altar', 'blain', 'clash', 'flack']",True,5
+pique,"['crate', 'spike', 'pique']",True,3
+sworn,"['crane', 'rings', 'shorn', 'sworn']",True,4
+panic,"['crane', 'banco', 'manic', 'panic']",True,4
+yacht,"['raise', 'candy', 'yacht']",True,3
+queue,"['apple', 'smoke', 'trine']",False,8
+aorta,[],False,8
+harem,[],False,8

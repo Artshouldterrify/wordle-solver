@@ -1,0 +1,2316 @@
+solution_word,guess_list,is_solved,n_guesses
+aback,"['least', 'brand', 'aback']",True,3
+abase,"['least', 'phase', 'erase', 'abase']",True,4
+abate,"['least', 'trade', 'agate', 'abate']",True,4
+abbey,"['least', 'range', 'added', 'abbey']",True,4
+abbot,"['least', 'about', 'abbot']",True,3
+abhor,"['least', 'radio', 'arrow', 'abhor']",True,4
+abide,"['least', 'range', 'above', 'abide']",True,4
+abled,"['least', 'cable', 'bleak', 'abled']",True,4
+abode,"['least', 'range', 'above', 'abode']",True,4
+abort,"['least', 'about', 'abort']",True,3
+about,"['least', 'about']",True,2
+above,"['least', 'range', 'above']",True,3
+abuse,"['least', 'cause', 'abuse']",True,3
+abyss,"['least', 'sassy', 'abyss']",True,3
+acorn,"['least', 'radio', 'arrow', 'acorn']",True,4
+acrid,"['least', 'radio', 'acrid']",True,3
+actor,"['least', 'party', 'actor']",True,3
+acute,"['least', 'water', 'acute']",True,3
+adage,"['least', 'grade', 'adage']",True,3
+adapt,"['least', 'grant', 'adapt']",True,3
+adept,"['least', 'great', 'adept']",True,3
+admin,"['least', 'radio', 'admin']",True,3
+admit,"['least', 'about', 'admit']",True,3
+adobe,"['least', 'range', 'above', 'adobe']",True,4
+adopt,"['least', 'about', 'adopt']",True,3
+adore,"['least', 'range', 'afore', 'adore']",True,4
+adorn,"['least', 'radio', 'broad', 'adorn']",True,4
+adult,"['least', 'adult']",True,2
+affix,"['least', 'radio', 'affix']",True,3
+afire,"['least', 'range', 'afore', 'afire']",True,4
+afoot,"['least', 'about', 'adopt', 'afoot']",True,4
+afoul,"['least', 'royal', 'afoul']",True,3
+after,"['least', 'water', 'after']",True,3
+again,"['least', 'brand', 'again']",True,3
+agape,"['least', 'grade', 'image', 'agape']",True,4
+agate,"['least', 'trade', 'agate']",True,3
+agent,"['least', 'great', 'agent']",True,3
+agile,"['least', 'cable', 'angle', 'agile']",True,4
+aging,"['least', 'radio', 'china', 'aging']",True,4
+aglow,"['least', 'royal', 'along', 'aglow']",True,4
+agony,"['least', 'radio', 'among', 'agony']",True,4
+agora,"['least', 'radio', 'arrow', 'acorn', 'agora']",True,5
+agree,"['least', 'range', 'agree']",True,3
+ahead,"['least', 'range', 'added', 'ahead']",True,4
+aider,"['least', 'range', 'break', 'aired', 'aider']",True,5
+aisle,"['least', 'sales', 'aisle']",True,3
+alarm,"['least', 'black', 'plain', 'alarm']",True,4
+album,"['least', 'royal', 'album']",True,3
+alert,"['least', 'alert']",True,2
+algae,"['least', 'cable', 'alive', 'alone', 'algae']",True,5
+alibi,"['least', 'royal', 'album', 'alibi']",True,4
+alien,"['least', 'cable', 'ideal', 'alien']",True,4
+align,"['least', 'royal', 'album', 'alpha', 'align']",True,5
+alike,"['least', 'cable', 'alive', 'alike']",True,4
+alive,"['least', 'cable', 'alive']",True,3
+allay,"['least', 'royal', 'inlay', 'allay']",True,4
+alley,"['least', 'cable', 'ideal', 'alley']",True,4
+allot,"['least', 'adult', 'aloft', 'allot']",True,4
+allow,"['least', 'royal', 'along', 'allow']",True,4
+alloy,"['least', 'royal', 'alloy']",True,3
+aloft,"['least', 'adult', 'aloft']",True,3
+alone,"['least', 'cable', 'alive', 'alone']",True,4
+along,"['least', 'royal', 'along']",True,3
+aloof,"['least', 'royal', 'along', 'aloud', 'aloha', 'aloof']",True,6
+aloud,"['least', 'royal', 'along', 'aloud']",True,4
+alpha,"['least', 'royal', 'album', 'alpha']",True,4
+altar,"['least', 'total', 'altar']",True,3
+alter,"['least', 'table', 'alter']",True,3
+amass,"['least', 'grass', 'amass']",True,3
+amaze,"['least', 'grade', 'awake', 'amaze']",True,4
+amber,"['least', 'range', 'break', 'amber']",True,4
+amble,"['least', 'cable', 'amble']",True,3
+amend,"['least', 'range', 'amend']",True,3
+amiss,"['least', 'sassy', 'amiss']",True,3
+amity,"['least', 'party', 'amity']",True,3
+among,"['least', 'radio', 'among']",True,3
+ample,"['least', 'cable', 'angle', 'apple', 'ample']",True,5
+amply,"['least', 'royal', 'daily', 'apply', 'amply']",True,5
+amuse,"['least', 'cause', 'abuse', 'amuse']",True,4
+angel,"['least', 'cable', 'ideal', 'angel']",True,4
+anger,"['least', 'range', 'anger']",True,3
+angle,"['least', 'cable', 'angle']",True,3
+angry,"['least', 'radio', 'urban', 'angry']",True,4
+angst,"['least', 'waist', 'angst']",True,3
+anime,"['least', 'range', 'anime']",True,3
+ankle,"['least', 'cable', 'angle', 'ankle']",True,4
+annex,"['least', 'range', 'annex']",True,3
+annoy,"['least', 'radio', 'among', 'annoy']",True,4
+annul,"['least', 'royal', 'awful', 'annul']",True,4
+anode,"['least', 'range', 'anime', 'anode']",True,4
+antic,"['least', 'party', 'tonga', 'actin', 'antic']",True,5
+anvil,"['least', 'royal', 'awful', 'anvil']",True,4
+aorta,"['least', 'party', 'aorta']",True,3
+apart,"['least', 'grant', 'chart', 'apart']",True,4
+aphid,"['least', 'radio', 'admin', 'aphid']",True,4
+aping,"['least', 'radio', 'china', 'aging', 'aking', 'axing']",False,6
+apnea,"['least', 'range', 'annex', 'apnea']",True,4
+apple,"['least', 'cable', 'angle', 'apple']",True,4
+apply,"['least', 'royal', 'daily', 'apply']",True,4
+apron,"['least', 'radio', 'arrow', 'apron']",True,4
+aptly,"['least', 'total', 'ultra', 'aptly']",True,4
+arbor,"['least', 'radio', 'arrow', 'armor', 'arbor']",True,5
+ardor,"['least', 'radio', 'ardor']",True,3
+arena,"['least', 'range', 'arena']",True,3
+argue,"['least', 'range', 'agree', 'argue']",True,4
+arise,"['least', 'cause', 'arise']",True,3
+armor,"['least', 'radio', 'arrow', 'armor']",True,4
+aroma,"['least', 'radio', 'arrow', 'aroma']",True,4
+arose,"['least', 'cause', 'arise', 'arose']",True,4
+array,"['least', 'radio', 'urban', 'array']",True,4
+arrow,"['least', 'radio', 'arrow']",True,3
+arson,"['least', 'cards', 'sugar', 'arson']",True,4
+artsy,"['least', 'patsy', 'artsy']",True,3
+ascot,"['least', 'saint', 'ascot']",True,3
+ashen,"['least', 'makes', 'aspen', 'ashen']",True,4
+aside,"['least', 'makes', 'swear', 'aside']",True,4
+askew,"['least', 'makes', 'asked', 'asker', 'askew']",True,5
+assay,"['least', 'cards', 'sigma', 'assay']",True,4
+asset,"['least', 'asset']",True,2
+atoll,"['least', 'total', 'atoll']",True,3
+atone,"['least', 'water', 'acute', 'atone']",True,4
+attic,"['least', 'party', 'tonga', 'attic']",True,4
+audio,"['least', 'radio', 'audio']",True,3
+audit,"['least', 'about', 'audit']",True,3
+augur,"['least', 'radio', 'urban', 'aurum', 'augur']",True,5
+aunty,"['least', 'party', 'amity', 'aunty']",True,4
+avail,"['least', 'black', 'grail', 'avail']",True,4
+avert,"['least', 'great', 'avert']",True,3
+avian,"['least', 'radio', 'china', 'avian']",True,4
+avoid,"['least', 'radio', 'avoid']",True,3
+await,"['least', 'grant', 'adapt', 'await']",True,4
+awake,"['least', 'grade', 'awake']",True,3
+award,"['least', 'brand', 'award']",True,3
+aware,"['least', 'grade', 'aware']",True,3
+awash,"['least', 'grass', 'awash']",True,3
+awful,"['least', 'royal', 'awful']",True,3
+awoke,"['least', 'range', 'above', 'awoke']",True,4
+axial,"['least', 'royal', 'final', 'axial']",True,4
+axiom,"['least', 'radio', 'axiom']",True,3
+axion,"['least', 'radio', 'axiom', 'axion']",True,4
+azure,"['least', 'range', 'afore', 'azure']",True,4
+bacon,"['least', 'radio', 'canon', 'bacon']",True,4
+badge,"['least', 'range', 'gauge', 'badge']",True,4
+badly,"['least', 'royal', 'daily', 'badly']",True,4
+bagel,"['least', 'cable', 'bagel']",True,3
+baggy,"['least', 'radio', 'japan', 'gawcy', 'baggy']",True,5
+baker,"['least', 'range', 'paper', 'maker', 'baker']",True,5
+baler,"['least', 'cable', 'bagel', 'baler']",True,4
+balmy,"['least', 'royal', 'daily', 'balmy']",True,4
+banal,"['least', 'royal', 'final', 'canal', 'banal']",True,5
+banjo,"['least', 'radio', 'campo', 'yahoo', 'banjo']",True,5
+barge,"['least', 'range', 'barge']",True,3
+baron,"['least', 'radio', 'major', 'baron']",True,4
+basal,"['least', 'calls', 'basil', 'basal']",True,4
+basic,"['least', 'cards', 'basic']",True,3
+basil,"['least', 'calls', 'basil']",True,3
+basin,"['least', 'cards', 'mason', 'basin']",True,4
+basis,"['least', 'cards', 'basis']",True,3
+baste,"['least', 'waste', 'taste', 'paste', 'caste', 'haste']",False,6
+batch,"['least', 'party', 'match', 'watch', 'catch', 'batch']",True,6
+bathe,"['least', 'water', 'matte', 'bathe']",True,4
+baton,"['least', 'party', 'match', 'baton']",True,4
+batty,"['least', 'party', 'fatty', 'batty']",True,4
+bawdy,"['least', 'radio', 'candy', 'gaudy', 'bawdy']",True,5
+bayou,"['least', 'radio', 'canon', 'bayou']",True,4
+beach,"['least', 'heard', 'beach']",True,3
+beady,"['least', 'heard', 'beady']",True,3
+beard,"['least', 'heard', 'beard']",True,3
+beast,"['least', 'beast']",True,2
+beech,"['least', 'never', 'hedge', 'beech']",True,4
+beefy,"['least', 'never', 'hedge', 'beefy']",True,4
+befit,"['least', 'debit', 'befit']",True,3
+began,"['least', 'began']",True,2
+begat,"['least', 'begat']",True,2
+beget,"['least', 'debit', 'beret', 'benet', 'beget']",True,5
+begin,"['least', 'never', 'being', 'begin']",True,4
+begun,"['least', 'never', 'being', 'begun']",True,4
+being,"['least', 'never', 'being']",True,3
+belch,"['least', 'below', 'belle', 'belch']",True,4
+belie,"['least', 'below', 'belle', 'belie']",True,4
+belle,"['least', 'below', 'belle']",True,3
+belly,"['least', 'below', 'belle', 'belly']",True,4
+below,"['least', 'below']",True,2
+bench,"['least', 'never', 'being', 'bench']",True,4
+beret,"['least', 'debit', 'beret']",True,3
+berry,"['least', 'never', 'kerry', 'ferry', 'berry']",True,5
+berth,"['least', 'peter', 'terry', 'hertz', 'berth']",True,5
+beset,"['least', 'reset', 'beset']",True,3
+betel,"['least', 'telco', 'betel']",True,3
+bevel,"['least', 'below', 'bezel', 'bevel']",True,4
+bezel,"['least', 'below', 'bezel']",True,3
+bible,"['least', 'field', 'bible']",True,3
+bicep,"['least', 'price', 'bicep']",True,3
+biddy,"['least', 'round', 'giddy', 'diddy', 'kiddy', 'biddy']",True,6
+bigot,"['least', 'point', 'orbit', 'bigot']",True,4
+bilge,"['least', 'field', 'pixel', 'bilge']",True,4
+billy,"['least', 'could', 'billy']",True,3
+binge,"['least', 'price', 'movie', 'hinge', 'binge']",True,5
+bingo,"['least', 'round', 'known', 'bingo']",True,4
+biome,"['least', 'price', 'movie', 'biome']",True,4
+birch,"['least', 'round', 'brick', 'birch']",True,4
+birth,"['least', 'north', 'birth']",True,3
+bison,"['least', 'hours', 'scoop', 'bison']",True,4
+bitty,"['least', 'north', 'kitty', 'witty', 'bitty']",True,5
+black,"['least', 'black']",True,2
+blade,"['least', 'place', 'blade']",True,3
+blame,"['least', 'place', 'blade', 'blame']",True,4
+bland,"['least', 'black', 'bland']",True,3
+blank,"['least', 'black', 'blank']",True,3
+blare,"['least', 'place', 'blade', 'blame', 'blaze', 'blare']",True,6
+blast,"['least', 'blast']",True,2
+blaze,"['least', 'place', 'blade', 'blame', 'blaze']",True,5
+bleak,"['least', 'cable', 'bleak']",True,3
+bleat,"['least', 'alert', 'cleat', 'pleat', 'bleat']",True,5
+bleed,"['least', 'field', 'blend', 'bleed']",True,4
+bleep,"['least', 'field', 'wheel', 'bleep']",True,4
+blend,"['least', 'field', 'blend']",True,3
+bless,"['least', 'close', 'flesh', 'bless']",True,4
+blimp,"['least', 'could', 'vinyl', 'blimp']",True,4
+blind,"['least', 'could', 'blind']",True,3
+blink,"['least', 'could', 'vinyl', 'blink']",True,4
+bliss,"['least', 'floss', 'bliss']",True,3
+blitz,"['least', 'until', 'blitz']",True,3
+bloat,"['least', 'adult', 'float', 'bloat']",True,4
+block,"['least', 'could', 'block']",True,3
+bloke,"['least', 'field', 'novel', 'globe', 'bloke']",True,5
+blond,"['least', 'could', 'blood', 'blond']",True,4
+blood,"['least', 'could', 'blood']",True,3
+bloom,"['least', 'could', 'floor', 'bloom']",True,4
+blown,"['least', 'could', 'floor', 'blown']",True,4
+bluer,"['least', 'field', 'novel', 'ulcer', 'bluer']",True,5
+bluff,"['least', 'could', 'bluff']",True,3
+blunt,"['least', 'built', 'blunt']",True,3
+blurb,"['least', 'could', 'bluff', 'blurb']",True,4
+blurt,"['least', 'built', 'blunt', 'blurt']",True,4
+blush,"['least', 'floss', 'plush', 'blush']",True,4
+board,"['least', 'brand', 'board']",True,3
+boast,"['least', 'coast', 'toast', 'roast', 'boast']",True,5
+bobby,"['least', 'round', 'combo', 'bobby']",True,4
+boney,"['least', 'price', 'women', 'honey', 'boney']",True,5
+bongo,"['least', 'round', 'ionic', 'gonzo', 'bongo']",True,5
+bonus,"['least', 'hours', 'focus', 'bonus']",True,4
+booby,"['least', 'round', 'combo', 'booby']",True,4
+boost,"['least', 'first', 'ghost', 'boost']",True,4
+booth,"['least', 'north', 'youth', 'booth']",True,4
+booty,"['least', 'north', 'booty']",True,3
+booze,"['least', 'price', 'judge', 'ozone', 'booze']",True,5
+boozy,"['least', 'round', 'combo', 'boozy']",True,4
+borax,"['least', 'radio', 'arrow', 'moray', 'borax']",True,5
+borne,"['least', 'price', 'where', 'forge', 'borne']",True,5
+bosom,"['least', 'hours', 'sonic', 'bosom']",True,4
+bossy,"['least', 'pussy', 'missy', 'bossy']",True,4
+botch,"['least', 'north', 'touch', 'botch']",True,4
+bough,"['least', 'round', 'couch', 'bough']",True,4
+boule,"['least', 'field', 'noble', 'bogle', 'boule']",True,5
+bound,"['least', 'round', 'found', 'bound']",True,4
+bowel,"['least', 'field', 'novel', 'bowel']",True,4
+boxer,"['least', 'price', 'owner', 'rover', 'yoker', 'homer']",False,6
+brace,"['least', 'grade', 'crave', 'brace']",True,4
+braid,"['least', 'brand', 'braid']",True,3
+brain,"['least', 'brand', 'brain']",True,3
+brake,"['least', 'grade', 'crave', 'frame', 'brake']",True,5
+brand,"['least', 'brand']",True,2
+brash,"['least', 'grass', 'crash', 'brash']",True,4
+brass,"['least', 'grass', 'brass']",True,3
+brave,"['least', 'grade', 'crave', 'brave']",True,4
+bravo,"['least', 'brand', 'bravo']",True,3
+brawl,"['least', 'black', 'brawl']",True,3
+brawn,"['least', 'brand', 'brain', 'brawn']",True,4
+bread,"['least', 'range', 'break', 'bread']",True,4
+break,"['least', 'range', 'break']",True,3
+breed,"['least', 'price', 'order', 'breed']",True,4
+briar,"['least', 'radio', 'cigar', 'briar']",True,4
+bribe,"['least', 'price', 'drive', 'brine', 'bribe']",True,5
+brick,"['least', 'round', 'brick']",True,3
+bride,"['least', 'price', 'drive', 'bride']",True,4
+brief,"['least', 'price', 'brief']",True,3
+brine,"['least', 'price', 'drive', 'brine']",True,4
+bring,"['least', 'round', 'bring']",True,3
+brink,"['least', 'round', 'bring', 'brink']",True,4
+briny,"['least', 'round', 'bring', 'brink', 'briny']",True,5
+brisk,"['least', 'pussy', 'brisk']",True,3
+broad,"['least', 'radio', 'broad']",True,3
+broil,"['least', 'could', 'floor', 'growl', 'broil']",True,5
+broke,"['least', 'price', 'drove', 'broke']",True,4
+brood,"['least', 'round', 'crowd', 'brood']",True,4
+brook,"['least', 'round', 'prior', 'brook']",True,4
+broom,"['least', 'round', 'prior', 'brook', 'broom']",True,5
+broth,"['least', 'north', 'broth']",True,3
+brown,"['least', 'round', 'brown']",True,3
+brunt,"['least', 'point', 'burnt', 'brunt']",True,4
+brush,"['least', 'pussy', 'brush']",True,3
+brute,"['least', 'their', 'route', 'brute']",True,4
+buddy,"['least', 'round', 'buddy']",True,3
+budge,"['least', 'price', 'judge', 'fudge', 'nudge', 'budge']",True,6
+buggy,"['least', 'round', 'quick', 'guppy', 'buggy']",True,5
+bugle,"['least', 'field', 'noble', 'bugle']",True,4
+build,"['least', 'could', 'build']",True,3
+built,"['least', 'built']",True,2
+bulge,"['least', 'field', 'novel', 'plume', 'bulge']",True,5
+bulky,"['least', 'could', 'pupil', 'bulky']",True,4
+bully,"['least', 'could', 'fully', 'bully']",True,4
+bunch,"['least', 'round', 'bunch']",True,3
+bunny,"['least', 'round', 'funny', 'bunny']",True,4
+burly,"['least', 'could', 'fully', 'burly']",True,4
+burnt,"['least', 'point', 'burnt']",True,3
+burst,"['least', 'first', 'worst', 'burst']",True,4
+bused,"['least', 'since', 'users', 'fused', 'mused', 'bused']",True,6
+bushy,"['least', 'hours', 'sumph', 'bushy']",True,4
+butch,"['least', 'north', 'dutch', 'hutch', 'butch']",True,5
+butte,"['least', 'their', 'quote', 'butte']",True,4
+buxom,"['least', 'round', 'jumbo', 'buxom']",True,4
+buyer,"['least', 'price', 'owner', 'buyer']",True,4
+bylaw,"['least', 'royal', 'inlay', 'bylaw']",True,4
+cabal,"['least', 'royal', 'final', 'papal', 'cabal']",True,5
+cabby,"['least', 'radio', 'japan', 'gawcy', 'cabby']",True,5
+cabin,"['least', 'radio', 'magic', 'cabin']",True,4
+cable,"['least', 'cable']",True,2
+cacao,"['least', 'radio', 'campo', 'cacao']",True,4
+cache,"['least', 'range', 'maybe', 'cache']",True,4
+cacti,"['least', 'party', 'faith', 'cacti']",True,4
+caddy,"['least', 'radio', 'daddy', 'paddy', 'caddy']",True,5
+cadet,"['least', 'great', 'cadet']",True,3
+cagey,"['least', 'range', 'waged', 'cagey']",True,4
+cairn,"['least', 'radio', 'hairy', 'cairn']",True,4
+camel,"['least', 'cable', 'camel']",True,3
+cameo,"['least', 'range', 'faced', 'cameo']",True,4
+canal,"['least', 'royal', 'final', 'canal']",True,4
+candy,"['least', 'radio', 'candy']",True,3
+canny,"['least', 'radio', 'japan', 'nancy', 'canny']",True,5
+canoe,"['least', 'range', 'dance', 'canoe']",True,4
+canon,"['least', 'radio', 'canon']",True,3
+caper,"['least', 'range', 'paper', 'caper']",True,4
+caput,"['least', 'about', 'gamut', 'caput']",True,4
+carat,"['least', 'about', 'paint', 'yacht', 'carat']",True,5
+cargo,"['least', 'radio', 'macro', 'cargo']",True,4
+carol,"['least', 'royal', 'carol']",True,3
+carry,"['least', 'radio', 'march', 'carry']",True,4
+carve,"['least', 'range', 'carve']",True,3
+caste,"['least', 'waste', 'taste', 'paste', 'caste']",True,5
+catch,"['least', 'party', 'match', 'watch', 'catch']",True,5
+cater,"['least', 'water', 'cater']",True,3
+catty,"['least', 'party', 'fatty', 'batty', 'tatty', 'natty']",False,6
+caulk,"['least', 'royal', 'album', 'vulva', 'caulk']",True,5
+cause,"['least', 'cause']",True,2
+cavil,"['least', 'royal', 'awful', 'vakil', 'cavil']",True,5
+cease,"['least', 'cease']",True,2
+cedar,"['least', 'began', 'cedar']",True,3
+cello,"['least', 'below', 'hello', 'cello']",True,4
+chafe,"['least', 'grade', 'awake', 'inane', 'chafe']",True,5
+chaff,"['least', 'brand', 'coach', 'champ', 'chaff']",True,5
+chain,"['least', 'brand', 'again', 'chain']",True,4
+chair,"['least', 'brand', 'chair']",True,3
+chalk,"['least', 'black', 'chalk']",True,3
+champ,"['least', 'brand', 'coach', 'champ']",True,4
+chant,"['least', 'grant', 'avant', 'chant']",True,4
+chaos,"['least', 'sharp', 'chaos']",True,3
+chard,"['least', 'brand', 'award', 'chard']",True,4
+charm,"['least', 'brand', 'chair', 'charm']",True,4
+chart,"['least', 'grant', 'chart']",True,3
+chase,"['least', 'phase', 'chase']",True,3
+chasm,"['least', 'grass', 'awash', 'chasm']",True,4
+cheap,"['least', 'range', 'added', 'cheap']",True,4
+cheat,"['least', 'great', 'cheat']",True,3
+check,"['least', 'price', 'check']",True,3
+cheek,"['least', 'price', 'cohen', 'cheek']",True,4
+cheer,"['least', 'price', 'cover', 'cyber', 'cheer']",True,5
+chess,"['least', 'horse', 'chess']",True,3
+chest,"['least', 'guest', 'chest']",True,3
+chick,"['least', 'round', 'which', 'chick']",True,4
+chide,"['least', 'price', 'chime', 'chine', 'chive', 'chide']",True,6
+chief,"['least', 'price', 'chief']",True,3
+child,"['least', 'could', 'child']",True,3
+chili,"['least', 'could', 'chili']",True,3
+chill,"['least', 'could', 'chili', 'chill']",True,4
+chime,"['least', 'price', 'chime']",True,3
+china,"['least', 'radio', 'china']",True,3
+chirp,"['least', 'round', 'brick', 'chirp']",True,4
+chock,"['least', 'round', 'chico', 'chock']",True,4
+choir,"['least', 'round', 'prior', 'choir']",True,4
+choke,"['least', 'price', 'choke']",True,3
+chord,"['least', 'round', 'crowd', 'chord']",True,4
+chore,"['least', 'price', 'curve', 'chore']",True,4
+chose,"['least', 'horse', 'whose', 'chose']",True,4
+chuck,"['least', 'round', 'chuck']",True,3
+chump,"['least', 'round', 'chuck', 'chump']",True,4
+chunk,"['least', 'round', 'chunk']",True,3
+churn,"['least', 'round', 'churn']",True,3
+chute,"['least', 'their', 'chute']",True,3
+cider,"['least', 'price', 'cider']",True,3
+cigar,"['least', 'radio', 'cigar']",True,3
+cinch,"['least', 'round', 'nymph', 'finch', 'winch', 'cinch']",True,6
+circa,"['least', 'radio', 'cigar', 'circa']",True,4
+civic,"['least', 'round', 'which', 'civic']",True,4
+civil,"['least', 'could', 'click', 'civil']",True,4
+clack,"['least', 'black', 'flack', 'clack']",True,4
+claim,"['least', 'black', 'claim']",True,3
+clamp,"['least', 'black', 'claim', 'clamp']",True,4
+clang,"['least', 'black', 'claim', 'clary', 'clang']",True,5
+clank,"['least', 'black', 'clank']",True,3
+clash,"['least', 'class', 'clash']",True,3
+clasp,"['least', 'class', 'clash', 'clasp']",True,4
+class,"['least', 'class']",True,2
+clean,"['least', 'cable', 'clear', 'clean']",True,4
+clear,"['least', 'cable', 'clear']",True,3
+cleat,"['least', 'alert', 'cleat']",True,3
+cleft,"['least', 'fleet', 'cleft']",True,3
+clerk,"['least', 'field', 'wheel', 'clerk']",True,4
+click,"['least', 'could', 'click']",True,3
+cliff,"['least', 'could', 'click', 'cliff']",True,4
+climb,"['least', 'could', 'click', 'cliff', 'climb']",True,5
+cling,"['least', 'could', 'click', 'cliff', 'climb', 'cling']",True,6
+clink,"['least', 'could', 'click', 'clink']",True,4
+cloak,"['least', 'royal', 'cloak']",True,3
+clock,"['least', 'could', 'clock']",True,3
+clone,"['least', 'field', 'novel', 'clone']",True,4
+close,"['least', 'close']",True,2
+cloth,"['least', 'until', 'cloth']",True,3
+cloud,"['least', 'could', 'cloud']",True,3
+clout,"['least', 'built', 'clout']",True,3
+clove,"['least', 'field', 'novel', 'glove', 'clove']",True,5
+clown,"['least', 'could', 'clock', 'clown']",True,4
+cluck,"['least', 'could', 'clunk', 'cluck']",True,4
+clued,"['least', 'field', 'ruled', 'glued', 'clued']",True,5
+clump,"['least', 'could', 'clunk', 'clump']",True,4
+clung,"['least', 'could', 'clunk', 'clung']",True,4
+coach,"['least', 'brand', 'coach']",True,3
+coast,"['least', 'coast']",True,2
+cobra,"['least', 'radio', 'arrow', 'cobra']",True,4
+cocoa,"['least', 'radio', 'among', 'cocoa']",True,4
+colon,"['least', 'could', 'color', 'colon']",True,4
+color,"['least', 'could', 'color']",True,3
+comet,"['least', 'event', 'comet']",True,3
+comfy,"['least', 'round', 'combo', 'comic', 'comfy']",True,5
+comic,"['least', 'round', 'combo', 'comic']",True,4
+comma,"['least', 'radio', 'among', 'comma']",True,4
+conch,"['least', 'round', 'ionic', 'congo', 'conch']",True,5
+condo,"['least', 'round', 'condo']",True,3
+conic,"['least', 'round', 'ionic', 'conic']",True,4
+copse,"['least', 'horse', 'noise', 'mouse', 'posse', 'copse']",True,6
+coral,"['least', 'royal', 'moral', 'coral']",True,4
+corer,"['least', 'price', 'cover', 'corer']",True,4
+corny,"['least', 'round', 'horny', 'corny']",True,4
+couch,"['least', 'round', 'couch']",True,3
+cough,"['least', 'round', 'couch', 'cough']",True,4
+could,"['least', 'could']",True,2
+count,"['least', 'point', 'count']",True,3
+coupe,"['least', 'price', 'coupe']",True,3
+court,"['least', 'point', 'court']",True,3
+coven,"['least', 'price', 'cohen', 'coden', 'coven']",True,5
+cover,"['least', 'price', 'cover']",True,3
+covet,"['least', 'event', 'civet', 'covet']",True,4
+covey,"['least', 'price', 'cohen', 'coded', 'covey']",True,5
+cower,"['least', 'price', 'cover', 'corer', 'coder', 'comer']",False,6
+coyly,"['least', 'could', 'cooly', 'coyly']",True,4
+crack,"['least', 'brand', 'crazy', 'crack']",True,4
+craft,"['least', 'grant', 'craft']",True,3
+cramp,"['least', 'brand', 'crazy', 'crack', 'craig', 'cramp']",True,6
+crane,"['least', 'grade', 'crave', 'crane']",True,4
+crank,"['least', 'brand', 'franc', 'crank']",True,4
+crash,"['least', 'grass', 'crash']",True,3
+crass,"['least', 'grass', 'brass', 'crass']",True,4
+crate,"['least', 'trade', 'crate']",True,3
+crave,"['least', 'grade', 'crave']",True,3
+crawl,"['least', 'black', 'crawl']",True,3
+craze,"['least', 'grade', 'crave', 'crane', 'craze']",True,5
+crazy,"['least', 'brand', 'crazy']",True,3
+creak,"['least', 'range', 'break', 'freak', 'wreak', 'creak']",True,6
+cream,"['least', 'range', 'break', 'dream', 'cream']",True,5
+credo,"['least', 'price', 'creek', 'credo']",True,4
+creed,"['least', 'price', 'creek', 'creed']",True,4
+creek,"['least', 'price', 'creek']",True,3
+creep,"['least', 'price', 'creep']",True,3
+creme,"['least', 'price', 'crome', 'creme']",True,4
+crepe,"['least', 'price', 'crepe']",True,3
+crept,"['least', 'event', 'theft', 'crept']",True,4
+cress,"['least', 'horse', 'press', 'dress', 'cress']",True,5
+crest,"['least', 'guest', 'chest', 'crest']",True,4
+crick,"['least', 'round', 'brick', 'prick', 'crick']",True,5
+cried,"['least', 'price', 'cried']",True,3
+crier,"['least', 'price', 'cried', 'crier']",True,4
+crime,"['least', 'price', 'crime']",True,3
+crimp,"['least', 'round', 'brick', 'crimp']",True,4
+crisp,"['least', 'pussy', 'crisp']",True,3
+croak,"['least', 'radio', 'arrow', 'organ', 'croak']",True,5
+crock,"['least', 'round', 'prior', 'crock']",True,4
+crone,"['least', 'price', 'crome', 'crore', 'crone']",True,5
+crony,"['least', 'round', 'wrong', 'irony', 'crony']",True,5
+crook,"['least', 'round', 'prior', 'brook', 'crook']",True,5
+cross,"['least', 'pussy', 'cross']",True,3
+croup,"['least', 'round', 'group', 'croup']",True,4
+crowd,"['least', 'round', 'crowd']",True,3
+crown,"['least', 'round', 'brown', 'crown']",True,4
+crude,"['least', 'price', 'crome', 'crude']",True,4
+cruel,"['least', 'field', 'novel', 'excel', 'cruel']",True,5
+crumb,"['least', 'round', 'crumb']",True,3
+crump,"['least', 'round', 'crumb', 'crump']",True,4
+crush,"['least', 'pussy', 'brush', 'crush']",True,4
+crust,"['least', 'first', 'trust', 'crust']",True,4
+crypt,"['least', 'point', 'crypt']",True,3
+cubic,"['least', 'round', 'quick', 'cubic']",True,4
+cumin,"['least', 'round', 'bunch', 'cumin']",True,4
+curio,"['least', 'round', 'group', 'humor', 'curio']",True,5
+curly,"['least', 'could', 'curly']",True,3
+curry,"['least', 'round', 'chiru', 'curry']",True,4
+curse,"['least', 'horse', 'nurse', 'purse', 'curse']",True,5
+curve,"['least', 'price', 'curve']",True,3
+curvy,"['least', 'round', 'chiru', 'curvy']",True,4
+cutie,"['least', 'their', 'cutie']",True,3
+cyber,"['least', 'price', 'cover', 'cyber']",True,4
+cycle,"['least', 'field', 'noble', 'cycle']",True,4
+cynic,"['least', 'round', 'nymph', 'cynic']",True,4
+daddy,"['least', 'radio', 'daddy']",True,3
+daily,"['least', 'royal', 'daily']",True,3
+dairy,"['least', 'radio', 'dairy']",True,3
+daisy,"['least', 'sassy', 'daisy']",True,3
+dally,"['least', 'royal', 'daily', 'dally']",True,4
+dance,"['least', 'range', 'dance']",True,3
+dandy,"['least', 'radio', 'candy', 'handy', 'dandy']",True,5
+datum,"['least', 'party', 'match', 'datum']",True,4
+daunt,"['least', 'about', 'haunt', 'gaunt', 'taunt', 'jaunt']",False,6
+dealt,"['least', 'dealt']",True,2
+death,"['least', 'death']",True,2
+debar,"['least', 'began', 'rehab', 'debar']",True,4
+debit,"['least', 'debit']",True,2
+debug,"['least', 'never', 'debug']",True,3
+debut,"['least', 'debit', 'debut']",True,3
+decal,"['least', 'delay', 'decal']",True,3
+decay,"['least', 'began', 'cedar', 'decay']",True,4
+decor,"['least', 'never', 'decor']",True,3
+decoy,"['least', 'never', 'debug', 'decoy']",True,4
+decry,"['least', 'never', 'kerry', 'decry']",True,4
+defer,"['least', 'never', 'refer', 'defer']",True,4
+deign,"['least', 'never', 'being', 'feign', 'deign']",True,5
+deity,"['least', 'peter', 'teddy', 'deity']",True,4
+delay,"['least', 'delay']",True,2
+delta,"['least', 'metal', 'delta']",True,3
+delve,"['least', 'below', 'celli', 'melee', 'delve']",True,5
+demon,"['least', 'never', 'being', 'demon']",True,4
+demur,"['least', 'never', 'decor', 'demur']",True,4
+denim,"['least', 'never', 'being', 'denim']",True,4
+dense,"['least', 'sense', 'dense']",True,3
+depot,"['least', 'debit', 'depot']",True,3
+depth,"['least', 'peter', 'depth']",True,3
+derby,"['least', 'never', 'kerry', 'mercy', 'derby']",True,5
+deter,"['least', 'peter', 'meter', 'deter']",True,4
+detox,"['least', 'peter', 'fetid', 'detox']",True,4
+deuce,"['least', 'never', 'hedge', 'deuce']",True,4
+devil,"['least', 'below', 'reply', 'devel', 'devil']",True,5
+diary,"['least', 'brand', 'diary']",True,3
+dicey,"['least', 'price', 'diced', 'dicey']",True,4
+digit,"['least', 'point', 'right', 'digit']",True,4
+dilly,"['least', 'could', 'drill', 'dilly']",True,4
+dimly,"['least', 'could', 'drill', 'dimly']",True,4
+diner,"['least', 'price', 'river', 'fiber', 'wider', 'diner']",True,6
+dingo,"['least', 'round', 'dingo']",True,3
+dingy,"['least', 'round', 'windy', 'dinky', 'dingy']",True,5
+diode,"['least', 'price', 'movie', 'diode']",True,4
+dirge,"['least', 'price', 'ridge', 'dirge']",True,4
+dirty,"['least', 'north', 'dirty']",True,3
+disco,"['least', 'hours', 'scoop', 'cisco', 'disco']",True,5
+ditch,"['least', 'north', 'dutch', 'ditch']",True,4
+ditto,"['least', 'north', 'ditto']",True,3
+ditty,"['least', 'north', 'kitty', 'witty', 'bitty', 'titty']",False,6
+diver,"['least', 'price', 'river', 'diver']",True,4
+dizzy,"['least', 'round', 'giddy', 'dizzy']",True,4
+dodge,"['least', 'price', 'judge', 'dodge']",True,4
+dodgy,"['least', 'round', 'howdy', 'doggy', 'dodgy']",True,5
+dogma,"['least', 'radio', 'honda', 'dogma']",True,4
+doing,"['least', 'round', 'doing']",True,3
+dolly,"['least', 'could', 'dolly']",True,3
+donor,"['least', 'round', 'donor']",True,3
+donut,"['least', 'point', 'donut']",True,3
+dopey,"['least', 'price', 'hoped', 'dopey']",True,4
+doubt,"['least', 'point', 'court', 'doubt']",True,4
+dough,"['least', 'round', 'dough']",True,3
+dowdy,"['least', 'round', 'howdy', 'dowdy']",True,4
+dowel,"['least', 'field', 'older', 'dowel']",True,4
+downy,"['least', 'round', 'doing', 'donny', 'downy']",True,5
+dowry,"['least', 'round', 'dobro', 'dowry']",True,4
+dozen,"['least', 'price', 'women', 'dozen']",True,4
+draft,"['least', 'grant', 'craft', 'draft']",True,4
+drain,"['least', 'brand', 'drawn', 'drain']",True,4
+drake,"['least', 'grade', 'drake']",True,3
+drama,"['least', 'brand', 'drama']",True,3
+drank,"['least', 'brand', 'drank']",True,3
+drape,"['least', 'grade', 'drake', 'drape']",True,4
+drawl,"['least', 'black', 'grail', 'drawl']",True,4
+drawn,"['least', 'brand', 'drawn']",True,3
+dread,"['least', 'range', 'break', 'dream', 'dread']",True,5
+dream,"['least', 'range', 'break', 'dream']",True,4
+dress,"['least', 'horse', 'press', 'dress']",True,4
+dried,"['least', 'price', 'brief', 'dried']",True,4
+drier,"['least', 'price', 'brief', 'dried', 'drier']",True,5
+drift,"['least', 'point', 'drift']",True,3
+drill,"['least', 'could', 'drill']",True,3
+drink,"['least', 'round', 'drink']",True,3
+drive,"['least', 'price', 'drive']",True,3
+droit,"['least', 'point', 'orbit', 'droit']",True,4
+droll,"['least', 'could', 'oddly', 'droll']",True,4
+drone,"['least', 'price', 'drove', 'drone']",True,4
+drool,"['least', 'could', 'dildo', 'drool']",True,4
+droop,"['least', 'round', 'hydro', 'droop']",True,4
+dross,"['least', 'pussy', 'cross', 'gross', 'dross']",True,5
+drove,"['least', 'price', 'drove']",True,3
+drown,"['least', 'round', 'drown']",True,3
+druid,"['least', 'round', 'druid']",True,3
+drunk,"['least', 'round', 'drunk']",True,3
+dryer,"['least', 'price', 'order', 'dryer']",True,4
+dryly,"['least', 'could', 'drill', 'dryly']",True,4
+duchy,"['least', 'round', 'buddy', 'dummy', 'ducky', 'duchy']",True,6
+dully,"['least', 'could', 'dully']",True,3
+dummy,"['least', 'round', 'buddy', 'dummy']",True,4
+dumpy,"['least', 'round', 'buddy', 'dummy', 'dumpy']",True,5
+dunce,"['least', 'price', 'ounce', 'bunce', 'dunce']",True,5
+dusky,"['least', 'hours', 'music', 'busby', 'dusky']",True,5
+dusty,"['least', 'story', 'misty', 'dusty']",True,4
+dutch,"['least', 'north', 'dutch']",True,3
+duvet,"['least', 'event', 'civet', 'duvet']",True,4
+dwarf,"['least', 'brand', 'diary', 'dwarf']",True,4
+dwell,"['least', 'field', 'dwell']",True,3
+dwelt,"['least', 'fleet', 'dwelt']",True,3
+dying,"['least', 'round', 'dying']",True,3
+eager,"['least', 'range', 'gamer', 'eager']",True,4
+eagle,"['least', 'cable', 'eagle']",True,3
+early,"['least', 'cable', 'early']",True,3
+earth,"['least', 'water', 'earth']",True,3
+easel,"['least', 'sales', 'easel']",True,3
+eaten,"['least', 'water', 'eaten']",True,3
+eater,"['least', 'water', 'cater', 'eater']",True,4
+ebony,"['least', 'price', 'women', 'enjoy', 'ebony']",True,5
+eclat,"['least', 'alert', 'valet', 'eclat']",True,4
+edict,"['least', 'event', 'eight', 'edict']",True,4
+edify,"['least', 'price', 'edify']",True,3
+eerie,"['least', 'never', 'merge', 'eerie']",True,4
+egret,"['least', 'event', 'emmet', 'egret']",True,4
+eight,"['least', 'event', 'eight']",True,3
+eject,"['least', 'event', 'erect', 'eject']",True,4
+eking,"['least', 'price', 'edify', 'eking']",True,4
+elate,"['least', 'plate', 'elate']",True,3
+elbow,"['least', 'field', 'novel', 'globe', 'elbow']",True,5
+elder,"['least', 'field', 'older', 'elder']",True,4
+elect,"['least', 'fleet', 'elect']",True,3
+elegy,"['least', 'field', 'wheel', 'glebe', 'elegy']",True,5
+elfin,"['least', 'field', 'elfin']",True,3
+elide,"['least', 'field', 'glide', 'elide']",True,4
+elite,"['least', 'title', 'elite']",True,3
+elope,"['least', 'field', 'novel', 'globe', 'cloze', 'elope']",True,6
+elude,"['least', 'field', 'older', 'elude']",True,4
+email,"['least', 'place', 'email']",True,3
+embed,"['least', 'price', 'women', 'embed']",True,4
+ember,"['least', 'price', 'owner', 'buyer', 'ember']",True,5
+emcee,"['least', 'price', 'choke', 'emcee']",True,4
+empty,"['least', 'their', 'quote', 'empty']",True,4
+enact,"['least', 'exact', 'enact']",True,3
+endow,"['least', 'price', 'women', 'endow']",True,4
+enema,"['least', 'range', 'amend', 'enema']",True,4
+enemy,"['least', 'price', 'women', 'enemy']",True,4
+enjoy,"['least', 'price', 'women', 'enjoy']",True,4
+ennui,"['least', 'price', 'video', 'ennui']",True,4
+ensue,"['least', 'since', 'ensue']",True,3
+enter,"['least', 'their', 'outer', 'enter']",True,4
+entry,"['least', 'their', 'route', 'entry']",True,4
+envoy,"['least', 'price', 'women', 'enjoy', 'envoy']",True,5
+epoch,"['least', 'price', 'epoch']",True,3
+epoxy,"['least', 'price', 'hoped', 'epoxy']",True,4
+equal,"['least', 'cable', 'ideal', 'equal']",True,4
+equip,"['least', 'price', 'equip']",True,3
+erase,"['least', 'phase', 'erase']",True,3
+erect,"['least', 'event', 'erect']",True,3
+erode,"['least', 'price', 'drove', 'erode']",True,4
+error,"['least', 'price', 'order', 'error']",True,4
+erupt,"['least', 'event', 'eight', 'erupt']",True,4
+essay,"['least', 'makes', 'swear', 'essay']",True,4
+ester,"['least', 'store', 'trees', 'ester']",True,4
+ether,"['least', 'their', 'other', 'ether']",True,4
+ethic,"['least', 'their', 'ethic']",True,3
+ethos,"['least', 'store', 'ethos']",True,3
+etude,"['least', 'their', 'quote', 'etude']",True,4
+evade,"['least', 'grade', 'evade']",True,3
+event,"['least', 'event']",True,2
+every,"['least', 'price', 'owner', 'every']",True,4
+evict,"['least', 'event', 'evict']",True,3
+evoke,"['least', 'price', 'judge', 'ozone', 'evoke']",True,5
+exact,"['least', 'exact']",True,2
+exalt,"['least', 'exalt']",True,2
+excel,"['least', 'field', 'novel', 'excel']",True,4
+exert,"['least', 'event', 'erect', 'exert']",True,4
+exile,"['least', 'field', 'while', 'exile']",True,4
+exist,"['least', 'guest', 'exist']",True,3
+expel,"['least', 'field', 'novel', 'excel', 'expel']",True,5
+extol,"['least', 'title', 'hotel', 'extol']",True,4
+extra,"['least', 'water', 'extra']",True,3
+exult,"['least', 'fleet', 'exult']",True,3
+eying,"['least', 'price', 'edify', 'eying']",True,4
+fable,"['least', 'cable', 'fable']",True,3
+facet,"['least', 'great', 'cadet', 'facet']",True,4
+faint,"['least', 'about', 'paint', 'faint']",True,4
+fairy,"['least', 'radio', 'hairy', 'fairy']",True,4
+faith,"['least', 'party', 'faith']",True,3
+false,"['least', 'false']",True,2
+fancy,"['least', 'radio', 'japan', 'nancy', 'fancy']",True,5
+fanny,"['least', 'radio', 'japan', 'nancy', 'fanny']",True,5
+farce,"['least', 'range', 'carve', 'farce']",True,4
+fatal,"['least', 'total', 'fatal']",True,3
+fatty,"['least', 'party', 'fatty']",True,3
+fault,"['least', 'adult', 'fault']",True,3
+fauna,"['least', 'radio', 'japan', 'manga', 'fauna']",True,5
+favor,"['least', 'radio', 'major', 'favor']",True,4
+feast,"['least', 'beast', 'yeast', 'feast']",True,4
+fecal,"['least', 'delay', 'renal', 'fecal']",True,4
+feign,"['least', 'never', 'being', 'feign']",True,4
+fella,"['least', 'delay', 'fella']",True,3
+felon,"['least', 'below', 'melon', 'felon']",True,4
+femme,"['least', 'never', 'hedge', 'femme']",True,4
+femur,"['least', 'never', 'decor', 'femur']",True,4
+fence,"['least', 'never', 'hence', 'fence']",True,4
+feral,"['least', 'delay', 'renal', 'feral']",True,4
+ferry,"['least', 'never', 'kerry', 'ferry']",True,4
+fetal,"['least', 'metal', 'fetal']",True,3
+fetch,"['least', 'peter', 'fetid', 'fetch']",True,4
+fetid,"['least', 'peter', 'fetid']",True,3
+fetus,"['least', 'tests', 'fetus']",True,3
+fever,"['least', 'never', 'fever']",True,3
+fewer,"['least', 'never', 'refer', 'fewer']",True,4
+fiber,"['least', 'price', 'river', 'fiber']",True,4
+fibre,"['least', 'price', 'ridge', 'fibre']",True,4
+ficus,"['least', 'hours', 'funds', 'ficus']",True,4
+field,"['least', 'field']",True,2
+fiend,"['least', 'price', 'video', 'fiend']",True,4
+fiery,"['least', 'price', 'river', 'fiery']",True,4
+fifth,"['least', 'north', 'width', 'fifth']",True,4
+fifty,"['least', 'north', 'kitty', 'fifty']",True,4
+fight,"['least', 'point', 'right', 'might', 'fight']",True,5
+filer,"['least', 'field', 'filer']",True,3
+filet,"['least', 'fleet', 'filet']",True,3
+filly,"['least', 'could', 'billy', 'willy', 'hilly', 'filly']",True,6
+filmy,"['least', 'could', 'vinyl', 'milky', 'filmy']",True,5
+filth,"['least', 'until', 'blitz', 'filth']",True,4
+final,"['least', 'royal', 'final']",True,3
+finch,"['least', 'round', 'nymph', 'finch']",True,4
+finer,"['least', 'price', 'river', 'fiber', 'finer']",True,5
+first,"['least', 'first']",True,2
+fishy,"['least', 'hours', 'shiny', 'fishy']",True,4
+fixer,"['least', 'price', 'river', 'fiber', 'finer', 'fixer']",True,6
+fizzy,"['least', 'round', 'which', 'jiffy', 'fizzy']",True,5
+fjord,"['least', 'round', 'crowd', 'fjord']",True,4
+flack,"['least', 'black', 'flack']",True,3
+flail,"['least', 'black', 'plain', 'flair', 'flail']",True,5
+flair,"['least', 'black', 'plain', 'flair']",True,4
+flake,"['least', 'place', 'blade', 'flare', 'flame', 'flake']",True,6
+flaky,"['least', 'black', 'flaky']",True,3
+flame,"['least', 'place', 'blade', 'flare', 'flame']",True,5
+flank,"['least', 'black', 'plank', 'flank']",True,4
+flare,"['least', 'place', 'blade', 'flare']",True,4
+flash,"['least', 'class', 'flash']",True,3
+flask,"['least', 'class', 'flash', 'flask']",True,4
+fleck,"['least', 'field', 'fleur', 'fleck']",True,4
+fleet,"['least', 'fleet']",True,2
+flesh,"['least', 'close', 'flesh']",True,3
+flick,"['least', 'could', 'flick']",True,3
+flier,"['least', 'field', 'flier']",True,3
+fling,"['least', 'could', 'vinyl', 'blink', 'fling']",True,5
+flint,"['least', 'built', 'flint']",True,3
+flirt,"['least', 'built', 'flint', 'flirt']",True,4
+float,"['least', 'adult', 'float']",True,3
+flock,"['least', 'could', 'block', 'flock']",True,4
+flood,"['least', 'could', 'blood', 'flood']",True,4
+floor,"['least', 'could', 'floor']",True,3
+flora,"['least', 'royal', 'flora']",True,3
+floss,"['least', 'floss']",True,2
+flour,"['least', 'could', 'flour']",True,3
+flout,"['least', 'built', 'clout', 'flout']",True,4
+flown,"['least', 'could', 'floor', 'flown']",True,4
+fluff,"['least', 'could', 'bluff', 'fluff']",True,4
+fluid,"['least', 'could', 'fluid']",True,3
+fluke,"['least', 'field', 'fluke']",True,3
+flume,"['least', 'field', 'fluke', 'flume']",True,4
+flung,"['least', 'could', 'bluff', 'flung']",True,4
+flunk,"['least', 'could', 'bluff', 'flung', 'flunk']",True,5
+flush,"['least', 'floss', 'flush']",True,3
+flute,"['least', 'title', 'flute']",True,3
+flyer,"['least', 'field', 'fluke', 'flyer']",True,4
+foamy,"['least', 'brand', 'coach', 'foamy']",True,4
+focal,"['least', 'royal', 'vocal', 'focal']",True,4
+focus,"['least', 'hours', 'focus']",True,3
+foggy,"['least', 'round', 'combo', 'poppy', 'foggy']",True,5
+foist,"['least', 'first', 'foist']",True,3
+folio,"['least', 'could', 'folio']",True,3
+folly,"['least', 'could', 'hollo', 'jolly', 'folly']",True,5
+foray,"['least', 'radio', 'arrow', 'moray', 'foray']",True,5
+force,"['least', 'price', 'force']",True,3
+forge,"['least', 'price', 'where', 'forge']",True,4
+forgo,"['least', 'round', 'morro', 'forgo']",True,4
+forte,"['least', 'their', 'route', 'forte']",True,4
+forth,"['least', 'north', 'worth', 'forth']",True,4
+forty,"['least', 'north', 'forty']",True,3
+forum,"['least', 'round', 'forum']",True,3
+found,"['least', 'round', 'found']",True,3
+foyer,"['least', 'price', 'owner', 'rover', 'yoker', 'foyer']",True,6
+frail,"['least', 'black', 'grail', 'frail']",True,4
+frame,"['least', 'grade', 'crave', 'frame']",True,4
+frank,"['least', 'brand', 'franc', 'frank']",True,4
+fraud,"['least', 'brand', 'fraud']",True,3
+freak,"['least', 'range', 'break', 'freak']",True,4
+freed,"['least', 'price', 'order', 'breed', 'freed']",True,5
+freer,"['least', 'price', 'order', 'fryer', 'freer']",True,5
+fresh,"['least', 'horse', 'fresh']",True,3
+friar,"['least', 'radio', 'cigar', 'briar', 'friar']",True,5
+fried,"['least', 'price', 'brief', 'fried']",True,4
+frill,"['least', 'could', 'billy', 'grill', 'krill', 'frill']",True,6
+frisk,"['least', 'pussy', 'brisk', 'frisk']",True,4
+fritz,"['least', 'north', 'fritz']",True,3
+frock,"['least', 'round', 'prior', 'crock', 'brock', 'frock']",True,6
+frond,"['least', 'round', 'frond']",True,3
+front,"['least', 'point', 'front']",True,3
+frost,"['least', 'first', 'frost']",True,3
+froth,"['least', 'north', 'broth', 'froth']",True,4
+frown,"['least', 'round', 'brown', 'crown', 'grown', 'frown']",True,6
+froze,"['least', 'price', 'drove', 'broke', 'froze']",True,5
+fruit,"['least', 'point', 'right', 'fruit']",True,4
+fudge,"['least', 'price', 'judge', 'fudge']",True,4
+fugue,"['least', 'price', 'judge', 'fugue']",True,4
+fully,"['least', 'could', 'fully']",True,3
+fungi,"['least', 'round', 'bunch', 'funky', 'fungi']",True,5
+funky,"['least', 'round', 'bunch', 'funky']",True,4
+funny,"['least', 'round', 'funny']",True,3
+furor,"['least', 'round', 'group', 'humor', 'juror', 'furor']",True,6
+furry,"['least', 'round', 'chiru', 'furry']",True,4
+fussy,"['least', 'pussy', 'fussy']",True,3
+fuzzy,"['least', 'round', 'quick', 'guppy', 'fuzzy']",True,5
+gaffe,"['least', 'range', 'vague', 'gaffe']",True,4
+gaily,"['least', 'royal', 'daily', 'gaily']",True,4
+gamer,"['least', 'range', 'gamer']",True,3
+gamma,"['least', 'radio', 'japan', 'gamma']",True,4
+gamut,"['least', 'about', 'gamut']",True,3
+gassy,"['least', 'sassy', 'massy', 'gassy']",True,4
+gaudy,"['least', 'radio', 'candy', 'gaudy']",True,4
+gauge,"['least', 'range', 'gauge']",True,3
+gaunt,"['least', 'about', 'haunt', 'gaunt']",True,4
+gauze,"['least', 'range', 'vague', 'gauze']",True,4
+gavel,"['least', 'cable', 'panel', 'hazel', 'ravel', 'gavel']",True,6
+gawky,"['least', 'radio', 'japan', 'gawcy', 'gawky']",True,5
+gayer,"['least', 'range', 'gamer', 'gazer', 'gayer']",True,5
+gayly,"['least', 'royal', 'phyla', 'gayly']",True,4
+gazer,"['least', 'range', 'gamer', 'gazer']",True,4
+gecko,"['least', 'never', 'debug', 'weigh', 'gecko']",True,5
+geeky,"['least', 'never', 'hedge', 'geeky']",True,4
+geese,"['least', 'sense', 'verse', 'geese']",True,4
+genie,"['least', 'never', 'hence', 'genie']",True,4
+genre,"['least', 'never', 'genre']",True,3
+ghost,"['least', 'first', 'ghost']",True,3
+ghoul,"['least', 'could', 'flour', 'ghoul']",True,4
+giant,"['least', 'grant', 'giant']",True,3
+giddy,"['least', 'round', 'giddy']",True,3
+gipsy,"['least', 'pussy', 'gypsy', 'gipsy']",True,4
+girly,"['least', 'could', 'billy', 'girly']",True,4
+girth,"['least', 'north', 'birth', 'girth']",True,4
+given,"['least', 'price', 'video', 'given']",True,4
+giver,"['least', 'price', 'river', 'diver', 'giver']",True,5
+glade,"['least', 'place', 'blade', 'glade']",True,4
+gland,"['least', 'black', 'plain', 'gland']",True,4
+glare,"['least', 'place', 'blade', 'flare', 'glare']",True,5
+glass,"['least', 'class', 'glass']",True,3
+glaze,"['least', 'place', 'blade', 'flare', 'glaze']",True,5
+gleam,"['least', 'cable', 'ideal', 'gleam']",True,4
+glean,"['least', 'cable', 'ideal', 'gleam', 'glean']",True,5
+glide,"['least', 'field', 'glide']",True,3
+glint,"['least', 'built', 'flint', 'clint', 'glint']",True,5
+gloat,"['least', 'adult', 'float', 'bloat', 'gloat']",True,5
+globe,"['least', 'field', 'novel', 'globe']",True,4
+gloom,"['least', 'could', 'floor', 'bloom', 'gloom']",True,5
+glory,"['least', 'could', 'floor', 'glory']",True,4
+gloss,"['least', 'floss', 'gloss']",True,3
+glove,"['least', 'field', 'novel', 'glove']",True,4
+glyph,"['least', 'could', 'vinyl', 'glyph']",True,4
+gnash,"['least', 'grass', 'gnash']",True,3
+gnome,"['least', 'price', 'judge', 'gnome']",True,4
+godly,"['least', 'could', 'dolly', 'godly']",True,4
+going,"['least', 'round', 'going']",True,3
+golem,"['least', 'field', 'novel', 'golem']",True,4
+golly,"['least', 'could', 'hollo', 'jolly', 'folly', 'molly']",False,6
+gonad,"['least', 'radio', 'honda', 'monad', 'gonad']",True,5
+goner,"['least', 'price', 'owner', 'boner', 'goner']",True,5
+goody,"['least', 'round', 'howdy', 'moody', 'goody']",True,5
+gooey,"['least', 'price', 'women', 'boxed', 'gooey']",True,5
+goofy,"['least', 'round', 'combo', 'goofy']",True,4
+goose,"['least', 'horse', 'noise', 'mouse', 'posse', 'goose']",True,6
+gorge,"['least', 'price', 'where', 'forge', 'gorge']",True,5
+gouge,"['least', 'price', 'judge', 'gouge']",True,4
+gourd,"['least', 'round', 'gourd']",True,3
+grace,"['least', 'grade', 'grace']",True,3
+grade,"['least', 'grade']",True,2
+graft,"['least', 'grant', 'graft']",True,3
+grail,"['least', 'black', 'grail']",True,3
+grain,"['least', 'brand', 'grain']",True,3
+grand,"['least', 'brand', 'grand']",True,3
+grant,"['least', 'grant']",True,2
+grape,"['least', 'grade', 'grace', 'grave', 'grape']",True,5
+graph,"['least', 'brand', 'crazy', 'graph']",True,4
+grasp,"['least', 'grass', 'grasp']",True,3
+grass,"['least', 'grass']",True,2
+grate,"['least', 'trade', 'crate', 'grate']",True,4
+grave,"['least', 'grade', 'grace', 'grave']",True,4
+gravy,"['least', 'brand', 'crazy', 'gravy']",True,4
+graze,"['least', 'grade', 'grace', 'grave', 'grape', 'graze']",True,6
+great,"['least', 'great']",True,2
+greed,"['least', 'price', 'order', 'breed', 'freed', 'greed']",True,6
+green,"['least', 'price', 'order', 'green']",True,4
+greet,"['least', 'event', 'greet']",True,3
+grief,"['least', 'price', 'brief', 'grief']",True,4
+grill,"['least', 'could', 'billy', 'grill']",True,4
+grime,"['least', 'price', 'drive', 'brine', 'grime']",True,5
+grimy,"['least', 'round', 'brick', 'privy', 'grimy']",True,5
+grind,"['least', 'round', 'grind']",True,3
+gripe,"['least', 'price', 'gripe']",True,3
+groan,"['least', 'radio', 'arrow', 'organ', 'groan']",True,5
+groin,"['least', 'round', 'brown', 'groin']",True,4
+groom,"['least', 'round', 'prior', 'brook', 'groom']",True,5
+grope,"['least', 'price', 'grope']",True,3
+gross,"['least', 'pussy', 'cross', 'gross']",True,4
+group,"['least', 'round', 'group']",True,3
+grout,"['least', 'point', 'ought', 'grout']",True,4
+grove,"['least', 'price', 'drove', 'grove']",True,4
+growl,"['least', 'could', 'floor', 'growl']",True,4
+grown,"['least', 'round', 'brown', 'crown', 'grown']",True,5
+gruel,"['least', 'field', 'novel', 'excel', 'rubel', 'gruel']",True,6
+gruff,"['least', 'round', 'crumb', 'gruff']",True,4
+grunt,"['least', 'point', 'burnt', 'grunt']",True,4
+guard,"['least', 'brand', 'award', 'chard', 'guard']",True,5
+guava,"['least', 'brand', 'coach', 'guava']",True,4
+guess,"['least', 'horse', 'guess']",True,3
+guest,"['least', 'guest']",True,2
+guide,"['least', 'price', 'guide']",True,3
+guild,"['least', 'could', 'build', 'guild']",True,4
+guile,"['least', 'field', 'while', 'exile', 'guile']",True,5
+guilt,"['least', 'built', 'quilt', 'guilt']",True,4
+guise,"['least', 'horse', 'guise']",True,3
+gulch,"['least', 'could', 'mulch', 'gulch']",True,4
+gully,"['least', 'could', 'fully', 'bully', 'gully']",True,5
+gumbo,"['least', 'round', 'jumbo', 'gumbo']",True,4
+gummy,"['least', 'round', 'quick', 'guppy', 'gummy']",True,5
+guppy,"['least', 'round', 'quick', 'guppy']",True,4
+gusto,"['least', 'story', 'posts', 'gusto']",True,4
+gusty,"['least', 'story', 'misty', 'dusty', 'busty', 'gusty']",True,6
+gypsy,"['least', 'pussy', 'gypsy']",True,3
+habit,"['least', 'about', 'habit']",True,3
+hairy,"['least', 'radio', 'hairy']",True,3
+halve,"['least', 'cable', 'value', 'halve']",True,4
+handy,"['least', 'radio', 'candy', 'handy']",True,4
+happy,"['least', 'radio', 'japan', 'happy']",True,4
+hardy,"['least', 'radio', 'hardy']",True,3
+harem,"['least', 'range', 'paper', 'warez', 'cared', 'harem']",True,6
+harpy,"['least', 'radio', 'march', 'harry', 'harpy']",True,5
+harry,"['least', 'radio', 'march', 'harry']",True,4
+harsh,"['least', 'sassy', 'marsh', 'harsh']",True,4
+haste,"['least', 'waste', 'taste', 'paste', 'caste', 'haste']",True,6
+hasty,"['least', 'parts', 'nasty', 'tasty', 'hasty']",True,5
+hatch,"['least', 'party', 'match', 'watch', 'catch', 'batch']",False,6
+hater,"['least', 'water', 'cater', 'eater', 'mater', 'hater']",True,6
+haunt,"['least', 'about', 'haunt']",True,3
+haute,"['least', 'water', 'haute']",True,3
+haven,"['least', 'range', 'naked', 'haven']",True,4
+havoc,"['least', 'radio', 'canon', 'havoc']",True,4
+hazel,"['least', 'cable', 'panel', 'hazel']",True,4
+heady,"['least', 'heard', 'heady']",True,3
+heard,"['least', 'heard']",True,2
+heart,"['least', 'heart']",True,2
+heath,"['least', 'death', 'heath']",True,3
+heave,"['least', 'heard', 'heavy', 'heave']",True,4
+heavy,"['least', 'heard', 'heavy']",True,3
+hedge,"['least', 'never', 'hedge']",True,3
+hefty,"['least', 'peter', 'teddy', 'hefty']",True,4
+heist,"['least', 'heist']",True,2
+helix,"['least', 'below', 'celli', 'helix']",True,4
+hello,"['least', 'below', 'hello']",True,3
+hence,"['least', 'never', 'hence']",True,3
+heron,"['least', 'never', 'reign', 'heron']",True,4
+hilly,"['least', 'could', 'billy', 'willy', 'hilly']",True,5
+hinge,"['least', 'price', 'movie', 'hinge']",True,4
+hippo,"['least', 'round', 'chico', 'hippo']",True,4
+hippy,"['least', 'round', 'which', 'hippy']",True,4
+hitch,"['least', 'north', 'dutch', 'pitch', 'witch', 'bitch']",False,6
+hoard,"['least', 'brand', 'award', 'chard', 'hoard']",True,5
+hobby,"['least', 'round', 'combo', 'bobby', 'hobby']",True,5
+hoist,"['least', 'first', 'moist', 'hoist']",True,4
+holly,"['least', 'could', 'hollo', 'holly']",True,4
+homer,"['least', 'price', 'owner', 'rover', 'yoker', 'homer']",True,6
+honey,"['least', 'price', 'women', 'honey']",True,4
+honor,"['least', 'round', 'honor']",True,3
+horde,"['least', 'price', 'where', 'horde']",True,4
+horny,"['least', 'round', 'horny']",True,3
+horse,"['least', 'horse']",True,2
+hotel,"['least', 'title', 'hotel']",True,3
+hotly,"['least', 'until', 'hotly']",True,3
+hound,"['least', 'round', 'found', 'bound', 'pound', 'wound']",False,6
+house,"['least', 'horse', 'house']",True,3
+hovel,"['least', 'field', 'novel', 'hovel']",True,4
+hover,"['least', 'price', 'owner', 'rover', 'mover', 'dover']",False,6
+howdy,"['least', 'round', 'howdy']",True,3
+human,"['least', 'radio', 'human']",True,3
+humid,"['least', 'round', 'cupid', 'humid']",True,4
+humor,"['least', 'round', 'group', 'humor']",True,4
+humph,"['least', 'round', 'quick', 'guppy', 'humph']",True,5
+humus,"['least', 'hours', 'hunks', 'humps', 'humus']",True,5
+hunch,"['least', 'round', 'bunch', 'punch', 'munch', 'hunch']",True,6
+hunky,"['least', 'round', 'bunch', 'hunky']",True,4
+hurry,"['least', 'round', 'chiru', 'hurry']",True,4
+husky,"['least', 'hours', 'husky']",True,3
+hussy,"['least', 'pussy', 'fussy', 'hussy']",True,4
+hutch,"['least', 'north', 'dutch', 'hutch']",True,4
+hydro,"['least', 'round', 'hydro']",True,3
+hyena,"['least', 'range', 'amend', 'hyena']",True,4
+hymen,"['least', 'price', 'women', 'hymen']",True,4
+hyper,"['least', 'price', 'upper', 'hyper']",True,4
+icily,"['least', 'could', 'icily']",True,3
+icing,"['least', 'round', 'ching', 'icing']",True,4
+ideal,"['least', 'cable', 'ideal']",True,3
+idiom,"['least', 'round', 'widow', 'idiom']",True,4
+idiot,"['least', 'point', 'idiot']",True,3
+idler,"['least', 'field', 'glide', 'idler']",True,4
+idyll,"['least', 'could', 'drill', 'idyll']",True,4
+igloo,"['least', 'could', 'floor', 'igloo']",True,4
+iliac,"['least', 'royal', 'iliad', 'iliac']",True,4
+image,"['least', 'grade', 'image']",True,3
+imbue,"['least', 'price', 'movie', 'gimme', 'imbue']",True,5
+impel,"['least', 'field', 'olive', 'impel']",True,4
+imply,"['least', 'could', 'billy', 'imply']",True,4
+inane,"['least', 'grade', 'awake', 'inane']",True,4
+inbox,"['least', 'round', 'known', 'inbox']",True,4
+incur,"['least', 'round', 'incur']",True,3
+index,"['least', 'price', 'video', 'index']",True,4
+inept,"['least', 'event', 'inert', 'inept']",True,4
+inert,"['least', 'event', 'inert']",True,3
+infer,"['least', 'price', 'river', 'inner', 'infer']",True,5
+ingot,"['least', 'point', 'ingot']",True,3
+inlay,"['least', 'royal', 'inlay']",True,3
+inlet,"['least', 'fleet', 'inlet']",True,3
+inner,"['least', 'price', 'river', 'inner']",True,4
+input,"['least', 'point', 'input']",True,3
+inter,"['least', 'their', 'inter']",True,3
+intro,"['least', 'north', 'intro']",True,3
+ionic,"['least', 'round', 'ionic']",True,3
+irate,"['least', 'trade', 'crate', 'grate', 'irate']",True,5
+irony,"['least', 'round', 'wrong', 'irony']",True,4
+islet,"['least', 'slept', 'islet']",True,3
+issue,"['least', 'since', 'issue']",True,3
+itchy,"['least', 'north', 'thick', 'itchy']",True,4
+ivory,"['least', 'round', 'prior', 'micro', 'ivory']",True,5
+jaunt,"['least', 'about', 'haunt', 'gaunt', 'taunt', 'jaunt']",True,6
+jazzy,"['least', 'radio', 'japan', 'jazzy']",True,4
+jelly,"['least', 'below', 'celli', 'kelly', 'nelly', 'jelly']",True,6
+jerky,"['least', 'never', 'kerry', 'perky', 'jerky']",True,5
+jetty,"['least', 'peter', 'fetid', 'betty', 'jetty']",True,5
+jewel,"['least', 'below', 'newly', 'jewel']",True,4
+jiffy,"['least', 'round', 'which', 'jiffy']",True,4
+joint,"['least', 'point', 'joint']",True,3
+joist,"['least', 'first', 'moist', 'hoist', 'joist']",True,5
+joker,"['least', 'price', 'owner', 'rover', 'yoker', 'joker']",True,6
+jolly,"['least', 'could', 'hollo', 'jolly']",True,4
+joust,"['least', 'first', 'ghost', 'joust']",True,4
+judge,"['least', 'price', 'judge']",True,3
+juice,"['least', 'price', 'voice', 'juice']",True,4
+juicy,"['least', 'round', 'quick', 'juicy']",True,4
+jumbo,"['least', 'round', 'jumbo']",True,3
+jumpy,"['least', 'round', 'quick', 'guppy', 'bumpy', 'jumpy']",True,6
+junta,"['least', 'party', 'gotta', 'junta']",True,4
+junto,"['least', 'north', 'pinto', 'junto']",True,4
+juror,"['least', 'round', 'group', 'humor', 'juror']",True,5
+kappa,"['least', 'radio', 'japan', 'kappa']",True,4
+karma,"['least', 'radio', 'march', 'karma']",True,4
+kayak,"['least', 'radio', 'japan', 'kayak']",True,4
+kebab,"['least', 'began', 'rehab', 'kebab']",True,4
+khaki,"['least', 'brand', 'coach', 'khaki']",True,4
+kinky,"['least', 'round', 'nymph', 'kinky']",True,4
+kiosk,"['least', 'pussy', 'brisk', 'kiosk']",True,4
+kitty,"['least', 'north', 'kitty']",True,3
+knack,"['least', 'brand', 'again', 'knack']",True,4
+knave,"['least', 'grade', 'awake', 'knave']",True,4
+knead,"['least', 'range', 'amend', 'knead']",True,4
+kneed,"['least', 'price', 'women', 'ended', 'kneed']",True,5
+kneel,"['least', 'field', 'wheel', 'kneel']",True,4
+knelt,"['least', 'fleet', 'dwelt', 'knelt']",True,4
+knife,"['least', 'price', 'guide', 'whine', 'knife']",True,5
+knock,"['least', 'round', 'known', 'knock']",True,4
+knoll,"['least', 'could', 'knoll']",True,3
+known,"['least', 'round', 'known']",True,3
+koala,"['least', 'black', 'koala']",True,3
+krill,"['least', 'could', 'billy', 'grill', 'krill']",True,5
+label,"['least', 'large', 'label']",True,3
+labor,"['least', 'local', 'labor']",True,3
+laden,"['least', 'large', 'label', 'laden']",True,4
+ladle,"['least', 'large', 'lance', 'ladle']",True,4
+lager,"['least', 'large', 'lager']",True,3
+lance,"['least', 'large', 'lance']",True,3
+lanky,"['least', 'local', 'laura', 'lakin', 'lanky']",True,5
+lapel,"['least', 'large', 'label', 'lapel']",True,4
+lapse,"['least', 'lapse']",True,2
+large,"['least', 'large']",True,2
+larva,"['least', 'local', 'laura', 'larva']",True,4
+lasso,"['least', 'lasso']",True,2
+latch,"['least', 'latch']",True,2
+later,"['least', 'later']",True,2
+lathe,"['least', 'later', 'lathe']",True,3
+latte,"['least', 'later', 'lathe', 'latte']",True,4
+laugh,"['least', 'local', 'laura', 'laugh']",True,4
+layer,"['least', 'large', 'layer']",True,3
+leach,"['least', 'learn', 'leave', 'leafy', 'leach']",True,5
+leafy,"['least', 'learn', 'leave', 'leafy']",True,4
+leaky,"['least', 'learn', 'leave', 'leafy', 'leaky']",True,5
+leant,"['least', 'leapt', 'leant']",True,3
+leapt,"['least', 'leapt']",True,2
+learn,"['least', 'learn']",True,2
+lease,"['least', 'lease']",True,2
+leash,"['least', 'lease', 'leash']",True,3
+least,['least'],True,1
+leave,"['least', 'learn', 'leave']",True,3
+ledge,"['least', 'level', 'leech', 'leone', 'ledge']",True,5
+leech,"['least', 'level', 'leech']",True,3
+leery,"['least', 'level', 'leech', 'leery']",True,4
+lefty,"['least', 'lefty']",True,2
+legal,"['least', 'legal']",True,2
+leggy,"['least', 'level', 'lemon', 'leggy']",True,4
+lemon,"['least', 'level', 'lemon']",True,3
+lemur,"['least', 'level', 'lemon', 'lemur']",True,4
+leper,"['least', 'level', 'leger', 'leper']",True,4
+level,"['least', 'level']",True,2
+lever,"['least', 'level', 'lever']",True,3
+libel,"['least', 'lower', 'lined', 'libel']",True,4
+liege,"['least', 'lower', 'ligne', 'liege']",True,4
+light,"['least', 'light']",True,2
+liken,"['least', 'lower', 'lined', 'liven', 'liken']",True,5
+lilac,"['least', 'local', 'lilac']",True,3
+limbo,"['least', 'linux', 'lipid', 'limbo']",True,4
+limit,"['least', 'light', 'limit']",True,3
+linen,"['least', 'lower', 'lined', 'linen']",True,4
+liner,"['least', 'lower', 'liver', 'liner']",True,4
+lingo,"['least', 'linux', 'lingo']",True,3
+lipid,"['least', 'linux', 'lipid']",True,3
+lithe,"['least', 'liter', 'lithe']",True,3
+liver,"['least', 'lower', 'liver']",True,3
+livid,"['least', 'linux', 'lipid', 'livid']",True,4
+llama,"['least', 'llama']",True,2
+loamy,"['least', 'llama', 'loamy']",True,3
+loath,"['least', 'loath']",True,2
+lobby,"['least', 'linux', 'lowry', 'lobby']",True,4
+local,"['least', 'local']",True,2
+locus,"['least', 'looks', 'louis', 'locus']",True,4
+lodge,"['least', 'lower', 'lodge']",True,3
+lofty,"['least', 'lotto', 'lofty']",True,3
+logic,"['least', 'linux', 'logic']",True,3
+login,"['least', 'linux', 'login']",True,3
+loopy,"['least', 'linux', 'lowry', 'lobby', 'loopy']",True,5
+loose,"['least', 'loose']",True,2
+lorry,"['least', 'linux', 'lowry', 'lorry']",True,4
+loser,"['least', 'lines', 'loser']",True,3
+louse,"['least', 'loose', 'louse']",True,3
+lousy,"['least', 'lousy']",True,2
+lover,"['least', 'lower', 'lover']",True,3
+lower,"['least', 'lower']",True,2
+lowly,"['least', 'linux', 'lowry', 'lowly']",True,4
+loyal,"['least', 'local', 'loyal']",True,3
+lucid,"['least', 'linux', 'lucid']",True,3
+lucky,"['least', 'linux', 'lucky']",True,3
+lumen,"['least', 'lower', 'lined', 'lumen']",True,4
+lumpy,"['least', 'linux', 'lucky', 'lumpy']",True,4
+lunar,"['least', 'local', 'lunar']",True,3
+lunch,"['least', 'linux', 'lunch']",True,3
+lunge,"['least', 'lower', 'ligne', 'lunge']",True,4
+lupus,"['least', 'looks', 'lungs', 'lupus']",True,4
+lurch,"['least', 'linux', 'lucky', 'lurch']",True,4
+lurid,"['least', 'linux', 'lucid', 'lurid']",True,4
+lusty,"['least', 'lists', 'lusty']",True,3
+lying,"['least', 'linux', 'login', 'lying']",True,4
+lymph,"['least', 'linux', 'lowry', 'lymph']",True,4
+lynch,"['least', 'linux', 'lynch']",True,3
+lyric,"['least', 'linux', 'logic', 'lyric']",True,4
+macaw,"['least', 'radio', 'japan', 'kayak', 'macaw']",True,5
+macho,"['least', 'radio', 'campo', 'macho']",True,4
+macro,"['least', 'radio', 'macro']",True,3
+madam,"['least', 'radio', 'daddy', 'madam']",True,4
+madly,"['least', 'royal', 'daily', 'badly', 'madly']",True,5
+mafia,"['least', 'radio', 'magic', 'mania', 'mafia']",True,5
+magic,"['least', 'radio', 'magic']",True,3
+magma,"['least', 'radio', 'japan', 'gamma', 'magma']",True,5
+maize,"['least', 'range', 'maybe', 'maize']",True,4
+major,"['least', 'radio', 'major']",True,3
+maker,"['least', 'range', 'paper', 'maker']",True,4
+mambo,"['least', 'radio', 'campo', 'mambo']",True,4
+mamma,"['least', 'radio', 'japan', 'gamma', 'mamma']",True,5
+mammy,"['least', 'radio', 'japan', 'gawcy', 'mammy']",True,5
+manga,"['least', 'radio', 'japan', 'manga']",True,4
+mange,"['least', 'range', 'mange']",True,3
+mango,"['least', 'radio', 'campo', 'mango']",True,4
+mangy,"['least', 'radio', 'japan', 'nancy', 'hanky', 'mangy']",True,6
+mania,"['least', 'radio', 'magic', 'mania']",True,4
+manic,"['least', 'radio', 'magic', 'manic']",True,4
+manly,"['least', 'royal', 'daily', 'wally', 'manly']",True,5
+manor,"['least', 'radio', 'major', 'mayor', 'manor']",True,5
+maple,"['least', 'cable', 'eagle', 'maple']",True,4
+march,"['least', 'radio', 'march']",True,3
+marry,"['least', 'radio', 'march', 'marry']",True,4
+marsh,"['least', 'sassy', 'marsh']",True,3
+mason,"['least', 'cards', 'mason']",True,3
+masse,"['least', 'cause', 'raise', 'passe', 'masse']",True,5
+match,"['least', 'party', 'match']",True,3
+matey,"['least', 'water', 'eaten', 'dated', 'matey']",True,5
+mauve,"['least', 'range', 'maybe', 'maize', 'mauve']",True,5
+maxim,"['least', 'radio', 'magic', 'mania', 'maxim']",True,5
+maybe,"['least', 'range', 'maybe']",True,3
+mayor,"['least', 'radio', 'major', 'mayor']",True,4
+mealy,"['least', 'pearl', 'heald', 'mealy']",True,4
+meant,"['least', 'heart', 'meant']",True,3
+meaty,"['least', 'death', 'meaty']",True,3
+mecca,"['least', 'began', 'media', 'mecca']",True,4
+medal,"['least', 'delay', 'medal']",True,3
+media,"['least', 'began', 'media']",True,3
+medic,"['least', 'never', 'debug', 'medic']",True,4
+melee,"['least', 'below', 'celli', 'melee']",True,4
+melon,"['least', 'below', 'melon']",True,3
+mercy,"['least', 'never', 'kerry', 'mercy']",True,4
+merge,"['least', 'never', 'merge']",True,3
+merit,"['least', 'debit', 'merit']",True,3
+merry,"['least', 'never', 'kerry', 'ferry', 'berry', 'jerry']",False,6
+metal,"['least', 'metal']",True,2
+meter,"['least', 'peter', 'meter']",True,3
+metro,"['least', 'peter', 'metro']",True,3
+micro,"['least', 'round', 'prior', 'micro']",True,4
+midge,"['least', 'price', 'movie', 'midge']",True,4
+midst,"['least', 'first', 'midst']",True,3
+might,"['least', 'point', 'right', 'might']",True,4
+milky,"['least', 'could', 'vinyl', 'milky']",True,4
+mimic,"['least', 'round', 'which', 'civic', 'mimic']",True,5
+mince,"['least', 'price', 'wince', 'mince']",True,4
+miner,"['least', 'price', 'river', 'fiber', 'wider', 'mixer']",False,6
+minim,"['least', 'round', 'nymph', 'minim']",True,4
+minor,"['least', 'round', 'brown', 'minor']",True,4
+minty,"['least', 'north', 'unity', 'minty']",True,4
+minus,"['least', 'hours', 'funds', 'minus']",True,4
+mirth,"['least', 'north', 'birth', 'girth', 'firth', 'mirth']",True,6
+miser,"['least', 'since', 'views', 'riser', 'miser']",True,5
+missy,"['least', 'pussy', 'missy']",True,3
+mocha,"['least', 'radio', 'among', 'comma', 'mocha']",True,5
+modal,"['least', 'royal', 'vocal', 'modal']",True,4
+model,"['least', 'field', 'older', 'model']",True,4
+modem,"['least', 'price', 'women', 'moved', 'modem']",True,5
+mogul,"['least', 'could', 'mogul']",True,3
+moist,"['least', 'first', 'moist']",True,3
+molar,"['least', 'royal', 'polar', 'molar']",True,4
+moldy,"['least', 'could', 'dolor', 'moldy']",True,4
+money,"['least', 'price', 'women', 'money']",True,4
+month,"['least', 'north', 'month']",True,3
+moody,"['least', 'round', 'howdy', 'moody']",True,4
+moose,"['least', 'horse', 'noise', 'mouse', 'moose']",True,5
+moral,"['least', 'royal', 'moral']",True,3
+moron,"['least', 'round', 'honor', 'moron']",True,4
+morph,"['least', 'round', 'morro', 'morph']",True,4
+mossy,"['least', 'pussy', 'missy', 'mossy']",True,4
+motel,"['least', 'title', 'hotel', 'motel']",True,4
+motif,"['least', 'north', 'topic', 'motif']",True,4
+motor,"['least', 'north', 'motor']",True,3
+motto,"['least', 'north', 'booty', 'motto']",True,4
+moult,"['least', 'built', 'moult']",True,3
+mound,"['least', 'round', 'found', 'bound', 'pound', 'wound']",False,6
+mount,"['least', 'point', 'count', 'mount']",True,4
+mourn,"['least', 'round', 'mourn']",True,3
+mouse,"['least', 'horse', 'noise', 'mouse']",True,4
+mouth,"['least', 'north', 'youth', 'mouth']",True,4
+mover,"['least', 'price', 'owner', 'rover', 'mover']",True,5
+movie,"['least', 'price', 'movie']",True,3
+mower,"['least', 'price', 'owner', 'mower']",True,4
+mucky,"['least', 'round', 'quick', 'yucky', 'mucky']",True,5
+mucus,"['least', 'hours', 'funds', 'pumps', 'mucus']",True,5
+muddy,"['least', 'round', 'buddy', 'muddy']",True,4
+mulch,"['least', 'could', 'mulch']",True,3
+mummy,"['least', 'round', 'quick', 'guppy', 'fuzzy', 'mummy']",True,6
+munch,"['least', 'round', 'bunch', 'punch', 'munch']",True,5
+mural,"['least', 'royal', 'viral', 'mural']",True,4
+murky,"['least', 'round', 'chiru', 'murky']",True,4
+mushy,"['least', 'hours', 'sumph', 'mushy']",True,4
+music,"['least', 'hours', 'music']",True,3
+musky,"['least', 'hours', 'music', 'musky']",True,4
+musty,"['least', 'story', 'misty', 'musty']",True,4
+myrrh,"['least', 'round', 'brick', 'myrrh']",True,4
+nadir,"['least', 'radio', 'nadir']",True,3
+naive,"['least', 'range', 'naive']",True,3
+nanny,"['least', 'radio', 'japan', 'nancy', 'nanny']",True,5
+nasal,"['least', 'calls', 'basil', 'nasal']",True,4
+nasty,"['least', 'parts', 'nasty']",True,3
+natal,"['least', 'total', 'fatal', 'natal']",True,4
+naval,"['least', 'royal', 'final', 'naval']",True,4
+navel,"['least', 'cable', 'panel', 'navel']",True,4
+needy,"['least', 'never', 'needy']",True,3
+neigh,"['least', 'never', 'neigh']",True,3
+nerdy,"['least', 'never', 'negro', 'nerdy']",True,4
+nerve,"['least', 'never', 'nerve']",True,3
+never,"['least', 'never']",True,2
+newer,"['least', 'never', 'newer']",True,3
+newly,"['least', 'below', 'newly']",True,3
+nicer,"['least', 'price', 'cider', 'nicer']",True,4
+niche,"['least', 'price', 'niche']",True,3
+niece,"['least', 'price', 'wince', 'niece']",True,4
+night,"['least', 'point', 'night']",True,3
+ninja,"['least', 'radio', 'china', 'ninja']",True,4
+ninny,"['least', 'round', 'ching', 'finny', 'ninny']",True,5
+ninth,"['least', 'north', 'ninth']",True,3
+noble,"['least', 'field', 'noble']",True,3
+nobly,"['least', 'could', 'hollo', 'nobly']",True,4
+noise,"['least', 'horse', 'noise']",True,3
+noisy,"['least', 'pussy', 'noisy']",True,3
+nomad,"['least', 'radio', 'honda', 'nomad']",True,4
+noose,"['least', 'horse', 'noise', 'noose']",True,4
+north,"['least', 'north']",True,2
+nosey,"['least', 'since', 'opens', 'nosed', 'nosey']",True,5
+notch,"['least', 'north', 'notch']",True,3
+novel,"['least', 'field', 'novel']",True,3
+nudge,"['least', 'price', 'judge', 'fudge', 'nudge']",True,5
+nurse,"['least', 'horse', 'nurse']",True,3
+nutty,"['least', 'north', 'nifty', 'nutty']",True,4
+nylon,"['least', 'could', 'floor', 'nylon']",True,4
+nymph,"['least', 'round', 'nymph']",True,3
+oaken,"['least', 'range', 'naked', 'oaken']",True,4
+obese,"['least', 'horse', 'obese']",True,3
+occur,"['least', 'round', 'group', 'occur']",True,4
+ocean,"['least', 'range', 'amend', 'ocean']",True,4
+octal,"['least', 'total', 'octal']",True,3
+octet,"['least', 'event', 'comet', 'octet']",True,4
+odder,"['least', 'price', 'owner', 'offer', 'odder']",True,5
+oddly,"['least', 'could', 'oddly']",True,3
+offal,"['least', 'royal', 'offal']",True,3
+offer,"['least', 'price', 'owner', 'offer']",True,4
+often,"['least', 'their', 'quote', 'often']",True,4
+olden,"['least', 'field', 'older', 'olden']",True,4
+older,"['least', 'field', 'older']",True,3
+olive,"['least', 'field', 'olive']",True,3
+ombre,"['least', 'price', 'where', 'ombre']",True,4
+omega,"['least', 'range', 'omega']",True,3
+onion,"['least', 'round', 'known', 'onion']",True,4
+onset,"['least', 'spent', 'onset']",True,3
+opera,"['least', 'range', 'break', 'opera']",True,4
+opine,"['least', 'price', 'opine']",True,3
+opium,"['least', 'round', 'jumbo', 'opium']",True,4
+optic,"['least', 'north', 'outdo', 'optic']",True,4
+orbit,"['least', 'point', 'orbit']",True,3
+order,"['least', 'price', 'order']",True,3
+organ,"['least', 'radio', 'arrow', 'organ']",True,4
+other,"['least', 'their', 'other']",True,3
+otter,"['least', 'their', 'outer', 'otter']",True,4
+ought,"['least', 'point', 'ought']",True,3
+ounce,"['least', 'price', 'ounce']",True,3
+outdo,"['least', 'north', 'outdo']",True,3
+outer,"['least', 'their', 'outer']",True,3
+outgo,"['least', 'north', 'outdo', 'outgo']",True,4
+ovary,"['least', 'brand', 'chair', 'quark', 'ovary']",True,5
+ovate,"['least', 'trade', 'agate', 'ovate']",True,4
+overt,"['least', 'event', 'overt']",True,3
+ovine,"['least', 'price', 'guide', 'whine', 'ezine', 'ovine']",True,6
+ovoid,"['least', 'round', 'ovoid']",True,3
+owing,"['least', 'round', 'owing']",True,3
+owner,"['least', 'price', 'owner']",True,3
+oxide,"['least', 'price', 'guide', 'oxide']",True,4
+ozone,"['least', 'price', 'judge', 'ozone']",True,4
+paddy,"['least', 'radio', 'daddy', 'paddy']",True,4
+pagan,"['least', 'radio', 'japan', 'pagan']",True,4
+paint,"['least', 'about', 'paint']",True,3
+paler,"['least', 'cable', 'panel', 'paler']",True,4
+palsy,"['least', 'salsa', 'palsy']",True,3
+panel,"['least', 'cable', 'panel']",True,3
+panic,"['least', 'radio', 'magic', 'panic']",True,4
+pansy,"['least', 'sassy', 'daisy', 'pansy']",True,4
+papal,"['least', 'royal', 'final', 'papal']",True,4
+paper,"['least', 'range', 'paper']",True,3
+parer,"['least', 'range', 'paper', 'payer', 'pacer', 'paver']",False,6
+parka,"['least', 'radio', 'march', 'barry', 'varna', 'parka']",True,6
+parry,"['least', 'radio', 'march', 'barry', 'parry']",True,5
+parse,"['least', 'cause', 'raise', 'parse']",True,4
+party,"['least', 'party']",True,2
+pasta,"['least', 'parts', 'pasta']",True,3
+paste,"['least', 'waste', 'taste', 'paste']",True,4
+pasty,"['least', 'parts', 'pasta', 'pasty']",True,4
+patch,"['least', 'party', 'patch']",True,3
+patio,"['least', 'party', 'patch', 'patio']",True,4
+patsy,"['least', 'patsy']",True,2
+patty,"['least', 'party', 'panty', 'patty']",True,4
+pause,"['least', 'cause', 'pause']",True,3
+payee,"['least', 'range', 'maybe', 'payee']",True,4
+payer,"['least', 'range', 'paper', 'payer']",True,4
+peace,"['least', 'heard', 'peace']",True,3
+peach,"['least', 'heard', 'beach', 'peach']",True,4
+pearl,"['least', 'pearl']",True,2
+pecan,"['least', 'began', 'pecan']",True,3
+pedal,"['least', 'delay', 'medal', 'pedal']",True,4
+penal,"['least', 'delay', 'renal', 'penal']",True,4
+pence,"['least', 'never', 'hence', 'fence', 'pence']",True,5
+penne,"['least', 'never', 'hence', 'genie', 'penne']",True,5
+penny,"['least', 'never', 'being', 'penny']",True,4
+perch,"['least', 'never', 'kerry', 'xerox', 'perch']",True,5
+peril,"['least', 'below', 'reply', 'peril']",True,4
+perky,"['least', 'never', 'kerry', 'perky']",True,4
+pesky,"['least', 'seven', 'jesus', 'resid', 'pesky']",True,5
+pesto,"['least', 'tests', 'pesto']",True,3
+petal,"['least', 'metal', 'fetal', 'petal']",True,4
+petty,"['least', 'peter', 'petty']",True,3
+phase,"['least', 'phase']",True,2
+phone,"['least', 'price', 'phone']",True,3
+phony,"['least', 'round', 'owing', 'phono', 'phony']",True,5
+photo,"['least', 'north', 'photo']",True,3
+piano,"['least', 'brand', 'piano']",True,3
+picky,"['least', 'round', 'which', 'civic', 'picky']",True,5
+piece,"['least', 'price', 'piece']",True,3
+piety,"['least', 'their', 'piety']",True,3
+piggy,"['least', 'round', 'which', 'jiffy', 'piggy']",True,5
+pilot,"['least', 'built', 'pilot']",True,3
+pinch,"['least', 'round', 'nymph', 'pinch']",True,4
+piney,"['least', 'price', 'piped', 'piney']",True,4
+pinky,"['least', 'round', 'nymph', 'pinky']",True,4
+pinto,"['least', 'north', 'pinto']",True,3
+piper,"['least', 'price', 'piper']",True,3
+pique,"['least', 'price', 'pixie', 'pique']",True,4
+pitch,"['least', 'north', 'dutch', 'pitch']",True,4
+pithy,"['least', 'north', 'thick', 'pithy']",True,4
+pivot,"['least', 'point', 'pivot']",True,3
+pixel,"['least', 'field', 'pixel']",True,3
+pixie,"['least', 'price', 'pixie']",True,3
+pizza,"['least', 'radio', 'china', 'pizza']",True,4
+place,"['least', 'place']",True,2
+plaid,"['least', 'black', 'plain', 'plaid']",True,4
+plain,"['least', 'black', 'plain']",True,3
+plait,"['least', 'plant', 'platt', 'plait']",True,4
+plane,"['least', 'place', 'plane']",True,3
+plank,"['least', 'black', 'plank']",True,3
+plant,"['least', 'plant']",True,2
+plate,"['least', 'plate']",True,2
+plaza,"['least', 'black', 'plain', 'plaza']",True,4
+plead,"['least', 'cable', 'ideal', 'plead']",True,4
+pleat,"['least', 'alert', 'cleat', 'pleat']",True,4
+plied,"['least', 'field', 'plied']",True,3
+plier,"['least', 'field', 'olive', 'plier']",True,4
+pluck,"['least', 'could', 'pluck']",True,3
+plumb,"['least', 'could', 'bluff', 'plumb']",True,4
+plume,"['least', 'field', 'novel', 'plume']",True,4
+plump,"['least', 'could', 'bluff', 'plump']",True,4
+plunk,"['least', 'could', 'bluff', 'plump', 'plunk']",True,5
+plush,"['least', 'floss', 'plush']",True,3
+poesy,"['least', 'horse', 'poesy']",True,3
+point,"['least', 'point']",True,2
+poise,"['least', 'horse', 'noise', 'poise']",True,4
+poker,"['least', 'price', 'power', 'poker']",True,4
+polar,"['least', 'royal', 'polar']",True,3
+polka,"['least', 'royal', 'polka']",True,3
+polyp,"['least', 'could', 'folio', 'polyp']",True,4
+pooch,"['least', 'round', 'combo', 'pooch']",True,4
+poppy,"['least', 'round', 'combo', 'poppy']",True,4
+porch,"['least', 'round', 'morro', 'porch']",True,4
+poser,"['least', 'since', 'users', 'poser']",True,4
+posit,"['least', 'short', 'posit']",True,3
+posse,"['least', 'horse', 'noise', 'mouse', 'posse']",True,5
+pouch,"['least', 'round', 'couch', 'pouch']",True,4
+pound,"['least', 'round', 'found', 'bound', 'pound']",True,5
+pouty,"['least', 'north', 'booty', 'potty', 'pouty']",True,5
+power,"['least', 'price', 'power']",True,3
+prank,"['least', 'brand', 'franc', 'prank']",True,4
+prawn,"['least', 'brand', 'grain', 'prawn']",True,4
+preen,"['least', 'price', 'preen']",True,3
+press,"['least', 'horse', 'press']",True,3
+price,"['least', 'price']",True,2
+prick,"['least', 'round', 'brick', 'prick']",True,4
+pride,"['least', 'price', 'prime', 'prize', 'pride']",True,5
+pried,"['least', 'price', 'pried']",True,3
+prime,"['least', 'price', 'prime']",True,3
+primo,"['least', 'round', 'prior', 'primo']",True,4
+print,"['least', 'point', 'print']",True,3
+prior,"['least', 'round', 'prior']",True,3
+prism,"['least', 'pussy', 'prism']",True,3
+privy,"['least', 'round', 'brick', 'privy']",True,4
+prize,"['least', 'price', 'prime', 'prize']",True,4
+probe,"['least', 'price', 'prove', 'probe']",True,4
+prone,"['least', 'price', 'prove', 'probe', 'prone']",True,5
+prong,"['least', 'round', 'wrong', 'prong']",True,4
+proof,"['least', 'round', 'prior', 'proof']",True,4
+prose,"['least', 'horse', 'prose']",True,3
+proud,"['least', 'round', 'proud']",True,3
+prove,"['least', 'price', 'prove']",True,3
+prowl,"['least', 'could', 'floor', 'growl', 'prowl']",True,5
+proxy,"['least', 'round', 'prior', 'proxy']",True,4
+prude,"['least', 'price', 'prove', 'prune', 'prude']",True,5
+prune,"['least', 'price', 'prove', 'prune']",True,4
+psalm,"['least', 'shall', 'goals', 'psalm']",True,4
+pubic,"['least', 'round', 'quick', 'cubic', 'pubic']",True,5
+pudgy,"['least', 'round', 'buddy', 'pudgy']",True,4
+puffy,"['least', 'round', 'quick', 'guppy', 'puffy']",True,5
+pulpy,"['least', 'could', 'pupil', 'pulpy']",True,4
+pulse,"['least', 'close', 'pulse']",True,3
+punch,"['least', 'round', 'bunch', 'punch']",True,4
+pupal,"['least', 'royal', 'final', 'papal', 'pupal']",True,5
+pupil,"['least', 'could', 'pupil']",True,3
+puppy,"['least', 'round', 'quick', 'guppy', 'puppy']",True,5
+puree,"['least', 'price', 'purge', 'puree']",True,4
+purer,"['least', 'price', 'power', 'purer']",True,4
+purge,"['least', 'price', 'purge']",True,3
+purse,"['least', 'horse', 'nurse', 'purse']",True,4
+pushy,"['least', 'hours', 'sumph', 'pushy']",True,4
+putty,"['least', 'north', 'kitty', 'putty']",True,4
+pygmy,"['least', 'round', 'which', 'pygmy']",True,4
+quack,"['least', 'brand', 'coach', 'quack']",True,4
+quail,"['least', 'black', 'grail', 'avail', 'quail']",True,5
+quake,"['least', 'grade', 'awake', 'quake']",True,4
+qualm,"['least', 'black', 'grail', 'nyala', 'qualm']",True,5
+quark,"['least', 'brand', 'chair', 'quark']",True,4
+quart,"['least', 'grant', 'chart', 'apart', 'quart']",True,5
+quash,"['least', 'grass', 'awash', 'quash']",True,4
+quasi,"['least', 'grass', 'awash', 'quasi']",True,4
+queen,"['least', 'price', 'women', 'queen']",True,4
+queer,"['least', 'price', 'owner', 'buyer', 'queer']",True,5
+quell,"['least', 'field', 'quell']",True,3
+query,"['least', 'price', 'owner', 'every', 'query']",True,5
+quest,"['least', 'guest', 'quest']",True,3
+queue,"['least', 'price', 'judge', 'queue']",True,4
+quick,"['least', 'round', 'quick']",True,3
+quiet,"['least', 'event', 'comet', 'quiet']",True,4
+quill,"['least', 'could', 'fully', 'quill']",True,4
+quilt,"['least', 'built', 'quilt']",True,3
+quirk,"['least', 'round', 'chiru', 'quirk']",True,4
+quite,"['least', 'their', 'quite']",True,3
+quota,"['least', 'party', 'gotta', 'quota']",True,4
+quote,"['least', 'their', 'quote']",True,3
+quoth,"['least', 'north', 'quoth']",True,3
+rabbi,"['least', 'radio', 'rabbi']",True,3
+rabid,"['least', 'radio', 'rapid', 'rabid']",True,4
+racer,"['least', 'range', 'racer']",True,3
+radar,"['least', 'radio', 'radar']",True,3
+radii,"['least', 'radio', 'radii']",True,3
+radio,"['least', 'radio']",True,2
+rainy,"['least', 'radio', 'rabbi', 'rainy']",True,4
+raise,"['least', 'cause', 'raise']",True,3
+rajah,"['least', 'radio', 'ranch', 'rajah']",True,4
+rally,"['least', 'royal', 'rally']",True,3
+ralph,"['least', 'royal', 'ralph']",True,3
+ramen,"['least', 'range', 'raven', 'ramen']",True,4
+ranch,"['least', 'radio', 'ranch']",True,3
+randy,"['least', 'radio', 'randy']",True,3
+range,"['least', 'range']",True,2
+rapid,"['least', 'radio', 'rapid']",True,3
+rarer,"['least', 'range', 'racer', 'razer', 'rarer']",True,5
+raspy,"['least', 'cards', 'savor', 'raspy']",True,4
+ratio,"['least', 'party', 'ratio']",True,3
+ratty,"['least', 'party', 'ratty']",True,3
+raven,"['least', 'range', 'raven']",True,3
+rayon,"['least', 'radio', 'razor', 'rayon']",True,4
+razor,"['least', 'radio', 'razor']",True,3
+reach,"['least', 'heard', 'reach']",True,3
+react,"['least', 'heart', 'react']",True,3
+ready,"['least', 'heard', 'ready']",True,3
+realm,"['least', 'pearl', 'realm']",True,3
+rearm,"['least', 'heard', 'weary', 'beare', 'rearm']",True,5
+rebar,"['least', 'began', 'rehab', 'rebar']",True,4
+rebel,"['least', 'below', 'rebel']",True,3
+rebus,"['least', 'seven', 'jesus', 'rebus']",True,4
+rebut,"['least', 'debit', 'rebut']",True,3
+recap,"['least', 'began', 'cedar', 'recap']",True,4
+recur,"['least', 'never', 'decor', 'recur']",True,4
+recut,"['least', 'debit', 'genet', 'tempt', 'hecht', 'recut']",True,6
+reedy,"['least', 'never', 'merge', 'reedy']",True,4
+refer,"['least', 'never', 'refer']",True,3
+refit,"['least', 'debit', 'merit', 'refit']",True,4
+regal,"['least', 'delay', 'renal', 'regal']",True,4
+rehab,"['least', 'began', 'rehab']",True,3
+reign,"['least', 'never', 'reign']",True,3
+relax,"['least', 'delay', 'relax']",True,3
+relay,"['least', 'delay', 'relay']",True,3
+relic,"['least', 'below', 'celli', 'relic']",True,4
+remit,"['least', 'debit', 'merit', 'remit']",True,4
+renal,"['least', 'delay', 'renal']",True,3
+renew,"['least', 'never', 'renew']",True,3
+repay,"['least', 'began', 'cedar', 'repay']",True,4
+repel,"['least', 'below', 'reply', 'repel']",True,4
+reply,"['least', 'below', 'reply']",True,3
+rerun,"['least', 'never', 'reign', 'recon', 'rerun']",True,5
+reset,"['least', 'reset']",True,2
+resin,"['least', 'seven', 'resin']",True,3
+retch,"['least', 'peter', 'metro', 'retch']",True,4
+retro,"['least', 'peter', 'metro', 'retro']",True,4
+retry,"['least', 'peter', 'metro', 'retry']",True,4
+reuse,"['least', 'sense', 'verse', 'reuse']",True,4
+revel,"['least', 'below', 'reply', 'revel']",True,4
+revue,"['least', 'never', 'revue']",True,3
+rhino,"['least', 'round', 'rhino']",True,3
+rhyme,"['least', 'price', 'where', 'rhyme']",True,4
+rider,"['least', 'price', 'river', 'rider']",True,4
+ridge,"['least', 'price', 'ridge']",True,3
+rifle,"['least', 'field', 'rifle']",True,3
+right,"['least', 'point', 'right']",True,3
+rigid,"['least', 'round', 'rigid']",True,3
+rigor,"['least', 'round', 'rigor']",True,3
+rinse,"['least', 'horse', 'rinse']",True,3
+ripen,"['least', 'price', 'viper', 'ripen']",True,4
+riper,"['least', 'price', 'viper', 'wiper', 'riper']",True,5
+risen,"['least', 'since', 'risen']",True,3
+riser,"['least', 'since', 'views', 'riser']",True,4
+risky,"['least', 'hours', 'risky']",True,3
+rival,"['least', 'royal', 'rural', 'rival']",True,4
+river,"['least', 'price', 'river']",True,3
+rivet,"['least', 'event', 'civet', 'rivet']",True,4
+roach,"['least', 'brand', 'chair', 'roach']",True,4
+roast,"['least', 'coast', 'toast', 'roast']",True,4
+robin,"['least', 'round', 'robin']",True,3
+robot,"['least', 'point', 'court', 'robot']",True,4
+rocky,"['least', 'round', 'rocky']",True,3
+rodeo,"['least', 'price', 'owner', 'bored', 'rodeo']",True,5
+roger,"['least', 'price', 'owner', 'rover', 'roger']",True,5
+rogue,"['least', 'price', 'where', 'forge', 'rogue']",True,5
+roomy,"['least', 'round', 'rocky', 'roomy']",True,4
+roost,"['least', 'first', 'trust', 'roost']",True,4
+rotor,"['least', 'north', 'motor', 'rotor']",True,4
+rouge,"['least', 'price', 'where', 'forge', 'rouge']",True,5
+rough,"['least', 'round', 'rough']",True,3
+round,"['least', 'round']",True,2
+rouse,"['least', 'horse', 'rouse']",True,3
+route,"['least', 'their', 'route']",True,3
+rover,"['least', 'price', 'owner', 'rover']",True,4
+rowdy,"['least', 'round', 'rowdy']",True,3
+rower,"['least', 'price', 'owner', 'mower', 'bower', 'rower']",True,6
+royal,"['least', 'royal']",True,2
+ruddy,"['least', 'round', 'ruddy']",True,3
+ruder,"['least', 'price', 'owner', 'buyer', 'queer', 'ruder']",True,6
+rugby,"['least', 'round', 'rugby']",True,3
+ruler,"['least', 'field', 'novel', 'ulcer', 'ruler']",True,5
+rumba,"['least', 'radio', 'rumba']",True,3
+rumor,"['least', 'round', 'rumor']",True,3
+rupee,"['least', 'price', 'rupee']",True,3
+rural,"['least', 'royal', 'rural']",True,3
+rusty,"['least', 'story', 'rusty']",True,3
+sadly,"['least', 'calls', 'sadly']",True,3
+safer,"['least', 'makes', 'safer']",True,3
+saint,"['least', 'saint']",True,2
+salad,"['least', 'calls', 'salon', 'salad']",True,4
+sally,"['least', 'calls', 'sally']",True,3
+salon,"['least', 'calls', 'salon']",True,3
+salsa,"['least', 'salsa']",True,2
+salty,"['least', 'talks', 'salty']",True,3
+salve,"['least', 'sales', 'salle', 'salve']",True,4
+salvo,"['least', 'calls', 'salon', 'salvo']",True,4
+sandy,"['least', 'cards', 'sandy']",True,3
+saner,"['least', 'makes', 'safer', 'saver', 'saber', 'sager']",False,6
+sappy,"['least', 'cards', 'mason', 'savvy', 'saggy', 'sappy']",True,6
+sassy,"['least', 'sassy']",True,2
+satin,"['least', 'parts', 'satin']",True,3
+satyr,"['least', 'parts', 'satyr']",True,3
+sauce,"['least', 'makes', 'sauce']",True,3
+saucy,"['least', 'cards', 'basic', 'saucy']",True,4
+sauna,"['least', 'cards', 'mason', 'sauna']",True,4
+saute,"['least', 'waste', 'saute']",True,3
+savor,"['least', 'cards', 'savor']",True,3
+savoy,"['least', 'cards', 'mason', 'savoy']",True,4
+savvy,"['least', 'cards', 'mason', 'savvy']",True,4
+scald,"['least', 'shall', 'spald', 'scald']",True,4
+scale,"['least', 'scale']",True,2
+scalp,"['least', 'shall', 'spald', 'scalp']",True,4
+scaly,"['least', 'shall', 'spald', 'scala', 'scaly']",True,5
+scamp,"['least', 'sharp', 'swamp', 'scamp']",True,4
+scant,"['least', 'start', 'shaft', 'scant']",True,4
+scare,"['least', 'share', 'spare', 'scare']",True,4
+scarf,"['least', 'sharp', 'scary', 'scarf']",True,4
+scary,"['least', 'sharp', 'scary']",True,3
+scene,"['least', 'since', 'scene']",True,3
+scent,"['least', 'spent', 'scent']",True,3
+scion,"['least', 'hours', 'scoop', 'scion']",True,4
+scoff,"['least', 'hours', 'scoop', 'scoff']",True,4
+scold,"['least', 'girls', 'sully', 'scold']",True,4
+scone,"['least', 'since', 'scene', 'scone']",True,4
+scoop,"['least', 'hours', 'scoop']",True,3
+scope,"['least', 'since', 'score', 'scope']",True,4
+score,"['least', 'since', 'score']",True,3
+scorn,"['least', 'hours', 'sword', 'scorn']",True,4
+scour,"['least', 'hours', 'scour']",True,3
+scout,"['least', 'short', 'stopt', 'scout']",True,4
+scowl,"['least', 'girls', 'slump', 'skool', 'scowl']",True,5
+scram,"['least', 'cards', 'scrap', 'scran', 'scram']",True,5
+scrap,"['least', 'cards', 'scrap']",True,3
+scree,"['least', 'since', 'score', 'scree']",True,4
+screw,"['least', 'since', 'screw']",True,3
+scrub,"['least', 'hours', 'scrub']",True,3
+scrum,"['least', 'hours', 'scrub', 'scrum']",True,4
+scuba,"['least', 'cards', 'scuba']",True,3
+sedan,"['least', 'vegas', 'sedan']",True,3
+seedy,"['least', 'seven', 'seems', 'seedy']",True,4
+segue,"['least', 'seven', 'seems', 'seize', 'serge', 'segue']",True,6
+seize,"['least', 'seven', 'seems', 'seize']",True,4
+semen,"['least', 'seven', 'semen']",True,3
+sense,"['least', 'sense']",True,2
+sepia,"['least', 'vegas', 'serra', 'sepia']",True,4
+serif,"['least', 'seven', 'serum', 'serif']",True,4
+serum,"['least', 'seven', 'serum']",True,3
+serve,"['least', 'seven', 'serve']",True,3
+setup,"['least', 'tests', 'setup']",True,3
+seven,"['least', 'seven']",True,2
+sever,"['least', 'seven', 'sever']",True,3
+sewer,"['least', 'seven', 'sewer']",True,3
+shack,"['least', 'sharp', 'shack']",True,3
+shade,"['least', 'share', 'shape', 'shade']",True,4
+shady,"['least', 'sharp', 'shack', 'shawn', 'shady']",True,5
+shaft,"['least', 'start', 'shaft']",True,3
+shake,"['least', 'share', 'shape', 'shade', 'shake']",True,5
+shaky,"['least', 'sharp', 'shack', 'shaky']",True,4
+shale,"['least', 'scale', 'shale']",True,3
+shall,"['least', 'shall']",True,2
+shalt,"['least', 'shalt']",True,2
+shame,"['least', 'share', 'shape', 'shade', 'shake', 'shame']",True,6
+shank,"['least', 'sharp', 'shack', 'shank']",True,4
+shape,"['least', 'share', 'shape']",True,3
+shard,"['least', 'sharp', 'shark', 'shard']",True,4
+share,"['least', 'share']",True,2
+shark,"['least', 'sharp', 'shark']",True,3
+sharp,"['least', 'sharp']",True,2
+shave,"['least', 'share', 'shape', 'shade', 'shake', 'shame']",False,6
+shawl,"['least', 'shall', 'shawl']",True,3
+shear,"['least', 'makes', 'swear', 'spear', 'shear']",True,5
+sheen,"['least', 'since', 'sheen']",True,3
+sheep,"['least', 'since', 'super', 'sheep']",True,4
+sheer,"['least', 'since', 'super', 'sober', 'sheer']",True,5
+sheet,"['least', 'spent', 'sheet']",True,3
+sheik,"['least', 'since', 'sheik']",True,3
+shelf,"['least', 'miles', 'shell', 'shelf']",True,4
+shell,"['least', 'miles', 'shell']",True,3
+shied,"['least', 'since', 'sheik', 'shied']",True,4
+shift,"['least', 'short', 'shift']",True,3
+shine,"['least', 'since', 'spine', 'shine']",True,4
+shiny,"['least', 'hours', 'shiny']",True,3
+shire,"['least', 'since', 'spike', 'shire']",True,4
+shirk,"['least', 'hours', 'shirk']",True,3
+shirt,"['least', 'short', 'shirt']",True,3
+shoal,"['least', 'calls', 'usual', 'shoal']",True,4
+shock,"['least', 'hours', 'shown', 'shock']",True,4
+shone,"['least', 'since', 'shone']",True,3
+shook,"['least', 'hours', 'shown', 'shock', 'shook']",True,5
+shoot,"['least', 'short', 'shoot']",True,3
+shore,"['least', 'since', 'spoke', 'shore']",True,4
+shorn,"['least', 'hours', 'shorn']",True,3
+short,"['least', 'short']",True,2
+shout,"['least', 'short', 'shoot', 'shout']",True,4
+shove,"['least', 'since', 'spoke', 'shore', 'shove']",True,5
+shown,"['least', 'hours', 'shown']",True,3
+showy,"['least', 'hours', 'shown', 'showy']",True,4
+shrew,"['least', 'since', 'super', 'sores', 'shred', 'shrew']",True,6
+shrub,"['least', 'hours', 'shrub']",True,3
+shrug,"['least', 'hours', 'shrub', 'shrug']",True,4
+shuck,"['least', 'hours', 'shuck']",True,3
+shunt,"['least', 'short', 'shift', 'shunt']",True,4
+shush,"['least', 'pussy', 'shush']",True,3
+shyly,"['least', 'girls', 'sully', 'shyly']",True,4
+siege,"['least', 'since', 'siege']",True,3
+sieve,"['least', 'since', 'siege', 'sieve']",True,4
+sight,"['least', 'short', 'sight']",True,3
+sigma,"['least', 'cards', 'sigma']",True,3
+silky,"['least', 'girls', 'silky']",True,3
+silly,"['least', 'girls', 'silly']",True,3
+since,"['least', 'since']",True,2
+sinew,"['least', 'since', 'sines', 'sinew']",True,4
+singe,"['least', 'since', 'singe']",True,3
+siren,"['least', 'since', 'siren']",True,3
+sissy,"['least', 'pussy', 'missy', 'sissy']",True,4
+sixth,"['least', 'story', 'smith', 'sixth']",True,4
+sixty,"['least', 'story', 'sixty']",True,3
+skate,"['least', 'state', 'skate']",True,3
+skier,"['least', 'since', 'sheik', 'skies', 'skier']",True,5
+skiff,"['least', 'hours', 'spink', 'skiff']",True,4
+skill,"['least', 'girls', 'skill']",True,3
+skimp,"['least', 'hours', 'spink', 'skimp']",True,4
+skirt,"['least', 'short', 'skirt']",True,3
+skulk,"['least', 'girls', 'sully', 'sculp', 'skulk']",True,5
+skull,"['least', 'girls', 'sully', 'skull']",True,4
+skunk,"['least', 'hours', 'skunk']",True,3
+slack,"['least', 'shall', 'slang', 'slack']",True,4
+slain,"['least', 'shall', 'slang', 'slain']",True,4
+slang,"['least', 'shall', 'slang']",True,3
+slant,"['least', 'shalt', 'slant']",True,3
+slash,"['least', 'class', 'slash']",True,3
+slate,"['least', 'slate']",True,2
+slave,"['least', 'scale', 'slave']",True,3
+sleek,"['least', 'miles', 'sleep', 'sleek']",True,4
+sleep,"['least', 'miles', 'sleep']",True,3
+sleet,"['least', 'slept', 'sleet']",True,3
+slept,"['least', 'slept']",True,2
+slice,"['least', 'miles', 'slide', 'slice']",True,4
+slick,"['least', 'girls', 'solid', 'slick']",True,4
+slide,"['least', 'miles', 'slide']",True,3
+slime,"['least', 'miles', 'smile', 'slime']",True,4
+slimy,"['least', 'girls', 'solid', 'slick', 'slimy']",True,5
+sling,"['least', 'girls', 'sling']",True,3
+slink,"['least', 'girls', 'solid', 'slick', 'slink']",True,5
+sloop,"['least', 'girls', 'slump', 'sloop']",True,4
+slope,"['least', 'miles', 'shell', 'slope']",True,4
+slosh,"['least', 'floss', 'slosh']",True,3
+sloth,"['least', 'still', 'slots', 'sloth']",True,4
+slump,"['least', 'girls', 'slump']",True,3
+slung,"['least', 'girls', 'slung']",True,3
+slunk,"['least', 'girls', 'slump', 'slunk']",True,4
+slurp,"['least', 'girls', 'slurp']",True,3
+slush,"['least', 'floss', 'slush']",True,3
+slyly,"['least', 'girls', 'sully', 'slyly']",True,4
+smack,"['least', 'sharp', 'scans', 'smack']",True,4
+small,"['least', 'shall', 'small']",True,3
+smart,"['least', 'start', 'smart']",True,3
+smash,"['least', 'grass', 'smash']",True,3
+smear,"['least', 'makes', 'smear']",True,3
+smell,"['least', 'miles', 'smell']",True,3
+smelt,"['least', 'slept', 'smelt']",True,3
+smile,"['least', 'miles', 'smile']",True,3
+smirk,"['least', 'hours', 'smirk']",True,3
+smite,"['least', 'store', 'suite', 'spite', 'shite', 'smite']",True,6
+smith,"['least', 'story', 'smith']",True,3
+smock,"['least', 'hours', 'scoop', 'smock']",True,4
+smoke,"['least', 'since', 'spoke', 'smoke']",True,4
+smoky,"['least', 'hours', 'scoop', 'smoky']",True,4
+smote,"['least', 'store', 'smote']",True,3
+snack,"['least', 'sharp', 'scans', 'snack']",True,4
+snail,"['least', 'shall', 'snail']",True,3
+snake,"['least', 'share', 'space', 'snake']",True,4
+snaky,"['least', 'sharp', 'scans', 'swain', 'snafu', 'snaky']",True,6
+snare,"['least', 'share', 'spare', 'scare', 'snare']",True,5
+snarl,"['least', 'shall', 'snail', 'snarl']",True,4
+sneak,"['least', 'makes', 'speak', 'sneak']",True,4
+sneer,"['least', 'since', 'sheen', 'sneer']",True,4
+snide,"['least', 'since', 'spine', 'snide']",True,4
+sniff,"['least', 'hours', 'spink', 'sniff']",True,4
+snipe,"['least', 'since', 'spine', 'snipe']",True,4
+snoop,"['least', 'hours', 'scoop', 'snoop']",True,4
+snore,"['least', 'since', 'shone', 'snore']",True,4
+snort,"['least', 'short', 'sport', 'snort']",True,4
+snout,"['least', 'short', 'stopt', 'scout', 'snout']",True,5
+snowy,"['least', 'hours', 'scoop', 'smoky', 'snowy']",True,5
+snuck,"['least', 'hours', 'skunk', 'snuck']",True,4
+snuff,"['least', 'hours', 'skunk', 'snuff']",True,4
+soapy,"['least', 'sharp', 'spain', 'soaps', 'soapy']",True,5
+sober,"['least', 'since', 'super', 'sober']",True,4
+soggy,"['least', 'hours', 'sonic', 'sodom', 'soggy']",True,5
+solar,"['least', 'calls', 'solar']",True,3
+solid,"['least', 'girls', 'solid']",True,3
+solve,"['least', 'miles', 'solve']",True,3
+sonar,"['least', 'cards', 'sugar', 'sonar']",True,4
+sonic,"['least', 'hours', 'sonic']",True,3
+sooth,"['least', 'story', 'shots', 'sooth']",True,4
+sooty,"['least', 'story', 'sooty']",True,3
+sorry,"['least', 'hours', 'sorry']",True,3
+sound,"['least', 'hours', 'sound']",True,3
+south,"['least', 'story', 'south']",True,3
+sower,"['least', 'since', 'super', 'sober', 'sower']",True,5
+space,"['least', 'share', 'space']",True,3
+spade,"['least', 'share', 'space', 'spade']",True,4
+spank,"['least', 'sharp', 'spain', 'spank']",True,4
+spare,"['least', 'share', 'spare']",True,3
+spark,"['least', 'sharp', 'spark']",True,3
+spasm,"['least', 'grass', 'smash', 'spasm']",True,4
+spawn,"['least', 'sharp', 'spain', 'spawn']",True,4
+speak,"['least', 'makes', 'speak']",True,3
+spear,"['least', 'makes', 'swear', 'spear']",True,4
+speck,"['least', 'since', 'specs', 'speck']",True,4
+speed,"['least', 'since', 'super', 'sheep', 'speed']",True,5
+spell,"['least', 'miles', 'shell', 'spell']",True,4
+spelt,"['least', 'slept', 'spelt']",True,3
+spend,"['least', 'since', 'sheen', 'spend']",True,4
+spent,"['least', 'spent']",True,2
+sperm,"['least', 'since', 'super', 'sperm']",True,4
+spice,"['least', 'since', 'spice']",True,3
+spicy,"['least', 'hours', 'spink', 'spicy']",True,4
+spied,"['least', 'since', 'sheik', 'spies', 'spied']",True,5
+spiel,"['least', 'miles', 'spiel']",True,3
+spike,"['least', 'since', 'spike']",True,3
+spiky,"['least', 'hours', 'spink', 'spiky']",True,4
+spill,"['least', 'girls', 'skill', 'spill']",True,4
+spilt,"['least', 'split', 'spilt']",True,3
+spine,"['least', 'since', 'spine']",True,3
+spiny,"['least', 'hours', 'spink', 'spiny']",True,4
+spire,"['least', 'since', 'spike', 'spire']",True,4
+spite,"['least', 'store', 'suite', 'spite']",True,4
+splat,"['least', 'sault', 'splat']",True,3
+split,"['least', 'split']",True,2
+spoil,"['least', 'girls', 'solid', 'spoil']",True,4
+spoke,"['least', 'since', 'spoke']",True,3
+spoof,"['least', 'hours', 'scoop', 'spoon', 'spoof']",True,5
+spook,"['least', 'hours', 'scoop', 'spoon', 'spoof', 'spook']",True,6
+spool,"['least', 'girls', 'slump', 'spool']",True,4
+spoon,"['least', 'hours', 'scoop', 'spoon']",True,4
+spore,"['least', 'since', 'spoke', 'spore']",True,4
+sport,"['least', 'short', 'sport']",True,3
+spout,"['least', 'short', 'stopt', 'spout']",True,4
+spray,"['least', 'cards', 'spray']",True,3
+spree,"['least', 'since', 'spoke', 'spree']",True,4
+sprig,"['least', 'hours', 'risky', 'scrip', 'sprig']",True,5
+spunk,"['least', 'hours', 'skunk', 'spunk']",True,4
+spurn,"['least', 'hours', 'usury', 'spurn']",True,4
+spurt,"['least', 'short', 'skirt', 'spurt']",True,4
+squad,"['least', 'cards', 'squad']",True,3
+squat,"['least', 'saint', 'squat']",True,3
+squib,"['least', 'hours', 'skunk', 'squid', 'squib']",True,5
+stack,"['least', 'stand', 'stars', 'staff', 'stack']",True,5
+staff,"['least', 'stand', 'stars', 'staff']",True,4
+stage,"['least', 'state', 'stage']",True,3
+staid,"['least', 'stand', 'staid']",True,3
+stain,"['least', 'stand', 'stain']",True,3
+stair,"['least', 'stand', 'stars', 'stair']",True,4
+stake,"['least', 'state', 'stage', 'stake']",True,4
+stale,"['least', 'slate', 'stale']",True,3
+stalk,"['least', 'stall', 'stalk']",True,3
+stall,"['least', 'stall']",True,2
+stamp,"['least', 'stand', 'stars', 'staff', 'stack', 'stamp']",True,6
+stand,"['least', 'stand']",True,2
+stank,"['least', 'stand', 'stang', 'stank']",True,4
+stare,"['least', 'state', 'stage', 'stake', 'stare']",True,5
+stark,"['least', 'stand', 'stars', 'stark']",True,4
+start,"['least', 'start']",True,2
+stash,"['least', 'trash', 'stash']",True,3
+state,"['least', 'state']",True,2
+stave,"['least', 'state', 'stage', 'stake', 'stare', 'stave']",True,6
+stead,"['least', 'waste', 'steam', 'steak', 'stead']",True,5
+steak,"['least', 'waste', 'steam', 'steak']",True,4
+steal,"['least', 'tales', 'steal']",True,3
+steam,"['least', 'waste', 'steam']",True,3
+steed,"['least', 'store', 'steps', 'stein', 'steed']",True,5
+steel,"['least', 'style', 'steel']",True,3
+steep,"['least', 'store', 'steps', 'steep']",True,4
+steer,"['least', 'store', 'steer']",True,3
+stein,"['least', 'store', 'steps', 'stein']",True,4
+stern,"['least', 'store', 'stern']",True,3
+stick,"['least', 'story', 'stick']",True,3
+stiff,"['least', 'story', 'stick', 'stiff']",True,4
+still,"['least', 'still']",True,2
+stilt,"['least', 'split', 'stilt']",True,3
+sting,"['least', 'story', 'stick', 'stiff', 'sting']",True,5
+stink,"['least', 'story', 'stick', 'stink']",True,4
+stint,"['least', 'short', 'swift', 'stint']",True,4
+stock,"['least', 'story', 'stock']",True,3
+stoic,"['least', 'story', 'stock', 'stoic']",True,4
+stoke,"['least', 'store', 'stone', 'stove', 'stoke']",True,5
+stole,"['least', 'style', 'stole']",True,3
+stomp,"['least', 'story', 'stock', 'stood', 'stops', 'stomp']",True,6
+stone,"['least', 'store', 'stone']",True,3
+stony,"['least', 'story', 'stony']",True,3
+stood,"['least', 'story', 'stock', 'stood']",True,4
+stool,"['least', 'still', 'stool']",True,3
+stoop,"['least', 'story', 'stock', 'stood', 'stoop']",True,5
+store,"['least', 'store']",True,2
+stork,"['least', 'story', 'storm', 'stork']",True,4
+storm,"['least', 'story', 'storm']",True,3
+story,"['least', 'story']",True,2
+stout,"['least', 'short', 'stopt', 'stout']",True,4
+stove,"['least', 'store', 'stone', 'stove']",True,4
+strap,"['least', 'parts', 'strap']",True,3
+straw,"['least', 'parts', 'straw']",True,3
+stray,"['least', 'parts', 'straw', 'stray']",True,4
+strip,"['least', 'story', 'strip']",True,3
+strut,"['least', 'short', 'strut']",True,3
+stuck,"['least', 'story', 'stick', 'stuck']",True,4
+study,"['least', 'story', 'study']",True,3
+stuff,"['least', 'story', 'stick', 'stuff']",True,4
+stump,"['least', 'story', 'stick', 'stuff', 'stump']",True,5
+stung,"['least', 'story', 'stick', 'stuff', 'stump', 'studs']",False,6
+stunk,"['least', 'story', 'stick', 'stunk']",True,4
+stunt,"['least', 'short', 'swift', 'stunt']",True,4
+style,"['least', 'style']",True,2
+suave,"['least', 'share', 'space', 'snake', 'suave']",True,5
+sugar,"['least', 'cards', 'sugar']",True,3
+suing,"['least', 'hours', 'music', 'suing']",True,4
+suite,"['least', 'store', 'suite']",True,3
+sulky,"['least', 'girls', 'slump', 'sulky']",True,4
+sully,"['least', 'girls', 'sully']",True,3
+sumac,"['least', 'cards', 'scuba', 'sumac']",True,4
+sunny,"['least', 'hours', 'music', 'sunny']",True,4
+super,"['least', 'since', 'super']",True,3
+surer,"['least', 'since', 'super', 'suber', 'surer']",True,5
+surge,"['least', 'since', 'spoke', 'surge']",True,4
+surly,"['least', 'girls', 'surly']",True,3
+sushi,"['least', 'hours', 'sumph', 'sushi']",True,4
+swami,"['least', 'sharp', 'scans', 'swami']",True,4
+swamp,"['least', 'sharp', 'swamp']",True,3
+swarm,"['least', 'sharp', 'scary', 'swarm']",True,4
+swash,"['least', 'grass', 'smash', 'swash']",True,4
+swath,"['least', 'stand', 'swath']",True,3
+swear,"['least', 'makes', 'swear']",True,3
+sweat,"['least', 'asset', 'sweat']",True,3
+sweep,"['least', 'since', 'super', 'sheep', 'sweep']",True,5
+sweet,"['least', 'spent', 'sheet', 'sweet']",True,4
+swell,"['least', 'miles', 'shell', 'spell', 'swell']",True,5
+swept,"['least', 'spent', 'swept']",True,3
+swift,"['least', 'short', 'swift']",True,3
+swill,"['least', 'girls', 'skill', 'spill', 'shill', 'swill']",True,6
+swine,"['least', 'since', 'spine', 'shine', 'swine']",True,5
+swing,"['least', 'hours', 'spink', 'swing']",True,4
+swirl,"['least', 'girls', 'swirl']",True,3
+swish,"['least', 'pussy', 'cross', 'swish']",True,4
+swoon,"['least', 'hours', 'scoop', 'snook', 'swoon']",True,5
+swoop,"['least', 'hours', 'scoop', 'snoop', 'swoop']",True,5
+sword,"['least', 'hours', 'sword']",True,3
+swore,"['least', 'since', 'spoke', 'shore', 'swore']",True,5
+sworn,"['least', 'hours', 'sword', 'sworn']",True,4
+swung,"['least', 'hours', 'skunk', 'swung']",True,4
+synod,"['least', 'hours', 'scoop', 'synod']",True,4
+syrup,"['least', 'hours', 'scrub', 'syrup']",True,4
+tabby,"['least', 'party', 'tanky', 'tabby']",True,4
+table,"['least', 'table']",True,2
+taboo,"['least', 'party', 'match', 'taboo']",True,4
+tacit,"['least', 'about', 'paint', 'tacit']",True,4
+tacky,"['least', 'party', 'tanky', 'tacky']",True,4
+taffy,"['least', 'party', 'tanky', 'tabby', 'tammy', 'taffy']",True,6
+taint,"['least', 'about', 'paint', 'faint', 'taint']",True,5
+taken,"['least', 'water', 'taken']",True,3
+taker,"['least', 'water', 'taper', 'taker']",True,4
+tally,"['least', 'total', 'tally']",True,3
+talon,"['least', 'total', 'talon']",True,3
+tamer,"['least', 'water', 'taper', 'taker', 'tamer']",True,5
+tango,"['least', 'party', 'match', 'taboo', 'tango']",True,5
+tangy,"['least', 'party', 'tanky', 'tangy']",True,4
+taper,"['least', 'water', 'taper']",True,3
+tapir,"['least', 'party', 'tapir']",True,3
+tardy,"['least', 'party', 'tardy']",True,3
+tarot,"['least', 'about', 'tarot']",True,3
+taste,"['least', 'waste', 'taste']",True,3
+tasty,"['least', 'parts', 'nasty', 'tasty']",True,4
+tatty,"['least', 'party', 'fatty', 'batty', 'tatty']",True,5
+taunt,"['least', 'about', 'haunt', 'gaunt', 'taunt']",True,5
+tawny,"['least', 'party', 'tanky', 'tawny']",True,4
+teach,"['least', 'death', 'teach']",True,3
+teary,"['least', 'death', 'teary']",True,3
+tease,"['least', 'tease']",True,2
+teddy,"['least', 'peter', 'teddy']",True,3
+teeth,"['least', 'peter', 'teeth']",True,3
+tempo,"['least', 'peter', 'depth', 'tempo']",True,4
+tenet,"['least', 'debit', 'genet', 'tenet']",True,4
+tenor,"['least', 'peter', 'tenor']",True,3
+tense,"['least', 'tense']",True,2
+tenth,"['least', 'peter', 'teddy', 'tenth']",True,4
+tepee,"['least', 'peter', 'tepee']",True,3
+tepid,"['least', 'peter', 'depth', 'tepid']",True,4
+terra,"['least', 'terra']",True,2
+terse,"['least', 'tense', 'terse']",True,3
+testy,"['least', 'tests', 'testy']",True,3
+thank,"['least', 'track', 'thank']",True,3
+theft,"['least', 'event', 'theft']",True,3
+their,"['least', 'their']",True,2
+theme,"['least', 'their', 'theme']",True,3
+there,"['least', 'their', 'there']",True,3
+these,"['least', 'these']",True,2
+theta,"['least', 'water', 'acute', 'theta']",True,4
+thick,"['least', 'north', 'thick']",True,3
+thief,"['least', 'their', 'thief']",True,3
+thigh,"['least', 'north', 'dutch', 'thigh']",True,4
+thing,"['least', 'north', 'think', 'thing']",True,4
+think,"['least', 'north', 'think']",True,3
+third,"['least', 'north', 'third']",True,3
+thong,"['least', 'north', 'thong']",True,3
+thorn,"['least', 'north', 'thorn']",True,3
+those,"['least', 'these', 'those']",True,3
+three,"['least', 'their', 'three']",True,3
+threw,"['least', 'their', 'three', 'threw']",True,4
+throb,"['least', 'north', 'throw', 'throb']",True,4
+throw,"['least', 'north', 'throw']",True,3
+thrum,"['least', 'north', 'thrid', 'thrum']",True,4
+thumb,"['least', 'north', 'thick', 'thumb']",True,4
+thump,"['least', 'north', 'thick', 'thumb', 'thump']",True,5
+thyme,"['least', 'their', 'thyme']",True,3
+tiara,"['least', 'track', 'tiara']",True,3
+tibia,"['least', 'party', 'tonga', 'tibia']",True,4
+tidal,"['least', 'total', 'trial', 'tidal']",True,4
+tiger,"['least', 'their', 'tiger']",True,3
+tight,"['least', 'point', 'right', 'might', 'fight', 'tight']",True,6
+tilde,"['least', 'title', 'tilde']",True,3
+timer,"['least', 'their', 'tiger', 'timer']",True,4
+timid,"['least', 'north', 'tummy', 'timid']",True,4
+tipsy,"['least', 'torso', 'tipsy']",True,3
+titan,"['least', 'party', 'tonga', 'titan']",True,4
+tithe,"['least', 'their', 'tithe']",True,3
+title,"['least', 'title']",True,2
+toast,"['least', 'coast', 'toast']",True,3
+today,"['least', 'party', 'today']",True,3
+toddy,"['least', 'north', 'topic', 'tommy', 'toddy']",True,5
+token,"['least', 'their', 'token']",True,3
+tonal,"['least', 'total', 'tonal']",True,3
+tonga,"['least', 'party', 'tonga']",True,3
+tonic,"['least', 'north', 'toxin', 'tonic']",True,4
+tooth,"['least', 'north', 'youth', 'booth', 'tooth']",True,5
+topaz,"['least', 'party', 'topaz']",True,3
+topic,"['least', 'north', 'topic']",True,3
+torch,"['least', 'north', 'torch']",True,3
+torso,"['least', 'torso']",True,2
+torus,"['least', 'story', 'ports', 'torus']",True,4
+total,"['least', 'total']",True,2
+totem,"['least', 'their', 'token', 'totem']",True,4
+touch,"['least', 'north', 'touch']",True,3
+tough,"['least', 'north', 'touch', 'tough']",True,4
+towel,"['least', 'title', 'tyler', 'towel']",True,4
+tower,"['least', 'their', 'tuner', 'tower']",True,4
+toxic,"['least', 'north', 'topic', 'toxic']",True,4
+toxin,"['least', 'north', 'toxin']",True,3
+trace,"['least', 'trade', 'trace']",True,3
+track,"['least', 'track']",True,2
+tract,"['least', 'grant', 'craft', 'tract']",True,4
+trade,"['least', 'trade']",True,2
+trail,"['least', 'trail']",True,2
+train,"['least', 'track', 'train']",True,3
+trait,"['least', 'grant', 'craft', 'pratt', 'trait']",True,5
+tramp,"['least', 'track', 'train', 'tramp']",True,4
+trash,"['least', 'trash']",True,2
+trawl,"['least', 'trail', 'trawl']",True,3
+tread,"['least', 'water', 'tread']",True,3
+treat,"['least', 'great', 'treat']",True,3
+trend,"['least', 'their', 'trend']",True,3
+triad,"['least', 'party', 'actor', 'triad']",True,4
+trial,"['least', 'total', 'trial']",True,3
+tribe,"['least', 'their', 'tribe']",True,3
+trice,"['least', 'their', 'tribe', 'trice']",True,4
+trick,"['least', 'north', 'truck', 'trick']",True,4
+tried,"['least', 'their', 'tribe', 'tried']",True,4
+tripe,"['least', 'their', 'tribe', 'trice', 'trite', 'trike']",False,6
+trite,"['least', 'their', 'tribe', 'trice', 'trite']",True,5
+troll,"['least', 'until', 'troll']",True,3
+troop,"['least', 'north', 'tumor', 'troop']",True,4
+trope,"['least', 'their', 'trove', 'trope']",True,4
+trout,"['least', 'point', 'ought', 'trout']",True,4
+trove,"['least', 'their', 'trove']",True,3
+truce,"['least', 'their', 'trove', 'truce']",True,4
+truck,"['least', 'north', 'truck']",True,3
+truer,"['least', 'their', 'tuner', 'truer']",True,4
+truly,"['least', 'until', 'truly']",True,3
+trump,"['least', 'north', 'truck', 'trump']",True,4
+trunk,"['least', 'north', 'trunk']",True,3
+truss,"['least', 'torso', 'truss']",True,3
+trust,"['least', 'first', 'trust']",True,3
+truth,"['least', 'north', 'truth']",True,3
+tryst,"['least', 'first', 'trust', 'tryst']",True,4
+tubal,"['least', 'total', 'trial', 'tubal']",True,4
+tuber,"['least', 'their', 'tuner', 'tuber']",True,4
+tulip,"['least', 'until', 'tulip']",True,3
+tulle,"['least', 'title', 'tuple', 'tulle']",True,4
+tumor,"['least', 'north', 'tumor']",True,3
+tunic,"['least', 'north', 'twink', 'tunic']",True,4
+turbo,"['least', 'north', 'turbo']",True,3
+tutor,"['least', 'north', 'tumor', 'tutor']",True,4
+twang,"['least', 'track', 'twain', 'twang']",True,4
+tweak,"['least', 'water', 'tweak']",True,3
+tweed,"['least', 'their', 'tweed']",True,3
+tweet,"['least', 'event', 'greet', 'tweet']",True,4
+twice,"['least', 'their', 'twice']",True,3
+twine,"['least', 'their', 'twice', 'twine']",True,4
+twirl,"['least', 'until', 'twill', 'twirl']",True,4
+twist,"['least', 'first', 'moist', 'twist']",True,4
+twixt,"['least', 'point', 'drift', 'twixt']",True,4
+tying,"['least', 'north', 'twink', 'tying']",True,4
+udder,"['least', 'price', 'owner', 'buyer', 'udder']",True,5
+ulcer,"['least', 'field', 'novel', 'ulcer']",True,4
+ultra,"['least', 'total', 'ultra']",True,3
+umbra,"['least', 'radio', 'urban', 'umbra']",True,4
+uncle,"['least', 'field', 'noble', 'uncle']",True,4
+uncut,"['least', 'point', 'uncut']",True,3
+under,"['least', 'price', 'owner', 'under']",True,4
+undid,"['least', 'round', 'undid']",True,3
+undue,"['least', 'price', 'judge', 'undue']",True,4
+unfed,"['least', 'price', 'women', 'ended', 'unfed']",True,5
+unfit,"['least', 'point', 'night', 'unfit']",True,4
+unify,"['least', 'round', 'bunch', 'unzip', 'unify']",True,5
+union,"['least', 'round', 'union']",True,3
+unite,"['least', 'their', 'quite', 'unite']",True,4
+unity,"['least', 'north', 'unity']",True,3
+unlit,"['least', 'built', 'unlit']",True,3
+unmet,"['least', 'event', 'unmet']",True,3
+unset,"['least', 'spent', 'onset', 'inset', 'unset']",True,5
+untie,"['least', 'their', 'cutie', 'untie']",True,4
+until,"['least', 'until']",True,2
+unwed,"['least', 'price', 'women', 'unwed']",True,4
+unzip,"['least', 'round', 'bunch', 'unzip']",True,4
+upper,"['least', 'price', 'upper']",True,3
+upset,"['least', 'spent', 'upset']",True,3
+urban,"['least', 'radio', 'urban']",True,3
+urine,"['least', 'price', 'drive', 'brine', 'urine']",True,5
+usage,"['least', 'share', 'usage']",True,3
+usher,"['least', 'since', 'users', 'usher']",True,4
+using,"['least', 'hours', 'music', 'using']",True,4
+usual,"['least', 'calls', 'usual']",True,3
+usurp,"['least', 'hours', 'usury', 'usurp']",True,4
+utile,"['least', 'title', 'utile']",True,3
+utter,"['least', 'their', 'outer', 'utter']",True,4
+vague,"['least', 'range', 'vague']",True,3
+valet,"['least', 'alert', 'valet']",True,3
+valid,"['least', 'royal', 'album', 'valid']",True,4
+valor,"['least', 'royal', 'flora', 'valor']",True,4
+value,"['least', 'cable', 'value']",True,3
+valve,"['least', 'cable', 'value', 'valve']",True,4
+vapid,"['least', 'radio', 'vapid']",True,3
+vapor,"['least', 'radio', 'major', 'favor', 'vapor']",True,5
+vault,"['least', 'adult', 'fault', 'vault']",True,4
+vaunt,"['least', 'about', 'haunt', 'gaunt', 'taunt', 'jaunt']",False,6
+vegan,"['least', 'began', 'vegan']",True,3
+venom,"['least', 'never', 'venom']",True,3
+venue,"['least', 'never', 'venue']",True,3
+verge,"['least', 'never', 'verge']",True,3
+verse,"['least', 'sense', 'verse']",True,3
+verso,"['least', 'sense', 'pepsi', 'verso']",True,4
+verve,"['least', 'never', 'verge', 'verve']",True,4
+vicar,"['least', 'radio', 'cigar', 'vicar']",True,4
+video,"['least', 'price', 'video']",True,3
+vigil,"['least', 'could', 'vinyl', 'vigil']",True,4
+vigor,"['least', 'round', 'prior', 'vigor']",True,4
+villa,"['least', 'royal', 'album', 'valid', 'villa']",True,5
+vinyl,"['least', 'could', 'vinyl']",True,3
+viola,"['least', 'royal', 'along', 'viola']",True,4
+viper,"['least', 'price', 'viper']",True,3
+viral,"['least', 'royal', 'viral']",True,3
+virus,"['least', 'hours', 'virus']",True,3
+visit,"['least', 'short', 'visit']",True,3
+visor,"['least', 'hours', 'visor']",True,3
+vista,"['least', 'parts', 'costa', 'vista']",True,4
+vital,"['least', 'total', 'fatal', 'vital']",True,4
+vivid,"['least', 'round', 'vivid']",True,3
+vixen,"['least', 'price', 'video', 'vixen']",True,4
+vocal,"['least', 'royal', 'vocal']",True,3
+vodka,"['least', 'radio', 'vodka']",True,3
+vogue,"['least', 'price', 'judge', 'vogue']",True,4
+voice,"['least', 'price', 'voice']",True,3
+voila,"['least', 'royal', 'polka', 'voila']",True,4
+vomit,"['least', 'point', 'vomit']",True,3
+voter,"['least', 'their', 'outer', 'voter']",True,4
+vouch,"['least', 'round', 'couch', 'pouch', 'vouch']",True,5
+vowel,"['least', 'field', 'novel', 'vowel']",True,4
+vying,"['least', 'round', 'ching', 'vying']",True,4
+wacky,"['least', 'radio', 'japan', 'gawcy', 'wacky']",True,5
+wafer,"['least', 'range', 'paper', 'maker', 'wafer']",True,5
+wager,"['least', 'range', 'gamer', 'eager', 'pager', 'wager']",True,6
+wagon,"['least', 'radio', 'canon', 'wagon']",True,4
+waist,"['least', 'waist']",True,2
+waive,"['least', 'range', 'maybe', 'cache', 'waive']",True,5
+waltz,"['least', 'total', 'waltz']",True,3
+warty,"['least', 'party', 'warty']",True,3
+waste,"['least', 'waste']",True,2
+watch,"['least', 'party', 'match', 'watch']",True,4
+water,"['least', 'water']",True,2
+waver,"['least', 'range', 'paper', 'maker', 'wafer', 'waver']",True,6
+waxen,"['least', 'range', 'naked', 'haven', 'zazen', 'waxen']",True,6
+weary,"['least', 'heard', 'weary']",True,3
+weave,"['least', 'heard', 'peace', 'weave']",True,4
+wedge,"['least', 'never', 'hedge', 'wedge']",True,4
+weedy,"['least', 'never', 'hedge', 'weedy']",True,4
+weigh,"['least', 'never', 'debug', 'weigh']",True,4
+weird,"['least', 'never', 'kerry', 'weird']",True,4
+welch,"['least', 'below', 'welch']",True,3
+welsh,"['least', 'welsh']",True,2
+wench,"['least', 'never', 'being', 'demon', 'wench']",True,5
+whack,"['least', 'brand', 'coach', 'whack']",True,4
+whale,"['least', 'place', 'whale']",True,3
+wharf,"['least', 'brand', 'chair', 'wharf']",True,4
+wheat,"['least', 'great', 'cheat', 'wheat']",True,4
+wheel,"['least', 'field', 'wheel']",True,3
+whelp,"['least', 'field', 'quell', 'onely', 'whelp']",True,5
+where,"['least', 'price', 'where']",True,3
+which,"['least', 'round', 'which']",True,3
+whiff,"['least', 'round', 'which', 'whiff']",True,4
+while,"['least', 'field', 'while']",True,3
+whine,"['least', 'price', 'guide', 'whine']",True,4
+whiny,"['least', 'round', 'ching', 'whiny']",True,4
+whirl,"['least', 'could', 'vinyl', 'whirl']",True,4
+whisk,"['least', 'pussy', 'brisk', 'whisk']",True,4
+white,"['least', 'their', 'white']",True,3
+whole,"['least', 'field', 'noble', 'whole']",True,4
+whoop,"['least', 'round', 'chico', 'whoop']",True,4
+whose,"['least', 'horse', 'whose']",True,3
+widen,"['least', 'price', 'video', 'widen']",True,4
+wider,"['least', 'price', 'river', 'fiber', 'wider']",True,5
+widow,"['least', 'round', 'widow']",True,3
+width,"['least', 'north', 'width']",True,3
+wield,"['least', 'field', 'yield', 'wield']",True,4
+wight,"['least', 'point', 'right', 'might', 'fight', 'tight']",False,6
+willy,"['least', 'could', 'billy', 'willy']",True,4
+wimpy,"['least', 'round', 'which', 'wimpy']",True,4
+wince,"['least', 'price', 'wince']",True,3
+winch,"['least', 'round', 'nymph', 'finch', 'winch']",True,5
+windy,"['least', 'round', 'windy']",True,3
+wiser,"['least', 'since', 'views', 'wiser']",True,4
+wispy,"['least', 'hours', 'spink', 'wispy']",True,4
+witch,"['least', 'north', 'dutch', 'pitch', 'witch']",True,5
+witty,"['least', 'north', 'kitty', 'witty']",True,4
+woken,"['least', 'price', 'women', 'woven', 'woken']",True,5
+woman,"['least', 'radio', 'among', 'woman']",True,4
+women,"['least', 'price', 'women']",True,3
+woody,"['least', 'round', 'howdy', 'woody']",True,4
+wooer,"['least', 'price', 'owner', 'mower', 'wooer']",True,5
+wooly,"['least', 'could', 'hollo', 'wooly']",True,4
+woozy,"['least', 'round', 'combo', 'goofy', 'poopy', 'kooky']",False,6
+wordy,"['least', 'round', 'dobro', 'wordy']",True,4
+world,"['least', 'could', 'world']",True,3
+worry,"['least', 'round', 'morro', 'worry']",True,4
+worse,"['least', 'horse', 'worse']",True,3
+worst,"['least', 'first', 'worst']",True,3
+worth,"['least', 'north', 'worth']",True,3
+would,"['least', 'could', 'would']",True,3
+wound,"['least', 'round', 'found', 'bound', 'pound', 'wound']",True,6
+woven,"['least', 'price', 'women', 'woven']",True,4
+wrack,"['least', 'brand', 'crazy', 'wrack']",True,4
+wrath,"['least', 'track', 'wrath']",True,3
+wreak,"['least', 'range', 'break', 'freak', 'wreak']",True,5
+wreck,"['least', 'price', 'wreck']",True,3
+wrest,"['least', 'guest', 'chest', 'wrest']",True,4
+wring,"['least', 'round', 'bring', 'wring']",True,4
+wrist,"['least', 'first', 'wrist']",True,3
+write,"['least', 'their', 'write']",True,3
+wrong,"['least', 'round', 'wrong']",True,3
+wrote,"['least', 'their', 'route', 'wrote']",True,4
+wrung,"['least', 'round', 'crunk', 'wrung']",True,4
+wryly,"['least', 'could', 'billy', 'wryly']",True,4
+yacht,"['least', 'about', 'paint', 'yacht']",True,4
+yearn,"['least', 'heard', 'weary', 'yearn']",True,4
+yeast,"['least', 'beast', 'yeast']",True,3
+yield,"['least', 'field', 'yield']",True,3
+young,"['least', 'round', 'young']",True,3
+youth,"['least', 'north', 'youth']",True,3
+zebra,"['least', 'began', 'zebra']",True,3
+zesty,"['least', 'tests', 'pesto', 'zesty']",True,4
+zonal,"['least', 'royal', 'vocal', 'modal', 'zonal']",True,5

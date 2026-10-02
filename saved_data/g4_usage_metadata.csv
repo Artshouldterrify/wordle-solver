@@ -1,0 +1,51 @@
+guess_count,guess_list,input_tokens,output_tokens,total_tokens
+1,[],0,0,0
+6,"['crane', 'whisk', 'toddy', 'blown', 'bloom']",4539,3408,7947
+4,"['slate', 'cargo', 'acrid']",1463,2649,4112
+9,"['arise', 'lithe', 'crane', 'flout', 'smart', 'flake', 'clout', 'which']",6257,1562,7819
+9,"['crane', 'south', 'night', 'filth', 'shake', 'flirt', 'brisk', 'train']",6214,2446,8660
+9,"['adieu', 'river', 'liner', 'snack', 'tiger', 'dream', 'brisk', 'sharp']",6255,4585,10840
+9,"['crane', 'stump', 'blowy', 'blunt', 'foley', 'tales', 'golly', 'apple']",11170,2594,13764
+9,"['crane', 'share', 'dogma', 'flare', 'bloom', 'blast', 'crown', 'tales']",6219,2718,8937
+9,"['crane', 'slate', 'louse', 'flume', 'table', 'audio', 'right', 'flair']",8737,2375,11112
+9,"['crane', 'randy', 'audio', 'array', 'entry', 'audio', 'while', 'apple']",6505,3517,10022
+7,"['crane', 'shent', 'train', 'focus', 'brick', 'being']",3847,3386,7233
+4,"['crane', 'which', 'scion']",1499,3332,4831
+7,"['slate', 'title', 'tiled', 'while', 'toile', 'tilde']",6790,5323,12113
+9,"['crane', 'doubt', 'adopt', 'stone', 'cadet', 'paint', 'whale', 'joint']",9551,9229,18780
+9,"['crane', 'brief', 'cares', 'write', 'flair', 'slate', 'group', 'adult']",6215,2447,8662
+9,"['crane', 'layer', 'stare', 'float', 'blush', 'paper', 'dater', 'power']",6311,6124,12435
+4,"['slate', 'toric', 'robot']",2380,3338,5718
+5,"['slate', 'chore', 'roger', 'rover']",2127,4429,6556
+9,"['crane', 'tense', 'owned', 'knock', 'local', 'light', 'sayer', 'coast']",6217,4898,11115
+5,"['crane', 'stout', 'blush', 'humus']",2126,5196,7322
+9,"['adieu', 'coils', 'quilt', 'train', 'drill', 'which', 'brill', 'fling']",6255,5478,11733
+9,"['crane', 'liver', 'power', 'tower', 'bride', 'agile', 'blame', 'being']",6250,4828,11078
+9,"['adieu', 'roast', 'lacks', 'stamp', 'stain', 'snaky', 'stead', 'sting']",6258,9041,15299
+6,"['crane', 'coils', 'combo', 'coach', 'couch']",2910,4606,7516
+9,"['adieu', 'outer', 'dream', 'venue', 'stair', 'sheep', 'while', 'shade']",6319,4210,10529
+4,"['arise', 'panel', 'petal']",1499,2042,3541
+7,"['crane', 'acres', 'camel', 'trail', 'crisp', 'cleat']",4040,5579,9619
+5,"['stare', 'baker', 'bacon', 'banal']",2160,4364,6524
+9,"['crane', 'blast', 'adopt', 'about', 'fight', 'brick', 'slant', 'tales']",6386,2894,9280
+9,"['crane', 'slice', 'fence', 'sheep', 'crass', 'force', 'towel', 'empty']",6504,3995,10499
+5,"['crane', 'study', 'lousy', 'bushy']",2127,3780,5907
+4,"['crane', 'snort', 'spurn']",1466,3150,4616
+4,"['crane', 'blast', 'audio']",1465,1908,3373
+9,"['adieu', 'armor', 'actor', 'adult', 'acorn', 'arise', 'array', 'agora']",10095,9237,19332
+5,"['crane', 'pasta', 'about', 'bloat']",2125,4210,6335
+9,"['crane', 'manly', 'spoil', 'treat', 'stare', 'agree', 'focus', 'audio']",6224,1871,8095
+9,"['arise', 'rough', 'orcas', 'storm', 'shape', 'scorn', 'solid', 'sword']",6350,11319,17669
+3,"['arise', 'smart']",905,864,1769
+5,"['arise', 'manor', 'roach', 'board']",2127,4880,7007
+9,"['crane', 'sting', 'fight', 'paint', 'bloom', 'audio', 'draft', 'whine']",6214,5533,11747
+9,"['crane', 'sound', 'blink', 'chair', 'tales', 'foggy', 'power', 'rates']",6285,3847,10132
+5,"['crane', 'blame', 'shale', 'stale']",2126,3162,5288
+9,"['raise', 'cloud', 'soare', 'ought', 'funky', 'cable', 'which', 'guide']",6395,9311,15706
+5,"['crane', 'spoil', 'fluid', 'folio']",3396,2796,6192
+9,"['crane', 'cants', 'group', 'tales', 'logic', 'whale', 'audio', 'smart']",6235,1686,7921
+9,"['crane', 'solid', 'whirs', 'smile', 'blank', 'focus', 'grass', 'light']",6231,2053,8284
+9,"['crane', 'reign', 'trend', 'stern', 'group', 'sheer', 'smart', 'flame']",6212,9571,15783
+3,"['began', 'train']",2434,1281,3715
+5,"['crane', 'glory', 'rowdy', 'wordy']",2127,4918,7045
+4,"['crane', 'strip', 'proof']",1465,2520,3985

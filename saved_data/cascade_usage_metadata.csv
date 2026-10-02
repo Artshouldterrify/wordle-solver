@@ -1,0 +1,51 @@
+guess_count,guess_list,input_tokens,output_tokens,total_tokens
+1,[],0,0,0
+6,"['crane', 'spare', 'flare', 'blare', 'glare']",13541,1337,14878
+7,"['crane', 'plate', 'ladle', 'salve', 'halve', 'valve']",22351,2861,25212
+4,"['crane', 'spine', 'opine']",7148,297,7445
+6,"['slate', 'blend', 'plier', 'gluer', 'ulcer']",22777,749,23526
+5,"['crane', 'sword', 'giddy', 'blurt']",22638,5965,28603
+5,"['apple', 'brass', 'candy', 'tacit']",11552,494,12046
+5,"['crane', 'colon', 'cynic', 'cinch']",12336,418,12754
+3,"['apple', 'agile']",2558,108,2666
+5,"['crane', 'rands', 'narky', 'baron']",16322,419,16741
+6,"['apple', 'agile', 'ankle', 'amole', 'amble']",23816,269,24085
+5,"['crane', 'blush', 'mould', 'would']",15592,153,15745
+5,"['apple', 'baker', 'knead', 'steak']",8400,3267,11667
+4,"['crane', 'glory', 'sorry']",5243,825,6068
+5,"['raise', 'razor', 'radon', 'rayon']",13962,607,14569
+4,"['crane', 'river', 'riper']",8058,99,8157
+4,"['stone', 'tansy', 'angst']",50344,86,50430
+7,"['apple', 'tiger', 'retro', 'evert', 'stern', 'exert']",27197,437,27634
+2,['apple'],854,63,917
+7,"['apple', 'tough', 'quoin', 'furor', 'burro', 'juror']",19599,724,20323
+4,"['stone', 'tread', 'eclat']",7448,553,8001
+9,"['crane', 'blush', 'livid', 'loopy', 'loped', 'lolly', 'loggy', 'lofty']",121236,670,121906
+4,"['crane', 'spurn', 'bourn']",6392,84,6476
+3,"['slate', 'grant']",3572,37,3609
+5,"['raise', 'camps', 'samba', 'saucy']",15243,316,15559
+8,"['apple', 'cigar', 'atman', 'anted', 'tanks', 'jaunt', 'haunt']",30645,20339,50984
+4,"['slate', 'crash', 'brash']",10612,1546,12158
+5,"['spare', 'spurn', 'pours', 'usurp']",12399,33226,45625
+6,"['crane', 'flank', 'plant', 'slang', 'bland']",10898,3020,13918
+4,"['apple', 'aloud', 'afoul']",5785,88,5873
+7,"['apple', 'silly', 'chili', 'guilt', 'quilt', 'built']",33394,316,33710
+7,"['crane', 'tiger', 'sherd', 'merry', 'ferry', 'berry']",23714,244,23958
+7,"['crane', 'tuned', 'woken', 'seven', 'liven', 'given']",37804,124,37928
+7,"['raise', 'pride', 'crime', 'brine', 'trite', 'write']",26048,5577,31625
+5,"['crane', 'flown', 'nooks', 'snoop']",12465,538,13003
+6,"['apple', 'broke', 'deeds', 'sheen', 'sheet']",30906,1038,31944
+7,"['apple', 'blink', 'solid', 'limit', 'civil', 'vigil']",28208,104,28312
+6,"['apple', 'trace', 'brake', 'frame', 'grave']",14163,5130,19293
+5,"['crane', 'brush', 'frust', 'truss']",12400,2179,14579
+3,"['crane', 'optic']",5991,781,6772
+6,"['apple', 'pride', 'elope', 'stope', 'coupe']",70718,6259,76977
+6,"['arise', 'blink', 'quipu', 'whiff', 'thigh']",46679,1063,47742
+6,"['crane', 'blush', 'jumpy', 'muggy', 'muddy']",14908,992,15900
+6,"['apple', 'altar', 'blain', 'clash', 'flack']",54387,1200,55587
+4,"['crate', 'spike', 'pique']",6637,72,6709
+5,"['crane', 'rings', 'shorn', 'sworn']",12956,220,13176
+5,"['crane', 'banco', 'manic', 'panic']",9517,305,9822
+4,"['raise', 'candy', 'yacht']",8427,69,8496
+4,"['apple', 'smoke', 'trine']",7252,1499,8751
+1,[],0,0,0
